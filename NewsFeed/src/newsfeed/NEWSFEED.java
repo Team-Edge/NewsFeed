@@ -1,5 +1,13 @@
 package newsfeed;
 
-public class NEWSFEED {
+import com.sun.syndication.io.SyndFeedInput;
 
+
+public class NEWSFEED {
+	
+	public void justToSeeIfRomeWorks()
+	{
+		SyndFeedInput input = new SyndFeedInput();
+	}
+	
 }
