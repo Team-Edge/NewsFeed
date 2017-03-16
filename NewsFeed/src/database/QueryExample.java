@@ -14,7 +14,7 @@ public class QueryExample extends SqlQuery {
 
 
 	public QueryExample(DBconnection database) throws SQLException {
-		super(database, "SELECT * FROM SourceFeed");
+		super(database, "SELECT * FROM SourceFeed;");
 	}
 	
 	//The resultset has different columns for different queries, so this function depends on the query it works with. 
