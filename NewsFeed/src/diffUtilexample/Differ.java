@@ -33,8 +33,8 @@ public class Differ {
 		for(Delta delta : patch.getDeltas())
 		{
 			System.out.println(delta);
-			List<String> list = (List<String>) delta.getRevised().getLines();
-			delta.getRevised().getLines();
+			List<String> revised = (List<String>) delta.getRevised().getLines();
+			List<String> original = (List<String>) delta.getOriginal().getLines();
 		}
 		System.out.println(patch);
 		
