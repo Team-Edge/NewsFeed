@@ -1,8 +1,11 @@
 package feedanalyser;
 
+import java.io.IOException;
+import java.net.MalformedURLException;
 import java.net.URL;
 //import java.sql.Date;
 import java.util.Date;
+import java.util.LinkedList;
 import java.util.List;
 
 import com.sun.syndication.feed.module.DCModule;
@@ -10,6 +13,7 @@ import com.sun.syndication.feed.module.DCModuleImpl;
 import com.sun.syndication.feed.synd.SyndEntry;
 import com.sun.syndication.feed.synd.SyndEntryImpl;
 import com.sun.syndication.feed.synd.SyndFeed;
+import com.sun.syndication.io.FeedException;
 import com.sun.syndication.io.SyndFeedInput;
 import com.sun.syndication.io.XmlReader;
 
@@ -48,6 +52,20 @@ public class FeedReader {
             ex.printStackTrace();
             System.out.println("ERROR: "+ex.getMessage());
         }
+    }
+    
+    public static List<Feed> read(String url) throws IllegalArgumentException, FeedException, IOException
+    {
+        URL feedUrl = new URL(url);
+        SyndFeedInput input = new SyndFeedInput();
+        SyndFeed feed = input.build(new XmlReader(feedUrl));
+        @SuppressWarnings("unchecked")
+		List<SyndEntry> entries = feed.getEntries();
+        List<Feed> ret = new LinkedList<Feed>();
+        for(SyndEntry entry : entries) {
+        	ret.add(new Feed(entry));
+        }
+        return ret;
     }
 
 }

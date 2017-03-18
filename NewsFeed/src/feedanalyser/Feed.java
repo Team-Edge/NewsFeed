@@ -1,6 +1,7 @@
 package feedanalyser;
 
 import java.util.Date;
+import com.sun.syndication.feed.synd.SyndEntry;
 
 public class Feed {
 
@@ -19,4 +20,49 @@ public class Feed {
 		this.text = text;
 		this.URL = URL;
 	}
+	
+	public Feed(SyndEntry entry)
+	{
+		this.title = entry.getTitle();
+		this.description = entry.getDescription().getValue();
+		if(entry.getUpdatedDate() != null) 
+			this.pubDate = entry.getUpdatedDate();
+		else
+			this.pubDate = new java.util.Date();
+		this.text = null;
+		this.URL = entry.getLink();
+	}
+	
+	public void enlarge()
+	{
+		this.text = FeedEnlarger.getContent(this.URL);
+	}
+
+	public String getText() {
+		return text;
+	}
+
+	public String getTitle() {
+		return title;
+	}
+
+	public String getDescription() {
+		return description;
+	}
+
+	public Date getPubDate() {
+		return pubDate;
+	}
+
+	public String getURL() {
+		return URL;
+	}
+
+	@Override
+	public String toString() {
+		return "Feed [URL=" + URL + "]";
+	}
+	
+	
+	
 }
