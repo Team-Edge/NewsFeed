@@ -6,10 +6,10 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
+import java.io.InputStreamReader;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
 
 import difflib.Patch;
 import difflib.Delta.TYPE;
@@ -49,9 +49,9 @@ public class CacheUpdate {
 		cacheIn.close();
 		
 		URL feedAddress = new URL(feedUrl);
-		Scanner feedIn = new Scanner(feedAddress.openStream());
+		BufferedReader feedIn = new BufferedReader(new InputStreamReader(feedAddress.openStream()));
 		List<String> feedLines = new ArrayList<String>();
-		while((line = feedIn.nextLine()) != null )
+		while((line = feedIn.readLine()) != null )
 			feedLines.add(line);
 		feedIn.close();
 		
@@ -59,13 +59,14 @@ public class CacheUpdate {
 		
 		for(Delta delta : this.patch.getDeltas())
 		{
-			hasDeltas = true;
+			this.hasDeltas = true;
 			TYPE type = delta.getType();
 			if(type == TYPE.INSERT) this.hasInsertDeltas = true;
 			if(type == TYPE.DELETE) this.hasDeleteDeltas = true;
 		}
 	}
 	
+	@SuppressWarnings("unchecked")
 	public void applyToCache() throws Exception
 	{
 		String line;
@@ -76,7 +77,7 @@ public class CacheUpdate {
 			cacheLines.add(line);
 		cacheIn.close();
 		
-		this.patch.applyTo(cacheLines);
+		cacheLines = (List<String>)this.patch.applyTo(cacheLines);
 
 		BufferedWriter cacheOut = new BufferedWriter(new FileWriter(cacheFile));
 		for(String toWrite : cacheLines)
@@ -88,15 +89,15 @@ public class CacheUpdate {
 	}
 	
 	public boolean hasInsertions() {
-		return hasInsertDeltas;
+		return this.hasInsertDeltas;
 	}
 
 	public boolean hasDeletions() {
-		return hasDeleteDeltas;
+		return this.hasDeleteDeltas;
 	}
 
 	public boolean hasChanges() {
-		return hasDeltas;
+		return this.hasDeltas;
 	}
 		
 }

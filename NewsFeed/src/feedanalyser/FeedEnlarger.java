@@ -12,14 +12,7 @@ import org.apache.commons.lang3.StringEscapeUtils;
  *
  */
 public class FeedEnlarger {
-	
-	public static void main(String[] args)
-	{
-		String url = "http://www.tagesschau.de/ausland/secretservice-103.html";
-		System.out.println(url);
-		System.out.println(getContent(url));
-	}
-	
+		
 	public static String getContent(String url)
 	{
 		String ret = requestFiveFilters(url);

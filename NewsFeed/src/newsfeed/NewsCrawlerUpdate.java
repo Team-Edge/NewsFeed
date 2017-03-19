@@ -11,10 +11,16 @@ import feedanalyser.FeedReader;
 public class NewsCrawlerUpdate {
 	private String feedUrl;
 	private String feedCacheFile;
+	private List<Feed> newEntries;
+	private List<Feed> oldEntries;
 	
 	
-	public NewsCrawlerUpdate()
+	public NewsCrawlerUpdate(String feedUrl, String feedCacheFile)
 	{
+		this.feedUrl = feedUrl;
+		this.feedCacheFile = feedCacheFile;
+		this.oldEntries = new LinkedList<Feed>();
+		this.newEntries = new LinkedList<Feed>();
 		
 	}
 	
@@ -33,38 +39,44 @@ public class NewsCrawlerUpdate {
 			List<Feed> currentFeedList = FeedReader.read(cacheUrl);
 			
 			//if old entries were deleted
+			this.oldEntries.clear();
 			if(changeChecker.hasDeletions()) {
-				List<Feed> oldEntries = new LinkedList<Feed>();
-				Feed oldestNew = currentFeedList.get(currentFeedList.size()-1);
-				for(int i = cachedFeedList.size()-1; cachedFeedList.get(i).getURL() == oldestNew.getURL(); i--) {
-					oldEntries.add(cachedFeedList.get(i));
+				try {
+					Feed oldestNew = currentFeedList.get(currentFeedList.size()-1);
+					for(int i = cachedFeedList.size()-1; cachedFeedList.get(i).getURL() != oldestNew.getURL(); i--) {
+						this.oldEntries.add(cachedFeedList.get(i));
+					}
+				} catch (IndexOutOfBoundsException e) {
+					this.oldEntries.clear();
+					this.oldEntries.addAll(cachedFeedList);
 				}
-				
-				//TODO: do something with old Entries. Remove from DB? Move to separate Archive Table?
 			}
 			
 			//if new entries were added
+			this.newEntries.clear();
 			if(changeChecker.hasInsertions()) {
-				List<Feed> newEntries = new LinkedList<Feed>();
-				Feed newestOld = cachedFeedList.get(0);
-				for(int i = 0; currentFeedList.get(i).getURL() == newestOld.getURL(); i++) {
-					currentFeedList.get(i).enlarge();
-					newEntries.add(currentFeedList.get(i));
+				try {
+					Feed newestOld = cachedFeedList.get(0); 
+					for(int i = 0; currentFeedList.get(i).getURL() != newestOld.getURL(); i++) {
+						this.newEntries.add(currentFeedList.get(i));
+					}
+				} catch (IndexOutOfBoundsException e) {
+					this.newEntries.clear();
+					this.newEntries.addAll(currentFeedList);
 				}
-				
-				//TODO: add Entries to DB
-				//		filtering
-				//		matching with CustomFeeds
 			}
-
-			
-
-			
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}
-		
+		}	
+	}
+
+	public List<Feed> getNewEntries() {
+		return newEntries;
+	}
+
+	public List<Feed> getOldEntries() {
+		return oldEntries;
 	}
 	
 }
