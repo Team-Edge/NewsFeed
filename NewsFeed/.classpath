@@ -9,5 +9,9 @@
 	<classpathentry kind="lib" path="CustomLibs/commons-lang3-3.5.jar"/>
 	<classpathentry kind="lib" path="CustomLibs/commons-lang3-3.5-javadoc.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="CustomLibs/lucene-analyzers-common-6.4.2.jar"/>
+	<classpathentry kind="lib" path="CustomLibs/lucene-core-6.4.2.jar"/>
+	<classpathentry kind="lib" path="CustomLibs/lucene-demo-6.4.2.jar"/>
+	<classpathentry kind="lib" path="CustomLibs/lucene-queryparser-6.4.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
