@@ -4,7 +4,7 @@ public class Program {
 
 	public static void main(String[] args)
 	{
-		NewsCrawlerUpdate upd = new NewsCrawlerUpdate("http://www.tagesschau.de/xml/rss2", "C:/Users/Florian/Documents/cacheTagesschau.txt");
+		NewsCrawlerUpdate upd = new NewsCrawlerUpdate("http://www.tagesschau.de/xml/rss2", "./cacheTagesschau.txt");
 		upd.doWork();
 		System.out.println("---");
 		for(feedanalyser.Feed i : upd.getOldEntries())
