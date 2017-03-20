@@ -1,7 +1,10 @@
 package feedanalyser;
 
+import java.io.Closeable;
 import java.io.IOException;
+import java.util.List;
 
+import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
@@ -11,22 +14,70 @@ import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
+import org.apache.lucene.queryparser.classic.ParseException;
 import org.apache.lucene.queryparser.classic.QueryParser;
+import org.apache.lucene.search.BooleanClause;
+import org.apache.lucene.search.BooleanQuery;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopScoreDocCollector;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
-import org.apache.lucene.util.Version;
 
 
 
-public class TextSearch {
+public class TextSearch implements Closeable {
+	private Analyzer analyzer;
+	private Directory index;
 
-	public TextSearch() {
-		// TODO Auto-generated constructor stub
+
+	public TextSearch(Feed article) throws IOException {
+		this.analyzer = new StandardAnalyzer();
+		this.index = new RAMDirectory();
+		new IndexWriterConfig(analyzer);
+		IndexWriter w = new IndexWriter(index, new IndexWriterConfig(analyzer));
+		Document doc = new Document();
+		doc.add(new TextField("title", article.getTitle(), Field.Store.YES));
+		doc.add(new TextField("description", article.getDescription(), Field.Store.YES));
+		doc.add(new TextField("text", article.getText(), Field.Store.YES));
+		w.addDocument(doc);
+		w.close();
 	}
+	
+	public boolean query(List<String> keywords, int searchIndex) throws ParseException, IOException
+	{
+		String searchField;
+		switch(searchIndex)
+		{
+		case 1: searchField = "description"; break;
+		case 2: searchField = "text"; break;
+		default: searchField = "title"; break;
+		}
+		
+		BooleanQuery.Builder queryBuilder = new BooleanQuery.Builder();
+		for(String word : keywords)
+		{
+			Query subquery = new QueryParser(searchField, this.analyzer).parse(word);
+			queryBuilder.add(subquery, BooleanClause.Occur.FILTER);
+		}
+		Query query = queryBuilder.build();
+		
+	    IndexReader reader = DirectoryReader.open(index);
+	    IndexSearcher searcher = new IndexSearcher(reader);
+	    TopScoreDocCollector collector = TopScoreDocCollector.create(1);
+	    searcher.search(query, collector);
+	    int numOfHits = collector.getTotalHits();
+	    reader.close();
+	    
+	    if(numOfHits > 0) {
+	    	return true;
+	    } else {
+	    	return false;
+	    }
+	}
+	
+	
 
 	public static void main(String[] args)
 	{
@@ -70,7 +121,7 @@ public class TextSearch {
 		    {
 		      int docId = hits[i].doc;
 		      Document d = searcher.doc(docId);
-		      System.out.println((i + 1) + ". " + d.get("isbn") + "\\t" + d.get("title"));
+		      System.out.println((i + 1) + ". " + d.get("isbn") + "\t" + d.get("title"));
 		    }
 		    
 		    // reader can only be closed when there is no need to access the documents any more
@@ -91,6 +142,12 @@ public class TextSearch {
 		  w.addDocument(doc);
 	}
 
-	
+
+
+	@Override
+	public void close() throws IOException {
+		this.index.close();
+		this.analyzer.close();	
+	}
 	
 }
