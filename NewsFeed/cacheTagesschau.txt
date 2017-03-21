@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="/resources/xsl/rss2.jsp" type="text/xsl"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>tagesschau.de - Die Nachrichten der ARD</title>
+<link>http://www.tagesschau.de</link>
+<description>tagesschau.de</description>
+<language>de</language>
+<copyright>ARD-aktuell / tagesschau.de</copyright>
+<lastBuildDate>Tue, 21 Mar 2017 21:47:17 +0100</lastBuildDate>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<ttl>10</ttl>
+<item>
+<title>Rücktritt von Le Roux: Kurzes Gastspiel in der Regierung</title>
+<link>http://www.tagesschau.de/ausland/frankreich-ruecktritt-103.html</link>
+<pubDate>Tue, 21 Mar 2017 21:17:06 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/frankreich-ruecktritt-103.html"><img src="http://www.tagesschau.de/le-roux-105~_v-mittel16x9.jpg" alt="Bruno Le Roux | Bildquelle: AFP"/></a>
+<br/><br/>
+Nachdem Vorermittlungen wegen Scheinbeschäftigung gegen ihn bekannt wurden, ist Innenminister Le Roux zurückgetreten. Die Affäre trifft das Regierungslager zur Unzeit: In wenigen Wochen wird in Frankreich gewählt. Von Marcel Wagner.  [<a href="http://www.tagesschau.de/ausland/frankreich-ruecktritt-103.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/multimedia/audio/audio-40861.html">Audio: Schnelles Ende mit Schrecken: Frankreichs Innenminister Le Roux zurückgetreten</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/frankreich_wahl/index.html">Blog: Frankreich hat die Wahl</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/frankreich_wahl/fillon-ermittlungsverfahren-eingeleitet-101.html">Untersuchungsrichter leiten Verfahren gegen Fillon ein</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/frankreich-ruecktritt-103.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Nachdem Vorermittlungen wegen Scheinbeschäftigung gegen ihn bekannt wurden, ist Innenminister Le Roux zurückgetreten. Die Affäre trifft das Regierungslager zur Unzeit: In wenigen Wochen wird in Frankreich gewählt. Von Marcel Wagner. </description>
+<guid>http://www.tagesschau.de/ausland/frankreich-ruecktritt-103.html</guid>
+</item>
+<item>
+<title>Bundesregierung erlaubt weniger Waffenexporte in Türkei</title>
+<link>http://www.tagesschau.de/ausland/tuerkei-exporte-waffen-101.html</link>
+<pubDate>Tue, 21 Mar 2017 21:01:07 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/tuerkei-exporte-waffen-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/waffen-ruestung-101~_v-mittel16x9.jpg" alt="Mehrere Patronen der 9 mm-Munition sind aufgereiht. | Bildquelle: dpa"/></a>
+<br/><br/>
+Die schlechter werdende Menschenrechtslage in der Türkei nach dem Putschversuch 2016 zieht auch Konsequenzen für die Rüstungspolitik der Bundesregierung nach sich: Laut einem Bericht der "SZ" werden deutlich mehr Waffenlieferungen für den NATO-Partner abgelehnt. [<a href="http://www.tagesschau.de/ausland/tuerkei-exporte-waffen-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/inland/ruestungsexport-kleinwaffen-101.html">Rüstungsexporte: Weniger Kleinwaffen, viel mehr Munition</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/tuerkei-saeuberungen-akademiker-101.html">Türkei: Im Land der "Säuberungen", 11.09.2016</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/tuerkei-exporte-waffen-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Die schlechter werdende Menschenrechtslage in der Türkei nach dem Putschversuch 2016 zieht auch Konsequenzen für die Rüstungspolitik der Bundesregierung nach sich: Laut einem Bericht der "SZ" werden deutlich mehr Waffenlieferungen für den NATO-Partner abgelehnt.</description>
+<guid>http://www.tagesschau.de/ausland/tuerkei-exporte-waffen-101.html</guid>
+</item>
+<item>
+<title>Türkei bestellt deutschen Geschäftsträger ein</title>
+<link>http://www.tagesschau.de/ausland/gesandter-tuerkei-101.html</link>
+<pubDate>Tue, 21 Mar 2017 20:07:11 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/gesandter-tuerkei-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/fahnen-101~_v-mittel16x9.jpg" alt="Eine deutsche und eine türkische Fahne wehen im Wind | Bildquelle: dpa"/></a>
+<br/><br/>
+Anlass ist ein Zeitungsinterview des BND-Chefs Kahl: Er hatte gesagt, die Gülen-Bewegung sei weder islamisch-extremistisch noch terroristisch. Die türkische Regierung bestellte als Reaktion den Geschäftsträger der deutschen Botschaft ein. [<a href="http://www.tagesschau.de/ausland/gesandter-tuerkei-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/inland/akp-wahlkampf-deutschland-101.html">Konflikt mit der Türkei: Erste Signale der Entspannung</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/merkel-droht-tuerkei-101.html">Merkel droht Türkei mit Auftrittsverboten</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/gesandter-tuerkei-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Anlass ist ein Zeitungsinterview des BND-Chefs Kahl: Er hatte gesagt, die Gülen-Bewegung sei weder islamisch-extremistisch noch terroristisch. Die türkische Regierung bestellte als Reaktion den Geschäftsträger der deutschen Botschaft ein.</description>
+<guid>http://www.tagesschau.de/ausland/gesandter-tuerkei-101.html</guid>
+</item>
+<item>
+<title>Abhörvorwürfe gegen Obama: Fox News verbannt Rechtsexperten</title>
+<link>http://www.tagesschau.de/ausland/usa-trump-fox-napolitano-101.html</link>
+<pubDate>Tue, 21 Mar 2017 19:59:26 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/usa-trump-fox-napolitano-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/fox-napolitano-101~_v-mittel16x9.jpg" alt="Der ehemalige Richter und Rechtsexperte des Senders Fox News: Andrew Napolitano. | Bildquelle: AP"/></a>
+<br/><br/>
+Er galt als wichtige Informationsquelle für US-Präsident Trump: Der Rechtsexperte des Senders Fox News, Napolitano. Er war es, der im TV das Gerücht ins Rollen brachte, Obama habe Trump abhören lassen. Nun verschwindet der Ex-Richter erst einmal vom Bildschirm. Von M. Ganslmeier. [<a href="http://www.tagesschau.de/ausland/usa-trump-fox-napolitano-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/trump-abhoer-vorwurf-101.html">Keine Beweise für Trumps Abhörvorwürfe, 16.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/multimedia/audio/audio-40857.html">Audio: Fox News schaltet Rechtsexperten ab</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/usa-trump-fox-napolitano-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Er galt als wichtige Informationsquelle für US-Präsident Trump: Der Rechtsexperte des Senders Fox News, Napolitano. Er war es, der im TV das Gerücht ins Rollen brachte, Obama habe Trump abhören lassen. Nun verschwindet der Ex-Richter erst einmal vom Bildschirm. Von M. Ganslmeier.</description>
+<guid>http://www.tagesschau.de/ausland/usa-trump-fox-napolitano-101.html</guid>
+</item>
+<item>
+<title>Göttinger Gefährder können laut Gericht abgeschoben werden</title>
+<link>http://www.ndr.de/nachrichten/niedersachsen/braunschweig_harz_goettingen/Pistorius-will-Gefaehrder-bis-Ostern-abschieben,gefaehrder170.html</link>
+<pubDate>Tue, 21 Mar 2017 19:16:10 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.ndr.de/nachrichten/niedersachsen/braunschweig_harz_goettingen/Pistorius-will-Gefaehrder-bis-Ostern-abschieben,gefaehrder170.html"><img src="http://www.tagesschau.de/multimedia/bilder/gefaehrder-goettingen-101~_v-mittel16x9.jpg" alt="Polizeiautos stehen während einer Razzia unter Islamisten in Göttingen auf der Straße  | Bildquelle: dpa"/></a>
+<br/><br/>
+Zwei in Göttingen unter Terrorverdacht festgenommene islamistische Gefährder können aus Sicht des Bundesverwaltungsgerichts Leipzig abgeschoben werden. Wenn es nach Niedersachsens Innenminister geht, wird das noch vor Ostern geschehen. [<a href="http://www.ndr.de/nachrichten/niedersachsen/braunschweig_harz_goettingen/Pistorius-will-Gefaehrder-bis-Ostern-abschieben,gefaehrder170.html">ndr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/inland/gefaehrder-haft-bayern-101.html">Bayern will offenbar Gefährder unbefristet einsperren</a>
+</li>
+<li>
+<a href="https://br24.de/nachrichten/Deutschland%20%26%20Welt/keine-unbegrenzte-haft-fuer-gefaehrder">Bayern: Doch keine unbegrenzte Haft für Gefährder</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/inland/islamisten-159.html">BKA nimmt islamistische Gefährder verschärft ins Visier</a>
+</li>
+</ul>
+</p>
+]]>
+</content:encoded>
+<description>Zwei in Göttingen unter Terrorverdacht festgenommene islamistische Gefährder können aus Sicht des Bundesverwaltungsgerichts Leipzig abgeschoben werden. Wenn es nach Niedersachsens Innenminister geht, wird das noch vor Ostern geschehen.</description>
+<guid>http://www.ndr.de/nachrichten/niedersachsen/braunschweig_harz_goettingen/Pistorius-will-Gefaehrder-bis-Ostern-abschieben,gefaehrder170.html</guid>
+</item>
+<item>
+<title>Frankreichs Innenminister Le Roux erklärt Rücktritt</title>
+<link>http://www.tagesschau.de/ausland/frankreich-ruecktritt-101.html</link>
+<pubDate>Tue, 21 Mar 2017 20:15:30 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/frankreich-ruecktritt-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/le-roux-103~_v-mittel16x9.jpg" alt="Bruno Le Roux | Bildquelle: AFP"/></a>
+<br/><br/>
+Nach Enthüllungen über die frühere Beschäftigung seiner Töchter im Parlament tritt der französische Innenminister Bruno Le Roux zurück. Er habe bei Staatschef Hollande seinen Rücktritt eingereicht. Sein Nachfolger steht bereits fest. [<a href="http://www.tagesschau.de/ausland/frankreich-ruecktritt-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/frankreich_wahl/index.html">Blog: Frankreich hat die Wahl</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/frankreich_wahl/fillon-ermittlungsverfahren-eingeleitet-101.html">Verfahren: Fillon unter Druck, 15.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/frankreich-wahlblog-analyse-101.html">Wo steht Frankreich vor der Wahl?</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/fillon-konservative-101.html">Konservative zwischen Kampf und Krise, 05.03.2017</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/frankreich-ruecktritt-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Nach Enthüllungen über die frühere Beschäftigung seiner Töchter im Parlament tritt der französische Innenminister Bruno Le Roux zurück. Er habe bei Staatschef Hollande seinen Rücktritt eingereicht. Sein Nachfolger steht bereits fest.</description>
+<guid>http://www.tagesschau.de/ausland/frankreich-ruecktritt-101.html</guid>
+</item>
+<item>
+<title>EU-Finanzminister: Ermäßigte Umsatzsteuer auf ePapers</title>
+<link>http://www.tagesschau.de/wirtschaft/literatur-buecher-ebooks-steuer-101.html</link>
+<pubDate>Tue, 21 Mar 2017 18:13:13 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/wirtschaft/literatur-buecher-ebooks-steuer-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/ebook-buecher-epaper-101~_v-mittel16x9.jpg" alt="Auf einem eBook-Reader wird eine Seite eines Buches angezeigt | Bildquelle: dpa"/></a>
+<br/><br/>
+Sieben statt 19 Prozent - die ermäßigte Mehrwertsteuer soll nach Willen der EU-Finanzminister künftig auch für elektronische Bücher, Zeitungen und Zeitschriften gelten. Bislang wird sie auf die gedruckten Varianten erhoben. Wann der neue Steuersatz kommt, ist aber noch offen. [<a href="http://www.tagesschau.de/wirtschaft/literatur-buecher-ebooks-steuer-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/wirtschaft/ebooks-103.html">Fester Ladenpreis nun auch für E-Books, 28.04.2016</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/wirtschaft/literatur-buecher-ebooks-steuer-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Sieben statt 19 Prozent - die ermäßigte Mehrwertsteuer soll nach Willen der EU-Finanzminister künftig auch für elektronische Bücher, Zeitungen und Zeitschriften gelten. Bislang wird sie auf die gedruckten Varianten erhoben. Wann der neue Steuersatz kommt, ist aber noch offen.</description>
+<guid>http://www.tagesschau.de/wirtschaft/literatur-buecher-ebooks-steuer-101.html</guid>
+</item>
+<item>
+<title>SPD signalisiert Zustimmung zur umstrittenen Pkw-Maut</title>
+<link>http://www.tagesschau.de/inland/pkw-maut-175.html</link>
+<pubDate>Tue, 21 Mar 2017 17:45:35 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+Ende eines jahrelangen Streits: Die SPD wird am Freitag voraussichtlich dem Gesetzespaket zur Pkw-Maut zustimmen - so war es im Koalitionsvertrag vereinbart worden. Das Paket ist ein Kompromiss, auf den sich Verkehrsminister Dobrindt mit der EU-Kommission geeinigt hatte. [<a href="http://www.tagesschau.de/inland/pkw-maut-175.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/inland/pkw-maut-kabinett-105.html">Dobrindt zur Pkw-Maut: "Wer nutzt, der zahlt", 25.01.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/inland/pkw-maut-kabinett-103.html">Überarbeitete Pkw-Maut ist vom Kabinett beschlossen, 25.01.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/kommentar/maut-279.html">Kommentar: Pkw-Maut - ein echter Rohrkrepierer, 17.02.2017</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/inland/pkw-maut-175.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Ende eines jahrelangen Streits: Die SPD wird am Freitag voraussichtlich dem Gesetzespaket zur Pkw-Maut zustimmen - so war es im Koalitionsvertrag vereinbart worden. Das Paket ist ein Kompromiss, auf den sich Verkehrsminister Dobrindt mit der EU-Kommission geeinigt hatte.</description>
+<guid>http://www.tagesschau.de/inland/pkw-maut-175.html</guid>
+</item>
+<item>
+<title>Verschärfte US-Handgepäckregeln: Großbritannien zieht nach</title>
+<link>http://www.tagesschau.de/ausland/elektrogeraet-verbot-105.html</link>
+<pubDate>Tue, 21 Mar 2017 17:26:40 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/elektrogeraet-verbot-105.html"><img src="http://www.tagesschau.de/multimedia/bilder/handgepaeck-101~_v-mittel16x9.jpg" alt="Ein Handgepäckstück am Flughafen in Düsseldorf | Bildquelle: dpa"/></a>
+<br/><br/>
+Laptops im Handgepäck: Auf bestimmten Flügen in die USA ist das bald verboten - und Großbritannien zieht nach. Die Türkei, deren Fluglinie Turkish Airlines betroffen ist, findet das Verbot gar nicht gut. Sie verlangt eine Rücknahme - oder Nachbesserungen. [<a href="http://www.tagesschau.de/ausland/elektrogeraet-verbot-105.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/usa-einreiseverbot-trump-103.html">Berufung gegen Stopp des neuen US-Einreiseverbots, 16.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/einreisestopp-105.html">Trump unterzeichnet neues Einreiseverbot, 06.03.2017</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/elektrogeraet-verbot-105.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Laptops im Handgepäck: Auf bestimmten Flügen in die USA ist das bald verboten - und Großbritannien zieht nach. Die Türkei, deren Fluglinie Turkish Airlines betroffen ist, findet das Verbot gar nicht gut. Sie verlangt eine Rücknahme - oder Nachbesserungen.</description>
+<guid>http://www.tagesschau.de/ausland/elektrogeraet-verbot-105.html</guid>
+</item>
+<item>
+<title>EU-Japan-Treffen: Das Hohelied des Freihandels</title>
+<link>http://www.tagesschau.de/wirtschaft/japan-eu-101.html</link>
+<pubDate>Tue, 21 Mar 2017 17:00:08 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/wirtschaft/japan-eu-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/eu-japan-101~_v-mittel16x9.jpg" alt="Japans Ministerpräsident Abe mit EU-Ratspräsident Donald Tusk und EU-Kommissionschef Jean-Claude Juncker | Bildquelle: dpa"/></a>
+<br/><br/>
+Beim Treffen zwischen EU-Spitzen und dem japanischen Ministerpräsidenten Abe dominierten gegenseitige Freundlichkeiten. Nicht müde wurden die Teilnehmer zu betonen, wie wichtig Freihandel sei - gerichtet war das auch an die Adresse der USA. [<a href="http://www.tagesschau.de/wirtschaft/japan-eu-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/abe-117.html">Premier Abe wirbt in Brüssel für Freihandelsabkommen</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/wirtschaft/cebit-129.html">CeBIT: Merkel und Abe plädieren für Freihandel</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/japan-technologie-weltspiegel-101.html">Weltspiegel: Japan - von wegen Hightech</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/wirtschaft/japan-eu-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Beim Treffen zwischen EU-Spitzen und dem japanischen Ministerpräsidenten Abe dominierten gegenseitige Freundlichkeiten. Nicht müde wurden die Teilnehmer zu betonen, wie wichtig Freihandel sei - gerichtet war das auch an die Adresse der USA.</description>
+<guid>http://www.tagesschau.de/wirtschaft/japan-eu-101.html</guid>
+</item>
+<item>
+<title>Neujahrsfest Newroz: Zehntausende feiern gegen Erdogan</title>
+<link>http://www.tagesschau.de/ausland/kurden-demonstration-103.html</link>
+<pubDate>Tue, 21 Mar 2017 16:39:53 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/kurden-demonstration-103.html"><img src="http://www.tagesschau.de/multimedia/bilder/sendungsbild-249661~_v-mittel16x9.jpg" alt="Sendungsbild"/></a>
+<br/><br/>
+"Nein!": Unter diesem Motto steht im türkischen Diyarbakir das diesjährige kurdische Neujahrsfest Newroz. Der Ausruf richtet sich gegen Erdogans Politik. Zehntausende nahmen teil. "Wir wollen keine Sklaven sein", sagt eine von ihnen. Von Oliver Mayer-Rüth. [<a href="http://www.tagesschau.de/ausland/kurden-demonstration-103.html">video</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/inland/akp-wahlkampf-deutschland-101.html">Konflikt mit der Türkei: Erste Signale der Entspannung</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/tuerkei-gespraeche-107.html">EU-Kommissar Hahn: "Türkei-Beitritt immer unrealistischer"</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/kurden-demonstration-103.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>"Nein!": Unter diesem Motto steht im türkischen Diyarbakir das diesjährige kurdische Neujahrsfest Newroz. Der Ausruf richtet sich gegen Erdogans Politik. Zehntausende nahmen teil. "Wir wollen keine Sklaven sein", sagt eine von ihnen. Von Oliver Mayer-Rüth.</description>
+<guid>http://www.tagesschau.de/ausland/kurden-demonstration-103.html</guid>
+</item>
+<item>
+<title>Konflikt mit der Türkei: Erste Signale der Entspannung</title>
+<link>http://www.tagesschau.de/inland/akp-wahlkampf-deutschland-101.html</link>
+<pubDate>Tue, 21 Mar 2017 17:01:09 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/inland/akp-wahlkampf-deutschland-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/akp-105~_v-mittel16x9.jpg" alt="Anhänger des türkischen Staatspräsidenten Erdogan halten in Köln (Nordrhein-Westfalen) Fahnen. | Bildquelle: dpa"/></a>
+<br/><br/>
+Im Streit um Wahlkampfauftritte türkischer Politiker gibt es erstmals ein Zeichen der Entspannung von türkischer Seite. AKP-nahe Organisationen in Deutschland kündigten an, vorerst keine Auftritte mehr zu organisieren. Ende des türkischen Wahlkampfs in Deutschland? Unklar. [<a href="http://www.tagesschau.de/inland/akp-wahlkampf-deutschland-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/merkel-droht-tuerkei-101.html">Merkel droht Türkei mit Auftrittsverboten, 20.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/multimedia/video/video-271147.html">Video: Michael Schramm, ARD Istanbul, mit Informationen</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/multimedia/audio/audio-40853.html">Audio: Türkei Wahlkampf in Deutschland</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/inland/akp-wahlkampf-deutschland-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Im Streit um Wahlkampfauftritte türkischer Politiker gibt es erstmals ein Zeichen der Entspannung von türkischer Seite. AKP-nahe Organisationen in Deutschland kündigten an, vorerst keine Auftritte mehr zu organisieren. Ende des türkischen Wahlkampfs in Deutschland? Unklar.</description>
+<guid>http://www.tagesschau.de/inland/akp-wahlkampf-deutschland-101.html</guid>
+</item>
+<item>
+<title>Dossier: Alles Wissenswerte zur Saarland-Wahl</title>
+<link>http://www.sr.de/sr/home/nachrichten/dossiers/wahlen/landtagswahl_2017/index.html</link>
+<pubDate>Tue, 21 Mar 2017 16:03:28 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.sr.de/sr/home/nachrichten/dossiers/wahlen/landtagswahl_2017/index.html"><img src="http://www.tagesschau.de/multimedia/bilder/saarland-115~_v-mittel16x9.jpg" alt="Wahl im Saarland"/></a>
+<br/><br/>
+Welche Spitzenkandidaten treten im Saarland an? Welche Visionen haben ihre Parteien? Wer liegt in den aktuellen Umfragen vorne? Alle wichtigen und aktuellen Informationen zur Landtagswahl. [<a href="http://www.sr.de/sr/home/nachrichten/dossiers/wahlen/landtagswahl_2017/index.html">sr</a>]
+</p>
+]]>
+</content:encoded>
+<description>Welche Spitzenkandidaten treten im Saarland an? Welche Visionen haben ihre Parteien? Wer liegt in den aktuellen Umfragen vorne? Alle wichtigen und aktuellen Informationen zur Landtagswahl.</description>
+<guid>http://www.sr.de/sr/home/nachrichten/dossiers/wahlen/landtagswahl_2017/index.html</guid>
+</item>
+<item>
+<title>''Dilli, Dilli'': Tuk-Tuk mit Internetanschluss</title>
+<link>http://www.tagesschau.de/videoblog/dilli_dilli/tuktuk-101.html</link>
+<pubDate>Tue, 21 Mar 2017 15:37:40 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/videoblog/dilli_dilli/tuktuk-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/sendungsbild-249567~_v-mittel16x9.jpg" alt="Sendungsbild"/></a>
+<br/><br/>
+Wer Urlaub in Indien macht, der sollte sich in einem landestypischen Tuk-Tuk durch die Straßen kutschieren lassen. Auf eine Klimanalage muss man dabei allerdings verzichten, nicht jedoch auf Internet. Denn das gibt es jetzt auch in den Autorikschas. Von Peter Gerhardt. [<a href="http://www.tagesschau.de/videoblog/dilli_dilli/tuktuk-101.html">video</a>]
+</p>
+<p><a href="http://www.tagesschau.de/videoblog/dilli_dilli/tuktuk-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Wer Urlaub in Indien macht, der sollte sich in einem landestypischen Tuk-Tuk durch die Straßen kutschieren lassen. Auf eine Klimanalage muss man dabei allerdings verzichten, nicht jedoch auf Internet. Denn das gibt es jetzt auch in den Autorikschas. Von Peter Gerhardt.</description>
+<guid>http://www.tagesschau.de/videoblog/dilli_dilli/tuktuk-101.html</guid>
+</item>
+<item>
+<title>Afghanen fliehen zu Zehntausenden vor Gewalt und Terror</title>
+<link>http://www.tagesschau.de/ausland/afghanistan-543.html</link>
+<pubDate>Tue, 21 Mar 2017 15:31:30 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/afghanistan-543.html"><img src="http://www.tagesschau.de/multimedia/bilder/pakistan-afghanistan-103~_v-mittel16x9.jpg" alt="Öffnung der Grenze von Pakistan und Afghanistan | Bildquelle: dpa"/></a>
+<br/><br/>
+Das Jahr ist gerade einmal drei Monate alt - aber schon jetzt sind in dieser Zeit 38.000 Menschen aus ihrer Heimat in Afghanistan geflohen. Wegen der wachsenden Gewalt sei es zunehmend schwierig, die Menschen mit Lebenswichtigem zu versorgen, berichten die UN. [<a href="http://www.tagesschau.de/ausland/afghanistan-543.html">mehr</a>]
+</p>
+<p><a href="http://www.tagesschau.de/ausland/afghanistan-543.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Das Jahr ist gerade einmal drei Monate alt - aber schon jetzt sind in dieser Zeit 38.000 Menschen aus ihrer Heimat in Afghanistan geflohen. Wegen der wachsenden Gewalt sei es zunehmend schwierig, die Menschen mit Lebenswichtigem zu versorgen, berichten die UN.</description>
+<guid>http://www.tagesschau.de/ausland/afghanistan-543.html</guid>
+</item>
+<item>
+<title>Angriff auf Flughafen Orly: Behörden nehmen Männer fest</title>
+<link>http://www.tagesschau.de/ausland/orly-festnahme-101.html</link>
+<pubDate>Tue, 21 Mar 2017 15:22:47 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/orly-festnahme-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/orly-107~_v-mittel16x9.jpg" alt="Soldaten vor dem Flughafen Paris Orly | Bildquelle: AFP"/></a>
+<br/><br/>
+Seit dem Wochenende haben französische Ermittler nach zwei Männern gefahndet, die dem Angreifer vom Flughafen Orly die Waffe beschafft haben sollen. Jetzt sind sie gefasst. Außerdem sind Bilder aufgetaucht, die den Vorfall zeigen sollen. [<a href="http://www.tagesschau.de/ausland/orly-festnahme-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/orly-111.html">Schießerei in Paris: Angreifer stand unter Drogen, 20.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/orly-103.html">Paris Orly: Schrecksekunden am Flughafen, 18.03.2017</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/orly-festnahme-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Seit dem Wochenende haben französische Ermittler nach zwei Männern gefahndet, die dem Angreifer vom Flughafen Orly die Waffe beschafft haben sollen. Jetzt sind sie gefasst. Außerdem sind Bilder aufgetaucht, die den Vorfall zeigen sollen.</description>
+<guid>http://www.tagesschau.de/ausland/orly-festnahme-101.html</guid>
+</item>
+<item>
+<title>Brexit: EU will "wenig schmerzhafte Scheidung"</title>
+<link>http://www.tagesschau.de/ausland/brexit-445.html</link>
+<pubDate>Tue, 21 Mar 2017 13:50:20 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/brexit-445.html"><img src="http://www.tagesschau.de/multimedia/bilder/brexit-447~_v-mittel16x9.jpg" alt="Flaggenwechsel in Brüssel | Bildquelle: AP"/></a>
+<br/><br/>
+Wenn sich am 29. April die Staats- und Regierungschefs der EU treffen, wird ein Land fehlen: Großbritannien. Doch beim Gipfel wird das Land dennoch Hauptthema. Schließlich geht es um die Leitlinien für den Brexit. Und um Forderungen an London. Von H. Romann.  [<a href="http://www.tagesschau.de/ausland/brexit-445.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/brexit-antrag-103.html">Die EU ist bereit für den Abschiedsbrief aus London</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/multimedia/audio/audio-40825.html">Audio: Tusk lädt EU-Staaten zum Brexit-Gipfel am 29. April</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/brexit-445.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Wenn sich am 29. April die Staats- und Regierungschefs der EU treffen, wird ein Land fehlen: Großbritannien. Doch beim Gipfel wird das Land dennoch Hauptthema. Schließlich geht es um die Leitlinien für den Brexit. Und um Forderungen an London. Von H. Romann. </description>
+<guid>http://www.tagesschau.de/ausland/brexit-445.html</guid>
+</item>
+<item>
+<title>UNICEF-Studie: Flüchtlingskinder leben hier oft schlecht</title>
+<link>http://www.tagesschau.de/inland/unicef-fluechtline-deutschland-101.html</link>
+<pubDate>Tue, 21 Mar 2017 12:46:19 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/inland/unicef-fluechtline-deutschland-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/fluechtlinge-1633~_v-mittel16x9.jpg" alt="Ein Kind sitzt auf dem Gelände einer Erstaufnahmeeinrichtung für Flüchtlinge in Hessen im Flur eines Wohngebäudes. | Bildquelle: dpa"/></a>
+<br/><br/>
+Gewalt, keine Privatsphäre, unzureichende Hygiene, ständiges Warten: UNICEF kritisiert die Unterbringung von Flüchtlingskindern in Deutschland scharf. Viele von ihnen lebten viel zu lange unter Bedingungen, die alles andere als kindgerecht seien. [<a href="http://www.tagesschau.de/inland/unicef-fluechtline-deutschland-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/inland/fluechtlinge-suizid-101.html">Hunderte Flüchtlinge begingen seit 2014 Suizidversuche, 14.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/tunis-merkel-mueller-101.html">Deutschland eröffnet Beratungszentrum für Rückkehrer, 03.03.2017</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/inland/unicef-fluechtline-deutschland-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Gewalt, keine Privatsphäre, unzureichende Hygiene, ständiges Warten: UNICEF kritisiert die Unterbringung von Flüchtlingskindern in Deutschland scharf. Viele von ihnen lebten viel zu lange unter Bedingungen, die alles andere als kindgerecht seien.</description>
+<guid>http://www.tagesschau.de/inland/unicef-fluechtline-deutschland-101.html</guid>
+</item>
+<item>
+<title>Vom IRA-Terroristen zum Friedensmacher</title>
+<link>http://www.tagesschau.de/ausland/mcguinness-101.html</link>
+<pubDate>Tue, 21 Mar 2017 12:28:24 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/mcguinness-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/mcguinness-103~_v-mittel16x9.jpg" alt="Martin McGuinness | Bildquelle: AFP"/></a>
+<br/><br/>
+Er war eine der prägenden politischen Figuren in Nordirland: der frühere IRA-Terrorist und spätere Vize-Regierungschef Martin McGuinness. Im Alter von 66 Jahren starb er nun an den Folgen einer Herzerkrankung. Von Stephanie Pieper. [<a href="http://www.tagesschau.de/ausland/mcguinness-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/nordirland-sinnfein-101.html">Nordirland: Michelle O'Neill neue Sinn-Fein-Vorsitzende, 23.01.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/multimedia/audio/audio-40817.html">Audio: Martin McGuinness ist gestorben</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/mcguinness-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Er war eine der prägenden politischen Figuren in Nordirland: der frühere IRA-Terrorist und spätere Vize-Regierungschef Martin McGuinness. Im Alter von 66 Jahren starb er nun an den Folgen einer Herzerkrankung. Von Stephanie Pieper.</description>
+<guid>http://www.tagesschau.de/ausland/mcguinness-101.html</guid>
+</item>
+<item>
+<title>Anschlag auf Tempel: Hohe Haftstrafen für junge Täter</title>
+<link>http://www1.wdr.de/nachrichten/ruhrgebiet/urteil-anschlag-sikh-tempel-essen-100.html</link>
+<pubDate>Tue, 21 Mar 2017 12:01:00 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www1.wdr.de/nachrichten/ruhrgebiet/urteil-anschlag-sikh-tempel-essen-100.html"><img src="http://www.tagesschau.de/ardimport/regional/nordrheinwestfalen/wdr-image-665~_v-mittel16x9.jpg" alt="Explosion in Sikh-Tempel in Essen"/></a>
+<br/><br/>
+Wegen des Sprengstoffanschlags auf ein Gebetshaus der Essener Sikh-Gemeinde hat das Landgericht Essen die drei jugendlichen Angeklagten zu hohen Haftstrafen verurteilt. Bei der Explosion waren im April 2016 ein Mann schwer und zwei weitere leicht verletzt worden. [<a href="http://www1.wdr.de/nachrichten/ruhrgebiet/urteil-anschlag-sikh-tempel-essen-100.html">wdr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www1.wdr.de/nachrichten/ruhrgebiet/urteil-helfer-sikh-anschlag-100.html">Anschlag auf Sikh-Tempel: Haftstrafe für Helfer, 12.10.2016</a>
+</li>
+<li>
+<a href="http://www1.wdr.de/nachrichten/ruhrgebiet/anklage-sikhtempel-anschlag-essen-100.html">Anklage gegen Jugendliche, 19.07.2016</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/multimedia/video/video-271109.html">Video: Urteil im Prozess um Anschlag auf Sikh-Tempel</a>
+</li>
+</ul>
+</p>
+]]>
+</content:encoded>
+<description>Wegen des Sprengstoffanschlags auf ein Gebetshaus der Essener Sikh-Gemeinde hat das Landgericht Essen die drei jugendlichen Angeklagten zu hohen Haftstrafen verurteilt. Bei der Explosion waren im April 2016 ein Mann schwer und zwei weitere leicht verletzt worden.</description>
+<guid>http://www1.wdr.de/nachrichten/ruhrgebiet/urteil-anschlag-sikh-tempel-essen-100.html</guid>
+</item>
+<item>
+<title>Flüge in die USA: Keine Laptops mehr im Handgepäck</title>
+<link>http://www.tagesschau.de/ausland/elektrogeraet-verbot-103.html</link>
+<pubDate>Tue, 21 Mar 2017 13:44:32 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/elektrogeraet-verbot-103.html"><img src="http://www.tagesschau.de/multimedia/bilder/flughafen-gepaeckkontrolle-101~_v-mittel16x9.jpg" alt="Gepäckstücke in einer Sicherheitsschleuse | Bildquelle: picture alliance / dpa"/></a>
+<br/><br/>
+Tablets, Kameras und Laptops sollen nicht mehr ins Handgepäck: Wer aus dem Nahen Osten oder von Nordafrika aus in die USA fliegen will, muss sich auf neue Bestimmungen einstellen. Der Grund: Terrorgefahr. Auch die Fluggesellschaft Turkish Airlines ist betroffen. [<a href="http://www.tagesschau.de/ausland/elektrogeraet-verbot-103.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/usa-einreiseverbot-trump-103.html">Berufung gegen Stopp des neuen US-Einreiseverbots, 16.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/einreisestopp-105.html">Trump unterzeichnet neues Einreiseverbot, 06.03.2017</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/elektrogeraet-verbot-103.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Tablets, Kameras und Laptops sollen nicht mehr ins Handgepäck: Wer aus dem Nahen Osten oder von Nordafrika aus in die USA fliegen will, muss sich auf neue Bestimmungen einstellen. Der Grund: Terrorgefahr. Auch die Fluggesellschaft Turkish Airlines ist betroffen.</description>
+<guid>http://www.tagesschau.de/ausland/elektrogeraet-verbot-103.html</guid>
+</item>
+<item>
+<title>IAEA warnt vor Wachstum von Nordkoreas Nuklearprogramm</title>
+<link>http://www.tagesschau.de/ausland/nordkorea-nuklearprogramm-101.html</link>
+<pubDate>Tue, 21 Mar 2017 11:01:50 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/nordkorea-nuklearprogramm-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/nordkorea-425~_v-mittel16x9.jpg" alt="Menschen in Seoul schauen in einem Schaufenster auf einen Bildschirm, auf dem gerade der nordkoreanische Machthaber Kim Jong Un zu sehen ist. | Bildquelle: dpa"/></a>
+<br/><br/>
+Der Chef der Internationalen Atomenergiebehörde schlägt Alarm, weil das nordkoreanische Nuklearprogramm seinen Angaben zufolge deutliche Fortschritte macht. Die Urananreicherung habe sich in den vergangenen Jahren verdoppelt. [<a href="http://www.tagesschau.de/ausland/nordkorea-nuklearprogramm-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/nordkorea-423.html">Bericht: Nordkorea testet neuen Raketenantrieb, 19.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/tillerson-korea-101.html">Tillerson geht Geduld mit Nordkorea aus, 17.03.2017</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/nordkorea-nuklearprogramm-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Der Chef der Internationalen Atomenergiebehörde schlägt Alarm, weil das nordkoreanische Nuklearprogramm seinen Angaben zufolge deutliche Fortschritte macht. Die Urananreicherung habe sich in den vergangenen Jahren verdoppelt.</description>
+<guid>http://www.tagesschau.de/ausland/nordkorea-nuklearprogramm-101.html</guid>
+</item>
+<item>
+<title>Kämpfe um Damaskus: Neue Rebellen-Angriffe</title>
+<link>http://www.tagesschau.de/ausland/kaempfe-damaskus-101.html</link>
+<pubDate>Tue, 21 Mar 2017 10:48:16 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/kaempfe-damaskus-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/syrien-explosion-103~_v-mittel16x9.jpg" alt="Rauch über einem östlichen Stadtviertel von Damaskus | Bildquelle: AFP"/></a>
+<br/><br/>
+Explosionen und Gefechtslärm - im Osten der syrischen Hauptstadt Damaskus wird wieder gekämpft. Islamistische Rebellen hatten ihre neuen Angriffe am Wochenende begonnen. Unterstützt werden sie auch von Anhängern des Terrornetzwerks Al-Kaida. [<a href="http://www.tagesschau.de/ausland/kaempfe-damaskus-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/syrische-rebellen-verlassen-homs-101.html">Abzug der Rebellen aus Homs hat begonnen</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/syrien-friedensgespraeche-genf-107.html">Angespannte Atmosphäre bei Syrien-Gesprächen in Genf</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/kaempfe-damaskus-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Explosionen und Gefechtslärm - im Osten der syrischen Hauptstadt Damaskus wird wieder gekämpft. Islamistische Rebellen hatten ihre neuen Angriffe am Wochenende begonnen. Unterstützt werden sie auch von Anhängern des Terrornetzwerks Al-Kaida.</description>
+<guid>http://www.tagesschau.de/ausland/kaempfe-damaskus-101.html</guid>
+</item>
+<item>
+<title>Bastian Schweinsteiger wechselt in die USA</title>
+<link>http://www.tagesschau.de/sport/schweinsteiger-wechsel-103.html</link>
+<pubDate>Tue, 21 Mar 2017 10:19:00 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/sport/schweinsteiger-wechsel-103.html"><img src="http://www.tagesschau.de/ardimport/sport/sportschau-image-3851~_v-mittel16x9.jpg" alt="Bastian Schweinsteiger"/></a>
+<br/><br/>
+Das Kapitel Manchester United ist für Bastian Schweinsteiger beendet. Der 32-Jährige wechselt zum MLS-Klub Chicago Fire. Der ehemalige Nationalmannschaftskapitän muss nur noch die medizinische Untersuchung in den USA absolvieren. [<a href="http://www.tagesschau.de/sport/schweinsteiger-wechsel-103.html">mehr</a>]
+</p>
+<p><a href="http://www.tagesschau.de/sport/schweinsteiger-wechsel-103.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Das Kapitel Manchester United ist für Bastian Schweinsteiger beendet. Der 32-Jährige wechselt zum MLS-Klub Chicago Fire. Der ehemalige Nationalmannschaftskapitän muss nur noch die medizinische Untersuchung in den USA absolvieren.</description>
+<guid>http://www.tagesschau.de/sport/schweinsteiger-wechsel-103.html</guid>
+</item>
+<item>
+<title>Kommentar zum US-Präsidenten: Trump beschädigt das Amt</title>
+<link>http://www.tagesschau.de/ausland/kommentar-trump-kongress-101.html</link>
+<pubDate>Tue, 21 Mar 2017 09:16:22 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/kommentar-trump-kongress-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/weisses-haus-135~_v-mittel16x9.jpg" alt="Das Weiße Haus in Washington  | Bildquelle: imago stock&amp;people"/></a>
+<br/><br/>
+Erstmals in der US-Geschichte haben zwei Regierungsvertreter ihren Präsidenten als "Lügner" entlarvt - dem es auch noch an staatsmännischer Größe fehlt, sich bei seinem Vorgänger Obama zu entschuldigen. So beschädigt Trump das Amt des Präsidenten, meint M. Ganslmeier. [<a href="http://www.tagesschau.de/ausland/kommentar-trump-kongress-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/multimedia/audio/audio-40805.html">Audio: Trump beschädigt Amt des Präsidenten</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/kommentar-trump-kongress-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Erstmals in der US-Geschichte haben zwei Regierungsvertreter ihren Präsidenten als "Lügner" entlarvt - dem es auch noch an staatsmännischer Größe fehlt, sich bei seinem Vorgänger Obama zu entschuldigen. So beschädigt Trump das Amt des Präsidenten, meint M. Ganslmeier.</description>
+<guid>http://www.tagesschau.de/ausland/kommentar-trump-kongress-101.html</guid>
+</item>
+<item>
+<title>Nordirischer Politiker Martin McGuinness gestorben</title>
+<link>http://www.tagesschau.de/ausland/mcguiness-105.html</link>
+<pubDate>Tue, 21 Mar 2017 08:56:07 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/mcguiness-105.html"><img src="http://www.tagesschau.de/multimedia/bilder/mcguiness-103~_v-mittel16x9.jpg" alt="Martin McGuiness | Bildquelle: dpa"/></a>
+<br/><br/>
+Mit seinem Rücktritt im Januar hatte Martin McGuinness eine Neuwahl in Nordirland ausgelöst. Nun ist der 66 Jahre alte Ex-Vizeregierungschef gestorben. Seine Partei würdigte den ehemaligen IRA-Terroristen als "leidenschaftlichen Republikaner". [<a href="http://www.tagesschau.de/ausland/mcguiness-105.html">mehr</a>]
+</p>
+<p><a href="http://www.tagesschau.de/ausland/mcguiness-105.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Mit seinem Rücktritt im Januar hatte Martin McGuinness eine Neuwahl in Nordirland ausgelöst. Nun ist der 66 Jahre alte Ex-Vizeregierungschef gestorben. Seine Partei würdigte den ehemaligen IRA-Terroristen als "leidenschaftlichen Republikaner".</description>
+<guid>http://www.tagesschau.de/ausland/mcguiness-105.html</guid>
+</item>
+<item>
+<title>Elektrogeräte-Verbot: USA planen Einschränkungen bei Flügen</title>
+<link>http://www.tagesschau.de/ausland/elektrogeraet-verbot-101.html</link>
+<pubDate>Tue, 21 Mar 2017 08:52:51 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/elektrogeraet-verbot-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/boeing-107~_v-mittel16x9.jpg" alt="Ein Boeing-Jet | Bildquelle: REUTERS"/></a>
+<br/><br/>
+Tablet, Kameras und Laptops sollen nicht mehr ins Handgepäck: Wer aus dem Nahen Osten oder von Nordafrika aus in die USA fliegen will, muss sich offenbar auf neue Bestimmungen einstellen. Angeblicher Grund: Terrorgefahr. [<a href="http://www.tagesschau.de/ausland/elektrogeraet-verbot-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/einreisestopp-105.html">Trump unterzeichnet neues Dekret mit Einreiseverboten</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/usa-einreiseverbot-trump-103.html">Trump legt Berufung gegen Stopp des Einreiseverbots ein</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/elektrogeraet-verbot-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Tablet, Kameras und Laptops sollen nicht mehr ins Handgepäck: Wer aus dem Nahen Osten oder von Nordafrika aus in die USA fliegen will, muss sich offenbar auf neue Bestimmungen einstellen. Angeblicher Grund: Terrorgefahr.</description>
+<guid>http://www.tagesschau.de/ausland/elektrogeraet-verbot-101.html</guid>
+</item>
+<item>
+<title>Nach der Comey-Anhörung: Erstmal ignorieren</title>
+<link>http://www.tagesschau.de/ausland/trump-geheimdienst-107.html</link>
+<pubDate>Tue, 21 Mar 2017 08:49:54 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/trump-geheimdienst-107.html"><img src="http://www.tagesschau.de/multimedia/bilder/trump-939~_v-mittel16x9.jpg" alt="Trump | Bildquelle: AFP"/></a>
+<br/><br/>
+Das FBI ermittelt wegen möglicher Wahlkampfabsprachen mit Russland, Trumps Abhörvorwürfe gegen Obama erwiesen sich dagegen als haltlos. Und was macht Trump? Der US-Präsident lässt sich feiern. Sein Team bemüht sich um Schadensbegrenzung. Von Jan Bösche. [<a href="http://www.tagesschau.de/ausland/trump-geheimdienst-107.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/trump-geheimdienst-105.html">Anhörung bringt Trump in Bedrängnis, 20.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/multimedia/video/video-270959.html">Video: FBI untersucht Rolle Russlands</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/trump-geheimdienst-107.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Das FBI ermittelt wegen möglicher Wahlkampfabsprachen mit Russland, Trumps Abhörvorwürfe gegen Obama erwiesen sich dagegen als haltlos. Und was macht Trump? Der US-Präsident lässt sich feiern. Sein Team bemüht sich um Schadensbegrenzung. Von Jan Bösche.</description>
+<guid>http://www.tagesschau.de/ausland/trump-geheimdienst-107.html</guid>
+</item>
+<item>
+<title>Südkorea: Staatsanwalt befragt Ex-Präsidentin Park</title>
+<link>http://www.tagesschau.de/ausland/korea-park-107.html</link>
+<pubDate>Tue, 21 Mar 2017 04:35:23 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/korea-park-107.html"><img src="http://www.tagesschau.de/multimedia/bilder/suedkorea-park-129~_v-mittel16x9.jpg" alt="Park auf dem Weg zur Befragung | Bildquelle: AP"/></a>
+<br/><br/>
+Südkoreas Staatsanwaltschaft hat mit der Vernehmung der entmachteten Ex-Präsidentin Park begonnen. Hintergrund ist ein Korruptionsskandal um eine enge Vertraute der Politikerin. Park kündigte ihre Kooperation an. [<a href="http://www.tagesschau.de/ausland/korea-park-107.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/korea-park-103.html">Südkorea: Abgesetzte Präsidentin Park verlässt Palast, 12.03.2107</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/suedkorea-gericht-park-amtsenthebung-103.html">Südkoreaner bejubeln Entmachtung Parks, 10.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/suedkorea-park-115.html">Südkoreas Präsidentin Park entmachtet, 09.12.2016</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/korea-park-107.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Südkoreas Staatsanwaltschaft hat mit der Vernehmung der entmachteten Ex-Präsidentin Park begonnen. Hintergrund ist ein Korruptionsskandal um eine enge Vertraute der Politikerin. Park kündigte ihre Kooperation an.</description>
+<guid>http://www.tagesschau.de/ausland/korea-park-107.html</guid>
+</item>
+<item>
+<title>TV-Debatte in Frankreich: Alle gegen Le Pen</title>
+<link>http://www.tagesschau.de/ausland/frankreich_wahl/frankreich-tv-duell-107.html</link>
+<pubDate>Tue, 21 Mar 2017 03:16:45 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/frankreich_wahl/frankreich-tv-duell-107.html"><img src="http://www.tagesschau.de/multimedia/bilder/debatte-frankreich-kandidaten-101~_v-mittel16x9.jpg" alt="Die Kandidaten des TV-Duells in Frankreich | Bildquelle: AFP"/></a>
+<br/><br/>
+Bisher war der Wahlkampf in Frankreich von Skandalen überschattet, im TV-Duell sollte es nun um Themen gehen - vor allem aber wurde drei Stunden kräftig gestritten. Im Mittelpunkt: die rechtsextreme Le Pen. Am besten schnitt aber ein anderer ab. Von B. Kostolnik. [<a href="http://www.tagesschau.de/ausland/frankreich_wahl/frankreich-tv-duell-107.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/frankreich_wahl/index.html">Blog: Frankreich hat die Wahl</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/macron-141.html">Warum Macron punktet - eine Analyse, 20.03.2017</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/frankreich_wahl/frankreich-tv-duell-107.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Bisher war der Wahlkampf in Frankreich von Skandalen überschattet, im TV-Duell sollte es nun um Themen gehen - vor allem aber wurde drei Stunden kräftig gestritten. Im Mittelpunkt: die rechtsextreme Le Pen. Am besten schnitt aber ein anderer ab. Von B. Kostolnik.</description>
+<guid>http://www.tagesschau.de/ausland/frankreich_wahl/frankreich-tv-duell-107.html</guid>
+</item>
+<item>
+<title>EU-Kommissar Hahn: "Türkei-Beitritt immer unrealistischer"</title>
+<link>http://www.tagesschau.de/ausland/tuerkei-gespraeche-107.html</link>
+<pubDate>Tue, 21 Mar 2017 02:40:05 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/tuerkei-gespraeche-107.html"><img src="http://www.tagesschau.de/multimedia/bilder/tuerkei-eu-125~_v-mittel16x9.jpg" alt="Türkei EU Erweiterungsgespräche | Bildquelle: dpa"/></a>
+<br/><br/>
+Ein EU-Beitritt der Türkei wird nach Ansicht von EU-Erweiterungskommissar Hahn "immer unrealistischer". Das Land bewege sich weg von der Union, sagte er der "Bild". Keine Chance sieht Hahn derzeit für die Einführung der Visa-Freiheit für Türken in der EU. [<a href="http://www.tagesschau.de/ausland/tuerkei-gespraeche-107.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/merkel-droht-tuerkei-101.html">Merkel droht Türkei mit Auftrittsverboten, 20.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/tuerkei-yuecel-113.html">"Welt"-Journalist Yücel bleibt in Haft, 15.03.2017</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/tuerkei-gespraeche-107.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Ein EU-Beitritt der Türkei wird nach Ansicht von EU-Erweiterungskommissar Hahn "immer unrealistischer". Das Land bewege sich weg von der Union, sagte er der "Bild". Keine Chance sieht Hahn derzeit für die Einführung der Visa-Freiheit für Türken in der EU.</description>
+<guid>http://www.tagesschau.de/ausland/tuerkei-gespraeche-107.html</guid>
+</item>
+<item>
+<title>Weitere Paketbomben in Griechenland entdeckt</title>
+<link>http://www.tagesschau.de/ausland/briefbomben-griechenland-101.html</link>
+<pubDate>Tue, 21 Mar 2017 02:02:44 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/briefbomben-griechenland-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/briefkaesten-athen-101~_v-mittel16x9.jpg" alt="Briefkästen in Athen | Bildquelle: AFP"/></a>
+<br/><br/>
+Griechische Sicherheitsexperten haben weitere explosive Sendungen abgefangen. Sie sollten an verschiedene Persönlichkeiten und Institutionen außerhalb Griechenlands gehen. Vergangene Woche hatten ähnliche Sendungen das Bundesfinanzministerium und den IWF erreicht. [<a href="http://www.tagesschau.de/ausland/briefbomben-griechenland-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/paris-iwf-explosion-101.html">Paket explodiert im Pariser IWF-Büro, 16.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/paket-bundesfinanzministerium-101.html">Griechische Autonome wollen Briefbombe verschickt haben, 16.03.2017</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/briefbomben-griechenland-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Griechische Sicherheitsexperten haben weitere explosive Sendungen abgefangen. Sie sollten an verschiedene Persönlichkeiten und Institutionen außerhalb Griechenlands gehen. Vergangene Woche hatten ähnliche Sendungen das Bundesfinanzministerium und den IWF erreicht.</description>
+<guid>http://www.tagesschau.de/ausland/briefbomben-griechenland-101.html</guid>
+</item>
+<item>
+<title>Bundesnachrichtendienst will mehr Hacker einstellen</title>
+<link>http://www.tagesschau.de/inland/bnd-hacker-101.html</link>
+<pubDate>Tue, 21 Mar 2017 00:55:10 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/inland/bnd-hacker-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/sendungsbild-249485~_v-mittel16x9.jpg" alt="Sendungsbild"/></a>
+<br/><br/>
+Falschmeldungen in sozialen Netzwerken, Spionageattacken - das sind nur einige Bedrohungen aus dem Internet, die Wahlen beinflussen könnten. Der Bundesnachrichtendienst ist besorgt, zumal ihm gute Nachwuchsspione fehlen: Der BND muss intensiv um junge Hacker werben. Von D. Satra. [<a href="http://www.tagesschau.de/inland/bnd-hacker-101.html">video</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/wikileaks-113.html">WikiLeaks: CIA betreibt offenbar Hacker-Einheit in Frankfurt</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/inland/bsi-hackerangriff-101.html">BSI warnt Parteien - russische Hacker am Werk?</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/inland/bundestagswahl-hacker-101.html">Bundeswahlleiter rüstet gegen Hackerangriffe auf</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/inland/bnd-hacker-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Falschmeldungen in sozialen Netzwerken, Spionageattacken - das sind nur einige Bedrohungen aus dem Internet, die Wahlen beinflussen könnten. Der Bundesnachrichtendienst ist besorgt, zumal ihm gute Nachwuchsspione fehlen: Der BND muss intensiv um junge Hacker werben. Von D. Satra.</description>
+<guid>http://www.tagesschau.de/inland/bnd-hacker-101.html</guid>
+</item>
+<item>
+<title>TV-Duell in Frankreich: Schlagabtausch der Favoriten</title>
+<link>http://www.tagesschau.de/ausland/frankreich-tv-duell-103.html</link>
+<pubDate>Tue, 21 Mar 2017 00:52:24 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/frankreich-tv-duell-103.html"><img src="http://www.tagesschau.de/multimedia/bilder/debatte-frankreich-kandidaten-101~_v-mittel16x9.jpg" alt="Die Kandidaten des TV-Duells in Frankreich | Bildquelle: AFP"/></a>
+<br/><br/>
+Fünf Wochen vor der Präsidentschaftswahl in Frankreich haben sich die wichtigsten Kandidaten ihr erstes TV-Duell geliefert. Insbesondere die Favoriten Macron und Le Pen lieferten sich einen harten Schlagabtausch. Themen waren unter anderem der Islam, Terrorismus, EU und Einwanderung. [<a href="http://www.tagesschau.de/ausland/frankreich-tv-duell-103.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/frankreich_wahl/index.html">Blog: Frankreich hat die Wahl</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/multimedia/audio/audio-40777.html">Audio: Vor der TV-Debatte: Die Wirtschaftsprogramme der französischen Präsidentschaftskandidaten</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/frankreich-tv-duell-103.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Fünf Wochen vor der Präsidentschaftswahl in Frankreich haben sich die wichtigsten Kandidaten ihr erstes TV-Duell geliefert. Insbesondere die Favoriten Macron und Le Pen lieferten sich einen harten Schlagabtausch. Themen waren unter anderem der Islam, Terrorismus, EU und Einwanderung.</description>
+<guid>http://www.tagesschau.de/ausland/frankreich-tv-duell-103.html</guid>
+</item>
+<item>
+<title>Premier Abe wirbt in Brüssel für Freihandelsabkommen</title>
+<link>http://www.tagesschau.de/ausland/abe-117.html</link>
+<pubDate>Tue, 21 Mar 2017 00:31:11 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/abe-117.html"><img src="http://www.tagesschau.de/multimedia/bilder/abeneu-101~_v-mittel16x9.jpg" alt="Japans Premierminister Abe mit Bundeskanzlerin Merkel auf der CeBIT in Hannover  | Bildquelle: dpa"/></a>
+<br/><br/>
+Die EU arbeitet am nächsten Freihandelsabkommen: Japan soll nach Kanada der nächste große Partner der Union werden. Heute wollen beide Seiten noch einmal für das Abkommen werben. Allerdings gibt es noch einige Hürden. Von Sebastian Schöbel.  [<a href="http://www.tagesschau.de/ausland/abe-117.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/wirtschaft/cebit-129.html">CeBIT: Merkel und Abe plädieren für Freihandel, 19.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/multimedia/audio/audio-40799.html">Audio: Freihandelsabkommen EU-Japan</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/abe-117.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Die EU arbeitet am nächsten Freihandelsabkommen: Japan soll nach Kanada der nächste große Partner der Union werden. Heute wollen beide Seiten noch einmal für das Abkommen werben. Allerdings gibt es noch einige Hürden. Von Sebastian Schöbel. </description>
+<guid>http://www.tagesschau.de/ausland/abe-117.html</guid>
+</item>
+<item>
+<title>Deutschland - Sicherer Hafen der PKK?</title>
+<link>http://www.tagesschau.de/inland/pkk-deutschland-101.html</link>
+<pubDate>Tue, 21 Mar 2017 00:02:54 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/inland/pkk-deutschland-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/sendungsbild-249449~_v-mittel16x9.jpg" alt="Sendungsbild"/></a>
+<br/><br/>
+In Frankfurt  haben trotz Verbots Hunderte Demonstranten Porträts des PKK-Führers Öcalan hoch gehalten - was in der Türkei neue Empörung auslöste: Seine Partei gilt nicht nur in der Türkei, sondern auch in Deutschland als Terrororganisation. Von A. Clarysse. [<a href="http://www.tagesschau.de/inland/pkk-deutschland-101.html">video</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/inland/kurden-demonstrationen-107.html">Polizei ermittelt nach Kurden-Demo wegen PKK-Symbolen, 19.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/inland/kurden-demonstrationen-105.html">Türkische Regierung kritisiert Kurden-Demo, 19.03.2017</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/inland/pkk-deutschland-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>In Frankfurt  haben trotz Verbots Hunderte Demonstranten Porträts des PKK-Führers Öcalan hoch gehalten - was in der Türkei neue Empörung auslöste: Seine Partei gilt nicht nur in der Türkei, sondern auch in Deutschland als Terrororganisation. Von A. Clarysse.</description>
+<guid>http://www.tagesschau.de/inland/pkk-deutschland-101.html</guid>
+</item>
+<item>
+<title>Der Bücher-Retter von Bogota</title>
+<link>http://www.tagesschau.de/ausland/buchretter-101.html</link>
+<pubDate>Mon, 20 Mar 2017 23:16:10 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/buchretter-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/sendungsbild-249461~_v-mittel16x9.jpg" alt="Sendungsbild"/></a>
+<br/><br/>
+Jose ist Müllmann und Bibliothekar. Der Mann liest Bücher buchstäblich von der Straße auf und sammelt sie für die, die sich Literatur nicht leisten können. Angefangen hat alles mit "Anna Karenina" von Tolstoi. Von Matthias Ebert. [<a href="http://www.tagesschau.de/ausland/buchretter-101.html">video</a>]
+</p>
+<p><a href="http://www.tagesschau.de/ausland/buchretter-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Jose ist Müllmann und Bibliothekar. Der Mann liest Bücher buchstäblich von der Straße auf und sammelt sie für die, die sich Literatur nicht leisten können. Angefangen hat alles mit "Anna Karenina" von Tolstoi. Von Matthias Ebert.</description>
+<guid>http://www.tagesschau.de/ausland/buchretter-101.html</guid>
+</item>
+<item>
+<title>Live: Die erste TV-Debatte in Frankreich</title>
+<link>http://www.tagesschau.de/multimedia/livestreams/livestream-zwei100.html</link>
+<pubDate>Mon, 20 Mar 2017 20:57:42 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/multimedia/livestreams/livestream-zwei100.html"><img src="http://www.tagesschau.de/multimedia/bilder/debatte-frankreich-101~_v-mittel16x9.jpg" alt="Das TV-Studio für die Debatte der französischen Präsidentschaftskandidaten. | Bildquelle: AFP"/></a>
+<br/><br/>
+Zum ersten Mal findet in Frankreich vor der ersten Runde einer Präsidentschaftswahl eine TV-Debatte statt. Zweieinhalb Stunden diskutieren die fünf aussichtsreichsten Kandidaten im französischen Fernsehen. Verfolgen Sie die Debatte hier im Originalton. [<a href="http://www.tagesschau.de/multimedia/livestreams/livestream-zwei100.html">video</a>]
+</p>
+]]>
+</content:encoded>
+<description>Zum ersten Mal findet in Frankreich vor der ersten Runde einer Präsidentschaftswahl eine TV-Debatte statt. Zweieinhalb Stunden diskutieren die fünf aussichtsreichsten Kandidaten im französischen Fernsehen. Verfolgen Sie die Debatte hier im Originalton.</description>
+<guid>http://www.tagesschau.de/multimedia/livestreams/livestream-zwei100.html</guid>
+</item>
+<item>
+<title>USA boykottieren Nahost-Sitzung von UN-Rat</title>
+<link>http://www.tagesschau.de/ausland/usa-boykott-un-101.html</link>
+<pubDate>Mon, 20 Mar 2017 20:36:38 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/usa-boykott-un-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/un-hauptquartier-103~_v-mittel16x9.jpg" alt="Das UN-Hauptquartier in New York | Bildquelle: AP"/></a>
+<br/><br/>
+Die USA werfen dem UN-Menschenrechtsrat vor, Israel zu diskriminieren. Deshalb boykottierten sie nun eine Sitzung in New York. Israel sei die "einzige wahre Demokratie des Nahen Ostens", sagte UN-Botschafterin Haley, werde aber permanent angeprangert. Von G. Schwarte. [<a href="http://www.tagesschau.de/ausland/usa-boykott-un-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/trump-israel-103.html">Die Männer für den Nahen Osten, 24.01.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/siedlungsbau-reaktionen-usa-101.html">Trump will Obamas Israel-Politik revidieren, 24.12.2016</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/multimedia/audio/audio-40797.html">Audio: USA boykottieren Sitzung des UN-Menschenrechtsrates</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/usa-boykott-un-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Die USA werfen dem UN-Menschenrechtsrat vor, Israel zu diskriminieren. Deshalb boykottierten sie nun eine Sitzung in New York. Israel sei die "einzige wahre Demokratie des Nahen Ostens", sagte UN-Botschafterin Haley, werde aber permanent angeprangert. Von G. Schwarte.</description>
+<guid>http://www.tagesschau.de/ausland/usa-boykott-un-101.html</guid>
+</item>
+<item>
+<title>Erneut sexuelle Übergriffe bei Bundeswehr</title>
+<link>http://www.tagesschau.de/inland/missbrauch-bundeswehr-101.html</link>
+<pubDate>Mon, 20 Mar 2017 20:22:56 +0100</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/inland/missbrauch-bundeswehr-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/bundeswehr-393~_v-mittel16x9.jpg" alt="Die deutsche Flagge als Aufnäher auf dem Ärmel einer Bundeswehr-Uniform | Bildquelle: dpa"/></a>
+<br/><br/>
+Bei der Bundeswehr gibt es einen neuen Skandal. Wie das ARD-Hauptstadtstudio erfuhr, wurde ein Obergefreiter der Gebirgsjäger über Monate hinweg von Ausbildern und Mannschaftssoldaten sexuell belästigt und genötigt. Von Arnd Henze. [<a href="http://www.tagesschau.de/inland/missbrauch-bundeswehr-101.html">mehr</a>]
+</p>
+<p><a href="http://www.tagesschau.de/inland/missbrauch-bundeswehr-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Bei der Bundeswehr gibt es einen neuen Skandal. Wie das ARD-Hauptstadtstudio erfuhr, wurde ein Obergefreiter der Gebirgsjäger über Monate hinweg von Ausbildern und Mannschaftssoldaten sexuell belästigt und genötigt. Von Arnd Henze.</description>
+<guid>http://www.tagesschau.de/inland/missbrauch-bundeswehr-101.html</guid>
+</item>
+</channel>
+</rss>
