@@ -4,7 +4,7 @@ import java.io.File;
 import java.util.LinkedList;
 import java.util.List;
 
-import dataTypes.SourceFeedEntry;
+import datatypes.SourceFeedEntry;
 import feedanalyser.CacheUpdate;
 import feedanalyser.FeedReader;
 

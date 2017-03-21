@@ -1,4 +1,4 @@
-package dataTypes;
+package datatypes;
 
 import java.util.Date;
 import com.sun.syndication.feed.synd.SyndEntry;

@@ -5,12 +5,12 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import dataTypes.SourceFeed;
+import datatypes.SourceFeed;
 
-public class QuerySources {
+public class QuerySourceFeeds {
 	private SqlQuery wrapped;
 	
-	public QuerySources(DBconnection database) throws SQLException {
+	public QuerySourceFeeds(DBconnection database) throws SQLException {
 		this.wrapped = new SqlQuery(database, "SELECT ID, URL, CacheFile FROM Newsfeed.SourceFeed;");
 	}
 

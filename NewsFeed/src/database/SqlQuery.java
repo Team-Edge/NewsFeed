@@ -9,8 +9,8 @@ import java.sql.SQLException;
 
 
 public class SqlQuery implements Closeable{
-	private PreparedStatement stat;
 	private DBconnection database;
+	private PreparedStatement stat;
 	protected ResultSet queryResult;
 
 	
@@ -21,6 +21,14 @@ public class SqlQuery implements Closeable{
 		this.queryResult = null;
 	}
 		
+	public void setStmtString(int position, String value) throws SQLException {
+		stat.setString(position, value);
+	}
+	
+	public void setStmtInt(int position, int value) throws SQLException {
+		stat.setInt(position, value);
+	}
+
 	public void query() throws Exception
 	{
 		synchronized(database)
@@ -37,7 +45,10 @@ public class SqlQuery implements Closeable{
 	@Override
 	public void close() throws IOException {
 		try {
-			this.queryResult.close();
+			synchronized(database)
+			{
+				this.queryResult.close();
+			}
 		} catch(Exception e) {
 			//ignore
 		}

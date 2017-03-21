@@ -12,7 +12,7 @@ import com.sun.syndication.io.FeedException;
 import com.sun.syndication.io.SyndFeedInput;
 import com.sun.syndication.io.XmlReader;
 
-import dataTypes.SourceFeedEntry;
+import datatypes.SourceFeedEntry;
 
 
 public class FeedReader {
