@@ -10,7 +10,7 @@ public class SqlOrder {
 	private DBconnection database;
 
 	
-	public SqlOrder(DBconnection database,  String sql, boolean generatesResult) throws SQLException
+	public SqlOrder(DBconnection database,  String sql) throws SQLException
 	{
 		this.database = database;
 		this.stat = this.database.createStatement(sql);

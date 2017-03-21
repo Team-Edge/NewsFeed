@@ -12,10 +12,12 @@ import com.sun.syndication.io.FeedException;
 import com.sun.syndication.io.SyndFeedInput;
 import com.sun.syndication.io.XmlReader;
 
+import dataTypes.SourceFeedEntry;
+
 
 public class FeedReader {
     
-    public static List<Feed> read(String url) throws IllegalArgumentException, FeedException, IOException
+    public static List<SourceFeedEntry> read(String url) throws IllegalArgumentException, FeedException, IOException
     {
         URL feedUrl = new URL(url);
         SyndFeedInput input = new SyndFeedInput();
@@ -27,9 +29,9 @@ public class FeedReader {
         }
         @SuppressWarnings("unchecked")
 		List<SyndEntry> entries = feed.getEntries();
-        List<Feed> ret = new LinkedList<Feed>();
+        List<SourceFeedEntry> ret = new LinkedList<SourceFeedEntry>();
         for(SyndEntry entry : entries) {
-        	ret.add(new Feed(entry));
+        	ret.add(new SourceFeedEntry(entry));
         }
         return ret;
     }

@@ -1,12 +1,14 @@
 package database;
 
 
+import java.io.Closeable;
+import java.io.IOException;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
 
-public class SqlQuery {
+public class SqlQuery implements Closeable{
 	private PreparedStatement stat;
 	private DBconnection database;
 	protected ResultSet queryResult;
@@ -30,6 +32,15 @@ public class SqlQuery {
 	public ResultSet getResult()
 	{
 		return this.queryResult;
+	}
+
+	@Override
+	public void close() throws IOException {
+		try {
+			this.queryResult.close();
+		} catch(Exception e) {
+			//ignore
+		}
 	}
 	
 }

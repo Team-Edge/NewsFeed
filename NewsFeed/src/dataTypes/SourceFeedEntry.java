@@ -1,9 +1,11 @@
-package feedanalyser;
+package dataTypes;
 
 import java.util.Date;
 import com.sun.syndication.feed.synd.SyndEntry;
 
-public class Feed {
+import feedanalyser.FeedEnlarger;
+
+public class SourceFeedEntry {
 
 	private String title;
 	private String description;
@@ -11,7 +13,7 @@ public class Feed {
 	private String text;
 	private String URL;
 	
-	public Feed(String title, String description, Date pubDate, String text, String URL){
+	public SourceFeedEntry(String title, String description, Date pubDate, String text, String URL){
 		
 		this.title = title;
 		this.description = description;
@@ -21,7 +23,7 @@ public class Feed {
 		this.URL = URL;
 	}
 	
-	public Feed(SyndEntry entry)
+	public SourceFeedEntry(SyndEntry entry)
 	{
 		this.title = entry.getTitle();
 		this.description = entry.getDescription().getValue();

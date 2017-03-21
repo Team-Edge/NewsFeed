@@ -12,17 +12,17 @@ public class Program {
 		NewsCrawlerUpdate upd = new NewsCrawlerUpdate("http://www.tagesschau.de/xml/rss2", "C:/Users/Florian/Documents/cacheTagesschau.txt");
 		upd.doWork();
 		System.out.println("---");
-		for(feedanalyser.Feed i : upd.getOldEntries())
+		for(dataTypes.SourceFeedEntry i : upd.getOldEntries())
 			System.out.println("old " + i);
 		System.out.println("---");
-		for(feedanalyser.Feed i : upd.getNewEntries())
+		for(dataTypes.SourceFeedEntry i : upd.getNewEntries())
 		{
 			i.enlarge();
 			System.out.println("new " + i);
 		}
 		System.out.println("---");
 		
-		for(feedanalyser.Feed i : upd.getNewEntries())
+		for(dataTypes.SourceFeedEntry i : upd.getNewEntries())
 		{
 			List<String> emptyList = new LinkedList<String>();
 			List<String> keyWordsColTrump = new LinkedList<String>();

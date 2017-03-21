@@ -25,6 +25,8 @@ import org.apache.lucene.search.TopScoreDocCollector;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
 
+import dataTypes.SourceFeedEntry;
+
 
 
 public class TextSearch implements Closeable {
@@ -32,7 +34,7 @@ public class TextSearch implements Closeable {
 	private Directory index;
 
 
-	public TextSearch(Feed article) throws IOException {
+	public TextSearch(SourceFeedEntry article) throws IOException {
 		this.analyzer = new StandardAnalyzer();
 		this.index = new RAMDirectory();
 		new IndexWriterConfig(analyzer);
