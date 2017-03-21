@@ -24,6 +24,7 @@ public class Program {
 		
 		for(feedanalyser.Feed i : upd.getNewEntries())
 		{
+			List<String> emptyList = new LinkedList<String>();
 			List<String> keyWordsColTrump = new LinkedList<String>();
 			keyWordsColTrump.add("Trump");
 			List<String> keyWordsColSchulz = new LinkedList<String>();
@@ -31,9 +32,9 @@ public class Program {
 			keyWordsColSchulz.add("SPD");
 			try {
 				TextSearch searcher = new TextSearch(i);
-				if(searcher.query(keyWordsColTrump, 1))
+				if(searcher.query(emptyList, keyWordsColTrump, emptyList))
 					System.out.println("Contains Trump: " + i);
-				if(searcher.query(keyWordsColSchulz, 1))
+				if(searcher.query(keyWordsColSchulz, emptyList, emptyList))
 					System.out.println("Contains Schulz and SPD: " + i);
 				searcher.close();
 			} catch (Exception e) {

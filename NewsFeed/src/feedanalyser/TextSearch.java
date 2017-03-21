@@ -45,20 +45,22 @@ public class TextSearch implements Closeable {
 		w.close();
 	}
 	
-	public boolean query(List<String> keywords, int searchIndex) throws ParseException, IOException
+	public boolean query(List<String> titleWords, List<String> descrWords, List<String> textWords) throws ParseException, IOException
 	{
-		String searchField;
-		switch(searchIndex)
-		{
-		case 1: searchField = "description"; break;
-		case 2: searchField = "text"; break;
-		default: searchField = "title"; break;
-		}
-		
 		BooleanQuery.Builder queryBuilder = new BooleanQuery.Builder();
-		for(String word : keywords)
+		for(String word : titleWords)
 		{
-			Query subquery = new QueryParser(searchField, this.analyzer).parse(word);
+			Query subquery = new QueryParser("title", this.analyzer).parse(word);
+			queryBuilder.add(subquery, BooleanClause.Occur.FILTER);
+		}
+		for(String word : descrWords)
+		{
+			Query subquery = new QueryParser("description", this.analyzer).parse(word);
+			queryBuilder.add(subquery, BooleanClause.Occur.FILTER);
+		}
+		for(String word : textWords)
+		{
+			Query subquery = new QueryParser("text", this.analyzer).parse(word);
 			queryBuilder.add(subquery, BooleanClause.Occur.FILTER);
 		}
 		Query query = queryBuilder.build();
