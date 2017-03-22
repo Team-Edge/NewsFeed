@@ -27,7 +27,12 @@ public class FeedEnlarger {
 			feedUrl += URLEncoder.encode(url, "UTF-8");
 			feedUrl += "&max=3";
 			String fulltext = FeedReader.read(feedUrl).get(0).getDescription();
-			return StringEscapeUtils.unescapeHtml4(fulltext);
+			fulltext = StringEscapeUtils.unescapeHtml4(fulltext);
+			if(fulltext.contains("[unable to retrieve full-text content]")) {
+				return null;
+			} else {
+				return fulltext;
+			}
 		} catch (Exception e) {
 			return null;
 		}		

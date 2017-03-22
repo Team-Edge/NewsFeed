@@ -9,7 +9,7 @@ public class QueryFilterURLs {
 	private SqlQuery wrapped;
 	
 	public QueryFilterURLs(DBconnection database, int filterID) throws SQLException {
-		this.wrapped = new SqlQuery(database, "SELECT SourceFeed_ID FROM Newsfeed.FilterURL WHERE Filter_ID = ;"+filterID+";");
+		this.wrapped = new SqlQuery(database, "SELECT SourceFeed_ID FROM Newsfeed.FilterURL WHERE Filter_ID = "+filterID+";");
 	}
 
 	public List<Integer> getSourceFeedIDs() throws Exception {

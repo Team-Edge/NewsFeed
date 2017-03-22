@@ -93,19 +93,34 @@ public class NewsCrawlerUpdate implements Runnable{
 		//while srvEnlarger waits for an external service to enlarge a FeedEntry, 
 		//srvUpdater updates the already enlarged FeedEntries
 		EnlargingService srvEnlarger = new EnlargingService(this.newEntries);
-		srvEnlarger.start();
 		UpdateService srvUpdater = new UpdateService(this.database, this.toUpdate.getId());
+		srvEnlarger.start();
+		srvUpdater.start();
 		for(SourceFeedEntry current : this.newEntries) {
 			try {
-				do {
-					current.wait();
-				} while(current.getText()==null);
+				synchronized(current) {
+					do {
+						current.wait();
+					} while(current.getText()==null);
+				}
 			} catch (InterruptedException e) {
 				// TODO interrupts not expected
 				return;
 			}
 			synchronized(srvUpdater) {
 				srvUpdater.addEntry(current);
+			}
+		}
+		SourceFeedEntry last = this.newEntries.get(this.newEntries.size()-1);
+		synchronized(last) {
+			try {
+				last.wait();
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				return;
+			} finally {
+				srvUpdater.interrupt();
 			}
 		}
 		

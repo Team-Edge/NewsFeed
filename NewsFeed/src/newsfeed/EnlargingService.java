@@ -9,6 +9,7 @@ public class EnlargingService extends Thread {
 	private List<SourceFeedEntry> toEnlarge;
 	
 	public EnlargingService(List<SourceFeedEntry> toEnlarge) {
+		super();
 		this.toEnlarge = toEnlarge;
 	}
 
@@ -16,7 +17,9 @@ public class EnlargingService extends Thread {
 	public void run() {
 		for(SourceFeedEntry current : this.toEnlarge) {
 			current.enlarge();
-			current.notify();
+			synchronized(current) {
+				current.notify();
+			}
 		}		
 	}
 

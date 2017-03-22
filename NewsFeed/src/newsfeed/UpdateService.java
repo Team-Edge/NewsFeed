@@ -21,6 +21,7 @@ public class UpdateService extends Thread {
 
 	
 	public UpdateService(DBconnection database, int sourceFeedID) {
+		super();
 		this.sourceFeedID = sourceFeedID;
 		this.database = database;
 		this.newEntries = new LinkedList<SourceFeedEntry>();
@@ -28,7 +29,9 @@ public class UpdateService extends Thread {
 	
 	public synchronized void addEntry(SourceFeedEntry newEntry) {
 		this.newEntries.add(newEntry);
-		this.newEntries.notify();
+		synchronized(this.newEntries) {
+			this.newEntries.notify();
+		}
 	}
 	
 	private synchronized SourceFeedEntry getEntry() {
@@ -57,7 +60,9 @@ public class UpdateService extends Thread {
 					try {
 						//thread waits until new entries are added to the queue
 						//notify will automatically be called on adding a new entry
-						this.newEntries.wait();
+						synchronized(newEntries) {
+							this.newEntries.wait();
+						}
 					} catch (InterruptedException e) {
 						//thread ends on interrupt
 						//interrupt is expected to indicate that there will be no more entries
@@ -72,6 +77,10 @@ public class UpdateService extends Thread {
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
+			} finally {
+				synchronized(current) {
+					current.notifyAll();
+				}
 			}
 			
 		} while(true);	//no abort condition here; this can only be aborted by interrupt
