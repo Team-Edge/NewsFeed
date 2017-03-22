@@ -38,6 +38,9 @@ public class SourceFeedEntry {
 	public void enlarge()
 	{
 		this.text = FeedEnlarger.getContent(this.URL);
+		if(this.text == null) {
+			this.text = this.description;
+		}
 	}
 
 	public String getText() {

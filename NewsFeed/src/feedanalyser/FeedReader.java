@@ -2,6 +2,7 @@ package feedanalyser;
 
 import java.io.IOException;
 import java.net.URL;
+import java.net.URLConnection;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -22,8 +23,11 @@ public class FeedReader {
         URL feedUrl = new URL(url);
         SyndFeedInput input = new SyndFeedInput();
         SyndFeed feed;
+		URLConnection feedCon = feedUrl.openConnection();
+		feedCon.setConnectTimeout(10000);
+		feedCon.setReadTimeout(10000);
         try {
-        	feed = input.build(new XmlReader(feedUrl));
+        	feed = input.build(new XmlReader(feedCon.getInputStream()));
         } catch(Exception e) {
         	feed = new SyndFeedImpl();
         }

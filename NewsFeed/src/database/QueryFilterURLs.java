@@ -5,10 +5,10 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class QueryFiltersURLs {
+public class QueryFilterURLs {
 	private SqlQuery wrapped;
 	
-	public QueryFiltersURLs(DBconnection database, int filterID) throws SQLException {
+	public QueryFilterURLs(DBconnection database, int filterID) throws SQLException {
 		this.wrapped = new SqlQuery(database, "SELECT SourceFeed_ID FROM Newsfeed.FilterURL WHERE Filter_ID = ;"+filterID+";");
 	}
 

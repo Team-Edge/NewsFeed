@@ -8,6 +8,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.InputStreamReader;
 import java.net.URL;
+import java.net.URLConnection;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -49,7 +50,10 @@ public class CacheUpdate {
 		cacheIn.close();
 		
 		URL feedAddress = new URL(feedUrl);
-		BufferedReader feedIn = new BufferedReader(new InputStreamReader(feedAddress.openStream()));
+		URLConnection feedCon = feedAddress.openConnection();
+		feedCon.setConnectTimeout(10000);
+		feedCon.setReadTimeout(10000);
+		BufferedReader feedIn = new BufferedReader(new InputStreamReader(feedCon.getInputStream()));
 		List<String> feedLines = new ArrayList<String>();
 		while((line = feedIn.readLine()) != null )
 			feedLines.add(line);
