@@ -37,9 +37,30 @@ public class NewsCrawlerUpdate implements Runnable{
 			//if differences found: parse both versions
 			String cacheUrl = (new File(this.toUpdate.getCache())).toURI().toURL().toString();
 			List<SourceFeedEntry> cachedFeedList = FeedReader.read(cacheUrl);
-			changeChecker.applyToCache();	//update cache to current version
+			//update cache to current version
+			changeChecker.applyToCache();
 			List<SourceFeedEntry> currentFeedList = FeedReader.read(cacheUrl);
 			
+			
+			this.oldEntries.clear();
+			this.newEntries.clear();
+				while(!cachedFeedList.isEmpty()) {
+					boolean matched = false;
+					for(int i = 0; i < currentFeedList.size(); i++) {
+						if(cachedFeedList.get(0).getURL().equalsIgnoreCase(currentFeedList.get(i).getURL())) {
+							matched = true;
+							currentFeedList.remove(i);
+							break;
+						}		
+					}
+					if(!matched) {
+						this.oldEntries.add(cachedFeedList.get(0));
+					}
+					cachedFeedList.remove(0);
+				}
+				this.newEntries.addAll(currentFeedList);
+
+			/*
 			//if old entries were deleted
 			this.oldEntries.clear();
 			if(changeChecker.hasDeletions()) {
@@ -67,6 +88,8 @@ public class NewsCrawlerUpdate implements Runnable{
 					this.newEntries.addAll(currentFeedList);
 				}
 			}
+			*/
+			
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -89,39 +112,41 @@ public class NewsCrawlerUpdate implements Runnable{
 			}
 		}
 		
-		//enlarge and process FeedEntries in a pipe
-		//while srvEnlarger waits for an external service to enlarge a FeedEntry, 
-		//srvUpdater updates the already enlarged FeedEntries
-		EnlargingService srvEnlarger = new EnlargingService(this.newEntries);
-		UpdateService srvUpdater = new UpdateService(this.database, this.toUpdate.getId());
-		srvEnlarger.start();
-		srvUpdater.start();
-		for(SourceFeedEntry current : this.newEntries) {
-			try {
-				synchronized(current) {
-					do {
-						current.wait();
-					} while(current.getText()==null);
+		if (!this.newEntries.isEmpty()) {
+			//enlarge and process FeedEntries in a pipe
+			//while srvEnlarger waits for an external service to enlarge a FeedEntry, 
+			//srvUpdater updates the already enlarged FeedEntries
+			EnlargingService srvEnlarger = new EnlargingService(this.newEntries);
+			UpdateService srvUpdater = new UpdateService(this.database, this.toUpdate.getId());
+			srvEnlarger.start();
+			srvUpdater.start();
+			for (SourceFeedEntry current : this.newEntries) {
+				try {
+					synchronized (current) {
+						do {
+							current.wait();
+						} while (current.getText() == null);
+					}
+				} catch (InterruptedException e) {
+					// TODO interrupts not expected
+					return;
 				}
-			} catch (InterruptedException e) {
-				// TODO interrupts not expected
-				return;
+				synchronized (srvUpdater) {
+					srvUpdater.addEntry(current);
+				}
 			}
-			synchronized(srvUpdater) {
-				srvUpdater.addEntry(current);
-			}
-		}
-		SourceFeedEntry last = this.newEntries.get(this.newEntries.size()-1);
-		synchronized(last) {
-			try {
-				last.wait();
-			} catch (InterruptedException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-				return;
-			} finally {
-				srvUpdater.interrupt();
-			}
+			SourceFeedEntry last = this.newEntries.get(this.newEntries.size() - 1);
+			synchronized (last) {
+				try {
+					last.wait();
+				} catch (InterruptedException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+					return;
+				} finally {
+					srvUpdater.interrupt();
+				}
+			} 
 		}
 		
 	}

@@ -90,6 +90,7 @@ public class DBconnection implements Closeable {
 		}
 		catch (SQLException e) {
 			try {
+				System.err.println("Error during SQL Order: " + e.getMessage());
 				this.refreshConnection();
 				return stat.executeUpdate();
 			}
