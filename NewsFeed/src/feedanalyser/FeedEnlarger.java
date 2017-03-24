@@ -13,15 +13,13 @@ import org.apache.commons.lang3.StringEscapeUtils;
  */
 public class FeedEnlarger {
 		
-	public static String getContent(String url)
-	{
+	public static String getContent(String url) {
 		String ret = requestFiveFilters(url);
 		if(ret==null) ret = requestFeedEnlarger(url);
 		return ret;
 	}
 	
-	private static String requestFiveFilters(String url)
-	{
+	private static String requestFiveFilters(String url) {
 		try {
 			String feedUrl = "http://ftr.fivefilters.org/makefulltextfeed.php?url=";
 			feedUrl += URLEncoder.encode(url, "UTF-8");
@@ -38,8 +36,7 @@ public class FeedEnlarger {
 		}		
 	}
 	
-	private static String requestFeedEnlarger(String url)
-	{
+	private static String requestFeedEnlarger(String url) {
 		try {
 			String feedUrl = "http://feedenlarger.com/makefulltextfeed.php?url=";
 			feedUrl += URLEncoder.encode(url, "UTF-8");

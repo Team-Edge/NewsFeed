@@ -17,8 +17,7 @@ public class SourceFeedEntry {
 	private String URL;
 	private String imgURL;
 	
-	public SourceFeedEntry(String title, String description, Date pubDate, String text, String URL, String imgURL){
-		
+	public SourceFeedEntry(String title, String description, Date pubDate, String text, String URL, String imgURL) {
 		this.title = title;
 		this.description = description;
 		if(pubDate != null) this.pubDate = pubDate;
@@ -28,23 +27,23 @@ public class SourceFeedEntry {
 		this.imgURL = imgURL;
 	}
 	
-	public SourceFeedEntry(SyndEntry entry)
-	{
+	public SourceFeedEntry(SyndEntry entry) {
 		this.title = entry.getTitle();
 		this.description = entry.getDescription().getValue();
-		if(this.description == null || this.description.isEmpty())
+		if(this.description == null || this.description.isEmpty()) {
 			this.description = this.title;
-		if(entry.getUpdatedDate() != null) 
+		}
+		if(entry.getUpdatedDate() != null) {
 			this.pubDate = entry.getUpdatedDate();
-		else
+		} else {
 			this.pubDate = new java.util.Date();
+		}
 		this.text = null;
 		this.URL = entry.getLink();
 		this.imgURL = null;
 	}
 	
-	public void enlarge()
-	{
+	public void enlarge() {
 		this.text = FeedEnlarger.getContent(this.URL);
 		if(this.text == null) {
 			this.text = this.description;
@@ -88,7 +87,6 @@ public class SourceFeedEntry {
 	public String toString() {
 		return "Feed [URL=" + URL + "]";
 	}
-	
 	
 	
 }

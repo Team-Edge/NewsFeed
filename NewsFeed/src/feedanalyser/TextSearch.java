@@ -36,41 +36,38 @@ public class TextSearch implements Closeable {
 		this.analyzer = new StandardAnalyzer();
 		this.index = new RAMDirectory();
 		new IndexWriterConfig(analyzer);
-		IndexWriter w = new IndexWriter(index, new IndexWriterConfig(analyzer));
-		Document doc = new Document();
-		doc.add(new TextField("title", article.getTitle(), Field.Store.YES));
-		doc.add(new TextField("description", article.getDescription(), Field.Store.YES));
-		doc.add(new TextField("text", article.getText(), Field.Store.YES));
-		w.addDocument(doc);
-		w.close();
+		try (IndexWriter w = new IndexWriter(index, new IndexWriterConfig(analyzer))) {
+			Document doc = new Document();
+			doc.add(new TextField("title", article.getTitle(), Field.Store.YES));
+			doc.add(new TextField("description", article.getDescription(), Field.Store.YES));
+			doc.add(new TextField("text", article.getText(), Field.Store.YES));
+			w.addDocument(doc);
+		}
 	}
 	
-	public boolean query(List<String> titleWords, List<String> descrWords, List<String> textWords) throws ParseException, IOException
-	{
+	public boolean query(List<String> titleWords, List<String> descrWords, List<String> textWords) throws ParseException, IOException {
 		BooleanQuery.Builder queryBuilder = new BooleanQuery.Builder();
-		for(String word : titleWords)
-		{
+		for(String word : titleWords) {
 			Query subquery = new QueryParser("title", this.analyzer).parse(word);
 			queryBuilder.add(subquery, BooleanClause.Occur.FILTER);
 		}
-		for(String word : descrWords)
-		{
+		for(String word : descrWords) {
 			Query subquery = new QueryParser("description", this.analyzer).parse(word);
 			queryBuilder.add(subquery, BooleanClause.Occur.FILTER);
 		}
-		for(String word : textWords)
-		{
+		for(String word : textWords) {
 			Query subquery = new QueryParser("text", this.analyzer).parse(word);
 			queryBuilder.add(subquery, BooleanClause.Occur.FILTER);
 		}
 		Query query = queryBuilder.build();
 		
-	    IndexReader reader = DirectoryReader.open(index);
-	    IndexSearcher searcher = new IndexSearcher(reader);
-	    TopScoreDocCollector collector = TopScoreDocCollector.create(1);
-	    searcher.search(query, collector);
-	    int numOfHits = collector.getTotalHits();
-	    reader.close();
+		int numOfHits=0;
+	    try (IndexReader reader = DirectoryReader.open(index)) {
+		    IndexSearcher searcher = new IndexSearcher(reader);
+		    TopScoreDocCollector collector = TopScoreDocCollector.create(1);
+		    searcher.search(query, collector);
+		    numOfHits = collector.getTotalHits();
+	    }
 	    
 	    if(numOfHits > 0) {
 	    	return true;

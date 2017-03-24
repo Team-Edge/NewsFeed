@@ -4,6 +4,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.text.SimpleDateFormat;
 import datatypes.SourceFeedEntry;
+import newsfeed.Configuration;
 
 public class OrderInsertSourceFeedEntry {
 	private SqlOrder wrapped;
@@ -18,7 +19,7 @@ public class OrderInsertSourceFeedEntry {
 		this.wrapped.setStmtString(2, entry.getTitle());
 		this.wrapped.setStmtString(3, entry.getDescription());
 		this.wrapped.setStmtString(4, entry.getImgURL());
-		this.wrapped.setStmtString(5, new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(entry.getPubDate()));
+		this.wrapped.setStmtString(5, new SimpleDateFormat(Configuration.getDbSqlDateFormat()).format(entry.getPubDate()));
 		this.wrapped.setStmtString(6, entry.getURL());
 		this.wrapped.setStmtString(7, entry.getText());
 		String sql2 = "SELECT LAST_INSERT_ID(); ";

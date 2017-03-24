@@ -23,11 +23,10 @@ public class DBconnection implements Closeable {
 	private String password;	
 	private Connection con;
 	
-	public DBconnection(String connectionString, String username, String password) throws SQLException
-	{
-		this.connectionString = connectionString;	// "jdbc:mysql://127.0.0.1:3306/Newsfeed"
-		this.username = username;					// "Edge"
-		this.password = password;					// "*******"
+	public DBconnection(String connectionString, String username, String password) throws SQLException {
+		this.connectionString = connectionString;
+		this.username = username;
+		this.password = password;
 		try {
 			this.con = DriverManager.getConnection(connectionString, username, password);
 		} catch (SQLException e) {
@@ -36,8 +35,7 @@ public class DBconnection implements Closeable {
 		}
 	}
 	
-	private void refreshConnection() throws SQLException
-	{
+	private void refreshConnection() throws SQLException {
 		try {
 			con.close();
 		} catch (SQLException e) {}
@@ -49,8 +47,7 @@ public class DBconnection implements Closeable {
 		}
 	}
 	
-	public PreparedStatement createStatement(String sql) throws SQLException
-	{
+	public PreparedStatement createStatement(String sql) throws SQLException {
 		try {
 			return this.con.prepareStatement(sql);
 		}
@@ -59,15 +56,13 @@ public class DBconnection implements Closeable {
 				this.refreshConnection();
 				return this.con.prepareStatement(sql);
 			}
-			catch (SQLException e1)
-			{
-				throw e1;
+			catch (SQLException e1) {
+				throw e;
 			}
 		}
 	}
 	
-	public synchronized ResultSet request(PreparedStatement stat) throws SQLException
-	{
+	public synchronized ResultSet request(PreparedStatement stat) throws SQLException {
 		try {
 			return stat.executeQuery();
 		}
@@ -76,15 +71,13 @@ public class DBconnection implements Closeable {
 				this.refreshConnection();
 				return stat.executeQuery();
 			}
-			catch (SQLException e1)
-			{
-				throw e1;
+			catch (SQLException e1) {
+				throw e;
 			}
 		}
 	}
 	
-	public synchronized int execute(PreparedStatement stat) throws Exception
-	{
+	public synchronized int execute(PreparedStatement stat) throws Exception {
 		try {
 			return stat.executeUpdate();
 		}
@@ -94,9 +87,8 @@ public class DBconnection implements Closeable {
 				this.refreshConnection();
 				return stat.executeUpdate();
 			}
-			catch (SQLException e1)
-			{
-				throw e1;
+			catch (SQLException e1) {
+				throw e;
 			}
 		}
 	}

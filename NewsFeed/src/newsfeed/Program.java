@@ -10,31 +10,38 @@ import database.DBconnection;
 import database.QuerySourceFeeds;
 import datatypes.SourceFeed;
 
+
+
 public class Program {
 
 	
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
+		Configuration.loadFromFile("./config.txt");
+		
+		Calendar cal = Calendar.getInstance();
+        SimpleDateFormat sdf = new SimpleDateFormat(Configuration.getGeneralOutputDateFormat());
+		System.out.println(sdf.format(cal.getTime()) + " : Program started");
+		
 		DBconnection database = null;
 		try {
-			database = new DBconnection("jdbc:mysql://127.0.0.1:3306/Newsfeed", "*****", "******");
+			database = new DBconnection("jdbc:mysql://" + Configuration.getDbServerHostName()
+										+ ":" + Configuration.getDbServerPort()
+										+ "/" + Configuration.getDbServerSchemaName(), 
+										Configuration.getDbServerUserName(), 
+										Configuration.getDbServerPassword());
 
-			
-			Calendar cal = Calendar.getInstance();
-	        SimpleDateFormat sdf = new SimpleDateFormat("HH:mm:ss");
-			System.out.println("Start: "  + sdf.format(cal.getTime()));
 			
 			do {
 				List<SourceFeed> sourceFeeds;
 				try {
 					sourceFeeds = new QuerySourceFeeds(database).getSources();
 				} catch (Exception e) {
-					e.printStackTrace();
-					//wait some time
+					System.err.println(sdf.format(cal.getTime()) + " : Could not get SourceFeeds from DB");
+					System.err.println(e.getMessage());
+					System.err.println();
 					try {
-						Thread.sleep(10000);
+						Thread.sleep(Configuration.getNetworkConnectionTimeout());
 					} catch (InterruptedException e1) {
-						//stop on interrupt
 						return;
 					}
 					//try again
@@ -47,20 +54,28 @@ public class Program {
 					//NewsCrawlerUpdate implements Runnable, 
 					//but doing all updates at the same time is not recommended
 					update.run();
+					
+					try {
+						Thread.sleep(Configuration.getServiceCyclicDelay());
+					} catch (InterruptedException e1) {
+						return;
+					}
 				}
 				
-			} while(true);
+			} while(Configuration.getServiceInfiniteLoop());
 			
-			//this is for time-measuring with a single loop above
-			//cal = Calendar.getInstance();
-			//System.out.println("Stop: " + sdf.format(cal.getTime()));
+
 			
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			//we can not work without a DB connection
-			return;
+			System.err.println(sdf.format(cal.getTime()) + " : DB-Login failed");
+			System.err.println(e.getMessage());
+			System.err.println();
+		} catch (Exception e) {
+			System.err.println(sdf.format(cal.getTime()) + " : Unknown error in Program.main()");
+			System.err.println(e.getMessage());
+			System.err.println();
 		} finally {
+			System.out.println(sdf.format(cal.getTime()) + " : Program ended");
 			try {
 				database.close();
 			} catch (IOException e) {

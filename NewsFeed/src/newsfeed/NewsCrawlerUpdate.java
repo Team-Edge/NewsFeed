@@ -1,6 +1,8 @@
 package newsfeed;
 
 import java.io.File;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -18,21 +20,20 @@ public class NewsCrawlerUpdate implements Runnable{
 	private List<SourceFeedEntry> oldEntries;
 	
 	
-	public NewsCrawlerUpdate(SourceFeed toUpdate, DBconnection database)
-	{
+	public NewsCrawlerUpdate(SourceFeed toUpdate, DBconnection database) {
 		this.toUpdate = toUpdate;
 		this.database = database;
 		this.oldEntries = new LinkedList<SourceFeedEntry>();
 		this.newEntries = new LinkedList<SourceFeedEntry>();		
 	}
 	
-	private void fetchEntries()
-	{
+	private void fetchEntries() {
 		try {
 			//fetch RSS feed and compare to cached version
 			CacheUpdate changeChecker = new CacheUpdate(this.toUpdate.getUrl(), this.toUpdate.getCache());
-			if(!changeChecker.hasChanges()) 
+			if(!changeChecker.hasChanges()) {
 				return;
+			}
 			
 			//if differences found: parse both versions
 			String cacheUrl = (new File(this.toUpdate.getCache())).toURI().toURL().toString();
@@ -59,40 +60,13 @@ public class NewsCrawlerUpdate implements Runnable{
 					cachedFeedList.remove(0);
 				}
 				this.newEntries.addAll(currentFeedList);
-
-			/*
-			//if old entries were deleted
-			this.oldEntries.clear();
-			if(changeChecker.hasDeletions()) {
-				try {
-					SourceFeedEntry oldestNew = currentFeedList.get(currentFeedList.size()-1);
-					for(int i = cachedFeedList.size()-1; cachedFeedList.get(i).getURL() != oldestNew.getURL(); i--) {
-						this.oldEntries.add(cachedFeedList.get(i));
-					}
-				} catch (IndexOutOfBoundsException e) {
-					this.oldEntries.clear();
-					this.oldEntries.addAll(cachedFeedList);
-				}
-			}
-			
-			//if new entries were added
-			this.newEntries.clear();
-			if(changeChecker.hasInsertions()) {
-				try {
-					SourceFeedEntry newestOld = cachedFeedList.get(0); 
-					for(int i = 0; currentFeedList.get(i).getURL() != newestOld.getURL(); i++) {
-						this.newEntries.add(currentFeedList.get(i));
-					}
-				} catch (IndexOutOfBoundsException e) {
-					this.newEntries.clear();
-					this.newEntries.addAll(currentFeedList);
-				}
-			}
-			*/
 			
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			Calendar cal = Calendar.getInstance();
+	        SimpleDateFormat sdf = new SimpleDateFormat(Configuration.getGeneralOutputDateFormat());
+	        System.err.println(sdf.format(cal.getTime()) + " : Unknown error during NewsCrawlerUpdate");
+			System.err.println(e.getMessage());
+			System.err.println();
 		}	
 	}
 
@@ -102,13 +76,15 @@ public class NewsCrawlerUpdate implements Runnable{
 		
 		//remove old entries from database
 		//actually: mark them as free to be removed
-		for(SourceFeedEntry toRemove : this.oldEntries)
-		{
+		for(SourceFeedEntry toRemove : this.oldEntries) {
 			try {
 				new OrderRemoveSourceFeedEntry(this.database, toRemove).execute();
 			} catch (Exception e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
+				Calendar cal = Calendar.getInstance();
+		        SimpleDateFormat sdf = new SimpleDateFormat(Configuration.getGeneralOutputDateFormat());
+		        System.err.println(sdf.format(cal.getTime()) + " : Old FeedEntry could not be removed");
+				System.err.println(e.getMessage());
+				System.err.println();
 			}
 		}
 		
@@ -128,7 +104,7 @@ public class NewsCrawlerUpdate implements Runnable{
 						} while (current.getText() == null);
 					}
 				} catch (InterruptedException e) {
-					// TODO interrupts not expected
+					// interrupts not expected here
 					return;
 				}
 				synchronized (srvUpdater) {
@@ -140,8 +116,11 @@ public class NewsCrawlerUpdate implements Runnable{
 				try {
 					last.wait();
 				} catch (InterruptedException e) {
-					// TODO Auto-generated catch block
-					e.printStackTrace();
+					Calendar cal = Calendar.getInstance();
+			        SimpleDateFormat sdf = new SimpleDateFormat(Configuration.getGeneralOutputDateFormat());
+			        System.err.println(sdf.format(cal.getTime()) + " : NewsCrawlerUpdate was interrupted. ");
+					System.err.println(e.getMessage());
+					System.err.println();
 					return;
 				} finally {
 					srvUpdater.interrupt();

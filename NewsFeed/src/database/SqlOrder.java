@@ -10,8 +10,7 @@ public class SqlOrder {
 	private PreparedStatement stat;
 
 	
-	public SqlOrder(DBconnection database,  String sql) throws SQLException
-	{
+	public SqlOrder(DBconnection database,  String sql) throws SQLException {
 		this.database = database;
 		this.stat = this.database.createStatement(sql);
 	}
@@ -24,10 +23,8 @@ public class SqlOrder {
 		stat.setInt(position, value);
 	}
 
-	public int execute() throws Exception
-	{
-		synchronized(database)
-		{
+	public int execute() throws Exception {
+		synchronized(database) {
 			return database.execute(this.stat);
 		}
 	}
