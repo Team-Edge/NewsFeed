@@ -11,15 +11,16 @@ public class OrderInsertSourceFeedEntry {
 	
 	public OrderInsertSourceFeedEntry(DBconnection database, SourceFeedEntry entry, int sourceFeedID) throws SQLException {
 		String sql = "INSERT INTO Newsfeed.SourceFeedEntry "
-			+ "(SourceFeed_ID, Title, Description, PubDate, URL, Text) "
-			+ "VALUES( ?, ?, ?, ?, ?, ?); ";
+			+ "(SourceFeed_ID, Title, Description, Img_URL, PubDate, URL, Text) "
+			+ "VALUES( ?, ?, ?, ?, ?, ?, ?); ";
 		this.wrapped = new SqlOrder(database, sql);
 		this.wrapped.setStmtInt(1, sourceFeedID);
 		this.wrapped.setStmtString(2, entry.getTitle());
 		this.wrapped.setStmtString(3, entry.getDescription());
-		this.wrapped.setStmtString(4, new SimpleDateFormat("yyyy-MM-dd").format(entry.getPubDate()));
-		this.wrapped.setStmtString(5, entry.getURL());
-		this.wrapped.setStmtString(6, entry.getText());
+		this.wrapped.setStmtString(4, entry.getImgURL());
+		this.wrapped.setStmtString(5, new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(entry.getPubDate()));
+		this.wrapped.setStmtString(6, entry.getURL());
+		this.wrapped.setStmtString(7, entry.getText());
 		String sql2 = "SELECT LAST_INSERT_ID(); ";
 		this.getLastID = new SqlQuery(database, sql2);
 	}

@@ -1,6 +1,9 @@
 package datatypes;
 
 import java.util.Date;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
 import com.sun.syndication.feed.synd.SyndEntry;
 
 import feedanalyser.FeedEnlarger;
@@ -12,8 +15,9 @@ public class SourceFeedEntry {
 	private Date pubDate;
 	private String text;
 	private String URL;
+	private String imgURL;
 	
-	public SourceFeedEntry(String title, String description, Date pubDate, String text, String URL){
+	public SourceFeedEntry(String title, String description, Date pubDate, String text, String URL, String imgURL){
 		
 		this.title = title;
 		this.description = description;
@@ -21,18 +25,22 @@ public class SourceFeedEntry {
 		else this.pubDate = new java.util.Date();
 		this.text = text;
 		this.URL = URL;
+		this.imgURL = imgURL;
 	}
 	
 	public SourceFeedEntry(SyndEntry entry)
 	{
 		this.title = entry.getTitle();
 		this.description = entry.getDescription().getValue();
+		if(this.description == null || this.description.isEmpty())
+			this.description = this.title;
 		if(entry.getUpdatedDate() != null) 
 			this.pubDate = entry.getUpdatedDate();
 		else
 			this.pubDate = new java.util.Date();
 		this.text = null;
 		this.URL = entry.getLink();
+		this.imgURL = null;
 	}
 	
 	public void enlarge()
@@ -41,6 +49,15 @@ public class SourceFeedEntry {
 		if(this.text == null) {
 			this.text = this.description;
 		}
+		
+		 Pattern p = Pattern.compile("<img src=\"(\\S+)\"(\\p{ASCII})*/>");
+		 Matcher m = p.matcher(this.text);
+		 if (m.find()) {
+			 this.imgURL = m.group(1);
+		 }
+		 else {
+			 this.imgURL = "";
+		 }
 	}
 
 	public String getText() {
@@ -61,6 +78,10 @@ public class SourceFeedEntry {
 
 	public String getURL() {
 		return URL;
+	}
+
+	public String getImgURL() {
+		return imgURL;
 	}
 
 	@Override

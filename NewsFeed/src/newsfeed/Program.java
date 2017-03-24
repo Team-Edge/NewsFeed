@@ -17,7 +17,8 @@ public class Program {
 	{
 		DBconnection database = null;
 		try {
-			database = new DBconnection("jdbc:mysql://www.******.***:3306/Newsfeed", "*****", "******");
+			database = new DBconnection("jdbc:mysql://127.0.0.1:3306/Newsfeed", "*****", "******");
+
 			
 			Calendar cal = Calendar.getInstance();
 	        SimpleDateFormat sdf = new SimpleDateFormat("HH:mm:ss");
@@ -48,10 +49,11 @@ public class Program {
 					update.run();
 				}
 				
-			} while(false);
+			} while(true);
 			
-			cal = Calendar.getInstance();
-			System.out.println("Stop: " + sdf.format(cal.getTime()));
+			//this is for time-measuring with a single loop above
+			//cal = Calendar.getInstance();
+			//System.out.println("Stop: " + sdf.format(cal.getTime()));
 			
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
