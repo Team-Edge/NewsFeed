@@ -14,18 +14,18 @@ import com.sun.syndication.io.SyndFeedInput;
 import com.sun.syndication.io.XmlReader;
 
 import datatypes.SourceFeedEntry;
+import newsfeed.Configuration;
 
 
 public class FeedReader {
     
-    public static List<SourceFeedEntry> read(String url) throws IllegalArgumentException, FeedException, IOException
-    {
+    public static List<SourceFeedEntry> read(String url) throws IllegalArgumentException, FeedException, IOException {
         URL feedUrl = new URL(url);
         SyndFeedInput input = new SyndFeedInput();
         SyndFeed feed;
 		URLConnection feedCon = feedUrl.openConnection();
-		feedCon.setConnectTimeout(10000);
-		feedCon.setReadTimeout(10000);
+		feedCon.setConnectTimeout(Configuration.getNetworkConnectionTimeout());
+		feedCon.setReadTimeout(Configuration.getNetworkReadTimeout());
         try {
         	feed = input.build(new XmlReader(feedCon.getInputStream()));
         } catch(Exception e) {

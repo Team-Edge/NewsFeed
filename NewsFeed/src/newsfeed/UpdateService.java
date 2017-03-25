@@ -51,8 +51,7 @@ public class UpdateService extends Thread {
 		do {
 			// get/wait for the next entry
 			do {
-				synchronized(this)
-				{
+				synchronized(this) {
 					//thread tries to get the next entry from the queue
 					current = this.getEntry();
 				}

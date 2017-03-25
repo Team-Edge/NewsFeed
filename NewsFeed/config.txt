@@ -1,0 +1,34 @@
+# config.txt
+# Configuration for NewsFeed Backend
+
+	# These data are required for login to the database
+	# MySQL or MariaDB running on the dbServer is required, a local server is recommanded for performance reasons
+dbServerHostName=127.0.0.1
+dbServerPort=3306
+dbServerSchemaName=newsfeed
+dbServerUserName=root
+dbServerPassword=
+
+	# This is the Date Format which has to be used in SQL Queries
+dbSqlDateFormat=yyyy-MM-dd HH:mm:ss
+
+	# These are Timeout Settings for Network Connections
+	# (Fetching Feeds and waiting for FeedEnlarger Response)
+	# Write the desired number of milliseconds here
+	# 0 is an infinite timeout (not recommended, seriously!), negative values are illegal
+networkConnectionTimeout=10000
+networkReadTimeout=10000
+
+	# If this is true, the program will periodically search for Feed Updates until it is forced to stop by the system or a fatal error
+	# Otherwise, it just updates every registered Feed once and stops after doing this. 
+serviceInfiniteLoop=False
+
+	# This is the idling time between processing two feeds. This is for the Garbage Collector to deallocate some memory waste from the last cycle
+serviceCyclicDelay=1000
+
+	# If this is true, the application will output more information
+	# This has currently no effect
+generalBeVerbose=True
+
+	# This DateFormat is used for the Output of TimeStamps to stdout or stderr
+generalOutputDateFormat=dd.MM.yyyy HH:mm:ss
