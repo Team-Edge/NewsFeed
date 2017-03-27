@@ -29,17 +29,28 @@ public class SourceFeedEntry {
 	
 	public SourceFeedEntry(SyndEntry entry) {
 		this.title = entry.getTitle();
-		this.description = entry.getDescription().getValue();
-		if(this.description == null || this.description.isEmpty()) {
+		
+		try {
+			this.description = entry.getDescription().getValue();
+		} catch (Exception e) {
+			this.description = null;
+		}
+		if(this.description == null) {
 			this.description = this.title;
 		}
+		else if(this.description.trim().isEmpty()) {
+			this.description = this.title;
+		}
+		
 		if(entry.getUpdatedDate() != null) {
 			this.pubDate = entry.getUpdatedDate();
 		} else {
 			this.pubDate = new java.util.Date();
 		}
-		this.text = null;
+		
 		this.URL = entry.getLink();
+		
+		this.text = null;
 		this.imgURL = null;
 	}
 	
