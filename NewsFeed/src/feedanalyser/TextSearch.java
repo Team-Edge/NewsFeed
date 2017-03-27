@@ -46,6 +46,9 @@ public class TextSearch implements Closeable {
 	}
 	
 	public boolean query(List<String> titleWords, List<String> descrWords, List<String> textWords) throws ParseException, IOException {
+		if(titleWords.isEmpty() && descrWords.isEmpty() && textWords.isEmpty()) {
+			return true;
+		}
 		BooleanQuery.Builder queryBuilder = new BooleanQuery.Builder();
 		for(String word : titleWords) {
 			Query subquery = new QueryParser("title", this.analyzer).parse(word);

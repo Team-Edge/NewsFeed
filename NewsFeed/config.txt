@@ -3,10 +3,10 @@
 
 	# These data are required for login to the database
 	# MySQL or MariaDB running on the dbServer is required, a local server is recommanded for performance reasons
-dbServerHostName=127.0.0.1
+dbServerHostName=
 dbServerPort=3306
-dbServerSchemaName=newsfeed
-dbServerUserName=root
+dbServerSchemaName=
+dbServerUserName=
 dbServerPassword=
 
 	# This is the Date Format which has to be used in SQL Queries

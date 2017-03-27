@@ -36,6 +36,7 @@ public class Program {
 				try {
 					sourceFeeds = new QuerySourceFeeds(database).getSources();
 				} catch (Exception e) {
+					cal = Calendar.getInstance();
 					System.err.println(sdf.format(cal.getTime()) + " : Could not get SourceFeeds from DB");
 					System.err.println(e.getMessage());
 					System.err.println();
@@ -67,14 +68,17 @@ public class Program {
 
 			
 		} catch (SQLException e) {
+			cal = Calendar.getInstance();
 			System.err.println(sdf.format(cal.getTime()) + " : DB-Login failed");
 			System.err.println(e.getMessage());
 			System.err.println();
 		} catch (Exception e) {
+			cal = Calendar.getInstance();
 			System.err.println(sdf.format(cal.getTime()) + " : Unknown error in Program.main()");
 			System.err.println(e.getMessage());
 			System.err.println();
 		} finally {
+			cal = Calendar.getInstance();
 			System.out.println(sdf.format(cal.getTime()) + " : Program ended");
 			try {
 				database.close();

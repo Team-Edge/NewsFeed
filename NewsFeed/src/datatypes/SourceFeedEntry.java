@@ -28,10 +28,14 @@ public class SourceFeedEntry {
 	}
 	
 	public SourceFeedEntry(SyndEntry entry) {
-		this.title = entry.getTitle();
+		try {
+			this.title = entry.getTitle().trim();
+		} catch (Exception e) {
+			this.title = null;
+		}
 		
 		try {
-			this.description = entry.getDescription().getValue();
+			this.description = entry.getDescription().getValue().trim();
 		} catch (Exception e) {
 			this.description = null;
 		}
