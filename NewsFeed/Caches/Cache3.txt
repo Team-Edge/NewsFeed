@@ -4,7 +4,39 @@
   <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commits/master"/>
   <link type="application/atom+xml" rel="self" href="https://github.com/Team-Edge/NewsFeed/commits/master.atom"/>
   <title>Recent Commits to NewsFeed:master</title>
-  <updated>2017-03-27T20:18:50Z</updated>
+  <updated>2017-03-28T14:23:35Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4a72e9af81bb9eead9ec24c6b97eaf8720f744f2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/4a72e9af81bb9eead9ec24c6b97eaf8720f744f2"/>
+    <title>
+        exported to an executable jar file
+    </title>
+    <updated>2017-03-28T14:23:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/25927991?v=3&amp;s=30"/>
+    <author>
+      <name>0xDEADBE01plus0xEE</name>
+      <uri>https://github.com/0xDEADBE01plus0xEE</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;exported to an executable jar file&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/694833e7abeefcf09b5d58dea3e21cee1d5466c4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/694833e7abeefcf09b5d58dea3e21cee1d5466c4"/>
+    <title>
+        improvements in database organization and connections
+    </title>
+    <updated>2017-03-28T14:19:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/25927991?v=3&amp;s=30"/>
+    <author>
+      <name>0xDEADBE01plus0xEE</name>
+      <uri>https://github.com/0xDEADBE01plus0xEE</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;improvements in database organization and connections&lt;/pre&gt;
+    </content>
+  </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/5b30a69bab810236b1e3bf29e3c9c09c93b92864</id>
     <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/5b30a69bab810236b1e3bf29e3c9c09c93b92864"/>
@@ -312,51 +344,6 @@ they are provided in an unexpected order by their publishers.&lt;/pre&gt;
     </author>
     <content type="html">
       &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add files via upload&lt;/pre&gt;
-    </content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:Grit::Commit/c79fb01b3aa273cfed6786fa024e8a108e3343b2</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/c79fb01b3aa273cfed6786fa024e8a108e3343b2"/>
-    <title>
-        added auto-generated CacheFile for Tagesschau
-    </title>
-    <updated>2017-03-22T22:17:09Z</updated>
-    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/25927991?v=3&amp;s=30"/>
-    <author>
-      <name>0xDEADBE01plus0xEE</name>
-      <uri>https://github.com/0xDEADBE01plus0xEE</uri>
-    </author>
-    <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;added auto-generated CacheFile for Tagesschau&lt;/pre&gt;
-    </content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:Grit::Commit/df856e0f026f1ee4cc1f43053ec5fcc53fa68992</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/df856e0f026f1ee4cc1f43053ec5fcc53fa68992"/>
-    <title>
-        fixed some SQL and thread synchronization issues
-    </title>
-    <updated>2017-03-22T22:11:40Z</updated>
-    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/25927991?v=3&amp;s=30"/>
-    <author>
-      <name>0xDEADBE01plus0xEE</name>
-      <uri>https://github.com/0xDEADBE01plus0xEE</uri>
-    </author>
-    <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fixed some SQL and thread synchronization issues
-
-tested successfully from remote client on target server&amp;#39;s DB.
-Collecting, enlarging and filtering (to one fake profile) took 49
-seconds (because of the far-too-slow network connection of my client). 
-
-TODO: 
-- insert server data after pull (github is public, our password is not)
-- main program loop has to run forever and not only once (this was just
-for testing and time measurement)
-- improve exception-handling before productive use
-- some eye-candy
-- try to parse Deltas directly during cacheUpdate
-- find other FeedEnlarger services&lt;/pre&gt;
     </content>
   </entry>
 </feed>

@@ -21,56 +21,14 @@
 		
 		<atom:link href="http://rss.focus.de/" rel="self" type="application/rss+xml" />
 		<item>
-						<title>Gesunde Ernährung - Butter, Eier, Weißbrot: Welche Lebensmittel zu Unrecht verteufelt werden</title>
-						<link>http://www.focus.de/gesundheit/ernaehrung/gesundessen/gesunde-ernaehrung-butter-eier-weissbrot-welche-lebensmittel-zu-unrecht-verteufelt-werden_id_6844396.html</link>
-						<description>
-							Für viele Menschen ist ein lustvolles Genießen der Mahlzeiten schon lange nicht mehr möglich. Denn überall im Essen lauern Gefahren: Gluten, Fett, Cholesterin und Koffein – ein einziges Gesundheitsrisiko. Doch die Angst vor bestimmten Lebensmitteln ist in vielen Fällen unbegründet.Von FOCUS-Online-Autorin Petra Apfel</description>
-						<category domain="">Gesund essen</category>
-						<pubDate>
-							Tue, 28 Mar 2017 14:47:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6844396</guid>
-						<author>Von FOCUS-Online-Autorin Petra Apfel</author>
-						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6725119/7332614097-cv3_2-w120-q72-p4/colourbox21175614.jpg" />
-								Für viele Menschen ist ein lustvolles Genießen der Mahlzeiten schon lange nicht mehr möglich. Denn überall im Essen lauern Gefahren: Gluten, Fett, Cholesterin und Koffein – ein einziges Gesundheitsrisiko. Doch die Angst vor bestimmten Lebensmitteln ist in vielen Fällen unbegründet.Von FOCUS-Online-Autorin Petra Apfel]]></content:encoded>
-						<media:category>news</media:category>
-						
-						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
-						<media:description type="plain">
-							Für viele Menschen ist ein lustvolles Genießen der Mahlzeiten schon lange nicht mehr möglich. Denn überall im Essen lauern Gefahren: Gluten, Fett, Cholesterin und Koffein – ein einziges Gesundheitsrisiko. Doch die Angst vor bestimmten Lebensmitteln ist in vielen Fällen unbegründet.Von FOCUS-Online-Autorin Petra Apfel</media:description>
-						<media:title>Gesunde Ernährung - Butter, Eier, Weißbrot: Welche Lebensmittel zu Unrecht verteufelt werden</media:title>
-						<media:player url="http://www.focus.de/gesundheit/ernaehrung/gesundessen/gesunde-ernaehrung-butter-eier-weissbrot-welche-lebensmittel-zu-unrecht-verteufelt-werden_id_6844396.html" width="990" height="600" />
-						</item>
-			<item>
-						<title>Goldmünze in Berlin gestohlen - Keine Spur von &#034;Big Maple Leaf&#034;: Polizei ermittelt auch zu möglichen Helfern</title>
-						<link>http://www.focus.de/regional/berlin/goldmuenze-in-berlin-gestohlen-keine-spur-von-big-maple-leaf-polizei-ermittelt-auch-zu-moeglichen-helfern_id_6843679.html</link>
-						<description>
-							Einbrecher erbeuten eine 100 Kilo schwere Goldmünze. Beim Millionen-Diebstahl können die Täter offenbar unbehelligt in das Münzkabinett eindringen. Die Polizei sucht jetzt nach Zeugen.</description>
-						<category domain="">Berlin</category>
-						<pubDate>
-							Tue, 28 Mar 2017 14:46:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6843679</guid>
-						<author>dpa</author>
-						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6843305/209261781-cv3_2-w120-q72-p4/urn-newsml-dpa-com-20090101-170328-99-837382-large-4-3.jpg" />
-								Einbrecher erbeuten eine 100 Kilo schwere Goldmünze. Beim Millionen-Diebstahl können die Täter offenbar unbehelligt in das Münzkabinett eindringen. Die Polizei sucht jetzt nach Zeugen.]]></content:encoded>
-						<media:category>news</media:category>
-						
-						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
-						<media:description type="plain">
-							Einbrecher erbeuten eine 100 Kilo schwere Goldmünze. Beim Millionen-Diebstahl können die Täter offenbar unbehelligt in das Münzkabinett eindringen. Die Polizei sucht jetzt nach Zeugen.</media:description>
-						<media:title>Goldmünze in Berlin gestohlen - Keine Spur von &#034;Big Maple Leaf&#034;: Polizei ermittelt auch zu möglichen Helfern</media:title>
-						<media:player url="http://www.focus.de/regional/berlin/goldmuenze-in-berlin-gestohlen-keine-spur-von-big-maple-leaf-polizei-ermittelt-auch-zu-moeglichen-helfern_id_6843679.html" width="990" height="600" />
-						</item>
-			<item>
-						<title>In Regensburg verschwundene Studentin - Vater von vermisster Malina K. sicher: &#034;Meine Tochter lebt&#034;</title>
-						<link>http://www.focus.de/panorama/videos/in-regensburg-verschwundene-studentin-vater-von-vermisster-malina-k-sicher-meine-tochter-lebt_id_6844463.html</link>
+						<title>Notfall während TuiFly-Fluges - Copilot fällt aus – Stewardess übernimmt seinen Platz </title>
+						<link>http://www.focus.de/reisen/videos/notfall-waehrend-flug-tuifly-copilot-nach-schwaecheanfall-von-stewardess-im-cockpit-abgeloest_id_6847725.html</link>
 						<description>
 							</description>
 						<category domain="">Video</category>
 						<pubDate>
-							Tue, 28 Mar 2017 14:45:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6844463</guid>
+							Tue, 28 Mar 2017 22:27:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_6847725</guid>
 						<author>wochit</author>
 						<content:encoded>
 							<![CDATA[]]></content:encoded>
@@ -79,19 +37,40 @@
 						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
 						<media:description type="plain">
 							</media:description>
-						<media:title>In Regensburg verschwundene Studentin - Vater von vermisster Malina K. sicher: &#034;Meine Tochter lebt&#034;</media:title>
-						<media:player url="http://www.focus.de/panorama/videos/in-regensburg-verschwundene-studentin-vater-von-vermisster-malina-k-sicher-meine-tochter-lebt_id_6844463.html" width="990" height="600" />
+						<media:title>Notfall während TuiFly-Fluges - Copilot fällt aus – Stewardess übernimmt seinen Platz </media:title>
+						<media:player url="http://www.focus.de/reisen/videos/notfall-waehrend-flug-tuifly-copilot-nach-schwaecheanfall-von-stewardess-im-cockpit-abgeloest_id_6847725.html" width="990" height="600" />
 						</item>
 			<item>
-						<title>Mein Fußball-Moment - Fetter Hammer an die Querlatte - aber ist sein Ball auch drin? </title>
-						<link>http://www.focus.de/regional/mein-fussball-moment/mein-fussball-moment-tsv-lehnerz-ist-der-hammer-von-david-wollny-drin_id_6809193.html</link>
+						<title>Christian Lell - Polizei durchsucht Villa von Ex-Bayern-Star</title>
+						<link>http://www.focus.de/sport/fussball/bundesliga1/ex-profi-des-fc-bayern-polizei-durchsucht-villa-von-christian-lell_id_6844996.html</link>
+						<description>
+							Ärger für Ex-Bayern-Profi Christian Lell. Die Villa des ehemalige Bundesliga-Spielers im Ort Straßlach-Dingharting im Süden von München ist am Dienstagmorgen durchsucht worden.</description>
+						<category domain="">Bundesliga</category>
+						<pubDate>
+							Tue, 28 Mar 2017 22:24:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_6844996</guid>
+						<author>FOCUS</author>
+						<content:encoded>
+							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6845040/668261933-cv3_2-w120-q72-p4/ex-bayern-profi-christian-lell.jpg" />
+								Ärger für Ex-Bayern-Profi Christian Lell. Die Villa des ehemalige Bundesliga-Spielers im Ort Straßlach-Dingharting im Süden von München ist am Dienstagmorgen durchsucht worden.]]></content:encoded>
+						<media:category>news</media:category>
+						
+						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
+						<media:description type="plain">
+							Ärger für Ex-Bayern-Profi Christian Lell. Die Villa des ehemalige Bundesliga-Spielers im Ort Straßlach-Dingharting im Süden von München ist am Dienstagmorgen durchsucht worden.</media:description>
+						<media:title>Christian Lell - Polizei durchsucht Villa von Ex-Bayern-Star</media:title>
+						<media:player url="http://www.focus.de/sport/fussball/bundesliga1/ex-profi-des-fc-bayern-polizei-durchsucht-villa-von-christian-lell_id_6844996.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Mehrere Stunden nicht einsetzbar - Aus Rache? Blitzer in Saarbrücken geteert und gefedert</title>
+						<link>http://www.focus.de/regional/videos/mehrere-stunden-nicht-einsetzbar-aus-rache-blitzer-in-saarbruecken-geteert-und-gefedert_id_6846390.html</link>
 						<description>
 							</description>
-						<category domain="">Mein Fußball-Moment</category>
+						<category domain="">Videos</category>
 						<pubDate>
-							Tue, 28 Mar 2017 14:37:28 +0200</pubDate>
-						<guid isPermaLink="false">aid_6809193</guid>
-						<author>FOCUS</author>
+							Tue, 28 Mar 2017 21:52:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_6846390</guid>
+						<author>wochit</author>
 						<content:encoded>
 							<![CDATA[]]></content:encoded>
 						<media:category>news</media:category>
@@ -99,19 +78,103 @@
 						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
 						<media:description type="plain">
 							</media:description>
-						<media:title>Mein Fußball-Moment - Fetter Hammer an die Querlatte - aber ist sein Ball auch drin? </media:title>
-						<media:player url="http://www.focus.de/regional/mein-fussball-moment/mein-fussball-moment-tsv-lehnerz-ist-der-hammer-von-david-wollny-drin_id_6809193.html" width="990" height="600" />
+						<media:title>Mehrere Stunden nicht einsetzbar - Aus Rache? Blitzer in Saarbrücken geteert und gefedert</media:title>
+						<media:player url="http://www.focus.de/regional/videos/mehrere-stunden-nicht-einsetzbar-aus-rache-blitzer-in-saarbruecken-geteert-und-gefedert_id_6846390.html" width="990" height="600" />
 						</item>
 			<item>
-						<title>Christine Kaufmann - Trauer um Christine Kaufmann: Die Schauspielerin ist gestorben</title>
-						<link>http://www.focus.de/kultur/videos/christine-kaufmann-trauer-um-christine-kaufmann-die-schauspielerin-ist-gestorben_id_6845572.html</link>
+						<title>Mordprozess in München - Mann erdrosselte seine Schwester – vor Gericht bricht er in Tränen aus</title>
+						<link>http://www.focus.de/panorama/welt/mordprozess-in-muenchen-mann-soll-seine-schwester-erdrosselt-haben-vor-gericht-bricht-er-in-traenen-aus_id_6847699.html</link>
+						<description>
+							Ein Schluchzen unterbricht die Anwältin. Der Angeklagte kann seine Tränen nicht zurückhalten. Es ist schon das zweite Mal, dass er seine Anwältin mit der Bitte um ein Taschentuch unterbricht.</description>
+						<category domain="">Aus aller Welt</category>
+						<pubDate>
+							Tue, 28 Mar 2017 21:51:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_6847699</guid>
+						<author>dpa</author>
+						<content:encoded>
+							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6847690/960261976-cv3_2-w120-q72-p4/prozess-gegen-37-jae-52941634.jpg" />
+								Ein Schluchzen unterbricht die Anwältin. Der Angeklagte kann seine Tränen nicht zurückhalten. Es ist schon das zweite Mal, dass er seine Anwältin mit der Bitte um ein Taschentuch unterbricht.]]></content:encoded>
+						<media:category>news</media:category>
+						
+						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
+						<media:description type="plain">
+							Ein Schluchzen unterbricht die Anwältin. Der Angeklagte kann seine Tränen nicht zurückhalten. Es ist schon das zweite Mal, dass er seine Anwältin mit der Bitte um ein Taschentuch unterbricht.</media:description>
+						<media:title>Mordprozess in München - Mann erdrosselte seine Schwester – vor Gericht bricht er in Tränen aus</media:title>
+						<media:player url="http://www.focus.de/panorama/welt/mordprozess-in-muenchen-mann-soll-seine-schwester-erdrosselt-haben-vor-gericht-bricht-er-in-traenen-aus_id_6847699.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Harte Flügelkämpfe - Bittere Tränen von AfD-Chefin Petry offenbaren das Machtproblem der Partei</title>
+						<link>http://www.focus.de/politik/deutschland/bundestagswahl-bittere-traenen-von-afd-chefin-petry-offenbaren-machtproblem-der-rechtspopulisten_id_6847332.html</link>
+						<description>
+							Das Bild überraschte viele: Frauke Petry bricht auf dem Podium beim Landesparteitag der sächsischen AfD in Weinböhla in Tränen aus. Die Bundes- und Landesvorsitzende der AfD, hochschwanger und im Juni ihr fünftes Kind erwartend, sonst souverän und kühl, verliert die Fassung, nachdem sie von zwei Parteikollegen heftig angegriffen worden war.Von FOCUS-Online-Redakteur Ulf Lüdeke</description>
+						<category domain="">Deutschland</category>
+						<pubDate>
+							Tue, 28 Mar 2017 21:41:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_6847332</guid>
+						<author>Von FOCUS-Online-Redakteur Ulf Lüdeke</author>
+						<content:encoded>
+							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6837530/0162619798-cv3_2-w120-q72-p4/frauke-petry.jpg" />
+								Das Bild überraschte viele: Frauke Petry bricht auf dem Podium beim Landesparteitag der sächsischen AfD in Weinböhla in Tränen aus. Die Bundes- und Landesvorsitzende der AfD, hochschwanger und im Juni ihr fünftes Kind erwartend, sonst souverän und kühl, verliert die Fassung, nachdem sie von zwei Parteikollegen heftig angegriffen worden war.Von FOCUS-Online-Redakteur Ulf Lüdeke]]></content:encoded>
+						<media:category>news</media:category>
+						
+						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
+						<media:description type="plain">
+							Das Bild überraschte viele: Frauke Petry bricht auf dem Podium beim Landesparteitag der sächsischen AfD in Weinböhla in Tränen aus. Die Bundes- und Landesvorsitzende der AfD, hochschwanger und im Juni ihr fünftes Kind erwartend, sonst souverän und kühl, verliert die Fassung, nachdem sie von zwei Parteikollegen heftig angegriffen worden war.Von FOCUS-Online-Redakteur Ulf Lüdeke</media:description>
+						<media:title>Harte Flügelkämpfe - Bittere Tränen von AfD-Chefin Petry offenbaren das Machtproblem der Partei</media:title>
+						<media:player url="http://www.focus.de/politik/deutschland/bundestagswahl-bittere-traenen-von-afd-chefin-petry-offenbaren-machtproblem-der-rechtspopulisten_id_6847332.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Apparate abschalten? - Deshalb sollten Sie noch heute eine Patientenverfügung erstellen</title>
+						<link>http://www.focus.de/finanzen/recht/patientenverfuegung-richtig-erstellen-so-gehts_id_6845141.html</link>
+						<description>
+							Wenn ein Patient bewusstlos ins Krankenhaus kommt, steht plötzlich die Frage im Raum, ob die Person lebenserhaltende Maßnahmen wünscht - oder nicht. Klarheit schafft in solchen Fällen nur eine Patientenverfügung - sonst müssen die Ärzte Sie auf jeden Fall am Leben erhalten.Von FOCUS-Online-Autorin Tatjana Grassl</description>
+						<category domain="">Recht</category>
+						<pubDate>
+							Tue, 28 Mar 2017 21:32:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_6845141</guid>
+						<author>Von FOCUS-Online-Autorin Tatjana Grassl</author>
+						<content:encoded>
+							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop799458/6462615162-cv3_2-w120-q72-p4/Absatz-Ein-Notfall-Beatmungsgeraet-des-Draegerwerks-im-Einsatz.jpg" />
+								Wenn ein Patient bewusstlos ins Krankenhaus kommt, steht plötzlich die Frage im Raum, ob die Person lebenserhaltende Maßnahmen wünscht - oder nicht. Klarheit schafft in solchen Fällen nur eine Patientenverfügung - sonst müssen die Ärzte Sie auf jeden Fall am Leben erhalten.Von FOCUS-Online-Autorin Tatjana Grassl]]></content:encoded>
+						<media:category>news</media:category>
+						
+						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
+						<media:description type="plain">
+							Wenn ein Patient bewusstlos ins Krankenhaus kommt, steht plötzlich die Frage im Raum, ob die Person lebenserhaltende Maßnahmen wünscht - oder nicht. Klarheit schafft in solchen Fällen nur eine Patientenverfügung - sonst müssen die Ärzte Sie auf jeden Fall am Leben erhalten.Von FOCUS-Online-Autorin Tatjana Grassl</media:description>
+						<media:title>Apparate abschalten? - Deshalb sollten Sie noch heute eine Patientenverfügung erstellen</media:title>
+						<media:player url="http://www.focus.de/finanzen/recht/patientenverfuegung-richtig-erstellen-so-gehts_id_6845141.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Fernsehen im Auto - DVB-T2-Umstellung: Auch Luxuslimousinen haben keinen TV-Empfang mehr</title>
+						<link>http://www.focus.de/auto/ratgeber/unterhaltung/bildschirm-bleibt-schwarz-dvbt-umstellung-auch-luxuslimousinen-haben-ab-morgen-keine-tv-empfang-mehr_id_6846564.html</link>
+						<description>
+							Entertainment für die Kinder auf der Rückbank oder Nachrichten auf dem Parkplatz: In Luxuslimousinen und teuren SUV werden seit langem TV-Module angeboten. Doch weil die oft nicht den neuen DVB-T2 Standard nutzen, lässt sich die Funktion nicht mehr nutzen.</description>
+						<category domain="">Unterhaltung</category>
+						<pubDate>
+							Tue, 28 Mar 2017 21:29:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_6846564</guid>
+						<author>FOCUS</author>
+						<content:encoded>
+							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop4856805/0322613914-cv3_2-w120-q72-p4/jeep16.jpg" />
+								Entertainment für die Kinder auf der Rückbank oder Nachrichten auf dem Parkplatz: In Luxuslimousinen und teuren SUV werden seit langem TV-Module angeboten. Doch weil die oft nicht den neuen DVB-T2 Standard nutzen, lässt sich die Funktion nicht mehr nutzen.]]></content:encoded>
+						<media:category>news</media:category>
+						
+						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
+						<media:description type="plain">
+							Entertainment für die Kinder auf der Rückbank oder Nachrichten auf dem Parkplatz: In Luxuslimousinen und teuren SUV werden seit langem TV-Module angeboten. Doch weil die oft nicht den neuen DVB-T2 Standard nutzen, lässt sich die Funktion nicht mehr nutzen.</media:description>
+						<media:title>Fernsehen im Auto - DVB-T2-Umstellung: Auch Luxuslimousinen haben keinen TV-Empfang mehr</media:title>
+						<media:player url="http://www.focus.de/auto/ratgeber/unterhaltung/bildschirm-bleibt-schwarz-dvbt-umstellung-auch-luxuslimousinen-haben-ab-morgen-keine-tv-empfang-mehr_id_6846564.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Süchtig nach Strahlen - Das Wetter wird schön: In der Sonne lauert mehr als nur die Hautkrebs-Gefahr</title>
+						<link>http://www.focus.de/gesundheit/videos/suechtig-nach-strahlen-das-wetter-wird-schoen-in-der-sonne-lauert-mehr-als-nur-die-hautkrebs-gefahr_id_6847674.html</link>
 						<description>
 							</description>
 						<category domain="">Video</category>
 						<pubDate>
-							Tue, 28 Mar 2017 14:34:45 +0200</pubDate>
-						<guid isPermaLink="false">aid_6845572</guid>
-						<author>FOCUS</author>
+							Tue, 28 Mar 2017 21:13:19 +0200</pubDate>
+						<guid isPermaLink="false">aid_6847674</guid>
+						<author>wochit</author>
 						<content:encoded>
 							<![CDATA[]]></content:encoded>
 						<media:category>news</media:category>
@@ -119,115 +182,51 @@
 						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
 						<media:description type="plain">
 							</media:description>
-						<media:title>Christine Kaufmann - Trauer um Christine Kaufmann: Die Schauspielerin ist gestorben</media:title>
-						<media:player url="http://www.focus.de/kultur/videos/christine-kaufmann-trauer-um-christine-kaufmann-die-schauspielerin-ist-gestorben_id_6845572.html" width="990" height="600" />
+						<media:title>Süchtig nach Strahlen - Das Wetter wird schön: In der Sonne lauert mehr als nur die Hautkrebs-Gefahr</media:title>
+						<media:player url="http://www.focus.de/gesundheit/videos/suechtig-nach-strahlen-das-wetter-wird-schoen-in-der-sonne-lauert-mehr-als-nur-die-hautkrebs-gefahr_id_6847674.html" width="990" height="600" />
 						</item>
 			<item>
-						<title>Christine Kaufmanns letzter TV-Auftritt - &#034;Fit und fröhlich&#034;: So erlebte Moderatorin Edith von Welser-Ude den Film-Star</title>
-						<link>http://www.focus.de/kultur/kino_tv/christine-kaufmanns-letzter-tv-auftritt-sie-wirkte-froehlich-kam-mit-dem-rad-so-erlebte-moderatorin-edith-von-welser-ude-den-film-star_id_6844395.html</link>
+						<title>Kreml von Demonstrationen überrascht - Warten auf den großen Crash: Warum die Massenproteste für Putin so gefährlich sind</title>
+						<link>http://www.focus.de/politik/ausland/russland-warum-die-proteste-in-moskau-fuer-praesident-putin-so-gefaehrlich-sind_id_6847415.html</link>
 						<description>
-							Sie hat den Kampf gegen den Blutkrebs verloren: Christine Kaufmann ist tot. Die Schauspielerin starb in der Nacht zum Dienstag im Alter von 72 Jahren in einem Münchner Krankenhaus. Ihren letzten TV-Auftritt hatte sie im &#034;Club der Köchinnen&#034; von Edith von Welser-Ude. Die Moderatorin erlebte im Gespräch keine schwache Film-Diva - ganz im Gegenteil.</description>
-						<category domain="">Kino &amp; TV</category>
-						<pubDate>
-							Tue, 28 Mar 2017 14:34:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6844395</guid>
-						<author>FOCUS</author>
-						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/kino_tv/crop6844308/542261215-cv3_2-w120-q72-p4/kaufmann-edithude.jpg" />
-								Sie hat den Kampf gegen den Blutkrebs verloren: Christine Kaufmann ist tot. Die Schauspielerin starb in der Nacht zum Dienstag im Alter von 72 Jahren in einem Münchner Krankenhaus. Ihren letzten TV-Auftritt hatte sie im "Club der Köchinnen" von Edith von Welser-Ude. Die Moderatorin erlebte im Gespräch keine schwache Film-Diva - ganz im Gegenteil.]]></content:encoded>
-						<media:category>news</media:category>
-						
-						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
-						<media:description type="plain">
-							Sie hat den Kampf gegen den Blutkrebs verloren: Christine Kaufmann ist tot. Die Schauspielerin starb in der Nacht zum Dienstag im Alter von 72 Jahren in einem Münchner Krankenhaus. Ihren letzten TV-Auftritt hatte sie im &#034;Club der Köchinnen&#034; von Edith von Welser-Ude. Die Moderatorin erlebte im Gespräch keine schwache Film-Diva - ganz im Gegenteil.</media:description>
-						<media:title>Christine Kaufmanns letzter TV-Auftritt - &#034;Fit und fröhlich&#034;: So erlebte Moderatorin Edith von Welser-Ude den Film-Star</media:title>
-						<media:player url="http://www.focus.de/kultur/kino_tv/christine-kaufmanns-letzter-tv-auftritt-sie-wirkte-froehlich-kam-mit-dem-rad-so-erlebte-moderatorin-edith-von-welser-ude-den-film-star_id_6844395.html" width="990" height="600" />
-						</item>
-			<item>
-						<title>+++ US-Politik im News-Ticker +++ - Trump will Obamas Klima-Politik per Dekret revidieren</title>
-						<link>http://www.focus.de/politik/ausland/usa/us-politik-im-news-ticker-trump-will-obamas-klima-politik-per-dekret-zurueckdrehen_id_6844418.html</link>
-						<description>
-							Kaum ist Donald Trump vereidigt, präsentiert er sich als zupackender Macher: Erste Dekrete werden erlassen, Schwerpunkte bekanntgegeben – alles folgt dem Motto &#034;Amerika zuerst&#034;. Doch der neue Präsident und sein Kabinett bekommen heftigen Gegenwind. Lesen Sie die neuesten Entwicklungen der US-Politik hier im News-Ticker von FOCUS Online.</description>
-						<category domain="">USA</category>
-						<pubDate>
-							Tue, 28 Mar 2017 14:54:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6844418</guid>
-						<author>AFP/dpa</author>
-						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6843104/7952618603-cv3_2-w120-q72-p4/urn-newsml-dpa-com-20090101-170328-99-836846-large-4-3.jpg" />
-								Kaum ist Donald Trump vereidigt, präsentiert er sich als zupackender Macher: Erste Dekrete werden erlassen, Schwerpunkte bekanntgegeben – alles folgt dem Motto "Amerika zuerst". Doch der neue Präsident und sein Kabinett bekommen heftigen Gegenwind. Lesen Sie die neuesten Entwicklungen der US-Politik hier im News-Ticker von FOCUS Online.]]></content:encoded>
-						<media:category>news</media:category>
-						
-						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
-						<media:description type="plain">
-							Kaum ist Donald Trump vereidigt, präsentiert er sich als zupackender Macher: Erste Dekrete werden erlassen, Schwerpunkte bekanntgegeben – alles folgt dem Motto &#034;Amerika zuerst&#034;. Doch der neue Präsident und sein Kabinett bekommen heftigen Gegenwind. Lesen Sie die neuesten Entwicklungen der US-Politik hier im News-Ticker von FOCUS Online.</media:description>
-						<media:title>+++ US-Politik im News-Ticker +++ - Trump will Obamas Klima-Politik per Dekret revidieren</media:title>
-						<media:player url="http://www.focus.de/politik/ausland/usa/us-politik-im-news-ticker-trump-will-obamas-klima-politik-per-dekret-zurueckdrehen_id_6844418.html" width="990" height="600" />
-						</item>
-			<item>
-						<title>+++ VIP-News +++ - Alicia Vikander ist die neue Lara Croft</title>
-						<link>http://www.focus.de/kultur/vermischtes/vip-news-gilmore-girls-star-jared-padalecki-ist-wieder-vater-geworden_id_6843330.html</link>
-						<description>
-							Die Welt der Promis hautnah erleben: Von Schauspieler bis royaler Adel, von Sänger bis Profi-Sportler. FOCUS Online präsentiert die aktuellen Nachrichten und exklusive Storys aus der Welt der Stars im Ticker.</description>
-						<category domain="">Star-News</category>
-						<pubDate>
-							Tue, 28 Mar 2017 14:30:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6843330</guid>
-						<author>SpotOn</author>
-						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6843209/1852611454-cv3_2-w120-q72-p4/669130.jpg" />
-								Die Welt der Promis hautnah erleben: Von Schauspieler bis royaler Adel, von Sänger bis Profi-Sportler. FOCUS Online präsentiert die aktuellen Nachrichten und exklusive Storys aus der Welt der Stars im Ticker.]]></content:encoded>
-						<media:category>news</media:category>
-						
-						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
-						<media:description type="plain">
-							Die Welt der Promis hautnah erleben: Von Schauspieler bis royaler Adel, von Sänger bis Profi-Sportler. FOCUS Online präsentiert die aktuellen Nachrichten und exklusive Storys aus der Welt der Stars im Ticker.</media:description>
-						<media:title>+++ VIP-News +++ - Alicia Vikander ist die neue Lara Croft</media:title>
-						<media:player url="http://www.focus.de/kultur/vermischtes/vip-news-gilmore-girls-star-jared-padalecki-ist-wieder-vater-geworden_id_6843330.html" width="990" height="600" />
-						</item>
-			<item>
-						<title>Bereits zum dritten Mal - Terrorist &#034;Carlos&#034; in Frankreich zu lebenslanger Haft verurteilt</title>
-						<link>http://www.focus.de/panorama/welt/bereits-zum-dritten-mal-terrorist-carlos-in-frankreich-zu-lebenslanger-haft-verurteilt_id_6845891.html</link>
-						<description>
-							Der einstige Top-Terrorist &#034;Carlos&#034; ist in Frankreich ein weiteres Mal zu lebenslanger Haft verurteilt worden. Ein Pariser Schwurgericht sprach den als «Carlos« bekannten Ilich Ramírez Sánchez am Dienstag wegen eines Anschlags vor mehr als 42 Jahren des Mordes schuldig.  </description>
-						<category domain="">Aus aller Welt</category>
-						<pubDate>
-							Tue, 28 Mar 2017 14:22:54 +0200</pubDate>
-						<guid isPermaLink="false">aid_6845891</guid>
-						<author>dpa/AFP</author>
-						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6846085/409261360-cv3_2-w120-q72-p4/prozess-gegen-ex-top-52779579.jpg" />
-								Der einstige Top-Terrorist "Carlos" ist in Frankreich ein weiteres Mal zu lebenslanger Haft verurteilt worden. Ein Pariser Schwurgericht sprach den als «Carlos« bekannten Ilich Ramírez Sánchez am Dienstag wegen eines Anschlags vor mehr als 42 Jahren des Mordes schuldig.  ]]></content:encoded>
-						<media:category>news</media:category>
-						
-						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
-						<media:description type="plain">
-							Der einstige Top-Terrorist &#034;Carlos&#034; ist in Frankreich ein weiteres Mal zu lebenslanger Haft verurteilt worden. Ein Pariser Schwurgericht sprach den als «Carlos« bekannten Ilich Ramírez Sánchez am Dienstag wegen eines Anschlags vor mehr als 42 Jahren des Mordes schuldig.  </media:description>
-						<media:title>Bereits zum dritten Mal - Terrorist &#034;Carlos&#034; in Frankreich zu lebenslanger Haft verurteilt</media:title>
-						<media:player url="http://www.focus.de/panorama/welt/bereits-zum-dritten-mal-terrorist-carlos-in-frankreich-zu-lebenslanger-haft-verurteilt_id_6845891.html" width="990" height="600" />
-						</item>
-			<item>
-						<title>Iran und Russland - Ruhani bei Putin: Beste Freunde oder Zweckbündnis?</title>
-						<link>http://www.focus.de/politik/ausland/iran-und-russland-ruhani-bei-putin-beste-freunde-oder-zweckbuendnis_id_6845836.html</link>
-						<description>
-							Russland und der Iran pflegen enge Beziehungen. Wenn sich die Präsidenten Wladimir Putin und Hassan Ruhani am Dienstag in Moskau treffen, soll die Zusammenarbeit noch intensiver werden. Auf der Weltbühne haben beide Länder nicht den besten Ruf, auch wegen ihres militärischen Eintretens für den syrischen Machthaber Baschar al-Assad.</description>
+							Wenn es brenzlig wird für die Mächtigen in Russland, setzen sie gerne auf ein altbewährtes Rezept: Bauarbeiten. Wladimir Putin berichtete einst, wie der KGB in Leningrad, als er dort arbeitete, Dissidenten vom Protestieren abhielt, indem er einfach Baugeräte ankarren und den Platz absperren ließ, auf dem sich die Kremlgegner treffen wollten. Von Focus Magazin-Korrespondent Boris Reitschuster u. FOCUS-Online-Redakteur Sebastian Heise</description>
 						<category domain="">Ausland</category>
 						<pubDate>
-							Tue, 28 Mar 2017 14:20:44 +0200</pubDate>
-						<guid isPermaLink="false">aid_6845836</guid>
-						<author>dpa</author>
+							Tue, 28 Mar 2017 20:56:56 +0200</pubDate>
+						<guid isPermaLink="false">aid_6847415</guid>
+						<author>Von Focus Magazin-Korrespondent Boris Reitschuster u. FOCUS-Online-Redakteur Sebastian Heise</author>
 						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6845802/3792612169-cv3_2-w120-q72-p4/ruhani-moskau.jpg" />
-								Russland und der Iran pflegen enge Beziehungen. Wenn sich die Präsidenten Wladimir Putin und Hassan Ruhani am Dienstag in Moskau treffen, soll die Zusammenarbeit noch intensiver werden. Auf der Weltbühne haben beide Länder nicht den besten Ruf, auch wegen ihres militärischen Eintretens für den syrischen Machthaber Baschar al-Assad.]]></content:encoded>
+							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6847499/5482619445-cv3_2-w120-q72-p4/1494f4009d8c2992-1-.jpg" />
+								Wenn es brenzlig wird für die Mächtigen in Russland, setzen sie gerne auf ein altbewährtes Rezept: Bauarbeiten. Wladimir Putin berichtete einst, wie der KGB in Leningrad, als er dort arbeitete, Dissidenten vom Protestieren abhielt, indem er einfach Baugeräte ankarren und den Platz absperren ließ, auf dem sich die Kremlgegner treffen wollten. Von Focus Magazin-Korrespondent Boris Reitschuster u. FOCUS-Online-Redakteur Sebastian Heise]]></content:encoded>
 						<media:category>news</media:category>
 						
 						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
 						<media:description type="plain">
-							Russland und der Iran pflegen enge Beziehungen. Wenn sich die Präsidenten Wladimir Putin und Hassan Ruhani am Dienstag in Moskau treffen, soll die Zusammenarbeit noch intensiver werden. Auf der Weltbühne haben beide Länder nicht den besten Ruf, auch wegen ihres militärischen Eintretens für den syrischen Machthaber Baschar al-Assad.</media:description>
-						<media:title>Iran und Russland - Ruhani bei Putin: Beste Freunde oder Zweckbündnis?</media:title>
-						<media:player url="http://www.focus.de/politik/ausland/iran-und-russland-ruhani-bei-putin-beste-freunde-oder-zweckbuendnis_id_6845836.html" width="990" height="600" />
+							Wenn es brenzlig wird für die Mächtigen in Russland, setzen sie gerne auf ein altbewährtes Rezept: Bauarbeiten. Wladimir Putin berichtete einst, wie der KGB in Leningrad, als er dort arbeitete, Dissidenten vom Protestieren abhielt, indem er einfach Baugeräte ankarren und den Platz absperren ließ, auf dem sich die Kremlgegner treffen wollten. Von Focus Magazin-Korrespondent Boris Reitschuster u. FOCUS-Online-Redakteur Sebastian Heise</media:description>
+						<media:title>Kreml von Demonstrationen überrascht - Warten auf den großen Crash: Warum die Massenproteste für Putin so gefährlich sind</media:title>
+						<media:player url="http://www.focus.de/politik/ausland/russland-warum-die-proteste-in-moskau-fuer-praesident-putin-so-gefaehrlich-sind_id_6847415.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Stürmische Siegesfeier - Neun Monate nach dem Euro-Erfolg gegen England erlebt Island einen Baby-Boom</title>
+						<link>http://www.focus.de/sport/videos/folge-der-europameisterschaft-siegesfeier-sex-island-erlebt-baby-boom-nach-erfolg-gegen-england-bei-euro-2016_id_6847592.html</link>
+						<description>
+							</description>
+						<category domain="">Video</category>
+						<pubDate>
+							Tue, 28 Mar 2017 20:56:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_6847592</guid>
+						<author>wochit</author>
+						<content:encoded>
+							<![CDATA[]]></content:encoded>
+						<media:category>news</media:category>
+						
+						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
+						<media:description type="plain">
+							</media:description>
+						<media:title>Stürmische Siegesfeier - Neun Monate nach dem Euro-Erfolg gegen England erlebt Island einen Baby-Boom</media:title>
+						<media:player url="http://www.focus.de/sport/videos/folge-der-europameisterschaft-siegesfeier-sex-island-erlebt-baby-boom-nach-erfolg-gegen-england-bei-euro-2016_id_6847592.html" width="990" height="600" />
 						</item>
 			<lastBuildDate>
-			Tue, 28 Mar 2017 14:47:00 +0200</lastBuildDate>
+			Tue, 28 Mar 2017 22:27:00 +0200</lastBuildDate>
 	</channel>
 </rss>

@@ -45,21 +45,21 @@ public class NewsCrawlerUpdate implements Runnable{
 			
 			this.oldEntries.clear();
 			this.newEntries.clear();
-				while(!cachedFeedList.isEmpty()) {
-					boolean matched = false;
-					for(int i = 0; i < currentFeedList.size(); i++) {
-						if(cachedFeedList.get(0).getURL().equalsIgnoreCase(currentFeedList.get(i).getURL())) {
-							matched = true;
-							currentFeedList.remove(i);
-							break;
-						}		
-					}
-					if(!matched) {
-						this.oldEntries.add(cachedFeedList.get(0));
-					}
-					cachedFeedList.remove(0);
+			while(!cachedFeedList.isEmpty()) {
+				boolean matched = false;
+				for(int i = 0; i < currentFeedList.size(); i++) {
+					if(cachedFeedList.get(0).getURL().equalsIgnoreCase(currentFeedList.get(i).getURL())) {
+						matched = true;
+						currentFeedList.remove(i);
+						break;
+					}		
 				}
-				this.newEntries.addAll(currentFeedList);
+				if(!matched) {
+					this.oldEntries.add(cachedFeedList.get(0));
+				}
+				cachedFeedList.remove(0);
+			}
+			this.newEntries.addAll(currentFeedList);
 			
 		} catch (Exception e) {
 			Calendar cal = Calendar.getInstance();
@@ -72,6 +72,12 @@ public class NewsCrawlerUpdate implements Runnable{
 
 	@Override
 	public void run() {
+		Calendar cal;
+		SimpleDateFormat sdf = new SimpleDateFormat(Configuration.getGeneralOutputDateFormat());
+		if (Configuration.getGeneralBeVerbose()) {
+			cal = Calendar.getInstance();
+			System.out.println(sdf.format(cal.getTime()) + " : Looking at " + this.toUpdate.getUrl());
+		}
 		this.fetchEntries();
 		
 		//remove old entries from database
@@ -80,8 +86,7 @@ public class NewsCrawlerUpdate implements Runnable{
 			try {
 				new OrderRemoveSourceFeedEntry(this.database, toRemove).execute();
 			} catch (Exception e) {
-				Calendar cal = Calendar.getInstance();
-		        SimpleDateFormat sdf = new SimpleDateFormat(Configuration.getGeneralOutputDateFormat());
+				cal = Calendar.getInstance();
 		        System.err.println(sdf.format(cal.getTime()) + " : Old FeedEntry could not be removed");
 				System.err.println(e.getMessage());
 				System.err.println();
@@ -107,6 +112,10 @@ public class NewsCrawlerUpdate implements Runnable{
 					// interrupts not expected here
 					return;
 				}
+				if (Configuration.getGeneralBeVerbose()) {
+					cal = Calendar.getInstance();
+					System.out.println(sdf.format(cal.getTime()) + " : Processing " + current.getURL());
+				}
 				synchronized (srvUpdater) {
 					srvUpdater.addEntry(current);
 				}
@@ -116,8 +125,7 @@ public class NewsCrawlerUpdate implements Runnable{
 				try {
 					last.wait();
 				} catch (InterruptedException e) {
-					Calendar cal = Calendar.getInstance();
-			        SimpleDateFormat sdf = new SimpleDateFormat(Configuration.getGeneralOutputDateFormat());
+					cal = Calendar.getInstance();
 			        System.err.println(sdf.format(cal.getTime()) + " : NewsCrawlerUpdate was interrupted. ");
 					System.err.println(e.getMessage());
 					System.err.println();
