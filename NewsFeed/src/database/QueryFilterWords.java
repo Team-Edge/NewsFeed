@@ -20,22 +20,25 @@ public class QueryFilterWords {
 	}
 
 	public void query() throws Exception {
-		this.titleWords.clear();
-		this.descrWords.clear();
-		this.textWords.clear();
-		this.wrapped.query();
-		ResultSet result= this.wrapped.getResult();
-		while(result.next())
-		{
-			int searchIndex = result.getInt(2);
-			switch(searchIndex)
+		try {
+			this.titleWords.clear();
+			this.descrWords.clear();
+			this.textWords.clear();
+			this.wrapped.query();
+			ResultSet result= this.wrapped.getResult();
+			while(result.next())
 			{
-			case 1: descrWords.add(result.getString(1)); break;
-			case 2: textWords.add(result.getString(1)); break;
-			default: titleWords.add(result.getString(1)); break;
+				int searchIndex = result.getInt(2);
+				switch(searchIndex)
+				{
+				case 1: descrWords.add(result.getString(1)); break;
+				case 2: textWords.add(result.getString(1)); break;
+				default: titleWords.add(result.getString(1)); break;
+				}
 			}
+		} finally {
+			wrapped.close();
 		}
-		this.wrapped.close();
 	}
 
 	public List<String> getTitleWords() {

@@ -15,13 +15,17 @@ public class QuerySourceFeeds {
 	}
 
 	public List<SourceFeed> getSources() throws Exception {
-		wrapped.query();
-		ArrayList<SourceFeed> ret = new ArrayList<SourceFeed>();
-		ResultSet result= wrapped.getResult();
-		while(result.next())
-			ret.add(new SourceFeed(result.getInt(1), result.getString(2), result.getString(3)));
-		wrapped.close();
-		return ret;	
+		try {
+			wrapped.query();
+			ArrayList<SourceFeed> ret = new ArrayList<SourceFeed>();
+			ResultSet result= wrapped.getResult();
+			while(result.next()) {
+				ret.add(new SourceFeed(result.getInt(1), result.getString(2), result.getString(3)));
+			}
+			return ret;	
+		} finally {
+			wrapped.close();
+		}
 	}
 	
 }

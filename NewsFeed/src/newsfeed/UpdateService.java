@@ -7,7 +7,6 @@ import java.util.List;
 import database.DBconnection;
 import database.OrderInsertCustomFeedEntry;
 import database.OrderInsertSourceFeedEntry;
-import database.QueryCustomFeedIDs;
 import database.QueryFilterURLs;
 import database.QueryFilterWords;
 import database.QueryFilters;
@@ -90,11 +89,8 @@ public class UpdateService extends Thread {
 		//insert the entry to the database and get its ID
 		int currentSourceFeedID = new OrderInsertSourceFeedEntry(this.database, newEntry, this.sourceFeedID).execute();
 		//for each CustomFeed: check if the new entry matches the filters 
-		TextSearch searcher = new TextSearch(newEntry);		
-		List<Integer> profileIDs = new QueryCustomFeedIDs(this.database).getIDs();		
-		for(int currentProfile : profileIDs) {			
-			List<Integer> filterIDs = new QueryFilters(this.database, currentProfile).getIDs();
-			boolean filterPassed = false;
+		try (TextSearch searcher = new TextSearch(newEntry)) {				
+			List<Integer> filterIDs = new QueryFilters(this.database).getIDs();
 			for(int currentFilter : filterIDs) {
 				List<Integer> allowedSources = new QueryFilterURLs(this.database, currentFilter).getSourceFeedIDs();
 				if(allowedSources.contains(Integer.valueOf(this.sourceFeedID))) {
@@ -103,20 +99,12 @@ public class UpdateService extends Thread {
 					List<String> titleWords = filterQuery.getTitleWords();
 					List<String> descrWords = filterQuery.getDescriptionWords();
 					List<String> textWords = filterQuery.getTextWords();
-					//here is the actual filtering
-					filterPassed = searcher.query(titleWords, descrWords, textWords);
-					if(filterPassed == true) {
-						//it's enough if there is one matching filter in a profile
-						break;
+					if(searcher.query(titleWords, descrWords, textWords) == true) {
+						new OrderInsertCustomFeedEntry(this.database, currentSourceFeedID, currentFilter).execute();
 					}
 				}
-			}
-			// add the Entry to the CustomFeed if it matches its filters
-			if(filterPassed == true) {
-				new OrderInsertCustomFeedEntry(this.database, currentSourceFeedID, currentProfile).execute();
-			}			
-		}
-		searcher.close();		
+			}		
+		}	
 	}
 
 }

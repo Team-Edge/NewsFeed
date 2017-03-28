@@ -7,9 +7,852 @@
 <description>tagesschau.de</description>
 <language>de</language>
 <copyright>ARD-aktuell / tagesschau.de</copyright>
-<lastBuildDate>Mon, 27 Mar 2017 13:46:03 +0200</lastBuildDate>
+<lastBuildDate>Tue, 28 Mar 2017 14:51:38 +0200</lastBuildDate>
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <ttl>10</ttl>
+<item>
+<title>"Böhmische Dörfer": Im Heißluftballon in die Höhe</title>
+<link>http://www.tagesschau.de/videoblog/boehmische_doerfer/heissluftballons-107.html</link>
+<pubDate>Tue, 28 Mar 2017 13:48:38 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/videoblog/boehmische_doerfer/heissluftballons-107.html"><img src="http://www.tagesschau.de/multimedia/bilder/sendungsbild-251677~_v-mittel16x9.jpg" alt="Sendungsbild"/></a>
+<br/><br/>
+In der Luft zu schweben, für viele Menschen ohne Höhenangst ist das ein Traum. Im tschechischen Brünn ist eine der größten Heißluftballon-Manufakturen der Welt. Jürgen Osterhage hat sich die feine Handarbeit der Heißluftballon-Macher angeschaut. [<a href="http://www.tagesschau.de/videoblog/boehmische_doerfer/heissluftballons-107.html">video</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/videoblog/startseite/index.html">Videoblogs der ARD-Korrespondenten</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/videoblog/boehmische_doerfer/dossierboehmischedoerfer100.html">"Böhmische Dörfer, Geschichten aus Tschechien" - alle Folgen</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/videoblog/boehmische_doerfer/heissluftballons-107.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>In der Luft zu schweben, für viele Menschen ohne Höhenangst ist das ein Traum. Im tschechischen Brünn ist eine der größten Heißluftballon-Manufakturen der Welt. Jürgen Osterhage hat sich die feine Handarbeit der Heißluftballon-Macher angeschaut.</description>
+<guid>http://www.tagesschau.de/videoblog/boehmische_doerfer/heissluftballons-107.html</guid>
+</item>
+<item>
+<title>Mögliche Überreste von "Sewol"-Vermissten gefunden</title>
+<link>http://www.tagesschau.de/ausland/sewol-bergung-103.html</link>
+<pubDate>Tue, 28 Mar 2017 13:33:24 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/sewol-bergung-103.html"><img src="http://www.tagesschau.de/multimedia/bilder/suedkorea-153~_v-mittel16x9.jpg" alt="Angehörige der Opfer des &quot;Sewol&quot;-Unglücks beobachten die Bergung des Fährwracks | Bildquelle: AFP"/></a>
+<br/><br/>
+Mehr als 300 Menschen kamen vor fast drei Jahren ums Leben, als vor Südkoreas Küste die Fähre "Sewol" sank. Neun Passagiere gelten seit dem Unglück noch als vermisst. Nach der Bergung des Wracks gibt es nun Hinweise auf mögliche Überreste der Vermissten. [<a href="http://www.tagesschau.de/ausland/sewol-bergung-103.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/sewol-gehoben-101.html">Südkorea: Wrack der "Sewol" gehoben, 23.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/suedkorea-sewol-103.html">"Sewol"-Fährunglück: Suche nach Vermissten eingestellt, 11.11.2014</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/sewol-bergung-103.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Mehr als 300 Menschen kamen vor fast drei Jahren ums Leben, als vor Südkoreas Küste die Fähre "Sewol" sank. Neun Passagiere gelten seit dem Unglück noch als vermisst. Nach der Bergung des Wracks gibt es nun Hinweise auf mögliche Überreste der Vermissten.</description>
+<guid>http://www.tagesschau.de/ausland/sewol-bergung-103.html</guid>
+</item>
+<item>
+<title>BA-Chef Weise geht in den Ruhestand</title>
+<link>http://www.tagesschau.de/inland/weise-ruhestand-101.html</link>
+<pubDate>Tue, 28 Mar 2017 12:36:35 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/inland/weise-ruhestand-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/weise-147~_v-mittel16x9.jpg" alt="Frank-Jürgen Weise | Bildquelle: dpa"/></a>
+<br/><br/>
+Herausforderungen musste Frank-Jürgen Weise einige meistern, seit er 2004 den Chefposten der heutigen Bundesagentur für Arbeit übernahm: Die Hartz-Gesetze durchboxen, dann 2008 die Finanz-und Wirtschaftskrise. Nun verabschiedet sich der 65-Jährige in den Ruhestand. Von G. Staigner. [<a href="http://www.tagesschau.de/inland/weise-ruhestand-101.html">video</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/inland/bamf-103.html">Weise wird BAMF-Präsident, 18.09.2015</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/inland/weise-portrait-101.html">Der Mann fürs Extreme, 11.01.2016</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/inland/weise-ruhestand-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Herausforderungen musste Frank-Jürgen Weise einige meistern, seit er 2004 den Chefposten der heutigen Bundesagentur für Arbeit übernahm: Die Hartz-Gesetze durchboxen, dann 2008 die Finanz-und Wirtschaftskrise. Nun verabschiedet sich der 65-Jährige in den Ruhestand. Von G. Staigner.</description>
+<guid>http://www.tagesschau.de/inland/weise-ruhestand-101.html</guid>
+</item>
+<item>
+<title>Kampf gegen Terror: Iran bietet Russland Stützpunkte an</title>
+<link>http://www.tagesschau.de/ausland/iran-russland-101.html</link>
+<pubDate>Tue, 28 Mar 2017 12:08:28 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/iran-russland-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/iran-luftwaffen-stuetzpunkt-101~_v-mittel16x9.jpg" alt="Russischer Bomber vom Typ Tu-22M3 auf einem Luftwaffenstützpunkt bei Hamedan, Iran.  | Bildquelle: AP"/></a>
+<br/><br/>
+Iran bietet Russland die Nutzung von Luftwaffen-Stützpunkten an. Über Details will die Regierung in Teheran von Fall zu Fall entscheiden. Grundsätzlich könne Russland aber iranische Einrichtungen benutzen, so der iranische Außenminister Sarif. [<a href="http://www.tagesschau.de/ausland/iran-russland-101.html">mehr</a>]
+</p>
+<p><a href="http://www.tagesschau.de/ausland/iran-russland-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Iran bietet Russland die Nutzung von Luftwaffen-Stützpunkten an. Über Details will die Regierung in Teheran von Fall zu Fall entscheiden. Grundsätzlich könne Russland aber iranische Einrichtungen benutzen, so der iranische Außenminister Sarif.</description>
+<guid>http://www.tagesschau.de/ausland/iran-russland-101.html</guid>
+</item>
+<item>
+<title>Christine Kaufmann: Vom Kinderstar zur schrulligen Olga</title>
+<link>http://www.tagesschau.de/inland/christine-kaufmann-133.html</link>
+<pubDate>Tue, 28 Mar 2017 11:59:22 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/inland/christine-kaufmann-133.html"><img src="http://www.tagesschau.de/multimedia/bilder/christine-kaufmann-131~_v-mittel16x9.jpg" alt="Christine Kaufmann | Bildquelle: picture alliance / United Archiv"/></a>
+<br/><br/>
+Sie stand mit acht Jahren zum ersten Mal vor der Kamera, gewann mit 15 einen Golden Globe, spielte Theater und führte eine Kosmetiklinie. Sehen Sie hier die wichtigsten Stationen im Leben von Christine Kaufmann. [<a href="http://www.tagesschau.de/inland/christine-kaufmann-133.html">bilder</a>]
+</p>
+<p><a href="http://www.tagesschau.de/inland/christine-kaufmann-133.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Sie stand mit acht Jahren zum ersten Mal vor der Kamera, gewann mit 15 einen Golden Globe, spielte Theater und führte eine Kosmetiklinie. Sehen Sie hier die wichtigsten Stationen im Leben von Christine Kaufmann.</description>
+<guid>http://www.tagesschau.de/inland/christine-kaufmann-133.html</guid>
+</item>
+<item>
+<title>Brexit-Gespräche: Bürgerrechte als Verhandlungssache?</title>
+<link>http://www.tagesschau.de/ausland/brexit-eu-109.html</link>
+<pubDate>Tue, 28 Mar 2017 11:47:08 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/brexit-eu-109.html"><img src="http://www.tagesschau.de/multimedia/bilder/brexit-441~_v-mittel16x9.jpg" alt="Britisches Parlament will den Bexit | Bildquelle: AFP"/></a>
+<br/><br/>
+Bei Millionen Menschen wächst die Unsicherheit: Dürfen EU-Bürger künftig in Großbritannien bleiben und arbeiten wie bisher? Und umgekehrt fragen sich auch Briten in der EU, welche Rechte sie künftig noch haben. Von Kai Küstner. [<a href="http://www.tagesschau.de/ausland/brexit-eu-109.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/brexit-rechnung-bruessel-101.html">EU-Sicht auf die Brexit-Rechnung: Vorbild Churchill</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/brexit-rechnung-london-101.html">Londons Sicht auf die Brexit-Rechnung: Vorbild Thatcher</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/brexit-woche-101.html">Brexit-Woche: London will offiziell EU-Austritt erklären</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/brexit-eu-109.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Bei Millionen Menschen wächst die Unsicherheit: Dürfen EU-Bürger künftig in Großbritannien bleiben und arbeiten wie bisher? Und umgekehrt fragen sich auch Briten in der EU, welche Rechte sie künftig noch haben. Von Kai Küstner.</description>
+<guid>http://www.tagesschau.de/ausland/brexit-eu-109.html</guid>
+</item>
+<item>
+<title>Zwei japanische Atomreaktoren dürfen wieder ans Netz</title>
+<link>http://www.tagesschau.de/ausland/japan-atomreaktoren-101.html</link>
+<pubDate>Tue, 28 Mar 2017 11:33:16 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/japan-atomreaktoren-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/japan-takahama-101~_v-mittel16x9.jpg" alt="Das Atomkraftwerk Takahama in der japanischen Präfektur Fukui | Bildquelle: AFP"/></a>
+<br/><br/>
+Nach der Atomkatastrophe von Fukushima vor sechs Jahren kehrt Japan langsam wieder zur Atomenergie zurück: Nach einem Urteil des Obersten Gerichts in Osaka dürfen zwei Reaktoren wieder angefahren werden. Dagegen protestierten Atomkraftgegner und Umweltschützer. [<a href="http://www.tagesschau.de/ausland/japan-atomreaktoren-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/fukushima-jahrestag-101.html">Sechs Jahre nach Fukushima: Was hat sich verändert?, 10.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/atomkraftjapan-101.html">Japan: AKW-Neustart mit Risiken, 10.08.2015</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/japan-atomreaktoren-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Nach der Atomkatastrophe von Fukushima vor sechs Jahren kehrt Japan langsam wieder zur Atomenergie zurück: Nach einem Urteil des Obersten Gerichts in Osaka dürfen zwei Reaktoren wieder angefahren werden. Dagegen protestierten Atomkraftgegner und Umweltschützer.</description>
+<guid>http://www.tagesschau.de/ausland/japan-atomreaktoren-101.html</guid>
+</item>
+<item>
+<title>Vierte Sammelabschiebung nach Afghanistan</title>
+<link>http://www.tagesschau.de/inland/sammelabschiebung-afghanistan-101.html</link>
+<pubDate>Tue, 28 Mar 2017 10:36:56 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/inland/sammelabschiebung-afghanistan-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/abschiebung-afghanistan-115~_v-mittel16x9.jpg" alt="Abgeschobener Asylbewerber am Flughafen Kabul | Bildquelle: dpa"/></a>
+<br/><br/>
+Erneut sind abgelehnte Asylbewerber von Deutschland nach Afghanistan abgeschoben worden - am frühen Morgen erreichte das Flugzeug mit 15 Männern an Bord Kabul. Nach wie vor sind die Abschiebungen in das krisenzerrüttete Land umstritten. [<a href="http://www.tagesschau.de/inland/sammelabschiebung-afghanistan-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/inland/abschiebung-afghanistan-113.html">Dritte Sammelabschiebung nach Afghanistan, 22.02.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/inland/amnesty-beeko-101.html">Amnesty-Chef: "Afghanistan-Abschiebung unvertretbar", 22.02.2017</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/inland/sammelabschiebung-afghanistan-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Erneut sind abgelehnte Asylbewerber von Deutschland nach Afghanistan abgeschoben worden - am frühen Morgen erreichte das Flugzeug mit 15 Männern an Bord Kabul. Nach wie vor sind die Abschiebungen in das krisenzerrüttete Land umstritten.</description>
+<guid>http://www.tagesschau.de/inland/sammelabschiebung-afghanistan-101.html</guid>
+</item>
+<item>
+<title>Trump will Obamas Klimapläne zurückdrehen</title>
+<link>http://www.tagesschau.de/ausland/trump-969.html</link>
+<pubDate>Tue, 28 Mar 2017 09:55:21 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/trump-969.html"><img src="http://www.tagesschau.de/multimedia/bilder/trump-967~_v-mittel16x9.jpg" alt="US-Präsident Trump | Bildquelle: AP"/></a>
+<br/><br/>
+US-Präsident Trump will heute den Klimaschutzplan seines Vorgängers Obama teilweise aufheben - per Dekret. Widerstand von der Umweltschutzbehörde hat er dabei nicht zu erwarten. Obamas Pläne sollten die Abkehr von fossilen Brennstoffen einläuten. Von R. Büllmann. [<a href="http://www.tagesschau.de/ausland/trump-969.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/trump-kelly-pruitt-101.html">Trump: Ein Kohlefreund für die Umweltbehörde, 08.12.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/multimedia/audio/audio-41057.html">Audio: Trump will Umweltvorschrift kippen</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/trump-969.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>US-Präsident Trump will heute den Klimaschutzplan seines Vorgängers Obama teilweise aufheben - per Dekret. Widerstand von der Umweltschutzbehörde hat er dabei nicht zu erwarten. Obamas Pläne sollten die Abkehr von fossilen Brennstoffen einläuten. Von R. Büllmann.</description>
+<guid>http://www.tagesschau.de/ausland/trump-969.html</guid>
+</item>
+<item>
+<title>Schauspielerin Christine Kaufmann gestorben</title>
+<link>http://www.tagesschau.de/inland/christine-kaufmann-103.html</link>
+<pubDate>Tue, 28 Mar 2017 09:20:26 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/inland/christine-kaufmann-103.html"><img src="http://www.tagesschau.de/multimedia/bilder/christine-kaufmann-105~_v-mittel16x9.jpg" alt="Schauspielerin Christine Kaufmann | Bildquelle: picture alliance / dpa"/></a>
+<br/><br/>
+Die Schauspielerin Christine Kaufmann ist tot. Die 72-Jährige sei in der Nacht in einem Münchner Krankenhaus gestorben, teilte ihr Management mit. Die Künstlerin, die ihre größten Erfolge in den 1960er-Jahren feierte, war auch international bekannt. [<a href="http://www.tagesschau.de/inland/christine-kaufmann-103.html">mehr</a>]
+</p>
+<p><a href="http://www.tagesschau.de/inland/christine-kaufmann-103.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Die Schauspielerin Christine Kaufmann ist tot. Die 72-Jährige sei in der Nacht in einem Münchner Krankenhaus gestorben, teilte ihr Management mit. Die Künstlerin, die ihre größten Erfolge in den 1960er-Jahren feierte, war auch international bekannt.</description>
+<guid>http://www.tagesschau.de/inland/christine-kaufmann-103.html</guid>
+</item>
+<item>
+<title>Einigung im Tarifstreit an Berliner Flughäfen</title>
+<link>http://www.rbb-online.de/wirtschaft/beitrag/2017/03/verdi-bodenpersonal-berliner-flughaefen-tarifstreit-beigelegt.html</link>
+<pubDate>Tue, 28 Mar 2017 09:04:56 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.rbb-online.de/wirtschaft/beitrag/2017/03/verdi-bodenpersonal-berliner-flughaefen-tarifstreit-beigelegt.html"><img src="http://www.tagesschau.de/multimedia/bilder/berlin-flughafen-105~_v-mittel16x9.jpg" alt="Gepäck wird am Flughafen Schönefeld aus einem Flugzeug geladen | Bildquelle: dpa"/></a>
+<br/><br/>
+Mehrfach haben Streiks den Flugverkehr in Berlin nahezu lahmgelegt. Nun können Passagiere aufatmen: Das Bodenpersonal und die Berliner Flughäfen haben sich geeinigt. Bis 2019 sollen die Stundenlöhne in vier Schritten steigen. [<a href="http://www.rbb-online.de/wirtschaft/beitrag/2017/03/verdi-bodenpersonal-berliner-flughaefen-tarifstreit-beigelegt.html">rbb</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.rbb-online.de/wirtschaft/beitrag/2017/03/streik-bodenpersonal-tegel-schoenefeld-beendet.html">Streik auf Berliner Flughäfen vorerst beendet, 15.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/wirtschaft/streik-flughaefen-berlin-101.html">Bodenpersonal auf Berliner Flughäfen streikt erneut, 13.03.2017</a>
+</li>
+</ul>
+</p>
+]]>
+</content:encoded>
+<description>Mehrfach haben Streiks den Flugverkehr in Berlin nahezu lahmgelegt. Nun können Passagiere aufatmen: Das Bodenpersonal und die Berliner Flughäfen haben sich geeinigt. Bis 2019 sollen die Stundenlöhne in vier Schritten steigen.</description>
+<guid>http://www.rbb-online.de/wirtschaft/beitrag/2017/03/verdi-bodenpersonal-berliner-flughaefen-tarifstreit-beigelegt.html</guid>
+</item>
+<item>
+<title>Kaum Schutz von Zivilisten in Mossul</title>
+<link>http://www.tagesschau.de/ausland/amnesty-mossul-101.html</link>
+<pubDate>Tue, 28 Mar 2017 08:49:29 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/amnesty-mossul-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/mossul-309~_v-mittel16x9.jpg" alt="Aufräumarbeiten in Mossul | Bildquelle: dpa"/></a>
+<br/><br/>
+Mossul ist für Zivilisten ein gefährlicher Ort - und er wird immer gefährlicher. Selbst vermeintlich sichere Orte bieten keinen Schutz mehr, sagt jetzt Amnesty International - und erhebt schwere Vorwürfe gegen irakische Streitkräfte und die US-geführte Koalition. [<a href="http://www.tagesschau.de/ausland/amnesty-mossul-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/mossul-305.html">Zivile Opfer in Mossul: USA untersuchen Luftangriff, 25.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/mossul-285.html">Irak: Lage der Zivilisten in Mossul immer schlechter, 12.03.2017</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/amnesty-mossul-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Mossul ist für Zivilisten ein gefährlicher Ort - und er wird immer gefährlicher. Selbst vermeintlich sichere Orte bieten keinen Schutz mehr, sagt jetzt Amnesty International - und erhebt schwere Vorwürfe gegen irakische Streitkräfte und die US-geführte Koalition.</description>
+<guid>http://www.tagesschau.de/ausland/amnesty-mossul-101.html</guid>
+</item>
+<item>
+<title>Tarifstreit an Berliner Flughäfen beigelegt</title>
+<link>http://www.tagesschau.de/inland/tarifkonflikt-101.html</link>
+<pubDate>Tue, 28 Mar 2017 07:28:11 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/inland/tarifkonflikt-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/berlin-385~_v-mittel16x9.jpg" alt="Flugzeuge an Flughafen Tegel | Bildquelle: dpa"/></a>
+<br/><br/>
+Drei Mal hatten bereits Streiks im Tarifkonflikt mit dem Bodenpersonal die Berliner Flughäfen lahmgelegt, nun ist der Streit beigelegt. Zwischen den Arbeitgebern und der Gewerkschaft ver.di hat es eine Einigung gegeben. [<a href="http://www.tagesschau.de/inland/tarifkonflikt-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.rbb-online.de/wirtschaft/beitrag/2017/03/montag-wieder-streik-bodenpersonal-flughaefen-berlin.html">Berliner Flughäfen werden ab Montag wieder bestreikt, 12.03.2017</a>
+</li>
+<li>
+<a href="http://www.rbb-online.de/wirtschaft/beitrag/2017/03/streik-bodenpersonal-flughaefen-berlin.html">Streik an Berliner Flughäfen beendet, 11.03.2017</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/inland/tarifkonflikt-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Drei Mal hatten bereits Streiks im Tarifkonflikt mit dem Bodenpersonal die Berliner Flughäfen lahmgelegt, nun ist der Streit beigelegt. Zwischen den Arbeitgebern und der Gewerkschaft ver.di hat es eine Einigung gegeben.</description>
+<guid>http://www.tagesschau.de/inland/tarifkonflikt-101.html</guid>
+</item>
+<item>
+<title>Hongkong: Anführer der Regenschirm-Proteste angeklagt</title>
+<link>http://www.tagesschau.de/ausland/hongkong-519.html</link>
+<pubDate>Tue, 28 Mar 2017 05:48:07 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/hongkong-519.html"><img src="http://www.tagesschau.de/multimedia/bilder/hongkong-495~_v-mittel16x9.jpg" alt="Protestbewegung in Hongkong | Bildquelle: REUTERS"/></a>
+<br/><br/>
+Einen Tag nach der Wahl in Hongkong nehmen die Spannungen zu: Neun Anführer der Regenschirm-Proteste  von 2014 wurden angeklagt. Den Demokratie-Aktivisten drohen lange Haftstrafen. Aufhorchen lässt besonders der Zeitpunkt der Anklagen. Von S. Wurzel. [<a href="http://www.tagesschau.de/ausland/hongkong-519.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/multimedia/bilder/hongkong-173.html">Bilder: "Regenschirm-Revolution": Aufstand in Hongkong (September 2014)</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/hongkong-519.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Einen Tag nach der Wahl in Hongkong nehmen die Spannungen zu: Neun Anführer der Regenschirm-Proteste  von 2014 wurden angeklagt. Den Demokratie-Aktivisten drohen lange Haftstrafen. Aufhorchen lässt besonders der Zeitpunkt der Anklagen. Von S. Wurzel.</description>
+<guid>http://www.tagesschau.de/ausland/hongkong-519.html</guid>
+</item>
+<item>
+<title>Deutschkurse der BA: Vorwurf Verschwendung</title>
+<link>http://www.tagesschau.de/inland/arbeitsagentur-deutschkurse-101.html</link>
+<pubDate>Tue, 28 Mar 2017 03:58:53 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/inland/arbeitsagentur-deutschkurse-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/integration-sprachkurs-101~_v-mittel16x9.jpg" alt="Integrationskurs in Hannover | Bildquelle: dpa"/></a>
+<br/><br/>
+Keine Anwesenheitslisten, doppelte Abrechnung, Unterricht in der Kantine: Der Rechnunghof hat die von der Arbeitsagentur angebotenen Deutschkurse für Flüchtlinge im Jahr 2015 scharf kritisiert. Vorwurf: Verschwendung. Von K. Erdmann, E. Weydt und P. Hornung.  [<a href="http://www.tagesschau.de/inland/arbeitsagentur-deutschkurse-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/inland/bamf-integrationskurse-101.html">Bürokratie und Flüchtlinge: Geht nicht, kann nicht, darf nicht, 28.04.2016</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/inland/arbeitsagentur-deutschkurse-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Keine Anwesenheitslisten, doppelte Abrechnung, Unterricht in der Kantine: Der Rechnunghof hat die von der Arbeitsagentur angebotenen Deutschkurse für Flüchtlinge im Jahr 2015 scharf kritisiert. Vorwurf: Verschwendung. Von K. Erdmann, E. Weydt und P. Hornung. </description>
+<guid>http://www.tagesschau.de/inland/arbeitsagentur-deutschkurse-101.html</guid>
+</item>
+<item>
+<title>Zyklon "Debbie" fegt über Australien hinweg</title>
+<link>http://www.tagesschau.de/ausland/zyklon-australien-103.html</link>
+<pubDate>Tue, 28 Mar 2017 04:44:50 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/zyklon-australien-103.html"><img src="http://www.tagesschau.de/multimedia/bilder/australien-zyklon-101~_v-mittel16x9.jpg" alt="Palmen in Australien während des Zyklons &quot;Debbie&quot; | Bildquelle: REUTERS"/></a>
+<br/><br/>
+Mit Windgeschwindigkeiten von bis zu 250 Kilometern pro Stunde ist Zyklon "Debbie" auf die Küste Australiens getroffen. 25.000 Menschen verließen ihre Häuser, Dächer wurden abgedeckt. Betroffen sind auch beliebte Touristeninseln. [<a href="http://www.tagesschau.de/ausland/zyklon-australien-103.html">mehr</a>]
+</p>
+<p><a href="http://www.tagesschau.de/ausland/zyklon-australien-103.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Mit Windgeschwindigkeiten von bis zu 250 Kilometern pro Stunde ist Zyklon "Debbie" auf die Küste Australiens getroffen. 25.000 Menschen verließen ihre Häuser, Dächer wurden abgedeckt. Betroffen sind auch beliebte Touristeninseln.</description>
+<guid>http://www.tagesschau.de/ausland/zyklon-australien-103.html</guid>
+</item>
+<item>
+<title>Deutsche Brennelemente für belgischen "Bröckelreaktor"</title>
+<link>http://www.tagesschau.de/ausland/akw-belgien-101.html</link>
+<pubDate>Tue, 28 Mar 2017 02:14:39 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/akw-belgien-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/tihange-111~_v-mittel16x9.jpg" alt="Dampf steigt in Huy (Belgien) aus Kühltürmen dem AKW Tihange  | Bildquelle: dpa"/></a>
+<br/><br/>
+Tausende Risse im Reaktordruckbehälter - zumindest auf deutscher Seite ist man sich sicher:  Das belgische Atomkraftwerk Tihange 2 ist ein Sicherheitsrisiko. Doch ausgerechnet Deutschland sorgt für den Weiterbetrieb des "Bröckelreaktors". Von J. Döschner. [<a href="http://www.tagesschau.de/ausland/akw-belgien-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/inland/tihange-aachen-studie-101.html">Tihange 2: Katastrophe könnte ganz NRW treffen, 27.01.2016</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/belgien-akw-101.html">AKW in Belgien - Feuer, Haarrisse, Wasserlecks, 28.12.2015</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/tihange-belgien-akw-103.html">Reaktor in Tihange wieder am Netz, 25.12.2015</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/akw-belgien-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Tausende Risse im Reaktordruckbehälter - zumindest auf deutscher Seite ist man sich sicher:  Das belgische Atomkraftwerk Tihange 2 ist ein Sicherheitsrisiko. Doch ausgerechnet Deutschland sorgt für den Weiterbetrieb des "Bröckelreaktors". Von J. Döschner.</description>
+<guid>http://www.tagesschau.de/ausland/akw-belgien-101.html</guid>
+</item>
+<item>
+<title>Schottland hofft auf zweite Chance zur Unanbhängigkeit</title>
+<link>http://www.tagesschau.de/ausland/brexit-schottland-107.html</link>
+<pubDate>Tue, 28 Mar 2017 02:00:16 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/brexit-schottland-107.html"><img src="http://www.tagesschau.de/multimedia/bilder/sturgeon-may-101~_v-mittel16x9.jpg" alt="Die schottische Ministerpräsidentin Sturgeon mit der britischen Premierministerin May | Bildquelle: AFP"/></a>
+<br/><br/>
+Schottlands Parlament wird heute wohl ein neues Unabhängigkeitsreferendum von London fordern. Doch der Plan von Ministerpräsidentin Sturgeon trifft bei den Briten auf wenig Gegenliebe. S. Pieper über ein scheinbar aussichtsloses Unterfangen. [<a href="http://www.tagesschau.de/ausland/brexit-schottland-107.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/brexit-gesetz-101.html">Kein neues Referendum: May lässt Schottland abblitzen, 16.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/multimedia/audio/audio-41047.html">Audio: Brexit und Schottland-Referendum</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/brexit-schottland-107.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Schottlands Parlament wird heute wohl ein neues Unabhängigkeitsreferendum von London fordern. Doch der Plan von Ministerpräsidentin Sturgeon trifft bei den Briten auf wenig Gegenliebe. S. Pieper über ein scheinbar aussichtsloses Unterfangen.</description>
+<guid>http://www.tagesschau.de/ausland/brexit-schottland-107.html</guid>
+</item>
+<item>
+<title>Lammert und Wagenknecht kritisieren Türkei scharf</title>
+<link>http://www.tagesschau.de/inland/tuerkei-referendum-105.html</link>
+<pubDate>Tue, 28 Mar 2017 01:23:33 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/inland/tuerkei-referendum-105.html"><img src="http://www.tagesschau.de/multimedia/bilder/tuerkei-referendum-107~_v-mittel16x9.jpg" alt="Frau mit Kopftuch vor Plakat zur Abstimmung über türkisches Präsidialsystem | Bildquelle: dpa"/></a>
+<br/><br/>
+Bundestagspräsident Lammert hat das türkische Verfassungsreferendum als "Putsch gegen die eigene Verfassung" kritisiert. Bei einer Veranstaltung der Linksfraktion verteidigte er die Politik der Bundesregierung. Gastgeberin Wagenknecht nannte Erdogan einen "Terroristen". [<a href="http://www.tagesschau.de/inland/tuerkei-referendum-105.html">mehr</a>]
+</p>
+<p><a href="http://www.tagesschau.de/inland/tuerkei-referendum-105.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Bundestagspräsident Lammert hat das türkische Verfassungsreferendum als "Putsch gegen die eigene Verfassung" kritisiert. Bei einer Veranstaltung der Linksfraktion verteidigte er die Politik der Bundesregierung. Gastgeberin Wagenknecht nannte Erdogan einen "Terroristen".</description>
+<guid>http://www.tagesschau.de/inland/tuerkei-referendum-105.html</guid>
+</item>
+<item>
+<title>Filmtipp "Gaza Surf Club": Freiheit in den Wellen</title>
+<link>http://www.tagesschau.de/ausland/gaza-surf-club-101.html</link>
+<pubDate>Tue, 28 Mar 2017 00:05:51 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/gaza-surf-club-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/sendungsbild-251527~_v-mittel16x9.jpg" alt="Sendungsbild"/></a>
+<br/><br/>
+Hoffnung an einem hoffnungslosen Ort - das gibt der "Gaza Surf Club" einem Dutzend junger Männer inmitten des Krisengebiets. Regisseur Philip Gnadt hat sie für seine Dokumentation sechs Wochen lang begleitet - im Wasser und an Land. Von F. Gediehn.  [<a href="http://www.tagesschau.de/ausland/gaza-surf-club-101.html">video</a>]
+</p>
+<p><a href="http://www.tagesschau.de/ausland/gaza-surf-club-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Hoffnung an einem hoffnungslosen Ort - das gibt der "Gaza Surf Club" einem Dutzend junger Männer inmitten des Krisengebiets. Regisseur Philip Gnadt hat sie für seine Dokumentation sechs Wochen lang begleitet - im Wasser und an Land. Von F. Gediehn. </description>
+<guid>http://www.tagesschau.de/ausland/gaza-surf-club-101.html</guid>
+</item>
+<item>
+<title>Londons Sicht auf die Brexit-Rechnung: Vorbild Thatcher</title>
+<link>http://www.tagesschau.de/ausland/brexit-rechnung-london-101.html</link>
+<pubDate>Mon, 27 Mar 2017 20:25:39 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/brexit-rechnung-london-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/thatcher-downingstreet-101~_v-mittel16x9.jpg" alt="Margret Thatcher vor ihrem Amtssitz in 10 Downing St | Bildquelle: AP"/></a>
+<br/><br/>
+"Wir zahlen nichts" - sobald Großbritannien aus der EU ausgetreten ist, gibt es kein Pfund mehr für Brüssel. Das ist zumindest die Sicht der Brexit-Hardliner in London. Ein bisschen profitieren will man aber weiter von der EU. Ihr Vorbild: Margaret Thatcher. Von Stephanie Pieper. [<a href="http://www.tagesschau.de/ausland/brexit-rechnung-london-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/multimedia/audio/audio-41031.html">Audio: Milliarden  für den Brexit? No!</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/brexit-rechnung-london-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>"Wir zahlen nichts" - sobald Großbritannien aus der EU ausgetreten ist, gibt es kein Pfund mehr für Brüssel. Das ist zumindest die Sicht der Brexit-Hardliner in London. Ein bisschen profitieren will man aber weiter von der EU. Ihr Vorbild: Margaret Thatcher. Von Stephanie Pieper.</description>
+<guid>http://www.tagesschau.de/ausland/brexit-rechnung-london-101.html</guid>
+</item>
+<item>
+<title>EU-Sicht auf die Brexit-Rechnung: Vorbild Churchill</title>
+<link>http://www.tagesschau.de/ausland/brexit-rechnung-bruessel-101.html</link>
+<pubDate>Mon, 27 Mar 2017 20:25:33 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/brexit-rechnung-bruessel-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/churchill-103~_v-mittel16x9.jpg" alt="Denkmal des ehemaligen britischen Premierminister Churchill vor dem House of Parliament in London  | Bildquelle: AP"/></a>
+<br/><br/>
+Eine "gesalzene Rechnung" werde die EU nach London schicken, so Kommissionschef Juncker. Scheidungen sind teuer, von 60 Milliarden Euro ist die Rede. Der Brexit - eine Preisfrage? EU-Chefverhandler Barnier zitiert Churchill. Von Sebastian Schöbel. [<a href="http://www.tagesschau.de/ausland/brexit-rechnung-bruessel-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/multimedia/audio/audio-41027.html">Audio: Die Brexit-Rechnung der EU</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/brexit-rechnung-bruessel-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Eine "gesalzene Rechnung" werde die EU nach London schicken, so Kommissionschef Juncker. Scheidungen sind teuer, von 60 Milliarden Euro ist die Rede. Der Brexit - eine Preisfrage? EU-Chefverhandler Barnier zitiert Churchill. Von Sebastian Schöbel.</description>
+<guid>http://www.tagesschau.de/ausland/brexit-rechnung-bruessel-101.html</guid>
+</item>
+<item>
+<title>Ermittler zweifeln an IS-Verbindung des London-Attentäters</title>
+<link>http://www.tagesschau.de/ausland/london-anschlag-scotlandyard-101.html</link>
+<pubDate>Mon, 27 Mar 2017 20:04:27 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/london-anschlag-scotlandyard-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/london-313~_v-mittel16x9.jpg" alt="Absperrung vor dem Parlament in London | Bildquelle: AFP"/></a>
+<br/><br/>
+Scotland Yard zweifelt an einer Verbindung des Attentäters von London zur IS-Terrormiliz. Es gebe auch keinen Beleg dafür, dass er sich im Gefängnis radikalisiert habe. Eindeutig habe er aber Interesse am Dschihad gehabt. Der IS hatte den Anschlag für sich reklamiert. [<a href="http://www.tagesschau.de/ausland/london-anschlag-scotlandyard-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/angriffe-london-parlament-111.html">IS reklamiert Anschlag für sich, 23.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/angriff-london-faq-103.html">Angriffe in London: Der Stand der Ermittlungen</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/london-anschlag-scotlandyard-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Scotland Yard zweifelt an einer Verbindung des Attentäters von London zur IS-Terrormiliz. Es gebe auch keinen Beleg dafür, dass er sich im Gefängnis radikalisiert habe. Eindeutig habe er aber Interesse am Dschihad gehabt. Der IS hatte den Anschlag für sich reklamiert.</description>
+<guid>http://www.tagesschau.de/ausland/london-anschlag-scotlandyard-101.html</guid>
+</item>
+<item>
+<title>Nordiren bekommen mehr Zeit zur Regierungsbildung</title>
+<link>http://www.tagesschau.de/ausland/nordirland-koalition-103.html</link>
+<pubDate>Mon, 27 Mar 2017 19:32:27 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/nordirland-koalition-103.html"><img src="http://www.tagesschau.de/multimedia/bilder/belfast-101~_v-mittel16x9.jpg" alt="Regionalparlament in Belfast | Bildquelle: REUTERS"/></a>
+<br/><br/>
+Die britische Regierung gibt den rivalisierenden Parteien in Nordirland mehr Zeit zur Regierungsbildung. Damit sind Neuwahlen erstmal abgewendet. Einigen sich die Parteien in den kommenden Wochen aber nicht, übernimmt London. [<a href="http://www.tagesschau.de/ausland/nordirland-koalition-103.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/nordirland-koalition-101.html">Koalitionsgespräche in Nordirland gescheitert</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/nordirland-wahlen-103.html">Wahlen in Nordirland: Knapper Sieg für Protestanten, 04.03.2017</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/nordirland-koalition-103.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Die britische Regierung gibt den rivalisierenden Parteien in Nordirland mehr Zeit zur Regierungsbildung. Damit sind Neuwahlen erstmal abgewendet. Einigen sich die Parteien in den kommenden Wochen aber nicht, übernimmt London.</description>
+<guid>http://www.tagesschau.de/ausland/nordirland-koalition-103.html</guid>
+</item>
+<item>
+<title>Folgen des Brexit: EZB kommt Banken entgegen</title>
+<link>http://www.tagesschau.de/wirtschaft/brexit-banken-101.html</link>
+<pubDate>Mon, 27 Mar 2017 18:53:35 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/wirtschaft/brexit-banken-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/finanzviertel-london-101~_v-mittel16x9.jpg" alt="Finanzviertel in London | Bildquelle: dpa"/></a>
+<br/><br/>
+Mit dem Brexit könnten Londons Banken den "europäischen Pass" und damit den Zugang zum europäischen Markt verlieren - das "Worst-Case-Szenario". Die EZB will den Banken entgegenkommen - stellt aber Forderungen. Von Sandra Scheuring. [<a href="http://www.tagesschau.de/wirtschaft/brexit-banken-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/brexit-woche-101.html">Brexit-Woche: London will offiziell EU-Austritt erklären</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/may-brexit-119.html">Brexit: Banken wollen Personal aus London abziehen, 19.01.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/wirtschaft/bankenkrise-101.html">Droht Europa der nächste Finanz-GAU? 11.07.2016</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/wirtschaft/brexit-banken-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Mit dem Brexit könnten Londons Banken den "europäischen Pass" und damit den Zugang zum europäischen Markt verlieren - das "Worst-Case-Szenario". Die EZB will den Banken entgegenkommen - stellt aber Forderungen. Von Sandra Scheuring.</description>
+<guid>http://www.tagesschau.de/wirtschaft/brexit-banken-101.html</guid>
+</item>
+<item>
+<title>Türkischer Geheimdienst bespitzelt Gülen-Anhänger in Deutschland</title>
+<link>http://www.tagesschau.de/inland/guelen-spionage-deutschland-101.html</link>
+<pubDate>Mon, 27 Mar 2017 17:19:41 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/inland/guelen-spionage-deutschland-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/tuerken-deutschland-101~_v-mittel16x9.jpg" alt="Türken warten vor einem Wahllokal. | Bildquelle: dpa"/></a>
+<br/><br/>
+Anhänger der Gülen-Bewegung werden hierzulande offenbar auch vom türkischen Geheimdienst ausspioniert. Nach Informationen von NDR, WDR und SZ existieren detaillierte Namenslisten der Betroffenen. Sicherheitsbehörden sind entsetzt über das Ausmaß der Bespitzelung. Von G. Mascolo. [<a href="http://www.tagesschau.de/inland/guelen-spionage-deutschland-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/gesandter-tuerkei-101.html">Türkei bestellt deutschen Geschäftsträger ein, 21.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/inland/ditib-109.html">Durchsuchungen bei Ditib: Der Imam - ein Spion?, 15.02.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/inland/ditib-erdogan-101.html">Vorwürfe gegen Ditib: Spitzeln für Erdogan?, 15.01.2017</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/inland/guelen-spionage-deutschland-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Anhänger der Gülen-Bewegung werden hierzulande offenbar auch vom türkischen Geheimdienst ausspioniert. Nach Informationen von NDR, WDR und SZ existieren detaillierte Namenslisten der Betroffenen. Sicherheitsbehörden sind entsetzt über das Ausmaß der Bespitzelung. Von G. Mascolo.</description>
+<guid>http://www.tagesschau.de/inland/guelen-spionage-deutschland-101.html</guid>
+</item>
+<item>
+<title>IS schürt Sorge um Staudamm</title>
+<link>http://www.tagesschau.de/ausland/syrien-staudamm-101.html</link>
+<pubDate>Mon, 27 Mar 2017 17:18:16 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/syrien-staudamm-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/tabka-damm-103~_v-mittel16x9.jpg" alt="Tabka-Staudamm (Archivbild 2014) | Bildquelle: REUTERS"/></a>
+<br/><br/>
+Der Tabka-Staudamm in Syrien ist heftig umkämpft. Nun warnte der IS, der Damm sei beschädigt und könne brechen. Millionen Menschen wären in Gefahr. Doch stimmt das? Oder will der IS nur die Offensive auf Rakka stoppen? Von C. Kühntopp. [<a href="http://www.tagesschau.de/ausland/syrien-staudamm-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/syrien-irak-is-terror-101.html">Syrien und Irak: Die bröckelnde Macht des IS, 21.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/multimedia/audio/audio-41035.html">Audio: Gefährdet die Anti-IS-Offensive die Tabka-Talsperre in Syrien?</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/syrien-staudamm-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Der Tabka-Staudamm in Syrien ist heftig umkämpft. Nun warnte der IS, der Damm sei beschädigt und könne brechen. Millionen Menschen wären in Gefahr. Doch stimmt das? Oder will der IS nur die Offensive auf Rakka stoppen? Von C. Kühntopp.</description>
+<guid>http://www.tagesschau.de/ausland/syrien-staudamm-101.html</guid>
+</item>
+<item>
+<title>Einbrecher stehlen 100-Kilo-Goldmünze aus Bode-Museum</title>
+<link>http://www.tagesschau.de/kultur/diebstahl-bode-mueseum-101.html</link>
+<pubDate>Mon, 27 Mar 2017 16:41:44 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/kultur/diebstahl-bode-mueseum-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/muenze100~_v-mittel16x9.jpg" alt="Die 100 Kilogramm schwere Goldmünze &quot;big maple leave&quot; | Bildquelle: dpa"/></a>
+<br/><br/>
+Fette Beute: In Berlin haben Einbrecher eine 100 Kilo schwere Goldmünze aus dem Bode-Museum gestohlen. Sie gilt als die Größte der Welt und ihr Materialwert liegt bei etwa 3,7 Millionen Euro. Wie konnten die Täter das Stück transportieren? Von A. Hahn. [<a href="http://www.tagesschau.de/kultur/diebstahl-bode-mueseum-101.html">video</a>]
+</p>
+<p><a href="http://www.tagesschau.de/kultur/diebstahl-bode-mueseum-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Fette Beute: In Berlin haben Einbrecher eine 100 Kilo schwere Goldmünze aus dem Bode-Museum gestohlen. Sie gilt als die Größte der Welt und ihr Materialwert liegt bei etwa 3,7 Millionen Euro. Wie konnten die Täter das Stück transportieren? Von A. Hahn.</description>
+<guid>http://www.tagesschau.de/kultur/diebstahl-bode-mueseum-101.html</guid>
+</item>
+<item>
+<title>Interview: "Die SPD steckt im Dilemma"</title>
+<link>http://www.tagesschau.de/inland/saarland-interview-103.html</link>
+<pubDate>Mon, 27 Mar 2017 16:18:25 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/inland/saarland-interview-103.html"><img src="http://www.tagesschau.de/multimedia/bilder/martin-schulz-117~_v-mittel16x9.jpg" alt="Martin Schulz | Bildquelle: REUTERS"/></a>
+<br/><br/>
+Der Weg ins Kanzleramt wird für Martin Schulz nicht leicht. "Durch Rot-Rot-Grün, könnte er konservative SPD-Wähler verschrecken", sagt Politologe Spier im Interview. Sein Dilemma: Auch eine erneute Große Koalition sei unpopulär. [<a href="http://www.tagesschau.de/inland/saarland-interview-103.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/inland/saarland-reax-101.html">Nach Saar-Wahl: Da fehlt noch was bei der SPD</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/inland/saarland-wahl-kommentar-103.html">Kommentar zur Saar-Wahl: Jetzt müssen Union und SPD liefern</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/inland/saarland-interview-103.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Der Weg ins Kanzleramt wird für Martin Schulz nicht leicht. "Durch Rot-Rot-Grün, könnte er konservative SPD-Wähler verschrecken", sagt Politologe Spier im Interview. Sein Dilemma: Auch eine erneute Große Koalition sei unpopulär.</description>
+<guid>http://www.tagesschau.de/inland/saarland-interview-103.html</guid>
+</item>
+<item>
+<title>Türkisches Verfassungsreferendum - Endlich abstimmen</title>
+<link>http://www.tagesschau.de/inland/verfassungsreferendum-tuerkei-deutschland-101.html</link>
+<pubDate>Mon, 27 Mar 2017 15:52:03 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/inland/verfassungsreferendum-tuerkei-deutschland-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/referendum-tuerkei-101~_v-mittel16x9.jpg" alt="In Deutschland lebende Türken können über die Einführung eines Präsidialsystems in der Türkei abstimmen | Bildquelle: Jens Eberl"/></a>
+<br/><br/>
+Nun müssen sie sich entscheiden. 1,4 Millionen Türken in Deutschland können über die Verfassungsreform abstimmen. Die Warteschlangen vor den Konsulaten sind lang, die Stimmung ist gespalten - aber friedlich. Von Jens Eberl. [<a href="http://www.tagesschau.de/inland/verfassungsreferendum-tuerkei-deutschland-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/inland/tuerkische-gemeinde-103.html">Deutsch-türkische Gemeinde startet Nein-Kampagne, 23.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/inland/wahlerlaubnis-101.html">Bundesregierung genehmigt türkisches Referendum, 15.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/inland/deutsch-tuerken-101.html">Deutsch-Türken starten Kampagne gegen Erdogan-Referendum, 13.03.2017</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/inland/verfassungsreferendum-tuerkei-deutschland-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Nun müssen sie sich entscheiden. 1,4 Millionen Türken in Deutschland können über die Verfassungsreform abstimmen. Die Warteschlangen vor den Konsulaten sind lang, die Stimmung ist gespalten - aber friedlich. Von Jens Eberl.</description>
+<guid>http://www.tagesschau.de/inland/verfassungsreferendum-tuerkei-deutschland-101.html</guid>
+</item>
+<item>
+<title>Koalitionsgespräche in Nordirland gescheitert</title>
+<link>http://www.tagesschau.de/ausland/nordirland-koalition-101.html</link>
+<pubDate>Mon, 27 Mar 2017 14:45:16 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/nordirland-koalition-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/nordirland-121~_v-mittel16x9.jpg" alt="Das Parlamentsgebäude in Belfast | Bildquelle: AFP"/></a>
+<br/><br/>
+Die Koalitionsverhandlungen in Nordirland sind noch vor Ablauf der Frist geplatzt. Damit drohen der Provinz zum dritten Mal innerhalb eines Jahres Neuwahlen. Oder London könnte die direkte Kontrolle übernehmen. [<a href="http://www.tagesschau.de/ausland/nordirland-koalition-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/nordirland-wahlen-103.html">Wahlen in Nordirland: Knapper Sieg für Protestanten, 04.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/brexit-tour-warrenpoint-101.html">Brexit-Tour aus Nordirland: Wenn Grenzen wieder wichtig werden, 07.06.2016</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/nordirland-koalition-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Die Koalitionsverhandlungen in Nordirland sind noch vor Ablauf der Frist geplatzt. Damit drohen der Provinz zum dritten Mal innerhalb eines Jahres Neuwahlen. Oder London könnte die direkte Kontrolle übernehmen.</description>
+<guid>http://www.tagesschau.de/ausland/nordirland-koalition-101.html</guid>
+</item>
+<item>
+<title>Haft und Geldstrafe für Kreml-Kritiker Nawalny</title>
+<link>http://www.tagesschau.de/ausland/russland-protest-korruption-109.html</link>
+<pubDate>Mon, 27 Mar 2017 14:39:39 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/russland-protest-korruption-109.html"><img src="http://www.tagesschau.de/multimedia/bilder/nawalny-155~_v-mittel16x9.jpg" alt="Alexej Nawalny | Bildquelle: dpa"/></a>
+<br/><br/>
+Einen Tag nach seiner Festnahme ist Kreml-Kritiker Alexej Nawalny zu 15 Tagen Haft und einer Geldstrafe verurteilt worden. Er hatte am Wochenende zu einer Demo aufgerufen, die nicht genehmigt war. Die Nacht verbrachte Nawalny in Polizeigewahrsam. [<a href="http://www.tagesschau.de/ausland/russland-protest-korruption-109.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/russland-protest-korruption-103.html">Demos in Russland: USA und EU kritisieren Hunderte Festnahmen</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/russland-protest-korruption-101.html">Russen protestieren gegen Korruption, 26.03.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/nawalny-139.html">Nawalny erneut zu Bewährungstrafe verurteilt, 08.02.2017</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/russland-protest-korruption-109.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Einen Tag nach seiner Festnahme ist Kreml-Kritiker Alexej Nawalny zu 15 Tagen Haft und einer Geldstrafe verurteilt worden. Er hatte am Wochenende zu einer Demo aufgerufen, die nicht genehmigt war. Die Nacht verbrachte Nawalny in Polizeigewahrsam.</description>
+<guid>http://www.tagesschau.de/ausland/russland-protest-korruption-109.html</guid>
+</item>
+<item>
+<title>NRW: Gutachter sieht keine Versäumnisse im Fall Amri</title>
+<link>http://www.tagesschau.de/inland/amri-gutachter-101.html</link>
+<pubDate>Mon, 27 Mar 2017 15:56:00 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/inland/amri-gutachter-101.html"><img src="http://www.tagesschau.de/ardimport/regional/nordrheinwestfalen/wdr-image-4963~_v-mittel16x9.jpg" alt="Sonderermittler Bernhard Kretschmer spricht am 27.03.2017 in Düsseldorf zu Journalisten.  | Bildquelle: picture alliance"/></a>
+<br/><br/>
+Der NRW-Sonderermittler im Fall Amri sieht keine Versäumnisse der nordrhein-westfälischen Behörden. Es habe keine Möglichkeiten gegeben, Amri im Vorfeld des Anschlags von Berlin strafrechtlich zu fassen. [<a href="http://www.tagesschau.de/inland/amri-gutachter-101.html">wdr</a>]
+</p>
+<p><a href="http://www.tagesschau.de/inland/amri-gutachter-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Der NRW-Sonderermittler im Fall Amri sieht keine Versäumnisse der nordrhein-westfälischen Behörden. Es habe keine Möglichkeiten gegeben, Amri im Vorfeld des Anschlags von Berlin strafrechtlich zu fassen.</description>
+<guid>http://www.tagesschau.de/inland/amri-gutachter-101.html</guid>
+</item>
+<item>
+<title>15 Tage Haft für Kreml-Kritiker Nawalny</title>
+<link>http://www.tagesschau.de/eilmeldung/eilmeldung-2531.html</link>
+<pubDate>Mon, 27 Mar 2017 14:28:11 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/eilmeldung/eilmeldung-2531.html"><img src="http://www.tagesschau.de/multimedia/bilder/nawalny-151~_v-mittel16x9.jpg" alt="Der russische Oppositionspolitiker Alexej Nawalny im Gericht | Bildquelle: AP"/></a>
+<br/><br/>
+Einen Tag nach seiner Festnahme ist Kreml-Kritiker Alexej Nawalny zu 15 Tagen Haft und einer Geldstrafe verurteilt worden. Er hatte am Wochenende zu einer Demo aufgerufen, die nicht genehmigt war. Nawalny hatte die Nacht in Polizeigewahrsam verbracht. [<a href="http://www.tagesschau.de/eilmeldung/eilmeldung-2531.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/russland-protest-korruption-105.html">Kreml-Kritiker Nawalny droht Arrest</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/russland-protest-korruption-103.html">Demos in Russland: USA und EU kritisieren Festnahmen, 26.03.2017</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/eilmeldung/eilmeldung-2531.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Einen Tag nach seiner Festnahme ist Kreml-Kritiker Alexej Nawalny zu 15 Tagen Haft und einer Geldstrafe verurteilt worden. Er hatte am Wochenende zu einer Demo aufgerufen, die nicht genehmigt war. Nawalny hatte die Nacht in Polizeigewahrsam verbracht.</description>
+<guid>http://www.tagesschau.de/eilmeldung/eilmeldung-2531.html</guid>
+</item>
 <item>
 <title>Kreml-Kritiker Nawalny muss 20.000 Rubel Strafe zahlen</title>
 <link>http://www.tagesschau.de/ausland/russland-protest-korruption-107.html</link>
@@ -17,7 +860,7 @@
 <content:encoded>
 <![CDATA[
 <p>
-<a href="http://www.tagesschau.de/ausland/russland-protest-korruption-107.html"><img src="http://www.tagesschau.de/multimedia/bilder/nawalny-151~_v-mittel16x9.jpg" alt="Der russische Oppositionspolitiker Alexej Nawalny im Gericht | Bildquelle: AP"/></a>
+<a href="http://www.tagesschau.de/ausland/russland-protest-korruption-107.html"><img src="http://www.tagesschau.de/multimedia/bilder/kreml-proteste-101~_v-mittel16x9.jpg" alt="Der russische Oppositionspolitiker Alexej Nawalny im Gericht | Bildquelle: AP"/></a>
 <br/><br/>
 20.000 Rubel - das ist die Strafe, die der russische Oppositionspolitiker Nawalny für die Organisation der nicht erlaubten Demonstration mit Hunderten Festnahmen zahlen muss. Der Kreml bezeichnete die Proteste als Provokation und verteidigte das Vorgehen der Polizei. [<a href="http://www.tagesschau.de/ausland/russland-protest-korruption-107.html">mehr</a>]
 </p>
@@ -54,16 +897,13 @@ Es hat nicht gereicht, die Fünf-Prozent-Hürde viel zu hoch, kein schöner Star
 <p>
 <ul>
 <li>
-<a href="http://www.tagesschau.de/inland/saarland-wahl-kommentar-103.html">Kommentar zur Saar-Wahl: Jetzt müssen Union und SPD liefern</a>
+<a href="http://www.tagesschau.de/inland/saarland-wahl-117.html">Saar-Wahl: Ein Schulz macht noch keinen Sieg, 26.03.2017</a>
 </li>
 <li>
-<a href="http://www.tagesschau.de/inland/saarland-wahl-119.html">Saarland-Wahl: CDU gewinnt klar vor SPD</a>
+<a href="http://www.tagesschau.de/inland/saarland-wahl-119.html">Saarland-Wahl: CDU gewinnt klar vor SPD, 26.03.2017</a>
 </li>
 <li>
 <a href="http://www.tagesschau.de/multimedia/video/video-273047.html">Video: Nach der Landtagswahl im Saarland</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/inland/saarland-wahl-117.html">Saar-Wahl: Ein Schulz macht noch keinen Sieg</a>
 </li>
 </ul>
 </p>
@@ -110,14 +950,14 @@ Es waren die massivsten Proteste in Russland seit vielen Jahren: Allein in Moska
 <content:encoded>
 <![CDATA[
 <p>
-<a href="http://www.tagesschau.de/ausland/innovation-trump-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/kushner-113~_v-mittel16x9.jpg" alt="Jared Kushner | Bildquelle: AP"/></a>
+<a href="http://www.tagesschau.de/ausland/innovation-trump-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/jared-kushner-101~_v-mittel16x9.jpg" alt="Jared Kushner  | Bildquelle: AFP"/></a>
 <br/><br/>
-Schlappe bei der Gesundheitsreform und das Einreiseverbot auf dem Prüfstand - es läuft gerade nicht bei Präsident Trump. Nun will er für positivere Schlagzeilen sorgen. Ein neues Amt für Innovation soll Bürokratie-Hürden abbauen. Der Leiter: Schwiegersohn Kushner. [<a href="http://www.tagesschau.de/ausland/innovation-trump-101.html">mehr</a>]
+Schlappe bei der Gesundheitsreform und das Einreiseverbot auf dem Prüfstand - es läuft gerade nicht gut bei Präsident Trump. Nun will er für positivere Schlagzeilen sorgen. Ein neues Amt für Innovation soll Bürokratie-Hürden abbauen. Der Leiter: Schwiegersohn Kushner. [<a href="http://www.tagesschau.de/ausland/innovation-trump-101.html">mehr</a>]
 </p>
 <p><a href="http://www.tagesschau.de/ausland/innovation-trump-101.html">Meldung bei www.tagesschau.de lesen</a></p>
 ]]>
 </content:encoded>
-<description>Schlappe bei der Gesundheitsreform und das Einreiseverbot auf dem Prüfstand - es läuft gerade nicht bei Präsident Trump. Nun will er für positivere Schlagzeilen sorgen. Ein neues Amt für Innovation soll Bürokratie-Hürden abbauen. Der Leiter: Schwiegersohn Kushner.</description>
+<description>Schlappe bei der Gesundheitsreform und das Einreiseverbot auf dem Prüfstand - es läuft gerade nicht gut bei Präsident Trump. Nun will er für positivere Schlagzeilen sorgen. Ein neues Amt für Innovation soll Bürokratie-Hürden abbauen. Der Leiter: Schwiegersohn Kushner.</description>
 <guid>http://www.tagesschau.de/ausland/innovation-trump-101.html</guid>
 </item>
 <item>
@@ -162,797 +1002,6 @@ Die Stimmung in den Chefetagen der deutschen Wirtschaft ist so gut wie seit sech
 </content:encoded>
 <description>Die Stimmung in den Chefetagen der deutschen Wirtschaft ist so gut wie seit sechs Jahren nicht mehr. Wichtiger Grund ist ein Aufschwung der weltweiten Konjunktur. Dadurch exportiert und produziert die Industrie noch mehr.</description>
 <guid>http://boerse.ard.de/anlagestrategie/konjunktur/ifo-index-aufschwung-gewinnt-an-kraft100.html</guid>
-</item>
-<item>
-<title>"Moscheereport": "Was man versteht, macht weniger Angst"</title>
-<link>http://www.tagesschau.de/inland/moschee-report-101.html</link>
-<pubDate>Mon, 27 Mar 2017 11:13:02 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/inland/moschee-report-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/moscheereport-101~_v-mittel16x9.jpg" alt="Der Moscheereport"/></a>
-<br/><br/>
-Für viele sind Moscheen eine fremde Welt. Was wird dort gepredigt? Für wen? Um das herauszufinden, hat C. Schreiber Freitagsgebete besucht. In seinem  "Moscheereport" berichtet er über das blühende Leben in den Gemeinden - aber auch über die üblen Bedingungen dafür. [<a href="http://www.tagesschau.de/inland/moschee-report-101.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/inland/ditib-109.html">Ditib: Der Imam - ein Spion?, 15.02.2017</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/inland/grimmepreis-marhaba-101.html">Grimme-Preis für C. Schreiber und "Marhaba",  09.03.2016</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/multimedia/video/video-273019.html">Video: Der Moscheereport</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/inland/moschee-report-101.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Für viele sind Moscheen eine fremde Welt. Was wird dort gepredigt? Für wen? Um das herauszufinden, hat C. Schreiber Freitagsgebete besucht. In seinem  "Moscheereport" berichtet er über das blühende Leben in den Gemeinden - aber auch über die üblen Bedingungen dafür.</description>
-<guid>http://www.tagesschau.de/inland/moschee-report-101.html</guid>
-</item>
-<item>
-<title>Gouverneur gegen Trump-Plan: Wie die Berliner Mauer</title>
-<link>http://www.tagesschau.de/ausland/us-mauer-kalifornien-101.html</link>
-<pubDate>Mon, 27 Mar 2017 09:39:58 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/ausland/us-mauer-kalifornien-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/mauer-mexiko-103~_v-mittel16x9.jpg" alt="Grenze Mexikos zu den USA | Bildquelle: AFP"/></a>
-<br/><br/>
-Kaliforniens Gouverneur Brown hat ein "sehr hartes Vorgehen" gegen die von Trump geplante Mauer zu Mexiko angekündigt. Sie erinnere ihn an die Berliner Mauer. So behandelt man Menschen nicht", sagte Brown. Er betonte: "Wir werden das menschlich Richtige machen." [<a href="http://www.tagesschau.de/ausland/us-mauer-kalifornien-101.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/ausland/mauer-mexiko-101.html">Trumps Mauer soll neun Meter hoch sein</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/ausland/mexiko-usa-103.html">US-Präsident Trump: Mexiko soll Mauer mit Zöllen zahlen, 26.01.2017</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/ausland/mexiko-mauer-reaktionen-101.html">"Mexiko glaubt nicht an Mauern" - Kritik an Trumps Plänen, 26.01.2017</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/ausland/us-mauer-kalifornien-101.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Kaliforniens Gouverneur Brown hat ein "sehr hartes Vorgehen" gegen die von Trump geplante Mauer zu Mexiko angekündigt. Sie erinnere ihn an die Berliner Mauer. So behandelt man Menschen nicht", sagte Brown. Er betonte: "Wir werden das menschlich Richtige machen."</description>
-<guid>http://www.tagesschau.de/ausland/us-mauer-kalifornien-101.html</guid>
-</item>
-<item>
-<title>Kommentar zur Saar-Wahl: Jetzt müssen Union und SPD liefern</title>
-<link>http://www.tagesschau.de/inland/saarland-wahl-kommentar-103.html</link>
-<pubDate>Mon, 27 Mar 2017 08:11:27 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/inland/saarland-wahl-kommentar-103.html"><img src="http://www.tagesschau.de/multimedia/bilder/saarland-wahl-103~_v-mittel16x9.jpg" alt="Wahlplakate zeigen Annegret Kramp-Karrenbauer (CDU) und Anke Rehlinger (SPD) in Saarbrücken | Bildquelle: picture alliance / Oliver Dietze"/></a>
-<br/><br/>
-Was für die SPD ein Saarland-Flop ist, ist für die Union ein Erfolg - vor allem dank des Amtsbonusses von Annegret Kramp-Karrenbauer. Doch daraus wird noch lange kein Merkel-Effekt. Nach der Wahl ist vor der Wahl, daher müssen beide Parteien nun liefern, meint B. Nutz. [<a href="http://www.tagesschau.de/inland/saarland-wahl-kommentar-103.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/inland/saarland-wahl-119.html">Saarland-Wahl: CDU gewinnt klar vor SPD</a>
-</li>
-<li>
-<a href="http://www.sr.de/sr/home/nachrichten/dossiers/wahlen/landtagswahl_2017/landtagswahl_saarland_2017_reaktion100.html">Wahl-Reaktionen: CDU jubelt, Grüne ziehen Konsequenzen</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/newsticker/liveblog-saarland-wahl-101.html">Liveblog zur Saarland-Wahl: CDU-Jubel und Effekthascherei</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/inland/saarland-wahl-kommentar-103.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Was für die SPD ein Saarland-Flop ist, ist für die Union ein Erfolg - vor allem dank des Amtsbonusses von Annegret Kramp-Karrenbauer. Doch daraus wird noch lange kein Merkel-Effekt. Nach der Wahl ist vor der Wahl, daher müssen beide Parteien nun liefern, meint B. Nutz.</description>
-<guid>http://www.tagesschau.de/inland/saarland-wahl-kommentar-103.html</guid>
-</item>
-<item>
-<title>Südkorea: Ex-Präsidentin Park droht Haftbefehl</title>
-<link>http://www.tagesschau.de/ausland/haftbefehl-park-101.html</link>
-<pubDate>Mon, 27 Mar 2017 11:22:52 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/ausland/haftbefehl-park-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/park-107~_v-mittel16x9.jpg" alt="Südkoreas Ex-Präsidentin Park Geun-Hye | Bildquelle: AP"/></a>
-<br/><br/>
-Südkoreas Staatsanwaltschaft hat Haftbefehl gegen die entmachtete Präsidentin Park beantragt. Sie habe Bestechungsgelder angenommen, hieß es zur Begründung. Zudem bestehe die Gefahr, dass Beweismaterial vernichtet würde. [<a href="http://www.tagesschau.de/ausland/haftbefehl-park-101.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/ausland/korea-park-107.html">Südkorea: Staatsanwalt befragt Ex-Präsidentin Park, 12.03.2017</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/ausland/suedkorea-gericht-park-amtsenthebung-101.html">Südkorea: Amtsenthebung Parks bestätigt, 10.03.2017</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/ausland/haftbefehl-park-101.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Südkoreas Staatsanwaltschaft hat Haftbefehl gegen die entmachtete Präsidentin Park beantragt. Sie habe Bestechungsgelder angenommen, hieß es zur Begründung. Zudem bestehe die Gefahr, dass Beweismaterial vernichtet würde.</description>
-<guid>http://www.tagesschau.de/ausland/haftbefehl-park-101.html</guid>
-</item>
-<item>
-<title>Flugzeugtragödie vor 40 Jahren: Hunderte Tote auf Teneriffa</title>
-<link>http://www.tagesschau.de/ausland/teneriffa-103.html</link>
-<pubDate>Mon, 27 Mar 2017 04:04:16 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/ausland/teneriffa-103.html"><img src="http://www.tagesschau.de/multimedia/bilder/teneriffa-flugzeugkatastrophe-101~_v-mittel16x9.jpg" alt="Das Leitwerk einer PanAm Boeing 747 inmitten eines Trümmerfelds auf dem Flughafen von Teneriffa (Archivbild) | Bildquelle: dpa"/></a>
-<br/><br/>
-Es war menschliches Versagen mit unvorstellbaren Konsequenzen: Am 27. März 1977 krachen auf der Insel Teneriffa zwei Passagiermaschinen ineinander. Fast 600 Menschen kommen in der Folge ums Leben. Von Oliver Neuroth. [<a href="http://www.tagesschau.de/ausland/teneriffa-103.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/multimedia/audio/audio-41015.html">Audio: Albtraum im Paradies: 40 Jahre Flugzeugkatastrophe von Teneriffa</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/ausland/teneriffa-103.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Es war menschliches Versagen mit unvorstellbaren Konsequenzen: Am 27. März 1977 krachen auf der Insel Teneriffa zwei Passagiermaschinen ineinander. Fast 600 Menschen kommen in der Folge ums Leben. Von Oliver Neuroth.</description>
-<guid>http://www.tagesschau.de/ausland/teneriffa-103.html</guid>
-</item>
-<item>
-<title>Türken in Deutschland stimmen über Verfassungsreform ab</title>
-<link>http://www.tagesschau.de/inland/tuerkei-referendum-103.html</link>
-<pubDate>Mon, 27 Mar 2017 03:59:21 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/inland/tuerkei-referendum-103.html"><img src="http://www.tagesschau.de/multimedia/bilder/konsulat-107~_v-mittel16x9.jpg" alt="Türkisches Generalkonsulat | Bildquelle: dpa"/></a>
-<br/><br/>
-In Deutschland lebende Türken können von heute an über die Einführung eines Präsidialsystems in der Türkei abstimmen. Rund 1,4 Millionen Wahlberechtigte sind bis zum 9. April aufgerufen, noch vor ihren Landsleuten in der Türkei ihre Stimme abzugeben. [<a href="http://www.tagesschau.de/inland/tuerkei-referendum-103.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/ausland/erdogan-eu-referendum-101.html">Erdogan erwägt Referendum über EU-Beitritt, 25.03.2017</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/multimedia/kurzerklaert/erdogan-praesidialsystem-101.html">#kurzerklärt auf Türkisch: Wie viel Macht will Erdogan?, 08.03.2017</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/inland/tuerkei-referendum-103.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>In Deutschland lebende Türken können von heute an über die Einführung eines Präsidialsystems in der Türkei abstimmen. Rund 1,4 Millionen Wahlberechtigte sind bis zum 9. April aufgerufen, noch vor ihren Landsleuten in der Türkei ihre Stimme abzugeben.</description>
-<guid>http://www.tagesschau.de/inland/tuerkei-referendum-103.html</guid>
-</item>
-<item>
-<title>Brexit-Woche: London will offiziell EU-Austritt erklären</title>
-<link>http://www.tagesschau.de/ausland/brexit-woche-101.html</link>
-<pubDate>Mon, 27 Mar 2017 03:58:00 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/ausland/brexit-woche-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/london-267~_v-mittel16x9.jpg" alt="Blick auf London | Bildquelle: AFP"/></a>
-<br/><br/>
-In dieser Woche will die britische Regierung den offiziellen Brexit-Antrag nach Brüssel schicken. Doch die Differenzen mit Schottland und eine Krise in Nordirland machen Premier May zu schaffen. Und dann gibt es noch eine 60-Milliarden-Euro-Rechnung aus Brüssel. Von T. Spickhofen. [<a href="http://www.tagesschau.de/ausland/brexit-woche-101.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/ausland/brexit-449.html">Demos in Großbritannien: "Der Brexit wird ein Desaster", 25.03.2017</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/ausland/brexit-antrag-103.html">Die EU ist bereit für den Abschiedsbrief aus London, 20.03.2017</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/multimedia/audio/audio-41009.html">Audio: Die Brexit-Woche beginnt</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/ausland/brexit-woche-101.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>In dieser Woche will die britische Regierung den offiziellen Brexit-Antrag nach Brüssel schicken. Doch die Differenzen mit Schottland und eine Krise in Nordirland machen Premier May zu schaffen. Und dann gibt es noch eine 60-Milliarden-Euro-Rechnung aus Brüssel. Von T. Spickhofen.</description>
-<guid>http://www.tagesschau.de/ausland/brexit-woche-101.html</guid>
-</item>
-<item>
-<title>Demos in Russland: USA und EU kritisieren Hunderte Festnahmen</title>
-<link>http://www.tagesschau.de/ausland/russland-protest-korruption-103.html</link>
-<pubDate>Mon, 27 Mar 2017 12:36:46 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/ausland/russland-protest-korruption-103.html"><img src="http://www.tagesschau.de/multimedia/bilder/moskau-proteste-103~_v-mittel16x9.jpg" alt="Polizisten gehen gegen Anti-Korruptions-Demo in Moskau vor | Bildquelle: AP"/></a>
-<br/><br/>
-Die USA und die EU haben die sofortige Freilassung der in Russland festgenommenen Demonstranten gefordert. Das US-Außenministerium sprach von einem Affront gegen die Kernprinzipien der Demokratie. In mehreren russischen Städten hatten Menschen gegen Korruption protestiert. [<a href="http://www.tagesschau.de/ausland/russland-protest-korruption-103.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/ausland/nawalny-139.html">Nawalny erneut auf Bewährung verurteilt, 08.02.2017</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/ausland/nawalny-123.html">Polizei nimmt Hunderte Oppositionelle fest, 30.02.2014</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/ausland/russland-protest-korruption-103.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Die USA und die EU haben die sofortige Freilassung der in Russland festgenommenen Demonstranten gefordert. Das US-Außenministerium sprach von einem Affront gegen die Kernprinzipien der Demokratie. In mehreren russischen Städten hatten Menschen gegen Korruption protestiert.</description>
-<guid>http://www.tagesschau.de/ausland/russland-protest-korruption-103.html</guid>
-</item>
-<item>
-<title>US-Republikaner: Heillos zerstritten</title>
-<link>http://www.tagesschau.de/ausland/zerstrittene-republikaner-101.html</link>
-<pubDate>Mon, 27 Mar 2017 03:18:11 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/ausland/zerstrittene-republikaner-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/us-praesident-donald-trump-mit-republikanern-101~_v-mittel16x9.jpg" alt="US Präsident Donald Trump spricht mit Republikanern im Weissen Haus in Washington | Bildquelle: AP"/></a>
-<br/><br/>
-Die Debatte über die Schlappe von US-Präsident Trump bei der Gesundheitsreform ist bis heute nicht verstummt. Daran zeigt sich: Die Republikaner sind nicht handlungsfähig, sondern heillos zerstritten. Rolf Büllmann mit einer Analyse. [<a href="http://www.tagesschau.de/ausland/zerstrittene-republikaner-101.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/ausland/us-einsparungen-radio-fernsehen-101.html">Trumps Etat bedroht öffentlichen Rundfunk, 26.03.2017</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/ausland/usa-obamacare-kongress-105.html">Republikaner sagen Abstimmung über Gesundheitsreform ab, 24.03.2017</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/ausland/zerstrittene-republikaner-101.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Die Debatte über die Schlappe von US-Präsident Trump bei der Gesundheitsreform ist bis heute nicht verstummt. Daran zeigt sich: Die Republikaner sind nicht handlungsfähig, sondern heillos zerstritten. Rolf Büllmann mit einer Analyse.</description>
-<guid>http://www.tagesschau.de/ausland/zerstrittene-republikaner-101.html</guid>
-</item>
-<item>
-<title>Bulgarien: Mitte-Rechts-Partei gewinnt Parlamentswahl</title>
-<link>http://www.tagesschau.de/ausland/bulgarien-141.html</link>
-<pubDate>Mon, 27 Mar 2017 00:43:50 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/ausland/bulgarien-141.html"><img src="http://www.tagesschau.de/multimedia/bilder/bulgarien-143~_v-mittel16x9.jpg" alt="Boiko Borissow von der Gerb-Partei in Bulgarien. | Bildquelle: dpa"/></a>
-<br/><br/>
-In Bulgarien hat die Mitte-Rechts-Partei GERB laut offiziellem Ergebnis die Parlamentswahl gewonnen. Der Vorsitzende Borissow muss sich allerdings Koalitionspartner suchen. Da die Sozialisten bereits abgesagt haben, wird es wohl einen Rechtsruck geben, berichtet S. Ozsvath. [<a href="http://www.tagesschau.de/ausland/bulgarien-141.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/ausland/bulgarien-wahlen-einflussnahme-101.html">Bulgarien - Eine Wahl, die auch Ankara und Moskau interessiert</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/ausland/bulgarien-127.html">Kurswechsel in Bulgarien: Mehr Moskau, weniger Brüssel, 13.11.2016</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/multimedia/audio/audio-41011.html">Audio: Borissow gewinnt die Parlamentswahl in Bulgarien</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/ausland/bulgarien-141.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>In Bulgarien hat die Mitte-Rechts-Partei GERB laut offiziellem Ergebnis die Parlamentswahl gewonnen. Der Vorsitzende Borissow muss sich allerdings Koalitionspartner suchen. Da die Sozialisten bereits abgesagt haben, wird es wohl einen Rechtsruck geben, berichtet S. Ozsvath.</description>
-<guid>http://www.tagesschau.de/ausland/bulgarien-141.html</guid>
-</item>
-<item>
-<title>Interview: Die Lieber-keine-Experimente-Wahl</title>
-<link>http://www.tagesschau.de/inland/saarland-interview-101.html</link>
-<pubDate>Sun, 26 Mar 2017 22:42:57 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/inland/saarland-interview-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/kramp-karrenbauer-119~_v-mittel16x9.jpg" alt="Kramp-Karrenbauer | Bildquelle: dpa"/></a>
-<br/><br/>
-Der haushohe Wahlsieg der CDU kam für viele überraschend. Doch der sei nicht nur Annegret Kramp-Karrenbauer zu verdanken, sagt Politologe Niedermayer gegenüber tagesschau.de. Die Aussicht auf Rot-Rot habe zu einer Gegenmobilisierung geführt. [<a href="http://www.tagesschau.de/inland/saarland-interview-101.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.sr.de/sr/home/nachrichten/dossiers/wahlen/landtagswahl_2017/landtagswahl_saarland_2017_reaktion100.html">Wahl-Reaktionen: CDU jubelt, Grüne ziehen Konsequenzen</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/newsticker/liveblog-saarland-wahl-101.html">Liveblog zur Saarland-Wahl: CDU-Jubel und Effekthascherei</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/inland/saarland-interview-101.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Der haushohe Wahlsieg der CDU kam für viele überraschend. Doch der sei nicht nur Annegret Kramp-Karrenbauer zu verdanken, sagt Politologe Niedermayer gegenüber tagesschau.de. Die Aussicht auf Rot-Rot habe zu einer Gegenmobilisierung geführt.</description>
-<guid>http://www.tagesschau.de/inland/saarland-interview-101.html</guid>
-</item>
-<item>
-<title>Kramp-Karrenbauer: ein "großartiger Erfolg"</title>
-<link>http://www.tagesschau.de/inland/interview-kramp-karrenbauer-103.html</link>
-<pubDate>Sun, 26 Mar 2017 21:57:21 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/inland/interview-kramp-karrenbauer-103.html"><img src="http://www.tagesschau.de/multimedia/bilder/sendungsbild-251177~_v-mittel16x9.jpg" alt="Sendungsbild"/></a>
-<br/><br/>
-Wahlsiegerin Kramp-Karrenbauer feiert den Sieg ihrer CDU als "großartigen Erfolg" und reicht ihrer alten und vermutlich auch neuen Juniorpartnerin die Hand. Außerdem erklärt sie im Interview mit den tagesthemen den "AKK-Effekt" und sagt, was Merkel von ihr lernen kann. [<a href="http://www.tagesschau.de/inland/interview-kramp-karrenbauer-103.html">video</a>]
-</p>
-<p><a href="http://www.tagesschau.de/inland/interview-kramp-karrenbauer-103.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Wahlsiegerin Kramp-Karrenbauer feiert den Sieg ihrer CDU als "großartigen Erfolg" und reicht ihrer alten und vermutlich auch neuen Juniorpartnerin die Hand. Außerdem erklärt sie im Interview mit den tagesthemen den "AKK-Effekt" und sagt, was Merkel von ihr lernen kann.</description>
-<guid>http://www.tagesschau.de/inland/interview-kramp-karrenbauer-103.html</guid>
-</item>
-<item>
-<title>Saarland-Wahl: CDU gewinnt klar vor SPD</title>
-<link>http://www.tagesschau.de/inland/saarland-wahl-119.html</link>
-<pubDate>Sun, 26 Mar 2017 22:01:37 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/inland/saarland-wahl-119.html"><img src="http://www.tagesschau.de/multimedia/bilder/kramp-karrenbauer-117~_v-mittel16x9.jpg" alt="Annegret Kramp-Karrenbauer | Bildquelle: REUTERS"/></a>
-<br/><br/>
-40,7 Prozent - die CDU mit Ministerpräsidentin Kramp-Karrenbauer hat die Wahl im Saarland mit klarem Vorsprung vor der SPD gewonnen. Drittstärkste Kraft bleibt die Linkspartei. Die AfD schafft den Sprung in den Landtag, anders als Grüne, FDP und Piraten. Die CDU will die Große Koalition fortsetzen. [<a href="http://www.tagesschau.de/inland/saarland-wahl-119.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/multimedia/video/video-272885.html">Video: Reaktionen auf das Ergebnis im Saarland</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/multimedia/bilder/uvotealbum-861.html">Bilder: Zahlen und Umfragen zur Landtagswahl Saarland 2017</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/inland/saarland-wahl-119.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>40,7 Prozent - die CDU mit Ministerpräsidentin Kramp-Karrenbauer hat die Wahl im Saarland mit klarem Vorsprung vor der SPD gewonnen. Drittstärkste Kraft bleibt die Linkspartei. Die AfD schafft den Sprung in den Landtag, anders als Grüne, FDP und Piraten. Die CDU will die Große Koalition fortsetzen.</description>
-<guid>http://www.tagesschau.de/inland/saarland-wahl-119.html</guid>
-</item>
-<item>
-<title>Landtagswahl im Saarland: Wer wählte was warum?</title>
-<link>http://www.tagesschau.de/inland/wahl-sl-analyse-101.html</link>
-<pubDate>Sun, 26 Mar 2017 22:03:23 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/inland/wahl-sl-analyse-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/wahlanalyse-saarland-101~_v-mittel16x9.jpg" alt="Wahlanalyse Saarland"/></a>
-<br/><br/>
-Wie kommt es, dass die CDU so viel deutlicher gewonnen hat als lange angenommen? Warum hat der "Schulz-Effekt" der SPD an der Saar nicht geholfen? Und welche Rolle spielten Themen wie die Flüchtlingspolitik? Eine Analyse auf der Basis der Zahlen von Infratest dimap. [<a href="http://www.tagesschau.de/inland/wahl-sl-analyse-101.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/inland/saarland-wahl-117.html">Saar-Wahl: Ein Schulz macht noch keinen Sieg</a>
-</li>
-<li>
-<a href="http://www.sr.de/sr/home/nachrichten/dossiers/wahlen/landtagswahl_2017/index.html">Dossier: Alles Wissenswerte zur Saarland-Wahl</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/inland/wahl-sl-analyse-101.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Wie kommt es, dass die CDU so viel deutlicher gewonnen hat als lange angenommen? Warum hat der "Schulz-Effekt" der SPD an der Saar nicht geholfen? Und welche Rolle spielten Themen wie die Flüchtlingspolitik? Eine Analyse auf der Basis der Zahlen von Infratest dimap.</description>
-<guid>http://www.tagesschau.de/inland/wahl-sl-analyse-101.html</guid>
-</item>
-<item>
-<title>Vorläufiges Ergebnis der Saar-Wahl: CDU klarer Sieger</title>
-<link>http://www.tagesschau.de/eilmeldung/eilmeldung-2529.html</link>
-<pubDate>Sun, 26 Mar 2017 21:15:09 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-CDU 40,7 Prozent, SPD 29,6 Prozent, Linkspartei 12,9 Prozent, FDP 3,3 Prozent, Piraten 0,7 Prozent, AfD 6,2 Prozent [<a href="http://www.tagesschau.de/eilmeldung/eilmeldung-2529.html">mehr</a>]
-</p>
-<p><a href="http://www.tagesschau.de/eilmeldung/eilmeldung-2529.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>CDU 40,7 Prozent, SPD 29,6 Prozent, Linkspartei 12,9 Prozent, FDP 3,3 Prozent, Piraten 0,7 Prozent, AfD 6,2 Prozent</description>
-<guid>http://www.tagesschau.de/eilmeldung/eilmeldung-2529.html</guid>
-</item>
-<item>
-<title>Nach London-Attentat: Polizei meldet weitere Festnahme</title>
-<link>http://www.tagesschau.de/ausland/birmingham-107.html</link>
-<pubDate>Sun, 26 Mar 2017 21:11:37 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/ausland/birmingham-107.html"><img src="http://www.tagesschau.de/multimedia/bilder/london-301~_v-mittel16x9.jpg" alt="Polizisten vor dem Parlamentsgebäude in London | Bildquelle: AP"/></a>
-<br/><br/>
-Die britische Polizei hat nach dem Londoner Anschlag einen weiteren Verdächtigen festgenommen: Der 30-Jährige wurde in Birmingham in Gewahrsam genommen und soll terroristische Angriffe vorbereitet haben. Die Stadt gilt als islamistische Hochburg. [<a href="http://www.tagesschau.de/ausland/birmingham-107.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/ausland/london-festnahmen-103.html">Nach Anschlag in London: Spurensuche im ganzen Land, 24.03.2017</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/ausland/london-anschlag-terrorexperte-101.html">Terrorismusexperte: Anschläge zeigen neues Muster, 24.03.2017</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/ausland/angriffe-london-parlament-113.html">Tausende halten Mahnwache, 24.03.2017</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/ausland/birmingham-107.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Die britische Polizei hat nach dem Londoner Anschlag einen weiteren Verdächtigen festgenommen: Der 30-Jährige wurde in Birmingham in Gewahrsam genommen und soll terroristische Angriffe vorbereitet haben. Die Stadt gilt als islamistische Hochburg.</description>
-<guid>http://www.tagesschau.de/ausland/birmingham-107.html</guid>
-</item>
-<item>
-<title>Vorläufiges Ergebnis der Saar-Wahl: CDU klarer Sieger</title>
-<link>http://wahl.tagesschau.de/wahlen/2017-03-26-LT-DE-SL/index.shtml</link>
-<pubDate>Sun, 26 Mar 2017 21:09:03 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-CDU 40,7 Prozent, SPD 29,6 Prozent, Linkspartei 12,9 Prozent, FDP 3,3 Prozent, Piraten 0,7 Prozent, AfD 6,2 Prozent [<a href="http://wahl.tagesschau.de/wahlen/2017-03-26-LT-DE-SL/index.shtml">mehr</a>]
-</p>
-]]>
-</content:encoded>
-<description>CDU 40,7 Prozent, SPD 29,6 Prozent, Linkspartei 12,9 Prozent, FDP 3,3 Prozent, Piraten 0,7 Prozent, AfD 6,2 Prozent</description>
-<guid>http://wahl.tagesschau.de/wahlen/2017-03-26-LT-DE-SL/index.shtml</guid>
-</item>
-<item>
-<title>Kommentar zur Saar-Wahl: Ein klarer Wählerauftrag</title>
-<link>http://www.tagesschau.de/inland/saarland-wahl-kommentar-101.html</link>
-<pubDate>Sun, 26 Mar 2017 20:52:20 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/inland/saarland-wahl-kommentar-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/saarland-wahl-113~_v-mittel16x9.jpg" alt="Saarländer stehen Schlange in einem Wahlraum | Bildquelle: REUTERS"/></a>
-<br/><br/>
-Am Ende entschied die Landespolitik - und Annegret Kramp-Karrenbauer. Die beliebte Amtsinhaberin setzte sich durch. Doch wurde die SPD nicht abgewählt, meint Moritz Rödle. Eindeutiger Wählerwunsch: Die Große Koalition soll weitermachen. [<a href="http://www.tagesschau.de/inland/saarland-wahl-kommentar-101.html">mehr</a>]
-</p>
-<p><a href="http://www.tagesschau.de/inland/saarland-wahl-kommentar-101.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Am Ende entschied die Landespolitik - und Annegret Kramp-Karrenbauer. Die beliebte Amtsinhaberin setzte sich durch. Doch wurde die SPD nicht abgewählt, meint Moritz Rödle. Eindeutiger Wählerwunsch: Die Große Koalition soll weitermachen.</description>
-<guid>http://www.tagesschau.de/inland/saarland-wahl-kommentar-101.html</guid>
-</item>
-<item>
-<title>Grafiken: Wirtschaft und Demokratie gut</title>
-<link>http://wahl.tagesschau.de/wahlen/2017-03-26-LT-DE-SL/umfrage-gesellschaft.shtml</link>
-<pubDate>Sun, 26 Mar 2017 20:46:30 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://wahl.tagesschau.de/wahlen/2017-03-26-LT-DE-SL/umfrage-gesellschaft.shtml"><img src="http://www.tagesschau.de/multimedia/bilder/uvchart-575~_v-mittel16x9.jpg" alt="Bild: Sind die Verhältnisse in Ordnung?"/></a>
-<br/><br/>
-Die wirtschaftliche Lage wird als gut eingeschätzt, die Demokratie funktioniert und gerecht geht es eigentlich auch zu. Mehr Grafiken über Ansichten der Wähler zur Gesellschaft finden Sie hier. [<a href="http://wahl.tagesschau.de/wahlen/2017-03-26-LT-DE-SL/umfrage-gesellschaft.shtml">grafiken</a>]
-</p>
-]]>
-</content:encoded>
-<description>Die wirtschaftliche Lage wird als gut eingeschätzt, die Demokratie funktioniert und gerecht geht es eigentlich auch zu. Mehr Grafiken über Ansichten der Wähler zur Gesellschaft finden Sie hier.</description>
-<guid>http://wahl.tagesschau.de/wahlen/2017-03-26-LT-DE-SL/umfrage-gesellschaft.shtml</guid>
-</item>
-<item>
-<title>Grafiken: Die Ministerpräsidentin war's</title>
-<link>http://wahl.tagesschau.de/wahlen/2017-03-26-LT-DE-SL/umfrage-kandidat.shtml</link>
-<pubDate>Sun, 26 Mar 2017 20:46:28 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://wahl.tagesschau.de/wahlen/2017-03-26-LT-DE-SL/umfrage-kandidat.shtml"><img src="http://www.tagesschau.de/multimedia/bilder/uvchart-531~_v-mittel16x9.jpg" alt="Bild: Direktwahl Ministerpräsidentin"/></a>
-<br/><br/>
-Die Kandidatin ist ein entscheidender Grund für das gute Abschneiden der CDU: Ministerpräsidentin Kramp-Karrenbauer liegt bei den Wählern deutlich vor der Konkurrenz. Mehr zu den Kandidatinnen und Kandidaten in den Grafiken. [<a href="http://wahl.tagesschau.de/wahlen/2017-03-26-LT-DE-SL/umfrage-kandidat.shtml">grafiken</a>]
-</p>
-]]>
-</content:encoded>
-<description>Die Kandidatin ist ein entscheidender Grund für das gute Abschneiden der CDU: Ministerpräsidentin Kramp-Karrenbauer liegt bei den Wählern deutlich vor der Konkurrenz. Mehr zu den Kandidatinnen und Kandidaten in den Grafiken.</description>
-<guid>http://wahl.tagesschau.de/wahlen/2017-03-26-LT-DE-SL/umfrage-kandidat.shtml</guid>
-</item>
-<item>
-<title>Grafiken: Von Wechselstimmung keine Spur</title>
-<link>http://wahl.tagesschau.de/wahlen/2017-03-26-LT-DE-SL/umfrage-regierung.shtml</link>
-<pubDate>Sun, 26 Mar 2017 20:46:25 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://wahl.tagesschau.de/wahlen/2017-03-26-LT-DE-SL/umfrage-regierung.shtml"><img src="http://www.tagesschau.de/multimedia/bilder/uvchart-487~_v-mittel16x9.jpg" alt="Bild: Zufrieden mit der Landesregierung"/></a>
-<br/><br/>
-Von Wechselstimmung keine Spur - die Wähler mögen ihre Landesregierung. Sie wünschen sich mehrheitlich eine Fortführung der bisherigen Koalition unter CDU-Führung. Grafiken zur Beurteilung der Regierungsarbeit sehen Sie hier. [<a href="http://wahl.tagesschau.de/wahlen/2017-03-26-LT-DE-SL/umfrage-regierung.shtml">grafiken</a>]
-</p>
-]]>
-</content:encoded>
-<description>Von Wechselstimmung keine Spur - die Wähler mögen ihre Landesregierung. Sie wünschen sich mehrheitlich eine Fortführung der bisherigen Koalition unter CDU-Führung. Grafiken zur Beurteilung der Regierungsarbeit sehen Sie hier.</description>
-<guid>http://wahl.tagesschau.de/wahlen/2017-03-26-LT-DE-SL/umfrage-regierung.shtml</guid>
-</item>
-<item>
-<title>Parlamentswahl in Bulgarien: Dritte Amtszeit für Borissow?</title>
-<link>http://www.tagesschau.de/ausland/bulgarien-137.html</link>
-<pubDate>Sun, 26 Mar 2017 20:25:05 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/ausland/bulgarien-137.html"><img src="http://www.tagesschau.de/multimedia/bilder/bulgarien-139~_v-mittel16x9.jpg" alt="Boiko Borissow von der Gerb-Partei kommt in ein Wahllokal in Sofia.  | Bildquelle: dpa"/></a>
-<br/><br/>
-Zwei Mal war Boiko Borissow bereits bulgarischer Ministerpräsident. Nun könnte er es ein drittes Mal werden. Denn seine pro-westliche Gerb-Partei liegt ersten Prognosen zufolge bei der Parlamentswahl vorn, dicht gefolgt von den Sozialisten. [<a href="http://www.tagesschau.de/ausland/bulgarien-137.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/ausland/bulgarien-wahlen-einflussnahme-101.html">Bulgarien - Eine Wahl, die auch Ankara und Moskau interessiert</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/ausland/visa-zwang-eu-usa-101.html">EU-Parlament will vorübergehende Visumspflicht für US-Bürger, 02.03.2017</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/ausland/bulgarien-127.html">Kurswechsel in Bulgarien: Mehr Moskau, weniger Brüssel, 13.11.2016</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/ausland/bulgarien-137.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Zwei Mal war Boiko Borissow bereits bulgarischer Ministerpräsident. Nun könnte er es ein drittes Mal werden. Denn seine pro-westliche Gerb-Partei liegt ersten Prognosen zufolge bei der Parlamentswahl vorn, dicht gefolgt von den Sozialisten.</description>
-<guid>http://www.tagesschau.de/ausland/bulgarien-137.html</guid>
-</item>
-<item>
-<title>WM-Qualifikation: Deutschland siegt auch in Aserbaidschan</title>
-<link>http://www.sportschau.de/fussball/fifawm2018/spielbericht-wm-qualifikation-aserbaidschan-gegen-deutschland-100.html</link>
-<pubDate>Sun, 26 Mar 2017 20:03:41 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.sportschau.de/fussball/fifawm2018/spielbericht-wm-qualifikation-aserbaidschan-gegen-deutschland-100.html"><img src="http://www.tagesschau.de/multimedia/bilder/deutschland-aserbaidschan-101~_v-mittel16x9.jpg" alt="Mario Gomez trifft zum 3:1. | Bildquelle: dpa"/></a>
-<br/><br/>
-Fünftes Spiel, fünfter Sieg: Die DFB-Elf siegt auch in Aserbaidschan und marschiert weiterhin mit großen Schritten in Richtung WM 2018. Das Gegentor beim 4:1-Erfolg beendete einen Rekord: Das deutsche Team war bis dahin 678 Minuten ohne Gegentor. [<a href="http://www.sportschau.de/fussball/fifawm2018/spielbericht-wm-qualifikation-aserbaidschan-gegen-deutschland-100.html">mehr</a>]
-</p>
-]]>
-</content:encoded>
-<description>Fünftes Spiel, fünfter Sieg: Die DFB-Elf siegt auch in Aserbaidschan und marschiert weiterhin mit großen Schritten in Richtung WM 2018. Das Gegentor beim 4:1-Erfolg beendete einen Rekord: Das deutsche Team war bis dahin 678 Minuten ohne Gegentor.</description>
-<guid>http://www.sportschau.de/fussball/fifawm2018/spielbericht-wm-qualifikation-aserbaidschan-gegen-deutschland-100.html</guid>
-</item>
-<item>
-<title>Saar-Wahl: Ein Schulz macht noch keinen Sieg</title>
-<link>http://www.tagesschau.de/inland/saarland-wahl-117.html</link>
-<pubDate>Sun, 26 Mar 2017 19:56:30 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/inland/saarland-wahl-117.html"><img src="http://www.tagesschau.de/multimedia/bilder/schulz-331~_v-mittel16x9.jpg" alt="Martin Schulz | Bildquelle: dpa"/></a>
-<br/><br/>
-Vom "Schulz-Triple" träumte die SPD - und dann ab ins Kanzleramt. Doch der Auftakt ins Superwahljahr misslingt der SPD. Die CDU feiert und wertet ihren Sieg an der Saar als Absage an Rot-Rot-Grün. Die Linkspartei gibt der SPD die Schuld, die Grünen wollen jetzt "Gas geben". Von W. Börnsen. [<a href="http://www.tagesschau.de/inland/saarland-wahl-117.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/inland/saarland-wahl-119.html">Saarland-Wahl: CDU gewinnt klar vor SPD</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/multimedia/video/video-272889.html">Video: Berliner Runde</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/multimedia/bilder/uvotealbum-861.html">Bilder: Zahlen und Umfragen zur Landtagswahl Saarland 2017</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/inland/saarland-wahl-117.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Vom "Schulz-Triple" träumte die SPD - und dann ab ins Kanzleramt. Doch der Auftakt ins Superwahljahr misslingt der SPD. Die CDU feiert und wertet ihren Sieg an der Saar als Absage an Rot-Rot-Grün. Die Linkspartei gibt der SPD die Schuld, die Grünen wollen jetzt "Gas geben". Von W. Börnsen.</description>
-<guid>http://www.tagesschau.de/inland/saarland-wahl-117.html</guid>
-</item>
-<item>
-<title>Wahl-Reaktionen: CDU jubelt, Grüne ziehen Konsequenzen</title>
-<link>http://www.sr.de/sr/home/nachrichten/dossiers/wahlen/landtagswahl_2017/landtagswahl_saarland_2017_reaktion100.html</link>
-<pubDate>Sun, 26 Mar 2017 19:35:31 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.sr.de/sr/home/nachrichten/dossiers/wahlen/landtagswahl_2017/landtagswahl_saarland_2017_reaktion100.html"><img src="http://www.tagesschau.de/multimedia/bilder/cdu-saarland-105~_v-mittel16x9.jpg" alt="Jubelnde CDU-Anhänger im Saarland | Bildquelle: dpa"/></a>
-<br/><br/>
-Die Saarland-Wahl hat für Überraschungen gesorgt: Während die Landes-CDU ihr Ergebnis feiert, reagiert die SPD verhalten. Die Linkspartei atmet auf, während bei den Grünen von Rücktritt die Rede ist. Und die AfD sieht ihr Ziel erreicht. [<a href="http://www.sr.de/sr/home/nachrichten/dossiers/wahlen/landtagswahl_2017/landtagswahl_saarland_2017_reaktion100.html">sr</a>]
-</p>
-]]>
-</content:encoded>
-<description>Die Saarland-Wahl hat für Überraschungen gesorgt: Während die Landes-CDU ihr Ergebnis feiert, reagiert die SPD verhalten. Die Linkspartei atmet auf, während bei den Grünen von Rücktritt die Rede ist. Und die AfD sieht ihr Ziel erreicht.</description>
-<guid>http://www.sr.de/sr/home/nachrichten/dossiers/wahlen/landtagswahl_2017/landtagswahl_saarland_2017_reaktion100.html</guid>
-</item>
-<item>
-<title>Blog zur Saarlandwahl: Zu zufrieden für einen Machtwechsel</title>
-<link>http://blog.tagesschau.de/author/schoenenborn/</link>
-<pubDate>Sun, 26 Mar 2017 19:18:42 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://blog.tagesschau.de/author/schoenenborn/"><img src="http://www.tagesschau.de/multimedia/bilder/wahlblog-103~_v-mittel16x9.jpg" alt="Wahl-Blog Schönenborn"/></a>
-<br/><br/>
-Martin Schulz als neue Galionsfigur der SPD hat zwar frischen Wind ins Saarland gebracht. Für einen Sieg der Partei hat es aber nicht gereicht. Schulz' Plädoyer für mehr Gerechtigkeit sei im Saarland verpufft, lautet die Analyse von Jörg Schönenborn.  [<a href="http://blog.tagesschau.de/author/schoenenborn/">blog</a>]
-</p>
-]]>
-</content:encoded>
-<description>Martin Schulz als neue Galionsfigur der SPD hat zwar frischen Wind ins Saarland gebracht. Für einen Sieg der Partei hat es aber nicht gereicht. Schulz' Plädoyer für mehr Gerechtigkeit sei im Saarland verpufft, lautet die Analyse von Jörg Schönenborn. </description>
-<guid>http://blog.tagesschau.de/author/schoenenborn/</guid>
-</item>
-<item>
-<title>Klarer CDU-Sieg an der Saar</title>
-<link>http://www.tagesschau.de/inland/saarland-wahl-115.html</link>
-<pubDate>Sun, 26 Mar 2017 20:06:56 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/inland/saarland-wahl-115.html"><img src="http://www.tagesschau.de/multimedia/bilder/cdu-saarland-101~_v-mittel16x9.jpg" alt="Jubelnde CDU-Anhänger im Saarland | Bildquelle: dpa"/></a>
-<br/><br/>
-Für die CDU ist es ein Start nach Maß ins Wahljahr: Rund 40 Prozent an der Saar. Die SPD muss einsehen: Ein Schulz reicht nicht zum Sieg. Die Linkspartei gehört ebenfalls zu den Verlierern. Die AfD zieht ins elfte Parlament ein. Grüne, FDP und Piraten sind raus. Damit könnte die Große Koalition weitermachen. [<a href="http://www.tagesschau.de/inland/saarland-wahl-115.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/multimedia/video/video-272809.html">Video: Thomas Baumann, ARD Berlin, zum Wahlausgang</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/multimedia/bilder/uvotealbum-861.html">Bilder: Zahlen und Umfragen zur Landtagswahl Saarland 2017</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/inland/saarland-wahl-115.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Für die CDU ist es ein Start nach Maß ins Wahljahr: Rund 40 Prozent an der Saar. Die SPD muss einsehen: Ein Schulz reicht nicht zum Sieg. Die Linkspartei gehört ebenfalls zu den Verlierern. Die AfD zieht ins elfte Parlament ein. Grüne, FDP und Piraten sind raus. Damit könnte die Große Koalition weitermachen.</description>
-<guid>http://www.tagesschau.de/inland/saarland-wahl-115.html</guid>
-</item>
-<item>
-<title>Zahlen und Analysen zur Wahl an der Saar</title>
-<link>http://wahl.tagesschau.de/wahlen/2017-03-26-LT-DE-SL/index.shtml</link>
-<pubDate>Sun, 26 Mar 2017 18:28:06 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://wahl.tagesschau.de/wahlen/2017-03-26-LT-DE-SL/index.shtml"><img src="http://www.tagesschau.de/multimedia/bilder/landtagswahl-saarland-105~_v-mittel16x9.jpg" alt="Eine Wählerin wirft einen Wahlzettel ein. | Bildquelle: dpa"/></a>
-<br/><br/>
-Hochrechnungen, Gewinne und Verluste, Sitzverteilung - die aktuellsten Zahlen zur Wahl im Saarland im Überblick [<a href="http://wahl.tagesschau.de/wahlen/2017-03-26-LT-DE-SL/index.shtml">mehr</a>]
-</p>
-]]>
-</content:encoded>
-<description>Hochrechnungen, Gewinne und Verluste, Sitzverteilung - die aktuellsten Zahlen zur Wahl im Saarland im Überblick</description>
-<guid>http://wahl.tagesschau.de/wahlen/2017-03-26-LT-DE-SL/index.shtml</guid>
-</item>
-<item>
-<title>Nach Unfall: Uber stoppt selbstfahrende Autos</title>
-<link>http://www.tagesschau.de/ausland/uber-153.html</link>
-<pubDate>Sun, 26 Mar 2017 18:18:57 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/ausland/uber-153.html"><img src="http://www.tagesschau.de/multimedia/bilder/uberunfall-101~_v-mittel16x9.jpg" alt="Ein selbstfahrender Volvo SUV der Firma Uber liegt nach einem Unfall in Tempe, Arizona, auf der Seite.   | Bildquelle: FRESCO NEWS/Mark Beach"/></a>
-<br/><br/>
-In den USA ist erneut ein selbstfahrendes Auto in einen Unfall verwickelt worden. Betroffen ist dieses Mal der Fahrdienstanbieter Uber. Er zog als Vorsichtsmaßnahme alle Fahrzeuge dieses Typs aus dem Verkehr - obwohl die Schuld offenbar ein anderer trug. [<a href="http://www.tagesschau.de/ausland/uber-153.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/wirtschaft/topmanager-uber-101.html">Top-Manager steigen bei Uber aus, 20.03.2017</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/uber-sexismus-101.html">Uber reagiert auf Sexismusvorwürfe einer Angestellten, 20.02.2017</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/wirtschaft/google-219.html">Google vs. Uber: Konkurrenten statt Partner?, 02.09.2016</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/ausland/uber-153.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>In den USA ist erneut ein selbstfahrendes Auto in einen Unfall verwickelt worden. Betroffen ist dieses Mal der Fahrdienstanbieter Uber. Er zog als Vorsichtsmaßnahme alle Fahrzeuge dieses Typs aus dem Verkehr - obwohl die Schuld offenbar ein anderer trug.</description>
-<guid>http://www.tagesschau.de/ausland/uber-153.html</guid>
-</item>
-<item>
-<title>CDU gewinnt klar an der Saar</title>
-<link>http://www.tagesschau.de/inland/saarland-wahl-111.html</link>
-<pubDate>Sun, 26 Mar 2017 18:00:06 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/inland/saarland-wahl-111.html"><img src="http://www.tagesschau.de/multimedia/bilder/kramp-karrenbauer-111~_v-mittel16x9.jpg" alt="Annegret Kramp-Karrenbauer (Archivbild) | Bildquelle: dpa"/></a>
-<br/><br/>
-Die CDU bleibt klar stärkste Kraft im Saarland. 41 Prozent holt die Partei von Regierungschefin Kramp-Karrenbauer. Die SPD erreicht 29,5, die Linkspartei 13 Prozent. Die AfD ist einstellig. FDP und Piraten sind raus. Die Grünen müssen zittern. Damit könnte die Große Koalition weitermachen. [<a href="http://www.tagesschau.de/inland/saarland-wahl-111.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/inland/saarland-wahl-bundespolitik-101.html">Saarland-Wahl: Nichts geht ohne die SPD, 24.03.2017</a>
-</li>
-<li>
-<a href="http://www.sr.de/sr/home/nachrichten/dossiers/wahlen/landtagswahl_2017/landtagswahl_saarland_vorab100.html">Landtagswahl: Im Saarland fällt Startschuss ins Wahljahr</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/inland/saarland-wahl-111.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Die CDU bleibt klar stärkste Kraft im Saarland. 41 Prozent holt die Partei von Regierungschefin Kramp-Karrenbauer. Die SPD erreicht 29,5, die Linkspartei 13 Prozent. Die AfD ist einstellig. FDP und Piraten sind raus. Die Grünen müssen zittern. Damit könnte die Große Koalition weitermachen.</description>
-<guid>http://www.tagesschau.de/inland/saarland-wahl-111.html</guid>
-</item>
-<item>
-<title>WM-Qualifikation: Live - Deutschland gegen Aserbaidschan</title>
-<link>http://www.tagesschau.de/sport/dfb-wm-qualifikation-aserbaidschan-101.html</link>
-<pubDate>Sun, 26 Mar 2017 17:55:40 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/sport/dfb-wm-qualifikation-aserbaidschan-101.html"><img src="http://www.tagesschau.de/ardimport/sport/sportschau-image-3943~_v-mittel16x9.jpg" alt="Sami Khedira (Deutschland), Joshua Kimmich (Deutschland), Mats Hummels (Deutschland) kommen zum Trainingsplatz.  | Bildquelle: imago"/></a>
-<br/><br/>
-648 Minuten ist die DFB-Elf nun ohne Gegentor. Nach dem 1:0 gegen England soll die Nationalmannschaft diese Rekord-Bilanz nun gegen Aserbaidschan ausbauen. "Beton anrühren" will das Team von Joachim Löw im WM-Qualifikationsspiel aber nicht. [<a href="http://www.tagesschau.de/sport/dfb-wm-qualifikation-aserbaidschan-101.html">liveticker</a>]
-</p>
-<p><a href="http://www.tagesschau.de/sport/dfb-wm-qualifikation-aserbaidschan-101.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>648 Minuten ist die DFB-Elf nun ohne Gegentor. Nach dem 1:0 gegen England soll die Nationalmannschaft diese Rekord-Bilanz nun gegen Aserbaidschan ausbauen. "Beton anrühren" will das Team von Joachim Löw im WM-Qualifikationsspiel aber nicht.</description>
-<guid>http://www.tagesschau.de/sport/dfb-wm-qualifikation-aserbaidschan-101.html</guid>
-</item>
-<item>
-<title>Livestream: Die Wahlsendung im Ersten</title>
-<link>http://www.tagesschau.de/multimedia/livestreams/livestream3/index.html</link>
-<pubDate>Sun, 26 Mar 2017 17:45:12 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/multimedia/livestreams/livestream3/index.html"><img src="http://www.tagesschau.de/multimedia/bilder/wahl-livestream-101~_v-mittel16x9.jpg" alt="Wahl 17"/></a>
-<br/><br/>
-Verfolgen Sie hier die ARD-Livesendung zur Landtagswahl im Saarland. Jörg Schönenborn stellt Hochrechnungen vor und analysiert die Ergebnisse. Welche Koalitionen sind möglich? Was sagen die Kandidaten? Wie reagiert die Bundespolitik? [<a href="http://www.tagesschau.de/multimedia/livestreams/livestream3/index.html">livestream</a>]
-</p>
-]]>
-</content:encoded>
-<description>Verfolgen Sie hier die ARD-Livesendung zur Landtagswahl im Saarland. Jörg Schönenborn stellt Hochrechnungen vor und analysiert die Ergebnisse. Welche Koalitionen sind möglich? Was sagen die Kandidaten? Wie reagiert die Bundespolitik?</description>
-<guid>http://www.tagesschau.de/multimedia/livestreams/livestream3/index.html</guid>
-</item>
-<item>
-<title>Dossier: Alles Wissenswerte zur Saarland-Wahl</title>
-<link>http://www.sr.de/sr/home/nachrichten/dossiers/wahlen/landtagswahl_2017/index.html</link>
-<pubDate>Sun, 26 Mar 2017 17:13:58 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.sr.de/sr/home/nachrichten/dossiers/wahlen/landtagswahl_2017/index.html"><img src="http://www.tagesschau.de/multimedia/bilder/saarland-115~_v-mittel16x9.jpg" alt="Wahl im Saarland"/></a>
-<br/><br/>
-Das Saarland macht den Auftakt zum Superwahljahr - was sind die Signale für Schleswig-Holstein, Nordrhein-Westfalen und die Bundestagswahl? Und welche Konstellation wird an der Saar regieren? Alle Informationen zur Landtagswahl. [<a href="http://www.sr.de/sr/home/nachrichten/dossiers/wahlen/landtagswahl_2017/index.html">sr</a>]
-</p>
-]]>
-</content:encoded>
-<description>Das Saarland macht den Auftakt zum Superwahljahr - was sind die Signale für Schleswig-Holstein, Nordrhein-Westfalen und die Bundestagswahl? Und welche Konstellation wird an der Saar regieren? Alle Informationen zur Landtagswahl.</description>
-<guid>http://www.sr.de/sr/home/nachrichten/dossiers/wahlen/landtagswahl_2017/index.html</guid>
-</item>
-<item>
-<title>Pekings Einfluss auf Hongkong bleibt</title>
-<link>http://www.tagesschau.de/ausland/hongkong-517.html</link>
-<pubDate>Sun, 26 Mar 2017 16:53:59 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/ausland/hongkong-517.html"><img src="http://www.tagesschau.de/multimedia/bilder/lam-101~_v-mittel16x9.jpg" alt="Die bisherige Verwaltungschefin und neue Regierungschefin, Carrie Lam, feiert in Hongkong mit ihrem Ehemann Lam Siu-por und ihrem Sohn Jeremy Lam ihren Wahlerfolg.  | Bildquelle: dpa"/></a>
-<br/><br/>
-Hongkong hat eine neue Regierungschefin - doch die Herzen der sieben Millionen Einwohner werden ihr nicht zufliegen. Die 59-Jährige ist die Wunschkandidatin der chinesischen Regierung und gilt als Peking-treu. Von Steffen Wurzel. [<a href="http://www.tagesschau.de/ausland/hongkong-517.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/ausland/wahl-hongkong-107.html">Hongkong: Eine Wahl, die keine ist, 25.03.2017</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/ausland/hongkong-china-103.html">Weltspiegel: Die Angst vor Peking wächst, 25.02.2017</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/multimedia/audio/audio-41001.html">Audio: Hongkong hat "gewählt": Proteste gegen neue Regierungschefin</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/ausland/hongkong-517.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Hongkong hat eine neue Regierungschefin - doch die Herzen der sieben Millionen Einwohner werden ihr nicht zufliegen. Die 59-Jährige ist die Wunschkandidatin der chinesischen Regierung und gilt als Peking-treu. Von Steffen Wurzel.</description>
-<guid>http://www.tagesschau.de/ausland/hongkong-517.html</guid>
 </item>
 </channel>
 </rss>

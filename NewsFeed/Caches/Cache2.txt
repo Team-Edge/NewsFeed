@@ -21,139 +21,56 @@
 		
 		<atom:link href="http://rss.focus.de/" rel="self" type="application/rss+xml" />
 		<item>
-						<title>Rauch über der Stadt - Große schwarze Wolke zieht über Köln – Ursache unklar</title>
-						<link>http://www.focus.de/regional/koeln/rauch-ueber-der-stadt-grosse-schwarze-wolke-ueber-koeln-ursache-unklar_id_6839683.html</link>
+						<title>Gesunde Ernährung - Butter, Eier, Weißbrot: Welche Lebensmittel zu Unrecht verteufelt werden</title>
+						<link>http://www.focus.de/gesundheit/ernaehrung/gesundessen/gesunde-ernaehrung-butter-eier-weissbrot-welche-lebensmittel-zu-unrecht-verteufelt-werden_id_6844396.html</link>
 						<description>
-							Eine große Rauchsäule sorgt in Köln aktuell für Unsicherheit. Mehrere Internetnutzer haben Bilder veröffentlicht, die dunkle Wolken über der Stadt zeigen. Was dahinter steckt, ist noch unbekannt.</description>
-						<category domain="">Köln</category>
+							Für viele Menschen ist ein lustvolles Genießen der Mahlzeiten schon lange nicht mehr möglich. Denn überall im Essen lauern Gefahren: Gluten, Fett, Cholesterin und Koffein – ein einziges Gesundheitsrisiko. Doch die Angst vor bestimmten Lebensmitteln ist in vielen Fällen unbegründet.Von FOCUS-Online-Autorin Petra Apfel</description>
+						<category domain="">Gesund essen</category>
 						<pubDate>
-							Mon, 27 Mar 2017 13:41:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6839683</guid>
-						<author>FOCUS</author>
+							Tue, 28 Mar 2017 14:47:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_6844396</guid>
+						<author>Von FOCUS-Online-Autorin Petra Apfel</author>
 						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6839415/1822618260-cv3_2-w120-q72-p4/urn-newsml-dpa-com-20090101-170327-99-827438-large-4-3.jpg" />
-								Eine große Rauchsäule sorgt in Köln aktuell für Unsicherheit. Mehrere Internetnutzer haben Bilder veröffentlicht, die dunkle Wolken über der Stadt zeigen. Was dahinter steckt, ist noch unbekannt.]]></content:encoded>
+							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6725119/7332614097-cv3_2-w120-q72-p4/colourbox21175614.jpg" />
+								Für viele Menschen ist ein lustvolles Genießen der Mahlzeiten schon lange nicht mehr möglich. Denn überall im Essen lauern Gefahren: Gluten, Fett, Cholesterin und Koffein – ein einziges Gesundheitsrisiko. Doch die Angst vor bestimmten Lebensmitteln ist in vielen Fällen unbegründet.Von FOCUS-Online-Autorin Petra Apfel]]></content:encoded>
 						<media:category>news</media:category>
 						
 						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
 						<media:description type="plain">
-							Eine große Rauchsäule sorgt in Köln aktuell für Unsicherheit. Mehrere Internetnutzer haben Bilder veröffentlicht, die dunkle Wolken über der Stadt zeigen. Was dahinter steckt, ist noch unbekannt.</media:description>
-						<media:title>Rauch über der Stadt - Große schwarze Wolke zieht über Köln – Ursache unklar</media:title>
-						<media:player url="http://www.focus.de/regional/koeln/rauch-ueber-der-stadt-grosse-schwarze-wolke-ueber-koeln-ursache-unklar_id_6839683.html" width="990" height="600" />
+							Für viele Menschen ist ein lustvolles Genießen der Mahlzeiten schon lange nicht mehr möglich. Denn überall im Essen lauern Gefahren: Gluten, Fett, Cholesterin und Koffein – ein einziges Gesundheitsrisiko. Doch die Angst vor bestimmten Lebensmitteln ist in vielen Fällen unbegründet.Von FOCUS-Online-Autorin Petra Apfel</media:description>
+						<media:title>Gesunde Ernährung - Butter, Eier, Weißbrot: Welche Lebensmittel zu Unrecht verteufelt werden</media:title>
+						<media:player url="http://www.focus.de/gesundheit/ernaehrung/gesundessen/gesunde-ernaehrung-butter-eier-weissbrot-welche-lebensmittel-zu-unrecht-verteufelt-werden_id_6844396.html" width="990" height="600" />
 						</item>
 			<item>
-						<title>Drohung am Gymnasium in Hagen - Schule bleibt wegen Sicherheitsbedenken geschlossen</title>
-						<link>http://www.focus.de/regional/hagen/drohung-am-gymnasium-in-hagen-schule-bleibt-wegen-sicherheitsbedenken-geschlossen_id_6837835.html</link>
+						<title>Goldmünze in Berlin gestohlen - Keine Spur von &#034;Big Maple Leaf&#034;: Polizei ermittelt auch zu möglichen Helfern</title>
+						<link>http://www.focus.de/regional/berlin/goldmuenze-in-berlin-gestohlen-keine-spur-von-big-maple-leaf-polizei-ermittelt-auch-zu-moeglichen-helfern_id_6843679.html</link>
 						<description>
-							Wegen einer schriftlichen Drohung bleibt das 1000 Schüler große Fichte-Gymnasium in Hagen am Montag geschlossen. Eine akute Gefahrenlage gebe es allerdings nicht mehr, sagte ein Polizeisprecher. </description>
-						<category domain="">Hagen</category>
+							Einbrecher erbeuten eine 100 Kilo schwere Goldmünze. Beim Millionen-Diebstahl können die Täter offenbar unbehelligt in das Münzkabinett eindringen. Die Polizei sucht jetzt nach Zeugen.</description>
+						<category domain="">Berlin</category>
 						<pubDate>
-							Mon, 27 Mar 2017 13:39:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6837835</guid>
+							Tue, 28 Mar 2017 14:46:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_6843679</guid>
 						<author>dpa</author>
 						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6834384/7682613475-cv3_2-w120-q72-p4/urn-newsml-dpa-com-20090101-170326-99-815370-large-4-3.jpg" />
-								Wegen einer schriftlichen Drohung bleibt das 1000 Schüler große Fichte-Gymnasium in Hagen am Montag geschlossen. Eine akute Gefahrenlage gebe es allerdings nicht mehr, sagte ein Polizeisprecher. ]]></content:encoded>
+							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6843305/209261781-cv3_2-w120-q72-p4/urn-newsml-dpa-com-20090101-170328-99-837382-large-4-3.jpg" />
+								Einbrecher erbeuten eine 100 Kilo schwere Goldmünze. Beim Millionen-Diebstahl können die Täter offenbar unbehelligt in das Münzkabinett eindringen. Die Polizei sucht jetzt nach Zeugen.]]></content:encoded>
 						<media:category>news</media:category>
 						
 						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
 						<media:description type="plain">
-							Wegen einer schriftlichen Drohung bleibt das 1000 Schüler große Fichte-Gymnasium in Hagen am Montag geschlossen. Eine akute Gefahrenlage gebe es allerdings nicht mehr, sagte ein Polizeisprecher. </media:description>
-						<media:title>Drohung am Gymnasium in Hagen - Schule bleibt wegen Sicherheitsbedenken geschlossen</media:title>
-						<media:player url="http://www.focus.de/regional/hagen/drohung-am-gymnasium-in-hagen-schule-bleibt-wegen-sicherheitsbedenken-geschlossen_id_6837835.html" width="990" height="600" />
+							Einbrecher erbeuten eine 100 Kilo schwere Goldmünze. Beim Millionen-Diebstahl können die Täter offenbar unbehelligt in das Münzkabinett eindringen. Die Polizei sucht jetzt nach Zeugen.</media:description>
+						<media:title>Goldmünze in Berlin gestohlen - Keine Spur von &#034;Big Maple Leaf&#034;: Polizei ermittelt auch zu möglichen Helfern</media:title>
+						<media:player url="http://www.focus.de/regional/berlin/goldmuenze-in-berlin-gestohlen-keine-spur-von-big-maple-leaf-polizei-ermittelt-auch-zu-moeglichen-helfern_id_6843679.html" width="990" height="600" />
 						</item>
 			<item>
-						<title>Suche nach Studentin in Regensburg - Was über den Fall Marina K. bekannt ist</title>
-						<link>http://www.focus.de/panorama/welt/in-regensburg-vermisst-suche-nach-malina-laeuft-weiter-was-bisher-ueber-den-fall-bekannt-ist_id_6836473.html</link>
-						<description>
-							In Regensburg ist seit einer Woche die Studentin Malina K. verschwunden. Die 20-Jährige war nach einer Party nicht nach Hause zurückgekehrt. Die Suche nach der jungen Frau verlief bisher erfolglos, trotz des Einsatzes von Rettungstauchern und eines Polizeihubschraubers in den Ermittlungen.</description>
-						<category domain="">Aus aller Welt</category>
-						<pubDate>
-							Mon, 27 Mar 2017 13:34:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6836473</guid>
-						<author>mit dpa</author>
-						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6836791/753261510-cv3_2-w120-q72-p4/vermisste-studentin-52908889.jpg" />
-								In Regensburg ist seit einer Woche die Studentin Malina K. verschwunden. Die 20-Jährige war nach einer Party nicht nach Hause zurückgekehrt. Die Suche nach der jungen Frau verlief bisher erfolglos, trotz des Einsatzes von Rettungstauchern und eines Polizeihubschraubers in den Ermittlungen.]]></content:encoded>
-						<media:category>news</media:category>
-						
-						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
-						<media:description type="plain">
-							In Regensburg ist seit einer Woche die Studentin Malina K. verschwunden. Die 20-Jährige war nach einer Party nicht nach Hause zurückgekehrt. Die Suche nach der jungen Frau verlief bisher erfolglos, trotz des Einsatzes von Rettungstauchern und eines Polizeihubschraubers in den Ermittlungen.</media:description>
-						<media:title>Suche nach Studentin in Regensburg - Was über den Fall Marina K. bekannt ist</media:title>
-						<media:player url="http://www.focus.de/panorama/welt/in-regensburg-vermisst-suche-nach-malina-laeuft-weiter-was-bisher-ueber-den-fall-bekannt-ist_id_6836473.html" width="990" height="600" />
-						</item>
-			<item>
-						<title>+++ Wahl im Saarland im News-Ticker +++ - Kramp-Karrenbauer düpiert SPD: &#034;Schulz-Effekt katapultierte uns auf 40 Prozent&#034;</title>
-						<link>http://www.focus.de/politik/deutschland/landtagswahl_im_saarland_2017/wahl-im-saarland-im-news-ticker-cdu-triumphiert-spd-minister-schiebt-schuld-auf-lafontaine_id_6836895.html</link>
-						<description>
-							Die CDU mit Ministerpräsidentin Annegret Kramp-Karrenbauer hat die Landtagswahl im Saarland mit klarem Vorsprung vor der SPD gewonnen. Laut vorläufigem amtlichen Endergebnis der Landeswahlleiterin kam sie am Sonntag auf 40,7 Prozent vor der SPD mit 29,6 Prozent, gefolgt von Linke (12,9 Prozent) und AfD (6,2). Alle Infos zur Wahl im News-Ticker.</description>
-						<category domain="">Landtagswahl im Saarland 2017</category>
-						<pubDate>
-							Mon, 27 Mar 2017 13:30:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6836895</guid>
-						<author>mit Agenturmaterial</author>
-						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6835956/6402618464-cv3_2-w120-q72-p4/3294f400816f326f.jpg" />
-								Die CDU mit Ministerpräsidentin Annegret Kramp-Karrenbauer hat die Landtagswahl im Saarland mit klarem Vorsprung vor der SPD gewonnen. Laut vorläufigem amtlichen Endergebnis der Landeswahlleiterin kam sie am Sonntag auf 40,7 Prozent vor der SPD mit 29,6 Prozent, gefolgt von Linke (12,9 Prozent) und AfD (6,2). Alle Infos zur Wahl im News-Ticker.]]></content:encoded>
-						<media:category>news</media:category>
-						
-						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
-						<media:description type="plain">
-							Die CDU mit Ministerpräsidentin Annegret Kramp-Karrenbauer hat die Landtagswahl im Saarland mit klarem Vorsprung vor der SPD gewonnen. Laut vorläufigem amtlichen Endergebnis der Landeswahlleiterin kam sie am Sonntag auf 40,7 Prozent vor der SPD mit 29,6 Prozent, gefolgt von Linke (12,9 Prozent) und AfD (6,2). Alle Infos zur Wahl im News-Ticker.</media:description>
-						<media:title>+++ Wahl im Saarland im News-Ticker +++ - Kramp-Karrenbauer düpiert SPD: &#034;Schulz-Effekt katapultierte uns auf 40 Prozent&#034;</media:title>
-						<media:player url="http://www.focus.de/politik/deutschland/landtagswahl_im_saarland_2017/wahl-im-saarland-im-news-ticker-cdu-triumphiert-spd-minister-schiebt-schuld-auf-lafontaine_id_6836895.html" width="990" height="600" />
-						</item>
-			<item>
-						<title>Hongkong in China - Horror im Einkaufszentrum: Rolltreppe beschleunigt und wechselt plötzlich die Richtung</title>
-						<link>http://www.focus.de/panorama/videos/hongkong-in-china-einkaufszentrum-mongkok-rolltreppe-beschleunigt-und-wechselt-richtung_id_6838744.html</link>
+						<title>In Regensburg verschwundene Studentin - Vater von vermisster Malina K. sicher: &#034;Meine Tochter lebt&#034;</title>
+						<link>http://www.focus.de/panorama/videos/in-regensburg-verschwundene-studentin-vater-von-vermisster-malina-k-sicher-meine-tochter-lebt_id_6844463.html</link>
 						<description>
 							</description>
 						<category domain="">Video</category>
 						<pubDate>
-							Mon, 27 Mar 2017 13:29:44 +0200</pubDate>
-						<guid isPermaLink="false">aid_6838744</guid>
-						<author>FOCUS</author>
-						<content:encoded>
-							<![CDATA[]]></content:encoded>
-						<media:category>news</media:category>
-						
-						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
-						<media:description type="plain">
-							</media:description>
-						<media:title>Hongkong in China - Horror im Einkaufszentrum: Rolltreppe beschleunigt und wechselt plötzlich die Richtung</media:title>
-						<media:player url="http://www.focus.de/panorama/videos/hongkong-in-china-einkaufszentrum-mongkok-rolltreppe-beschleunigt-und-wechselt-richtung_id_6838744.html" width="990" height="600" />
-						</item>
-			<item>
-						<title>+++ Griechenland-Krise im News-Ticker +++ - Notenbank-Chef warnt: Griechenland wird das Wachstumsziel deutlich verfehlen</title>
-						<link>http://www.focus.de/finanzen/news/staatsverschuldung/griechenland-krise-im-news-ticker-notenbank-chef-warnt-griechenland-wird-das-wachstumsziel-deutlich-verfehlen_id_6839624.html</link>
-						<description>
-							Griechenland wird seit 2010 mit milliardenschweren internationalen Hilfskrediten vor der Staatspleite bewahrt. Allein das laufende dritte Rettungspaket umfasst 86 Milliarden Euro. </description>
-						<category domain="">Staatsverschuldung</category>
-						<pubDate>
-							Mon, 27 Mar 2017 13:29:14 +0200</pubDate>
-						<guid isPermaLink="false">aid_6839624</guid>
-						<author>AFP</author>
-						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6801749/5712613307-cv3_2-w120-q72-p4/urn-newsml-dpa-com-20090101-170316-99-691582-large-4-3.jpg" />
-								Griechenland wird seit 2010 mit milliardenschweren internationalen Hilfskrediten vor der Staatspleite bewahrt. Allein das laufende dritte Rettungspaket umfasst 86 Milliarden Euro. ]]></content:encoded>
-						<media:category>news</media:category>
-						
-						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
-						<media:description type="plain">
-							Griechenland wird seit 2010 mit milliardenschweren internationalen Hilfskrediten vor der Staatspleite bewahrt. Allein das laufende dritte Rettungspaket umfasst 86 Milliarden Euro. </media:description>
-						<media:title>+++ Griechenland-Krise im News-Ticker +++ - Notenbank-Chef warnt: Griechenland wird das Wachstumsziel deutlich verfehlen</media:title>
-						<media:player url="http://www.focus.de/finanzen/news/staatsverschuldung/griechenland-krise-im-news-ticker-notenbank-chef-warnt-griechenland-wird-das-wachstumsziel-deutlich-verfehlen_id_6839624.html" width="990" height="600" />
-						</item>
-			<item>
-						<title>Wohnatlas 2017 - 12 Großstädte im Check: So lange arbeiten Sie für Ihr Eigenheim</title>
-						<link>http://www.focus.de/immobilien/videos/wohnatlas-2017-12-grossstaedte-im-check-so-lange-arbeiten-sie-fuer-ihr-eigenheim_id_6839623.html</link>
-						<description>
-							</description>
-						<category domain="">Video</category>
-						<pubDate>
-							Mon, 27 Mar 2017 13:27:21 +0200</pubDate>
-						<guid isPermaLink="false">aid_6839623</guid>
+							Tue, 28 Mar 2017 14:45:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_6844463</guid>
 						<author>wochit</author>
 						<content:encoded>
 							<![CDATA[]]></content:encoded>
@@ -162,73 +79,155 @@
 						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
 						<media:description type="plain">
 							</media:description>
-						<media:title>Wohnatlas 2017 - 12 Großstädte im Check: So lange arbeiten Sie für Ihr Eigenheim</media:title>
-						<media:player url="http://www.focus.de/immobilien/videos/wohnatlas-2017-12-grossstaedte-im-check-so-lange-arbeiten-sie-fuer-ihr-eigenheim_id_6839623.html" width="990" height="600" />
+						<media:title>In Regensburg verschwundene Studentin - Vater von vermisster Malina K. sicher: &#034;Meine Tochter lebt&#034;</media:title>
+						<media:player url="http://www.focus.de/panorama/videos/in-regensburg-verschwundene-studentin-vater-von-vermisster-malina-k-sicher-meine-tochter-lebt_id_6844463.html" width="990" height="600" />
 						</item>
 			<item>
-						<title>Wahl im Saarland - Die AKK-Strategie: In fünf Stufen entzauberte die Mini-Merkel AfD und Schulz</title>
-						<link>http://www.focus.de/politik/deutschland/landtagswahl_im_saarland_2017/wahl-im-saarland-die-akk-strategie-in-fuenf-stufen-entzauberte-die-mini-merkel-afd-und-schulz_id_6838624.html</link>
+						<title>Mein Fußball-Moment - Fetter Hammer an die Querlatte - aber ist sein Ball auch drin? </title>
+						<link>http://www.focus.de/regional/mein-fussball-moment/mein-fussball-moment-tsv-lehnerz-ist-der-hammer-von-david-wollny-drin_id_6809193.html</link>
 						<description>
-							Dass die saarländische Ministerpräsidentin Annegret Kramp-Karrenbauer als so klare Siegerin aus der Landtagswahl herausgeht, ist durchaus überraschend. Mit 40,7 Prozent ließ die CDU die SPD mit 29,6 Prozent deutlich hinter sich. Die Folge: Mit großer Wahrscheinlichkeit wird die Große Koalition im kleinsten Flächenland Deutschlands fortgesetzt.Von FOCUS-Online-Redakteur Julian Rohrer</description>
-						<category domain="">Landtagswahl im Saarland 2017</category>
+							</description>
+						<category domain="">Mein Fußball-Moment</category>
 						<pubDate>
-							Mon, 27 Mar 2017 13:27:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6838624</guid>
-						<author>Von FOCUS-Online-Redakteur Julian Rohrer</author>
+							Tue, 28 Mar 2017 14:37:28 +0200</pubDate>
+						<guid isPermaLink="false">aid_6809193</guid>
+						<author>FOCUS</author>
 						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6838652/3012614793-cv3_2-w120-q72-p4/1494f60034c5e89e.jpg" />
-								Dass die saarländische Ministerpräsidentin Annegret Kramp-Karrenbauer als so klare Siegerin aus der Landtagswahl herausgeht, ist durchaus überraschend. Mit 40,7 Prozent ließ die CDU die SPD mit 29,6 Prozent deutlich hinter sich. Die Folge: Mit großer Wahrscheinlichkeit wird die Große Koalition im kleinsten Flächenland Deutschlands fortgesetzt.Von FOCUS-Online-Redakteur Julian Rohrer]]></content:encoded>
+							<![CDATA[]]></content:encoded>
 						<media:category>news</media:category>
 						
 						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
 						<media:description type="plain">
-							Dass die saarländische Ministerpräsidentin Annegret Kramp-Karrenbauer als so klare Siegerin aus der Landtagswahl herausgeht, ist durchaus überraschend. Mit 40,7 Prozent ließ die CDU die SPD mit 29,6 Prozent deutlich hinter sich. Die Folge: Mit großer Wahrscheinlichkeit wird die Große Koalition im kleinsten Flächenland Deutschlands fortgesetzt.Von FOCUS-Online-Redakteur Julian Rohrer</media:description>
-						<media:title>Wahl im Saarland - Die AKK-Strategie: In fünf Stufen entzauberte die Mini-Merkel AfD und Schulz</media:title>
-						<media:player url="http://www.focus.de/politik/deutschland/landtagswahl_im_saarland_2017/wahl-im-saarland-die-akk-strategie-in-fuenf-stufen-entzauberte-die-mini-merkel-afd-und-schulz_id_6838624.html" width="990" height="600" />
+							</media:description>
+						<media:title>Mein Fußball-Moment - Fetter Hammer an die Querlatte - aber ist sein Ball auch drin? </media:title>
+						<media:player url="http://www.focus.de/regional/mein-fussball-moment/mein-fussball-moment-tsv-lehnerz-ist-der-hammer-von-david-wollny-drin_id_6809193.html" width="990" height="600" />
 						</item>
 			<item>
-						<title>Zwei Menschen verletzt - Kölner Rheinboulevard nach Massenschlägerei geräumt</title>
-						<link>http://www.focus.de/regional/koeln/zwei-menschen-verletzt-koelner-rheinboulevard-nach-massenschlaegerei-geraeumt_id_6838319.html</link>
+						<title>Christine Kaufmann - Trauer um Christine Kaufmann: Die Schauspielerin ist gestorben</title>
+						<link>http://www.focus.de/kultur/videos/christine-kaufmann-trauer-um-christine-kaufmann-die-schauspielerin-ist-gestorben_id_6845572.html</link>
 						<description>
-							Bei einer Massenschlägerei auf dem Kölner Rheinboulevard sind zwei Menschen verletzt worden. 10 bis 20 Kontrahenten seien in die Auseinandersetzung am Sonntagabend involviert gewesen, teilte die Polizei am Montag mit. </description>
-						<category domain="">Köln</category>
+							</description>
+						<category domain="">Video</category>
 						<pubDate>
-							Mon, 27 Mar 2017 13:48:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6838319</guid>
-						<author>dpa</author>
+							Tue, 28 Mar 2017 14:34:45 +0200</pubDate>
+						<guid isPermaLink="false">aid_6845572</guid>
+						<author>FOCUS</author>
 						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6836928/9542614521-cv3_2-w120-q72-p4/urn-newsml-dpa-com-20090101-170327-99-822127-large-4-3.jpg" />
-								Bei einer Massenschlägerei auf dem Kölner Rheinboulevard sind zwei Menschen verletzt worden. 10 bis 20 Kontrahenten seien in die Auseinandersetzung am Sonntagabend involviert gewesen, teilte die Polizei am Montag mit. ]]></content:encoded>
+							<![CDATA[]]></content:encoded>
 						<media:category>news</media:category>
 						
 						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
 						<media:description type="plain">
-							Bei einer Massenschlägerei auf dem Kölner Rheinboulevard sind zwei Menschen verletzt worden. 10 bis 20 Kontrahenten seien in die Auseinandersetzung am Sonntagabend involviert gewesen, teilte die Polizei am Montag mit. </media:description>
-						<media:title>Zwei Menschen verletzt - Kölner Rheinboulevard nach Massenschlägerei geräumt</media:title>
-						<media:player url="http://www.focus.de/regional/koeln/zwei-menschen-verletzt-koelner-rheinboulevard-nach-massenschlaegerei-geraeumt_id_6838319.html" width="990" height="600" />
+							</media:description>
+						<media:title>Christine Kaufmann - Trauer um Christine Kaufmann: Die Schauspielerin ist gestorben</media:title>
+						<media:player url="http://www.focus.de/kultur/videos/christine-kaufmann-trauer-um-christine-kaufmann-die-schauspielerin-ist-gestorben_id_6845572.html" width="990" height="600" />
 						</item>
 			<item>
-						<title>Einbruch im Bode-Museum - 100 Kilo schwere Münze aus Berliner Museum gestohlen</title>
-						<link>http://www.focus.de/panorama/welt/wert-von-einer-million-us-dollar-einbrecher-stehlen-100-kilo-schwere-goldmuenze-aus-berliner-museum_id_6839276.html</link>
+						<title>Christine Kaufmanns letzter TV-Auftritt - &#034;Fit und fröhlich&#034;: So erlebte Moderatorin Edith von Welser-Ude den Film-Star</title>
+						<link>http://www.focus.de/kultur/kino_tv/christine-kaufmanns-letzter-tv-auftritt-sie-wirkte-froehlich-kam-mit-dem-rad-so-erlebte-moderatorin-edith-von-welser-ude-den-film-star_id_6844395.html</link>
 						<description>
-							Einbrecher haben eine 100 Kilogramm schwere Goldmünze aus dem Berliner Bodemuseum gestohlen. Der Nennwert der Münze liegt bei etwa einer Million US-Dollar - der Materialwert bei knapp vier Millionen US-Dollar (umgerechnet: 3,7 Millionen Euro).</description>
+							Sie hat den Kampf gegen den Blutkrebs verloren: Christine Kaufmann ist tot. Die Schauspielerin starb in der Nacht zum Dienstag im Alter von 72 Jahren in einem Münchner Krankenhaus. Ihren letzten TV-Auftritt hatte sie im &#034;Club der Köchinnen&#034; von Edith von Welser-Ude. Die Moderatorin erlebte im Gespräch keine schwache Film-Diva - ganz im Gegenteil.</description>
+						<category domain="">Kino &amp; TV</category>
+						<pubDate>
+							Tue, 28 Mar 2017 14:34:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_6844395</guid>
+						<author>FOCUS</author>
+						<content:encoded>
+							<![CDATA[<img src="http://p5.focus.de/img/kino_tv/crop6844308/542261215-cv3_2-w120-q72-p4/kaufmann-edithude.jpg" />
+								Sie hat den Kampf gegen den Blutkrebs verloren: Christine Kaufmann ist tot. Die Schauspielerin starb in der Nacht zum Dienstag im Alter von 72 Jahren in einem Münchner Krankenhaus. Ihren letzten TV-Auftritt hatte sie im "Club der Köchinnen" von Edith von Welser-Ude. Die Moderatorin erlebte im Gespräch keine schwache Film-Diva - ganz im Gegenteil.]]></content:encoded>
+						<media:category>news</media:category>
+						
+						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
+						<media:description type="plain">
+							Sie hat den Kampf gegen den Blutkrebs verloren: Christine Kaufmann ist tot. Die Schauspielerin starb in der Nacht zum Dienstag im Alter von 72 Jahren in einem Münchner Krankenhaus. Ihren letzten TV-Auftritt hatte sie im &#034;Club der Köchinnen&#034; von Edith von Welser-Ude. Die Moderatorin erlebte im Gespräch keine schwache Film-Diva - ganz im Gegenteil.</media:description>
+						<media:title>Christine Kaufmanns letzter TV-Auftritt - &#034;Fit und fröhlich&#034;: So erlebte Moderatorin Edith von Welser-Ude den Film-Star</media:title>
+						<media:player url="http://www.focus.de/kultur/kino_tv/christine-kaufmanns-letzter-tv-auftritt-sie-wirkte-froehlich-kam-mit-dem-rad-so-erlebte-moderatorin-edith-von-welser-ude-den-film-star_id_6844395.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>+++ US-Politik im News-Ticker +++ - Trump will Obamas Klima-Politik per Dekret revidieren</title>
+						<link>http://www.focus.de/politik/ausland/usa/us-politik-im-news-ticker-trump-will-obamas-klima-politik-per-dekret-zurueckdrehen_id_6844418.html</link>
+						<description>
+							Kaum ist Donald Trump vereidigt, präsentiert er sich als zupackender Macher: Erste Dekrete werden erlassen, Schwerpunkte bekanntgegeben – alles folgt dem Motto &#034;Amerika zuerst&#034;. Doch der neue Präsident und sein Kabinett bekommen heftigen Gegenwind. Lesen Sie die neuesten Entwicklungen der US-Politik hier im News-Ticker von FOCUS Online.</description>
+						<category domain="">USA</category>
+						<pubDate>
+							Tue, 28 Mar 2017 14:54:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_6844418</guid>
+						<author>AFP/dpa</author>
+						<content:encoded>
+							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6843104/7952618603-cv3_2-w120-q72-p4/urn-newsml-dpa-com-20090101-170328-99-836846-large-4-3.jpg" />
+								Kaum ist Donald Trump vereidigt, präsentiert er sich als zupackender Macher: Erste Dekrete werden erlassen, Schwerpunkte bekanntgegeben – alles folgt dem Motto "Amerika zuerst". Doch der neue Präsident und sein Kabinett bekommen heftigen Gegenwind. Lesen Sie die neuesten Entwicklungen der US-Politik hier im News-Ticker von FOCUS Online.]]></content:encoded>
+						<media:category>news</media:category>
+						
+						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
+						<media:description type="plain">
+							Kaum ist Donald Trump vereidigt, präsentiert er sich als zupackender Macher: Erste Dekrete werden erlassen, Schwerpunkte bekanntgegeben – alles folgt dem Motto &#034;Amerika zuerst&#034;. Doch der neue Präsident und sein Kabinett bekommen heftigen Gegenwind. Lesen Sie die neuesten Entwicklungen der US-Politik hier im News-Ticker von FOCUS Online.</media:description>
+						<media:title>+++ US-Politik im News-Ticker +++ - Trump will Obamas Klima-Politik per Dekret revidieren</media:title>
+						<media:player url="http://www.focus.de/politik/ausland/usa/us-politik-im-news-ticker-trump-will-obamas-klima-politik-per-dekret-zurueckdrehen_id_6844418.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>+++ VIP-News +++ - Alicia Vikander ist die neue Lara Croft</title>
+						<link>http://www.focus.de/kultur/vermischtes/vip-news-gilmore-girls-star-jared-padalecki-ist-wieder-vater-geworden_id_6843330.html</link>
+						<description>
+							Die Welt der Promis hautnah erleben: Von Schauspieler bis royaler Adel, von Sänger bis Profi-Sportler. FOCUS Online präsentiert die aktuellen Nachrichten und exklusive Storys aus der Welt der Stars im Ticker.</description>
+						<category domain="">Star-News</category>
+						<pubDate>
+							Tue, 28 Mar 2017 14:30:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_6843330</guid>
+						<author>SpotOn</author>
+						<content:encoded>
+							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6843209/1852611454-cv3_2-w120-q72-p4/669130.jpg" />
+								Die Welt der Promis hautnah erleben: Von Schauspieler bis royaler Adel, von Sänger bis Profi-Sportler. FOCUS Online präsentiert die aktuellen Nachrichten und exklusive Storys aus der Welt der Stars im Ticker.]]></content:encoded>
+						<media:category>news</media:category>
+						
+						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
+						<media:description type="plain">
+							Die Welt der Promis hautnah erleben: Von Schauspieler bis royaler Adel, von Sänger bis Profi-Sportler. FOCUS Online präsentiert die aktuellen Nachrichten und exklusive Storys aus der Welt der Stars im Ticker.</media:description>
+						<media:title>+++ VIP-News +++ - Alicia Vikander ist die neue Lara Croft</media:title>
+						<media:player url="http://www.focus.de/kultur/vermischtes/vip-news-gilmore-girls-star-jared-padalecki-ist-wieder-vater-geworden_id_6843330.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Bereits zum dritten Mal - Terrorist &#034;Carlos&#034; in Frankreich zu lebenslanger Haft verurteilt</title>
+						<link>http://www.focus.de/panorama/welt/bereits-zum-dritten-mal-terrorist-carlos-in-frankreich-zu-lebenslanger-haft-verurteilt_id_6845891.html</link>
+						<description>
+							Der einstige Top-Terrorist &#034;Carlos&#034; ist in Frankreich ein weiteres Mal zu lebenslanger Haft verurteilt worden. Ein Pariser Schwurgericht sprach den als «Carlos« bekannten Ilich Ramírez Sánchez am Dienstag wegen eines Anschlags vor mehr als 42 Jahren des Mordes schuldig.  </description>
 						<category domain="">Aus aller Welt</category>
 						<pubDate>
-							Mon, 27 Mar 2017 13:25:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6839276</guid>
-						<author>mit dpa/AFP</author>
+							Tue, 28 Mar 2017 14:22:54 +0200</pubDate>
+						<guid isPermaLink="false">aid_6845891</guid>
+						<author>dpa/AFP</author>
 						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6839410/6342611585-cv3_2-w120-q72-p4/muenze.jpg" />
-								Einbrecher haben eine 100 Kilogramm schwere Goldmünze aus dem Berliner Bodemuseum gestohlen. Der Nennwert der Münze liegt bei etwa einer Million US-Dollar - der Materialwert bei knapp vier Millionen US-Dollar (umgerechnet: 3,7 Millionen Euro).]]></content:encoded>
+							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6846085/409261360-cv3_2-w120-q72-p4/prozess-gegen-ex-top-52779579.jpg" />
+								Der einstige Top-Terrorist "Carlos" ist in Frankreich ein weiteres Mal zu lebenslanger Haft verurteilt worden. Ein Pariser Schwurgericht sprach den als «Carlos« bekannten Ilich Ramírez Sánchez am Dienstag wegen eines Anschlags vor mehr als 42 Jahren des Mordes schuldig.  ]]></content:encoded>
 						<media:category>news</media:category>
 						
 						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
 						<media:description type="plain">
-							Einbrecher haben eine 100 Kilogramm schwere Goldmünze aus dem Berliner Bodemuseum gestohlen. Der Nennwert der Münze liegt bei etwa einer Million US-Dollar - der Materialwert bei knapp vier Millionen US-Dollar (umgerechnet: 3,7 Millionen Euro).</media:description>
-						<media:title>Einbruch im Bode-Museum - 100 Kilo schwere Münze aus Berliner Museum gestohlen</media:title>
-						<media:player url="http://www.focus.de/panorama/welt/wert-von-einer-million-us-dollar-einbrecher-stehlen-100-kilo-schwere-goldmuenze-aus-berliner-museum_id_6839276.html" width="990" height="600" />
+							Der einstige Top-Terrorist &#034;Carlos&#034; ist in Frankreich ein weiteres Mal zu lebenslanger Haft verurteilt worden. Ein Pariser Schwurgericht sprach den als «Carlos« bekannten Ilich Ramírez Sánchez am Dienstag wegen eines Anschlags vor mehr als 42 Jahren des Mordes schuldig.  </media:description>
+						<media:title>Bereits zum dritten Mal - Terrorist &#034;Carlos&#034; in Frankreich zu lebenslanger Haft verurteilt</media:title>
+						<media:player url="http://www.focus.de/panorama/welt/bereits-zum-dritten-mal-terrorist-carlos-in-frankreich-zu-lebenslanger-haft-verurteilt_id_6845891.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Iran und Russland - Ruhani bei Putin: Beste Freunde oder Zweckbündnis?</title>
+						<link>http://www.focus.de/politik/ausland/iran-und-russland-ruhani-bei-putin-beste-freunde-oder-zweckbuendnis_id_6845836.html</link>
+						<description>
+							Russland und der Iran pflegen enge Beziehungen. Wenn sich die Präsidenten Wladimir Putin und Hassan Ruhani am Dienstag in Moskau treffen, soll die Zusammenarbeit noch intensiver werden. Auf der Weltbühne haben beide Länder nicht den besten Ruf, auch wegen ihres militärischen Eintretens für den syrischen Machthaber Baschar al-Assad.</description>
+						<category domain="">Ausland</category>
+						<pubDate>
+							Tue, 28 Mar 2017 14:20:44 +0200</pubDate>
+						<guid isPermaLink="false">aid_6845836</guid>
+						<author>dpa</author>
+						<content:encoded>
+							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6845802/3792612169-cv3_2-w120-q72-p4/ruhani-moskau.jpg" />
+								Russland und der Iran pflegen enge Beziehungen. Wenn sich die Präsidenten Wladimir Putin und Hassan Ruhani am Dienstag in Moskau treffen, soll die Zusammenarbeit noch intensiver werden. Auf der Weltbühne haben beide Länder nicht den besten Ruf, auch wegen ihres militärischen Eintretens für den syrischen Machthaber Baschar al-Assad.]]></content:encoded>
+						<media:category>news</media:category>
+						
+						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
+						<media:description type="plain">
+							Russland und der Iran pflegen enge Beziehungen. Wenn sich die Präsidenten Wladimir Putin und Hassan Ruhani am Dienstag in Moskau treffen, soll die Zusammenarbeit noch intensiver werden. Auf der Weltbühne haben beide Länder nicht den besten Ruf, auch wegen ihres militärischen Eintretens für den syrischen Machthaber Baschar al-Assad.</media:description>
+						<media:title>Iran und Russland - Ruhani bei Putin: Beste Freunde oder Zweckbündnis?</media:title>
+						<media:player url="http://www.focus.de/politik/ausland/iran-und-russland-ruhani-bei-putin-beste-freunde-oder-zweckbuendnis_id_6845836.html" width="990" height="600" />
 						</item>
 			<lastBuildDate>
-			Mon, 27 Mar 2017 13:41:00 +0200</lastBuildDate>
+			Tue, 28 Mar 2017 14:47:00 +0200</lastBuildDate>
 	</channel>
 </rss>

@@ -5,10 +5,10 @@ import java.sql.SQLException;
 public class OrderInsertCustomFeedEntry {
 	private SqlOrder wrapped;
 	
-	public OrderInsertCustomFeedEntry(DBconnection database, int sourceFeedEntryID, int customFeedID) throws SQLException {
-		String sql = "INSERT INTO Newsfeed.CustomFeedEntry (CustomFeed_ID, SourceFeedEntry_ID) VALUES (?, ?); ";
+	public OrderInsertCustomFeedEntry(DBconnection database, int sourceFeedEntryID, int FilterID) throws SQLException {
+		String sql = "INSERT INTO Newsfeed.CustomFeedEntry (Filter_ID, SourceFeedEntry_ID) VALUES (?, ?); ";
 		this.wrapped = new SqlOrder(database, sql);
-		this.wrapped.setStmtInt(1, customFeedID);
+		this.wrapped.setStmtInt(1, FilterID);
 		this.wrapped.setStmtInt(2, sourceFeedEntryID);
 	}
 	

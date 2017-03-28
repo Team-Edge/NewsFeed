@@ -13,13 +13,18 @@ public class QueryFilterURLs {
 	}
 
 	public List<Integer> getSourceFeedIDs() throws Exception {
-		wrapped.query();
-		ArrayList<Integer> ret = new ArrayList<Integer>();
-		ResultSet result= wrapped.getResult();
-		while(result.next())
-			ret.add(result.getInt(1));
-		wrapped.close();
-		return ret;	
+		try {
+			wrapped.query();
+			ArrayList<Integer> ret = new ArrayList<Integer>();
+			ResultSet result= wrapped.getResult();
+			while(result.next()) {
+				ret.add(result.getInt(1));
+			}
+			wrapped.close();
+			return ret;	
+		} finally {
+			wrapped.close();
+		}
 	}
 	
 }
