@@ -105,7 +105,7 @@ public class DBconnection implements Closeable {
 	 * such are insertions, deletions, updates and count instructions
 	 * @param stat			the PreparedStatement having the SQL instruction
 	 * @return				int containing the result, 0, or a negative number
-	 * @throws Exception
+	 * @throws Exception	if execution fails
 	 */
 	public synchronized int execute(PreparedStatement stat) throws Exception {
 		try {
@@ -125,6 +125,7 @@ public class DBconnection implements Closeable {
 
 	/**
 	 * Closes the DB connection
+	 * @throws IOException	if connection is already closed
 	 */
 	@Override
 	public void close() throws IOException {
