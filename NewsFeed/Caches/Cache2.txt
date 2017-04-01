@@ -21,212 +21,246 @@
 		
 		<atom:link href="http://rss.focus.de/" rel="self" type="application/rss+xml" />
 		<item>
-						<title>Notfall während TuiFly-Fluges - Copilot fällt aus – Stewardess übernimmt seinen Platz </title>
-						<link>http://www.focus.de/reisen/videos/notfall-waehrend-flug-tuifly-copilot-nach-schwaecheanfall-von-stewardess-im-cockpit-abgeloest_id_6847725.html</link>
+						<title>FC Bayern München gegen FC Augsburg live - Aktueller Spielstand 0:0</title>
+						<link>http://www.focus.de/sport/fussball/bundesliga1/fc-bayern-muenchen-gegen-fc-augsburg-live-aktueller-spielstand-0-0_id_6871170.html</link>
 						<description>
-							</description>
-						<category domain="">Video</category>
-						<pubDate>
-							Tue, 28 Mar 2017 22:27:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6847725</guid>
-						<author>wochit</author>
-						<content:encoded>
-							<![CDATA[]]></content:encoded>
-						<media:category>news</media:category>
-						
-						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
-						<media:description type="plain">
-							</media:description>
-						<media:title>Notfall während TuiFly-Fluges - Copilot fällt aus – Stewardess übernimmt seinen Platz </media:title>
-						<media:player url="http://www.focus.de/reisen/videos/notfall-waehrend-flug-tuifly-copilot-nach-schwaecheanfall-von-stewardess-im-cockpit-abgeloest_id_6847725.html" width="990" height="600" />
-						</item>
-			<item>
-						<title>Christian Lell - Polizei durchsucht Villa von Ex-Bayern-Star</title>
-						<link>http://www.focus.de/sport/fussball/bundesliga1/ex-profi-des-fc-bayern-polizei-durchsucht-villa-von-christian-lell_id_6844996.html</link>
-						<description>
-							Ärger für Ex-Bayern-Profi Christian Lell. Die Villa des ehemalige Bundesliga-Spielers im Ort Straßlach-Dingharting im Süden von München ist am Dienstagmorgen durchsucht worden.</description>
+							
+
+</description>
 						<category domain="">Bundesliga</category>
 						<pubDate>
-							Tue, 28 Mar 2017 22:24:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6844996</guid>
-						<author>FOCUS</author>
+							Sat, 01 Apr 2017 15:47:19 +0200</pubDate>
+						<guid isPermaLink="false">aid_6871170</guid>
+						<author>FOCUS Ticker/DPA</author>
 						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6845040/668261933-cv3_2-w120-q72-p4/ex-bayern-profi-christian-lell.jpg" />
-								Ärger für Ex-Bayern-Profi Christian Lell. Die Villa des ehemalige Bundesliga-Spielers im Ort Straßlach-Dingharting im Süden von München ist am Dienstagmorgen durchsucht worden.]]></content:encoded>
+							<![CDATA[
+
+]]></content:encoded>
 						<media:category>news</media:category>
 						
 						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
 						<media:description type="plain">
-							Ärger für Ex-Bayern-Profi Christian Lell. Die Villa des ehemalige Bundesliga-Spielers im Ort Straßlach-Dingharting im Süden von München ist am Dienstagmorgen durchsucht worden.</media:description>
-						<media:title>Christian Lell - Polizei durchsucht Villa von Ex-Bayern-Star</media:title>
-						<media:player url="http://www.focus.de/sport/fussball/bundesliga1/ex-profi-des-fc-bayern-polizei-durchsucht-villa-von-christian-lell_id_6844996.html" width="990" height="600" />
+							
+
+</media:description>
+						<media:title>FC Bayern München gegen FC Augsburg live - Aktueller Spielstand 0:0</media:title>
+						<media:player url="http://www.focus.de/sport/fussball/bundesliga1/fc-bayern-muenchen-gegen-fc-augsburg-live-aktueller-spielstand-0-0_id_6871170.html" width="990" height="600" />
 						</item>
 			<item>
-						<title>Mehrere Stunden nicht einsetzbar - Aus Rache? Blitzer in Saarbrücken geteert und gefedert</title>
-						<link>http://www.focus.de/regional/videos/mehrere-stunden-nicht-einsetzbar-aus-rache-blitzer-in-saarbruecken-geteert-und-gefedert_id_6846390.html</link>
+						<title>Hamburger SV gegen 1. FC Köln live - Aktueller Spielstand 1:0</title>
+						<link>http://www.focus.de/sport/fussball/bundesliga1/hamburger-sv-gegen-1-fc-koeln-live-aktueller-spielstand-0-0_id_6871174.html</link>
 						<description>
-							</description>
-						<category domain="">Videos</category>
+							
+
+</description>
+						<category domain="">Bundesliga</category>
 						<pubDate>
-							Tue, 28 Mar 2017 21:52:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6846390</guid>
-						<author>wochit</author>
+							Sat, 01 Apr 2017 15:47:18 +0200</pubDate>
+						<guid isPermaLink="false">aid_6871174</guid>
+						<author>FOCUS Ticker/DPA</author>
 						<content:encoded>
-							<![CDATA[]]></content:encoded>
+							<![CDATA[
+
+]]></content:encoded>
 						<media:category>news</media:category>
 						
 						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
 						<media:description type="plain">
-							</media:description>
-						<media:title>Mehrere Stunden nicht einsetzbar - Aus Rache? Blitzer in Saarbrücken geteert und gefedert</media:title>
-						<media:player url="http://www.focus.de/regional/videos/mehrere-stunden-nicht-einsetzbar-aus-rache-blitzer-in-saarbruecken-geteert-und-gefedert_id_6846390.html" width="990" height="600" />
+							
+
+</media:description>
+						<media:title>Hamburger SV gegen 1. FC Köln live - Aktueller Spielstand 1:0</media:title>
+						<media:player url="http://www.focus.de/sport/fussball/bundesliga1/hamburger-sv-gegen-1-fc-koeln-live-aktueller-spielstand-0-0_id_6871174.html" width="990" height="600" />
 						</item>
 			<item>
-						<title>Mordprozess in München - Mann erdrosselte seine Schwester – vor Gericht bricht er in Tränen aus</title>
-						<link>http://www.focus.de/panorama/welt/mordprozess-in-muenchen-mann-soll-seine-schwester-erdrosselt-haben-vor-gericht-bricht-er-in-traenen-aus_id_6847699.html</link>
+						<title>Primera Division - FC Villarreal gegen SD Eibar live - 2:3</title>
+						<link>http://www.focus.de/sport/fussball/primeradivision/primera-division-fc-villarreal-gegen-sd-eibar-live-0-0_id_6870577.html</link>
 						<description>
-							Ein Schluchzen unterbricht die Anwältin. Der Angeklagte kann seine Tränen nicht zurückhalten. Es ist schon das zweite Mal, dass er seine Anwältin mit der Bitte um ein Taschentuch unterbricht.</description>
-						<category domain="">Aus aller Welt</category>
+							
+
+</description>
+						<category domain="">Primera Division</category>
 						<pubDate>
-							Tue, 28 Mar 2017 21:51:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6847699</guid>
+							Sat, 01 Apr 2017 15:47:11 +0200</pubDate>
+						<guid isPermaLink="false">aid_6870577</guid>
+						<author>FOCUS Ticker/DPA</author>
+						<content:encoded>
+							<![CDATA[
+
+]]></content:encoded>
+						<media:category>news</media:category>
+						
+						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
+						<media:description type="plain">
+							
+
+</media:description>
+						<media:title>Primera Division - FC Villarreal gegen SD Eibar live - 2:3</media:title>
+						<media:player url="http://www.focus.de/sport/fussball/primeradivision/primera-division-fc-villarreal-gegen-sd-eibar-live-0-0_id_6870577.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>SC Freiburg gegen Werder Bremen live - Aktueller Spielstand 0:0</title>
+						<link>http://www.focus.de/sport/fussball/bundesliga1/sc-freiburg-gegen-werder-bremen-live-aktueller-spielstand-0-0_id_6871172.html</link>
+						<description>
+							
+
+</description>
+						<category domain="">Bundesliga</category>
+						<pubDate>
+							Sat, 01 Apr 2017 15:46:27 +0200</pubDate>
+						<guid isPermaLink="false">aid_6871172</guid>
+						<author>FOCUS Ticker/DPA</author>
+						<content:encoded>
+							<![CDATA[
+
+]]></content:encoded>
+						<media:category>news</media:category>
+						
+						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
+						<media:description type="plain">
+							
+
+</media:description>
+						<media:title>SC Freiburg gegen Werder Bremen live - Aktueller Spielstand 0:0</media:title>
+						<media:player url="http://www.focus.de/sport/fussball/bundesliga1/sc-freiburg-gegen-werder-bremen-live-aktueller-spielstand-0-0_id_6871172.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>FC Schalke 04 gegen Borussia Dortmund live - Aktueller Spielstand 0:0</title>
+						<link>http://www.focus.de/sport/fussball/bundesliga1/fc-schalke-04-gegen-borussia-dortmund-live-aktueller-spielstand-0-0_id_6871171.html</link>
+						<description>
+							
+
+</description>
+						<category domain="">Bundesliga</category>
+						<pubDate>
+							Sat, 01 Apr 2017 15:46:27 +0200</pubDate>
+						<guid isPermaLink="false">aid_6871171</guid>
+						<author>FOCUS Ticker/DPA</author>
+						<content:encoded>
+							<![CDATA[
+
+]]></content:encoded>
+						<media:category>news</media:category>
+						
+						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
+						<media:description type="plain">
+							
+
+</media:description>
+						<media:title>FC Schalke 04 gegen Borussia Dortmund live - Aktueller Spielstand 0:0</media:title>
+						<media:player url="http://www.focus.de/sport/fussball/bundesliga1/fc-schalke-04-gegen-borussia-dortmund-live-aktueller-spielstand-0-0_id_6871171.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>+++ VIP-News +++ - &#034;Let&#039;s Dance&#034;: Zuschauer schmeißen Bastiaan Ragas raus</title>
+						<link>http://www.focus.de/kultur/vermischtes/vip-news-lets-dance-zuschauer-schmeissen-bastiaan-ragas-raus_id_6871553.html</link>
+						<description>
+							Die Welt der Promis hautnah erleben: Von Schauspieler bis royaler Adel, von Sänger bis Profi-Sportler. FOCUS Online präsentiert die aktuellen Nachrichten und exklusive Storys aus der Welt der Stars im Ticker.</description>
+						<category domain="">Star-News</category>
+						<pubDate>
+							Sat, 01 Apr 2017 15:46:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_6871553</guid>
+						<author>SpotOn</author>
+						<content:encoded>
+							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6870810/535261883-cv3_2-w120-q72-p4/urn-newsml-dpa-com-20090101-170401-99-901463-large-4-3.jpg" />
+								Die Welt der Promis hautnah erleben: Von Schauspieler bis royaler Adel, von Sänger bis Profi-Sportler. FOCUS Online präsentiert die aktuellen Nachrichten und exklusive Storys aus der Welt der Stars im Ticker.]]></content:encoded>
+						<media:category>news</media:category>
+						
+						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
+						<media:description type="plain">
+							Die Welt der Promis hautnah erleben: Von Schauspieler bis royaler Adel, von Sänger bis Profi-Sportler. FOCUS Online präsentiert die aktuellen Nachrichten und exklusive Storys aus der Welt der Stars im Ticker.</media:description>
+						<media:title>+++ VIP-News +++ - &#034;Let&#039;s Dance&#034;: Zuschauer schmeißen Bastiaan Ragas raus</media:title>
+						<media:player url="http://www.focus.de/kultur/vermischtes/vip-news-lets-dance-zuschauer-schmeissen-bastiaan-ragas-raus_id_6871553.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>RasenBallsport Leipzig gegen SV Darmstadt 98 live - Aktueller Spielstand 1:0</title>
+						<link>http://www.focus.de/sport/fussball/bundesliga1/rasenballsport-leipzig-gegen-sv-darmstadt-98-live-aktueller-spielstand-0-0_id_6871173.html</link>
+						<description>
+							
+
+</description>
+						<category domain="">Bundesliga</category>
+						<pubDate>
+							Sat, 01 Apr 2017 15:45:08 +0200</pubDate>
+						<guid isPermaLink="false">aid_6871173</guid>
+						<author>FOCUS Ticker/DPA</author>
+						<content:encoded>
+							<![CDATA[
+
+]]></content:encoded>
+						<media:category>news</media:category>
+						
+						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
+						<media:description type="plain">
+							
+
+</media:description>
+						<media:title>RasenBallsport Leipzig gegen SV Darmstadt 98 live - Aktueller Spielstand 1:0</media:title>
+						<media:player url="http://www.focus.de/sport/fussball/bundesliga1/rasenballsport-leipzig-gegen-sv-darmstadt-98-live-aktueller-spielstand-0-0_id_6871173.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>+++ Bundestagswahl im News-Ticker +++ - Gerhard Schröder glaubt nicht an Koalition mit den Linken </title>
+						<link>http://www.focus.de/politik/deutschland/bundestagswahl_2017/bundestagswahl-im-news-ticker-gerhard-schroeder-glaubt-nicht-an-koalition-mit-den-linken_id_6871587.html</link>
+						<description>
+							Am 24. September wird in Deutschland der Bundestag gewählt. Der Wahlkampf ist bereits in vollem Gange: Die SPD geht mit Martin Schulz in die Offensive gegen die Union, die erneut Angela Merkel als Kanzlerkandidatin stellt. Die Grünen wollen mit einem Realo-Duo punkten, die FDP hofft auf einen Wiedereinzug ins Parlament. Alle Informationen zur Bundestagswahl 2017 im News-Ticker von FOCUS Online.</description>
+						<category domain="">Bundestagswahl 2017</category>
+						<pubDate>
+							Sat, 01 Apr 2017 15:44:38 +0200</pubDate>
+						<guid isPermaLink="false">aid_6871587</guid>
 						<author>dpa</author>
 						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6847690/960261976-cv3_2-w120-q72-p4/prozess-gegen-37-jae-52941634.jpg" />
-								Ein Schluchzen unterbricht die Anwältin. Der Angeklagte kann seine Tränen nicht zurückhalten. Es ist schon das zweite Mal, dass er seine Anwältin mit der Bitte um ein Taschentuch unterbricht.]]></content:encoded>
+							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6869935/8422616882-cv3_2-w120-q72-p4/urn-newsml-dpa-com-20090101-170401-99-900141-large-4-3.jpg" />
+								Am 24. September wird in Deutschland der Bundestag gewählt. Der Wahlkampf ist bereits in vollem Gange: Die SPD geht mit Martin Schulz in die Offensive gegen die Union, die erneut Angela Merkel als Kanzlerkandidatin stellt. Die Grünen wollen mit einem Realo-Duo punkten, die FDP hofft auf einen Wiedereinzug ins Parlament. Alle Informationen zur Bundestagswahl 2017 im News-Ticker von FOCUS Online.]]></content:encoded>
 						<media:category>news</media:category>
 						
 						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
 						<media:description type="plain">
-							Ein Schluchzen unterbricht die Anwältin. Der Angeklagte kann seine Tränen nicht zurückhalten. Es ist schon das zweite Mal, dass er seine Anwältin mit der Bitte um ein Taschentuch unterbricht.</media:description>
-						<media:title>Mordprozess in München - Mann erdrosselte seine Schwester – vor Gericht bricht er in Tränen aus</media:title>
-						<media:player url="http://www.focus.de/panorama/welt/mordprozess-in-muenchen-mann-soll-seine-schwester-erdrosselt-haben-vor-gericht-bricht-er-in-traenen-aus_id_6847699.html" width="990" height="600" />
+							Am 24. September wird in Deutschland der Bundestag gewählt. Der Wahlkampf ist bereits in vollem Gange: Die SPD geht mit Martin Schulz in die Offensive gegen die Union, die erneut Angela Merkel als Kanzlerkandidatin stellt. Die Grünen wollen mit einem Realo-Duo punkten, die FDP hofft auf einen Wiedereinzug ins Parlament. Alle Informationen zur Bundestagswahl 2017 im News-Ticker von FOCUS Online.</media:description>
+						<media:title>+++ Bundestagswahl im News-Ticker +++ - Gerhard Schröder glaubt nicht an Koalition mit den Linken </media:title>
+						<media:player url="http://www.focus.de/politik/deutschland/bundestagswahl_2017/bundestagswahl-im-news-ticker-gerhard-schroeder-glaubt-nicht-an-koalition-mit-den-linken_id_6871587.html" width="990" height="600" />
 						</item>
 			<item>
-						<title>Harte Flügelkämpfe - Bittere Tränen von AfD-Chefin Petry offenbaren das Machtproblem der Partei</title>
-						<link>http://www.focus.de/politik/deutschland/bundestagswahl-bittere-traenen-von-afd-chefin-petry-offenbaren-machtproblem-der-rechtspopulisten_id_6847332.html</link>
+						<title>Bundesliga-Konferenz im Live-Ticker - 0:0 - Bayern startet gegen abstiegsbedrohte Augsburger</title>
+						<link>http://www.focus.de/sport/fussball/bundesliga1/bundesliga-konferenz-im-live-ticker-fc-bayern-gegen-augsburg-hamburg-gegen-koeln-leipzig-gegen-darmstadt_id_6871215.html</link>
 						<description>
-							Das Bild überraschte viele: Frauke Petry bricht auf dem Podium beim Landesparteitag der sächsischen AfD in Weinböhla in Tränen aus. Die Bundes- und Landesvorsitzende der AfD, hochschwanger und im Juni ihr fünftes Kind erwartend, sonst souverän und kühl, verliert die Fassung, nachdem sie von zwei Parteikollegen heftig angegriffen worden war.Von FOCUS-Online-Redakteur Ulf Lüdeke</description>
-						<category domain="">Deutschland</category>
+							Derbyzeit in Bayern. Die Münchner empfangen abstiegsgefährdete Augsburger - bei bestem Biergarten-Wetter. Hamburg muss gegen Köln liefern, um den Relegationsplatz zu verlassen und Leipzig bekommt es mit unangenehmen Darmstädtern zu tun. Alle Infos im Live-Ticker.</description>
+						<category domain="">Bundesliga</category>
 						<pubDate>
-							Tue, 28 Mar 2017 21:41:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6847332</guid>
-						<author>Von FOCUS-Online-Redakteur Ulf Lüdeke</author>
+							Sat, 01 Apr 2017 15:44:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_6871215</guid>
+						<author>mit dpa</author>
 						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6837530/0162619798-cv3_2-w120-q72-p4/frauke-petry.jpg" />
-								Das Bild überraschte viele: Frauke Petry bricht auf dem Podium beim Landesparteitag der sächsischen AfD in Weinböhla in Tränen aus. Die Bundes- und Landesvorsitzende der AfD, hochschwanger und im Juni ihr fünftes Kind erwartend, sonst souverän und kühl, verliert die Fassung, nachdem sie von zwei Parteikollegen heftig angegriffen worden war.Von FOCUS-Online-Redakteur Ulf Lüdeke]]></content:encoded>
+							<![CDATA[<img src="" />
+								Derbyzeit in Bayern. Die Münchner empfangen abstiegsgefährdete Augsburger - bei bestem Biergarten-Wetter. Hamburg muss gegen Köln liefern, um den Relegationsplatz zu verlassen und Leipzig bekommt es mit unangenehmen Darmstädtern zu tun. Alle Infos im Live-Ticker.]]></content:encoded>
 						<media:category>news</media:category>
 						
 						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
 						<media:description type="plain">
-							Das Bild überraschte viele: Frauke Petry bricht auf dem Podium beim Landesparteitag der sächsischen AfD in Weinböhla in Tränen aus. Die Bundes- und Landesvorsitzende der AfD, hochschwanger und im Juni ihr fünftes Kind erwartend, sonst souverän und kühl, verliert die Fassung, nachdem sie von zwei Parteikollegen heftig angegriffen worden war.Von FOCUS-Online-Redakteur Ulf Lüdeke</media:description>
-						<media:title>Harte Flügelkämpfe - Bittere Tränen von AfD-Chefin Petry offenbaren das Machtproblem der Partei</media:title>
-						<media:player url="http://www.focus.de/politik/deutschland/bundestagswahl-bittere-traenen-von-afd-chefin-petry-offenbaren-machtproblem-der-rechtspopulisten_id_6847332.html" width="990" height="600" />
+							Derbyzeit in Bayern. Die Münchner empfangen abstiegsgefährdete Augsburger - bei bestem Biergarten-Wetter. Hamburg muss gegen Köln liefern, um den Relegationsplatz zu verlassen und Leipzig bekommt es mit unangenehmen Darmstädtern zu tun. Alle Infos im Live-Ticker.</media:description>
+						<media:title>Bundesliga-Konferenz im Live-Ticker - 0:0 - Bayern startet gegen abstiegsbedrohte Augsburger</media:title>
+						<media:player url="http://www.focus.de/sport/fussball/bundesliga1/bundesliga-konferenz-im-live-ticker-fc-bayern-gegen-augsburg-hamburg-gegen-koeln-leipzig-gegen-darmstadt_id_6871215.html" width="990" height="600" />
 						</item>
 			<item>
-						<title>Apparate abschalten? - Deshalb sollten Sie noch heute eine Patientenverfügung erstellen</title>
-						<link>http://www.focus.de/finanzen/recht/patientenverfuegung-richtig-erstellen-so-gehts_id_6845141.html</link>
+						<title>Schalke 04 gegen BVB im Live-Ticker - 0:0 - Dortmund startet stürmisch ins Revier-Derby</title>
+						<link>http://www.focus.de/sport/fussball/bundesliga1/bundesliga-fc-schalke-04-gegen-bvb-im-live-ticker_id_6870838.html</link>
 						<description>
-							Wenn ein Patient bewusstlos ins Krankenhaus kommt, steht plötzlich die Frage im Raum, ob die Person lebenserhaltende Maßnahmen wünscht - oder nicht. Klarheit schafft in solchen Fällen nur eine Patientenverfügung - sonst müssen die Ärzte Sie auf jeden Fall am Leben erhalten.Von FOCUS-Online-Autorin Tatjana Grassl</description>
-						<category domain="">Recht</category>
+							Sowohl Schalke 04 als auch Borussia Dortmund haben in der Bundesliga in dieser Saison noch etwas gutzumachen. Vor allem die Gastgeber stehen beim 150. Pflichtspielderby unter Druck. Wenn sich diese beiden treffen, knallt es aber ohnehin immer im Kessel.</description>
+						<category domain="">Bundesliga</category>
 						<pubDate>
-							Tue, 28 Mar 2017 21:32:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6845141</guid>
-						<author>Von FOCUS-Online-Autorin Tatjana Grassl</author>
+							Sat, 01 Apr 2017 15:42:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_6870838</guid>
+						<author>mit dpa</author>
 						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop799458/6462615162-cv3_2-w120-q72-p4/Absatz-Ein-Notfall-Beatmungsgeraet-des-Draegerwerks-im-Einsatz.jpg" />
-								Wenn ein Patient bewusstlos ins Krankenhaus kommt, steht plötzlich die Frage im Raum, ob die Person lebenserhaltende Maßnahmen wünscht - oder nicht. Klarheit schafft in solchen Fällen nur eine Patientenverfügung - sonst müssen die Ärzte Sie auf jeden Fall am Leben erhalten.Von FOCUS-Online-Autorin Tatjana Grassl]]></content:encoded>
+							<![CDATA[<img src="" />
+								Sowohl Schalke 04 als auch Borussia Dortmund haben in der Bundesliga in dieser Saison noch etwas gutzumachen. Vor allem die Gastgeber stehen beim 150. Pflichtspielderby unter Druck. Wenn sich diese beiden treffen, knallt es aber ohnehin immer im Kessel.]]></content:encoded>
 						<media:category>news</media:category>
 						
 						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
 						<media:description type="plain">
-							Wenn ein Patient bewusstlos ins Krankenhaus kommt, steht plötzlich die Frage im Raum, ob die Person lebenserhaltende Maßnahmen wünscht - oder nicht. Klarheit schafft in solchen Fällen nur eine Patientenverfügung - sonst müssen die Ärzte Sie auf jeden Fall am Leben erhalten.Von FOCUS-Online-Autorin Tatjana Grassl</media:description>
-						<media:title>Apparate abschalten? - Deshalb sollten Sie noch heute eine Patientenverfügung erstellen</media:title>
-						<media:player url="http://www.focus.de/finanzen/recht/patientenverfuegung-richtig-erstellen-so-gehts_id_6845141.html" width="990" height="600" />
-						</item>
-			<item>
-						<title>Fernsehen im Auto - DVB-T2-Umstellung: Auch Luxuslimousinen haben keinen TV-Empfang mehr</title>
-						<link>http://www.focus.de/auto/ratgeber/unterhaltung/bildschirm-bleibt-schwarz-dvbt-umstellung-auch-luxuslimousinen-haben-ab-morgen-keine-tv-empfang-mehr_id_6846564.html</link>
-						<description>
-							Entertainment für die Kinder auf der Rückbank oder Nachrichten auf dem Parkplatz: In Luxuslimousinen und teuren SUV werden seit langem TV-Module angeboten. Doch weil die oft nicht den neuen DVB-T2 Standard nutzen, lässt sich die Funktion nicht mehr nutzen.</description>
-						<category domain="">Unterhaltung</category>
-						<pubDate>
-							Tue, 28 Mar 2017 21:29:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6846564</guid>
-						<author>FOCUS</author>
-						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop4856805/0322613914-cv3_2-w120-q72-p4/jeep16.jpg" />
-								Entertainment für die Kinder auf der Rückbank oder Nachrichten auf dem Parkplatz: In Luxuslimousinen und teuren SUV werden seit langem TV-Module angeboten. Doch weil die oft nicht den neuen DVB-T2 Standard nutzen, lässt sich die Funktion nicht mehr nutzen.]]></content:encoded>
-						<media:category>news</media:category>
-						
-						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
-						<media:description type="plain">
-							Entertainment für die Kinder auf der Rückbank oder Nachrichten auf dem Parkplatz: In Luxuslimousinen und teuren SUV werden seit langem TV-Module angeboten. Doch weil die oft nicht den neuen DVB-T2 Standard nutzen, lässt sich die Funktion nicht mehr nutzen.</media:description>
-						<media:title>Fernsehen im Auto - DVB-T2-Umstellung: Auch Luxuslimousinen haben keinen TV-Empfang mehr</media:title>
-						<media:player url="http://www.focus.de/auto/ratgeber/unterhaltung/bildschirm-bleibt-schwarz-dvbt-umstellung-auch-luxuslimousinen-haben-ab-morgen-keine-tv-empfang-mehr_id_6846564.html" width="990" height="600" />
-						</item>
-			<item>
-						<title>Süchtig nach Strahlen - Das Wetter wird schön: In der Sonne lauert mehr als nur die Hautkrebs-Gefahr</title>
-						<link>http://www.focus.de/gesundheit/videos/suechtig-nach-strahlen-das-wetter-wird-schoen-in-der-sonne-lauert-mehr-als-nur-die-hautkrebs-gefahr_id_6847674.html</link>
-						<description>
-							</description>
-						<category domain="">Video</category>
-						<pubDate>
-							Tue, 28 Mar 2017 21:13:19 +0200</pubDate>
-						<guid isPermaLink="false">aid_6847674</guid>
-						<author>wochit</author>
-						<content:encoded>
-							<![CDATA[]]></content:encoded>
-						<media:category>news</media:category>
-						
-						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
-						<media:description type="plain">
-							</media:description>
-						<media:title>Süchtig nach Strahlen - Das Wetter wird schön: In der Sonne lauert mehr als nur die Hautkrebs-Gefahr</media:title>
-						<media:player url="http://www.focus.de/gesundheit/videos/suechtig-nach-strahlen-das-wetter-wird-schoen-in-der-sonne-lauert-mehr-als-nur-die-hautkrebs-gefahr_id_6847674.html" width="990" height="600" />
-						</item>
-			<item>
-						<title>Kreml von Demonstrationen überrascht - Warten auf den großen Crash: Warum die Massenproteste für Putin so gefährlich sind</title>
-						<link>http://www.focus.de/politik/ausland/russland-warum-die-proteste-in-moskau-fuer-praesident-putin-so-gefaehrlich-sind_id_6847415.html</link>
-						<description>
-							Wenn es brenzlig wird für die Mächtigen in Russland, setzen sie gerne auf ein altbewährtes Rezept: Bauarbeiten. Wladimir Putin berichtete einst, wie der KGB in Leningrad, als er dort arbeitete, Dissidenten vom Protestieren abhielt, indem er einfach Baugeräte ankarren und den Platz absperren ließ, auf dem sich die Kremlgegner treffen wollten. Von Focus Magazin-Korrespondent Boris Reitschuster u. FOCUS-Online-Redakteur Sebastian Heise</description>
-						<category domain="">Ausland</category>
-						<pubDate>
-							Tue, 28 Mar 2017 20:56:56 +0200</pubDate>
-						<guid isPermaLink="false">aid_6847415</guid>
-						<author>Von Focus Magazin-Korrespondent Boris Reitschuster u. FOCUS-Online-Redakteur Sebastian Heise</author>
-						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6847499/5482619445-cv3_2-w120-q72-p4/1494f4009d8c2992-1-.jpg" />
-								Wenn es brenzlig wird für die Mächtigen in Russland, setzen sie gerne auf ein altbewährtes Rezept: Bauarbeiten. Wladimir Putin berichtete einst, wie der KGB in Leningrad, als er dort arbeitete, Dissidenten vom Protestieren abhielt, indem er einfach Baugeräte ankarren und den Platz absperren ließ, auf dem sich die Kremlgegner treffen wollten. Von Focus Magazin-Korrespondent Boris Reitschuster u. FOCUS-Online-Redakteur Sebastian Heise]]></content:encoded>
-						<media:category>news</media:category>
-						
-						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
-						<media:description type="plain">
-							Wenn es brenzlig wird für die Mächtigen in Russland, setzen sie gerne auf ein altbewährtes Rezept: Bauarbeiten. Wladimir Putin berichtete einst, wie der KGB in Leningrad, als er dort arbeitete, Dissidenten vom Protestieren abhielt, indem er einfach Baugeräte ankarren und den Platz absperren ließ, auf dem sich die Kremlgegner treffen wollten. Von Focus Magazin-Korrespondent Boris Reitschuster u. FOCUS-Online-Redakteur Sebastian Heise</media:description>
-						<media:title>Kreml von Demonstrationen überrascht - Warten auf den großen Crash: Warum die Massenproteste für Putin so gefährlich sind</media:title>
-						<media:player url="http://www.focus.de/politik/ausland/russland-warum-die-proteste-in-moskau-fuer-praesident-putin-so-gefaehrlich-sind_id_6847415.html" width="990" height="600" />
-						</item>
-			<item>
-						<title>Stürmische Siegesfeier - Neun Monate nach dem Euro-Erfolg gegen England erlebt Island einen Baby-Boom</title>
-						<link>http://www.focus.de/sport/videos/folge-der-europameisterschaft-siegesfeier-sex-island-erlebt-baby-boom-nach-erfolg-gegen-england-bei-euro-2016_id_6847592.html</link>
-						<description>
-							</description>
-						<category domain="">Video</category>
-						<pubDate>
-							Tue, 28 Mar 2017 20:56:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6847592</guid>
-						<author>wochit</author>
-						<content:encoded>
-							<![CDATA[]]></content:encoded>
-						<media:category>news</media:category>
-						
-						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
-						<media:description type="plain">
-							</media:description>
-						<media:title>Stürmische Siegesfeier - Neun Monate nach dem Euro-Erfolg gegen England erlebt Island einen Baby-Boom</media:title>
-						<media:player url="http://www.focus.de/sport/videos/folge-der-europameisterschaft-siegesfeier-sex-island-erlebt-baby-boom-nach-erfolg-gegen-england-bei-euro-2016_id_6847592.html" width="990" height="600" />
+							Sowohl Schalke 04 als auch Borussia Dortmund haben in der Bundesliga in dieser Saison noch etwas gutzumachen. Vor allem die Gastgeber stehen beim 150. Pflichtspielderby unter Druck. Wenn sich diese beiden treffen, knallt es aber ohnehin immer im Kessel.</media:description>
+						<media:title>Schalke 04 gegen BVB im Live-Ticker - 0:0 - Dortmund startet stürmisch ins Revier-Derby</media:title>
+						<media:player url="http://www.focus.de/sport/fussball/bundesliga1/bundesliga-fc-schalke-04-gegen-bvb-im-live-ticker_id_6870838.html" width="990" height="600" />
 						</item>
 			<lastBuildDate>
-			Tue, 28 Mar 2017 22:27:00 +0200</lastBuildDate>
+			Sat, 01 Apr 2017 15:47:19 +0200</lastBuildDate>
 	</channel>
 </rss>

@@ -1,4 +1,4 @@
-package feedanalyser;
+package feedUtils;
 
 import java.io.IOException;
 import java.net.URL;
@@ -14,11 +14,21 @@ import com.sun.syndication.io.SyndFeedInput;
 import com.sun.syndication.io.XmlReader;
 
 import datatypes.SourceFeedEntry;
-import newsfeed.Configuration;
+import program.Configuration;
 
-
+/**
+ * static class to parse a RSS- or Atomfeed to a list of SourceFeedEntry-Containers
+ */
 public class FeedReader {
     
+	/**
+	 * parses a RSS- or Atomfeed to a list of SourceFeedEntry-Containers
+	 * @param url	URL to the feed adress
+	 * @return 	a list of SourceFeedEntry-Containers
+	 * @throws IllegalArgumentException if the url does no point ro a supported syndication feed
+	 * @throws FeedException if the feed could not be read
+	 * @throws IOException if the Feed could not be opened
+	 */
     public static List<SourceFeedEntry> read(String url) throws IllegalArgumentException, FeedException, IOException {
         URL feedUrl = new URL(url);
         SyndFeedInput input = new SyndFeedInput();

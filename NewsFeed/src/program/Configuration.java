@@ -1,7 +1,4 @@
-/**
- * 
- */
-package newsfeed;
+package program;
 
 import java.io.FileInputStream;
 import java.io.InputStream;
@@ -10,8 +7,7 @@ import java.util.Calendar;
 import java.util.Properties;
 
 /**
- * @author Florian
- *
+ * static configuration class
  */
 public class Configuration {
 
@@ -31,7 +27,10 @@ public class Configuration {
 	private static boolean generalBeVerbose;
 	private static String generalOutputDateFormat;
 	
-	
+	/**
+	 * loads configuration from a configuration file
+	 * @param configFile specifies the filepath for the configuration file
+	 */
 	public static void loadFromFile(String configFile) {
 		Properties prop = new Properties();
 		try (InputStream in = new FileInputStream(configFile)) {
@@ -63,62 +62,98 @@ public class Configuration {
 		generalOutputDateFormat = prop.getProperty("generalOutputDateFormat", "dd.MM.yyyy HH:mm:ss");
 	}
 
-
+	/**
+	 * returns the DB server's hostname specified by the configuration file 
+	 * @return the DB server's hostname specified by the configuration file 
+	 */
 	public static String getDbServerHostName() {
 		return dbServerHostName;
 	}
 
-
+	/**
+	 * returns the DB server's port specified by the configuration file 
+	 * @return the DB server's port specified by the configuration file 
+	 */
 	public static String getDbServerPort() {
 		return dbServerPort;
 	}
 
-
+	/**
+	 * returns the DB schema specified by the configuration file 
+	 * @return the DB schema specified by the configuration file 
+	 */
 	public static String getDbServerSchemaName() {
 		return dbServerSchemaName;
 	}
 
-
+	/**
+	 * returns the DB server's username specified by the configuration file 
+	 * @return the DB server's username specified by the configuration file 
+	 */
 	public static String getDbServerUserName() {
 		return dbServerUserName;
 	}
 
-
+	/**
+	 * returns the DB server's password specified by the configuration file 
+	 * @return the DB server's password specified by the configuration file 
+	 */
 	public static String getDbServerPassword() {
 		return dbServerPassword;
 	}
 
-	
+	/**
+	 * returns the DB server's date format specified by the configuration file 
+	 * @return the DB server's date format specified by the configuration file 
+	 */
 	public static String getDbSqlDateFormat() {
 		return dbSqlDateFormat;
 	}
 	
-
+	/**
+	 * returns the application's network connection timeout specified by the configuration file 
+	 * @return the application's network connection timeout specified by the configuration file 
+	 */
 	public static int getNetworkConnectionTimeout() {
 		return networkConnectionTimeout;
 	}
 
-
+	/**
+	 * returns the application's network read timeout specified by the configuration file 
+	 * @return the application's network read timeout specified by the configuration file 
+	 */
 	public static int getNetworkReadTimeout() {
 		return networkReadTimeout;
 	}
 
-
+	/**
+	 * indicates if the crawler update is runned once or in an infinite loop; specified by the configuration file 
+	 * @return true, if the crawler update is runned in an infinite loop; specified by the configuration file 
+	 */
 	public static boolean getServiceInfiniteLoop() {
 		return serviceInfiniteLoop;
 	}
 
-
+	/**
+	 * returns the application's cyclic delay between reading out two feeds; specified by the configuration file 
+	 * @return the application's cyclic delay between reading out two feeds; specified by the configuration file 
+	 */
 	public static int getServiceCyclicDelay() {
 		return serviceCyclicDelay;
 	}
 
-
+	/**
+	 * indicates if the application generates additional outputs; specified by the configuration file 
+	 * @return true, if the application generates additional outputs; specified by the configuration file 
+	 */
 	public static boolean getGeneralBeVerbose() {
 		return generalBeVerbose;
 	}
 	
-	
+	/**
+	 * returns the application's output date format specified by the configuration file 
+	 * @return the application's output date format specified by the configuration file 
+	 */
 	public static String getGeneralOutputDateFormat() {
 		return generalOutputDateFormat;
 	}

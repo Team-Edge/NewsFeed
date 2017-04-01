@@ -1,4 +1,4 @@
-package newsfeed;
+package newsCrawler;
 
 import java.io.File;
 import java.text.SimpleDateFormat;
@@ -10,16 +10,24 @@ import database.DBconnection;
 import database.OrderRemoveSourceFeedEntry;
 import datatypes.SourceFeed;
 import datatypes.SourceFeedEntry;
-import feedanalyser.CacheUpdate;
-import feedanalyser.FeedReader;
+import feedUtils.CacheUpdate;
+import feedUtils.FeedReader;
+import program.Configuration;
 
+/**
+ * class for an update cycle that searches a SourceFeed for new entries
+ */
 public class NewsCrawlerUpdate implements Runnable{
 	private SourceFeed toUpdate;
 	private DBconnection database;
 	private List<SourceFeedEntry> newEntries;
 	private List<SourceFeedEntry> oldEntries;
 	
-	
+	/**
+	 * standard constructor
+	 * @param toUpdate SourceFeed which has to be updated
+	 * @param database DBConnection which abstracts the corresponding DB server
+	 */
 	public NewsCrawlerUpdate(SourceFeed toUpdate, DBconnection database) {
 		this.toUpdate = toUpdate;
 		this.database = database;
@@ -27,6 +35,11 @@ public class NewsCrawlerUpdate implements Runnable{
 		this.newEntries = new LinkedList<SourceFeedEntry>();		
 	}
 	
+	/**
+	 * fetches entries from the SourceFeed to be updated and extracts the old and new entries
+	 * it also reads and updates the local cachefiles
+	 * @see feedUtils.CacheUpdate
+	 */
 	private void fetchEntries() {
 		try {
 			//fetch RSS feed and compare to cached version
@@ -70,6 +83,11 @@ public class NewsCrawlerUpdate implements Runnable{
 		}	
 	}
 
+	/**
+	 * performs the update of a SourceFeed
+	 * fetches the SourceFeed, extracts old and new entries, removes old ones
+	 * enlarges the new ones and performs filter searches on them and adds them to filter matches
+	 */
 	@Override
 	public void run() {
 		Calendar cal;
@@ -98,7 +116,7 @@ public class NewsCrawlerUpdate implements Runnable{
 			//while srvEnlarger waits for an external service to enlarge a FeedEntry, 
 			//srvUpdater updates the already enlarged FeedEntries
 			EnlargingService srvEnlarger = new EnlargingService(this.newEntries);
-			UpdateService srvUpdater = new UpdateService(this.database, this.toUpdate.getId());
+			UpdateService srvUpdater = new UpdateService(this.database, this.toUpdate.getID());
 			srvEnlarger.start();
 			srvUpdater.start();
 			for (SourceFeedEntry current : this.newEntries) {

@@ -1,4 +1,4 @@
-package newsfeed;
+package program;
 
 import java.io.IOException;
 import java.sql.SQLException;
@@ -9,20 +9,33 @@ import java.util.List;
 import database.DBconnection;
 import database.QuerySourceFeeds;
 import datatypes.SourceFeed;
+import newsCrawler.NewsCrawlerUpdate;
 
+/**
+ * job for finding new entries to extern feeds and adding them to the database
+ */
+public class NewsCrawler implements IApplicationJob {
 
+	/**
+	 * standard constructor
+	 */
+	public NewsCrawler() {
+	}
 
-public class Program {
-
-	
-	public static void main(String[] args) {
-		Configuration.loadFromFile("./config.txt");
-		
+	/**
+	 * finds new entries to extern feeds and adding them to the database
+	 */
+	@Override
+	public void run() {
 		Calendar cal = Calendar.getInstance();
         SimpleDateFormat sdf = new SimpleDateFormat(Configuration.getGeneralOutputDateFormat());
-		System.out.println(sdf.format(cal.getTime()) + " : Program started");
-		
 		DBconnection database = null;
+		
+		if(Configuration.getGeneralBeVerbose()) {
+			cal = Calendar.getInstance();
+			System.out.println(sdf.format(cal.getTime()) + " : NewsCrawler started");
+		}
+		
 		try {
 			database = new DBconnection("jdbc:mysql://" + Configuration.getDbServerHostName()
 										+ ":" + Configuration.getDbServerPort()
@@ -61,11 +74,8 @@ public class Program {
 					} catch (InterruptedException e1) {
 						return;
 					}
-				}
-				
+				}				
 			} while(Configuration.getServiceInfiniteLoop());
-			
-
 			
 		} catch (SQLException e) {
 			cal = Calendar.getInstance();
@@ -74,19 +84,32 @@ public class Program {
 			System.err.println();
 		} catch (Exception e) {
 			cal = Calendar.getInstance();
-			System.err.println(sdf.format(cal.getTime()) + " : Unknown error in Program.main()");
+			System.err.println(sdf.format(cal.getTime()) + " : Unknown error while executing NewsCrawler");
 			System.err.println(e.getMessage());
 			System.err.println();
 		} finally {
-			cal = Calendar.getInstance();
-			System.out.println(sdf.format(cal.getTime()) + " : Program ended");
+			if(Configuration.getGeneralBeVerbose()) {
+				cal = Calendar.getInstance();
+				System.out.println(sdf.format(cal.getTime()) + " : NewsCrawler has ended");
+			}
 			try {
 				database.close();
 			} catch (IOException e) {
 				// ignore
 				// program has ended and DB-Server will disconnect automatically if we could not. 
 			}
-		}		
+		}
+
 	}
 
+	@Override
+	public boolean needsDB() {
+		return true;
+	}
+
+	@Override
+	public String toString() {
+		return "NewsCrawler";
+	}
+	
 }

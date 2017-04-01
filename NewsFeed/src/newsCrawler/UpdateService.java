@@ -1,4 +1,4 @@
-package newsfeed;
+package newsCrawler;
 
 import java.sql.SQLException;
 import java.util.LinkedList;
@@ -11,14 +11,22 @@ import database.QueryFilterURLs;
 import database.QueryFilterWords;
 import database.QueryFilters;
 import datatypes.SourceFeedEntry;
-import feedanalyser.TextSearch;
+import feedUtils.TextSearch;
 
+/**
+ * Thread to process SourceFeedEntries
+ * @see SourceFeedEntry
+ */
 public class UpdateService extends Thread {
 	private DBconnection database;
 	private int sourceFeedID;
 	private List<SourceFeedEntry> newEntries;
 
-	
+	/**
+	 * standard constructor
+	 * @param database DBconnection of the database where the new SourceFeedEntries are written to
+	 * @param sourceFeedID ID of the SourceFeed where the new entries will belong to
+	 */
 	public UpdateService(DBconnection database, int sourceFeedID) {
 		super();
 		this.sourceFeedID = sourceFeedID;
@@ -26,6 +34,10 @@ public class UpdateService extends Thread {
 		this.newEntries = new LinkedList<SourceFeedEntry>();
 	}
 	
+	/**
+	 * adds a SourceFeedEntry to the queue of entries that have to be processed
+	 * @param newEntry entry that will be processed and notified
+	 */
 	public synchronized void addEntry(SourceFeedEntry newEntry) {
 		this.newEntries.add(newEntry);
 		synchronized(this.newEntries) {
@@ -33,6 +45,10 @@ public class UpdateService extends Thread {
 		}
 	}
 	
+	/**
+	 * fetches the next entry from the queue of entries that have to be processed
+	 * @return the next entry of the queue or null if there is no next one
+	 */
 	private synchronized SourceFeedEntry getEntry() {
 		if(this.newEntries.isEmpty()) {
 			return null;
@@ -44,6 +60,9 @@ public class UpdateService extends Thread {
 		}
 	}
 
+	/**
+	 * loop for fetching, processing and notifying SourceFeedEntries from the queue
+	 */
 	@Override
 	public void run() {
 		SourceFeedEntry current =null;
@@ -84,7 +103,12 @@ public class UpdateService extends Thread {
 		} while(true);	//no abort condition here; this can only be aborted by interrupt
 	}
 	
-	
+	/**
+	 * adds a new entry to the database, tests it for fitting to all filters and adds matches to DB
+	 * @param newEntry		the entry to be processed
+	 * @throws SQLException	if an SQL query fails
+	 * @throws Exception	if another error occurs
+	 */
 	private void processEntry(SourceFeedEntry newEntry) throws SQLException, Exception {
 		//insert the entry to the database and get its ID
 		int currentSourceFeedID = new OrderInsertSourceFeedEntry(this.database, newEntry, this.sourceFeedID).execute();
@@ -99,7 +123,10 @@ public class UpdateService extends Thread {
 					List<String> titleWords = filterQuery.getTitleWords();
 					List<String> descrWords = filterQuery.getDescriptionWords();
 					List<String> textWords = filterQuery.getTextWords();
-					if(searcher.query(titleWords, descrWords, textWords) == true) {
+					List<String> invTitleWords = filterQuery.getInvTitleWords();
+					List<String> invDescrWords = filterQuery.getInvDescrWords();
+					List<String> invTextWords = filterQuery.getInvTextWords();
+					if(searcher.query(titleWords, descrWords, textWords, invTitleWords, invDescrWords, invTextWords) == true) {
 						new OrderInsertCustomFeedEntry(this.database, currentSourceFeedID, currentFilter).execute();
 					}
 				}

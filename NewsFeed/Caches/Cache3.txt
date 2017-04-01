@@ -4,7 +4,24 @@
   <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commits/master"/>
   <link type="application/atom+xml" rel="self" href="https://github.com/Team-Edge/NewsFeed/commits/master.atom"/>
   <title>Recent Commits to NewsFeed:master</title>
-  <updated>2017-03-28T14:23:35Z</updated>
+  <updated>2017-03-28T20:33:54Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4dbe6b7aca0a34a1d8991c725275873a5b92a7f6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/4dbe6b7aca0a34a1d8991c725275873a5b92a7f6"/>
+    <title>
+        added some debugging output that is only done if GeneralBeVerbose is set
+    </title>
+    <updated>2017-03-28T20:33:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/25927991?v=3&amp;s=30"/>
+    <author>
+      <name>0xDEADBE01plus0xEE</name>
+      <uri>https://github.com/0xDEADBE01plus0xEE</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;added some debugging output that is only done if GeneralBeVerbose is set
+to true&lt;/pre&gt;
+    </content>
+  </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/4a72e9af81bb9eead9ec24c6b97eaf8720f744f2</id>
     <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/4a72e9af81bb9eead9ec24c6b97eaf8720f744f2"/>
@@ -328,22 +345,6 @@ to the database
 Updated comparison of old and new feeds: the new implementation is a bit
 smaller now, but FeedEntries cannot drop or appear twice any more, if
 they are provided in an unexpected order by their publishers.&lt;/pre&gt;
-    </content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:Grit::Commit/cf9cbbc60dda380f09565e8ac8cd9bd823f4fa20</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/cf9cbbc60dda380f09565e8ac8cd9bd823f4fa20"/>
-    <title>
-        Add files via upload
-    </title>
-    <updated>2017-03-24T12:37:20Z</updated>
-    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/26217793?v=3&amp;s=30"/>
-    <author>
-      <name>Tessa-h97</name>
-      <uri>https://github.com/Tessa-h97</uri>
-    </author>
-    <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add files via upload&lt;/pre&gt;
     </content>
   </entry>
 </feed>

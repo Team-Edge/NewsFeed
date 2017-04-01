@@ -1,24 +1,35 @@
 /**
  * 
  */
-package feedanalyser;
+package feedUtils;
 
 
 import java.net.URLEncoder;
 import org.apache.commons.lang3.StringEscapeUtils;
 
 /**
- * @author Florian
- *
+ * static class providing functions to receive full content texts from URLs
  */
 public class FeedEnlarger {
-		
+	
+	/**
+	 * returns the full content text from a given URL without unnecessary page contents
+	 * @param url	specifies the URL from where the contents have to be received
+	 * @return	the full text or null
+	 */
 	public static String getContent(String url) {
 		String ret = requestFiveFilters(url);
-		if(ret==null) ret = requestFeedEnlarger(url);
+		if(ret==null) {
+			ret = requestFeedEnlarger(url);
+		}
 		return ret;
 	}
 	
+	/**
+	 * determines the full text using FiveFilters
+	 * @param url	the URL from where the contents have to be received
+	 * @return	the full text or null
+	 */
 	private static String requestFiveFilters(String url) {
 		try {
 			String feedUrl = "http://ftr.fivefilters.org/makefulltextfeed.php?url=";
@@ -36,6 +47,11 @@ public class FeedEnlarger {
 		}		
 	}
 	
+	/**
+	 * determines the full text using FeedEnlarger
+	 * @param url the URL from where the contents have to be received
+	 * @return	the full text or null
+	 */
 	private static String requestFeedEnlarger(String url) {
 		try {
 			String feedUrl = "http://feedenlarger.com/makefulltextfeed.php?url=";

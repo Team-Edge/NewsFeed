@@ -1,6 +1,3 @@
-/**
- * 
- */
 package database;
 
 import java.io.Closeable;
@@ -13,16 +10,24 @@ import java.sql.SQLException;
 
 
 /**
+ * Class for wrapping and simplifying a jdbc database connection
+ * 
  * @author Florian
- *
  */
 public class DBconnection implements Closeable {
-
 	private String connectionString;
 	private String username;
 	private String password;	
 	private Connection con;
 	
+	/**
+	 * standard constructor, tries establish a connection to the server automatically
+	 * 
+	 * @param connectionString	A string formed like "jdbc:[IPadress]:[port]/[Schema]
+	 * @param username			login name for DB server
+	 * @param password			login password for the specified user
+	 * @throws SQLException		if the database failed connecting to the server
+	 */
 	public DBconnection(String connectionString, String username, String password) throws SQLException {
 		this.connectionString = connectionString;
 		this.username = username;
@@ -35,6 +40,11 @@ public class DBconnection implements Closeable {
 		}
 	}
 	
+	/**
+	 * Connection refresh, called automatically
+	 * 
+	 * @throws SQLException	if the refresh failed
+	 */
 	private void refreshConnection() throws SQLException {
 		try {
 			con.close();
@@ -47,6 +57,12 @@ public class DBconnection implements Closeable {
 		}
 	}
 	
+	/**
+	 * Creates a PreparedStatement that is secure against SQL insertions if used correctly
+	 * @param sql			SQL query String. Can also contain '?' Characters that can be replaced. 
+	 * @return				a statement that can be executed
+	 * @throws SQLException	if the statement contains errors or the S´server connection failed
+	 */
 	public PreparedStatement createStatement(String sql) throws SQLException {
 		try {
 			return this.con.prepareStatement(sql);
@@ -62,6 +78,13 @@ public class DBconnection implements Closeable {
 		}
 	}
 	
+	/**
+	 * executes a PreparedStatements on this DB as a query
+	 * 
+	 * @param stat			the statement that has to be executed
+	 * @return				ResultSet with the query result
+	 * @throws SQLException if the statement could not be executed
+	 */
 	public synchronized ResultSet request(PreparedStatement stat) throws SQLException {
 		try {
 			return stat.executeQuery();
@@ -77,6 +100,13 @@ public class DBconnection implements Closeable {
 		}
 	}
 	
+	/**
+	 * executes a statement as a non-query instruction
+	 * such are insertions, deletions, updates and count instructions
+	 * @param stat			the PreparedStatement having the SQL instruction
+	 * @return				int containing the result, 0, or a negative number
+	 * @throws Exception
+	 */
 	public synchronized int execute(PreparedStatement stat) throws Exception {
 		try {
 			return stat.executeUpdate();
@@ -93,6 +123,9 @@ public class DBconnection implements Closeable {
 		}
 	}
 
+	/**
+	 * Closes the DB connection
+	 */
 	@Override
 	public void close() throws IOException {
 		try {
