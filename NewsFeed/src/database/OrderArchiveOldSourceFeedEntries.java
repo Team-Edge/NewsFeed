@@ -13,7 +13,6 @@ public class OrderArchiveOldSourceFeedEntries {
 	 * standard constructor
 	 * 
 	 * @param database		DBconnection for the server to which the instruction will be sent
-	 * @param entry			Entry that has to be removed
 	 * @throws SQLException	if the connection fails or parameters are malformed
 	 * @see SourceFeedEntry
 	 * @see DBconnection
