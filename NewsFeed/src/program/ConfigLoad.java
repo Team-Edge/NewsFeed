@@ -3,7 +3,7 @@ package program;
 /**
  * job for loading configuration from a file
  */
-class ConfigLoad implements IApplicationJob {
+public class ConfigLoad implements IApplicationJob {
 	private String path;
 
 	/**
