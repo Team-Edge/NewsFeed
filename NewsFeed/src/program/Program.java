@@ -95,8 +95,10 @@ public class Program {
 			case "NewsCrawler":
 				ret.add(new NewsCrawler());
 				break;
-				
-				
+			case "archiver":		//archiver
+			case "Archiver":
+				ret.add(new Archiver());
+				break;
 				
 			default: throw new Exception("Invalid Argument: " + args[i]);
 			}		
