@@ -11,6 +11,7 @@ public class FeedUtilsTest {
 	@Test
 	public void testTextSearch() {
 		SourceFeedEntry s = new SourceFeedEntry("Title Titel","Description Beschreibung",new Date(),"Text Text","URL URL","imgURL BildURL");
+		
 		try{
 			TextSearch t = new TextSearch(s);
 			try{
