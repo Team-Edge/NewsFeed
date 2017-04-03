@@ -31,15 +31,19 @@ public class QuerySourceFeeds {
 	 * @throws Exception if connection or execution fails
 	 */
 	public List<SourceFeed> getSources() throws Exception {
+		ResultSet result = null;
 		try {
 			wrapped.query();
 			ArrayList<SourceFeed> ret = new ArrayList<SourceFeed>();
-			ResultSet result= wrapped.getResult();
+			result= wrapped.getResult();
 			while(result.next()) {
 				ret.add(new SourceFeed(result.getInt(1), result.getString(2), result.getString(3)));
 			}
 			return ret;	
 		} finally {
+			if(result!=null) {
+				result.close();
+			}
 			wrapped.close();
 		}
 	}

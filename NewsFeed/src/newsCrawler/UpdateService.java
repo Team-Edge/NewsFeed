@@ -1,6 +1,8 @@
 package newsCrawler;
 
 import java.sql.SQLException;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -12,6 +14,7 @@ import database.QueryFilterWords;
 import database.QueryFilters;
 import datatypes.SourceFeedEntry;
 import feedUtils.TextSearch;
+import program.Configuration;
 
 /**
  * Thread to process SourceFeedEntries
@@ -91,9 +94,18 @@ public class UpdateService extends Thread {
 			//process the current entry
 			try {
 				processEntry(current);
+			} catch (SQLException e) {
+				Calendar cal = Calendar.getInstance();
+		        SimpleDateFormat sdf = new SimpleDateFormat(Configuration.getGeneralOutputDateFormat());
+		        System.err.println(sdf.format(cal.getTime()) + " : SQL error during FeedUpdateService");
+				System.err.println(e.getMessage());
+				System.err.println();
 			} catch (Exception e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
+				Calendar cal = Calendar.getInstance();
+		        SimpleDateFormat sdf = new SimpleDateFormat(Configuration.getGeneralOutputDateFormat());
+		        System.err.println(sdf.format(cal.getTime()) + " : Unknown error during FeedUpdateService");
+				System.err.println(e.getMessage());
+				System.err.println();
 			} finally {
 				synchronized(current) {
 					current.notifyAll();

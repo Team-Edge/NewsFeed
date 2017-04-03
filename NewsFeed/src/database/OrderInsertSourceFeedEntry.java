@@ -44,14 +44,20 @@ public class OrderInsertSourceFeedEntry {
 	 * @throws Exception if connection or execution fails
 	 */
 	public int execute() throws Exception {
+		ResultSet result=null;
 		this.wrapped.execute();
-		this.getLastID.query();
-		ResultSet result = this.getLastID.getResult();
-		result.next();
-		int ret = result.getInt(1);
-		result.close();
-		this.getLastID.close();
-		return ret;
+		try {
+			this.getLastID.query();
+			result = this.getLastID.getResult();
+			result.next();
+			int ret = result.getInt(1);
+			return ret;
+		} finally {
+			if(result!=null) {
+				result.close();
+			}
+			this.getLastID.close();
+		}
 	}
 	
 }

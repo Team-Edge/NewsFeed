@@ -11,10 +11,6 @@ import feedUtils.FeedEnlarger;
 /**
  * data container for a entry of a feed 
  */
-/**
- * @author Florian
- *
- */
 public class SourceFeedEntry {
 	private String title;
 	private String description;

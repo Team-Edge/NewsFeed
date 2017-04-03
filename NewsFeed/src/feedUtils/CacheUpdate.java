@@ -6,6 +6,7 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
+import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.URL;
 import java.net.URLConnection;
@@ -57,23 +58,26 @@ public class CacheUpdate {
 		
 		File cacheFile = new File(this.cacheFilePath);
 		cacheFile.createNewFile();	//This does nothing if file already exists
-		BufferedReader cacheIn = new BufferedReader(new FileReader(cacheFile));
 		List<String> cacheLines = new ArrayList<String>();
-		while((line = cacheIn.readLine()) != null ) {
-			cacheLines.add(line);
+		try (BufferedReader cacheIn = new BufferedReader(new FileReader(cacheFile))) {
+			while((line = cacheIn.readLine()) != null ) {
+				cacheLines.add(line);
+			}
 		}
-		cacheIn.close();
-		
+
+		List<String> feedLines = new ArrayList<String>();
 		URL feedAddress = new URL(feedUrl);
 		URLConnection feedCon = feedAddress.openConnection();
 		feedCon.setConnectTimeout(Configuration.getNetworkConnectionTimeout());
 		feedCon.setReadTimeout(Configuration.getNetworkReadTimeout());
-		BufferedReader feedIn = new BufferedReader(new InputStreamReader(feedCon.getInputStream()));
-		List<String> feedLines = new ArrayList<String>();
-		while((line = feedIn.readLine()) != null ) {
-			feedLines.add(line);
+		
+		try (	InputStream inStream = feedCon.getInputStream();
+				InputStreamReader reader = new InputStreamReader(inStream);
+				BufferedReader feedIn = new BufferedReader(reader);	) {
+			while((line = feedIn.readLine()) != null ) {
+				feedLines.add(line);
+			}
 		}
-		feedIn.close();
 		
 		this.patch = DiffUtils.diff(cacheLines, feedLines);
 		
@@ -98,21 +102,22 @@ public class CacheUpdate {
 	public void applyToCache() throws Exception {
 		String line;
 		File cacheFile = new File(this.cacheFilePath);
-		BufferedReader cacheIn = new BufferedReader(new FileReader(cacheFile));
 		List<String> cacheLines = new ArrayList<String>();
-		while((line = cacheIn.readLine()) != null ) {
-			cacheLines.add(line);
+		try (FileReader reader = new FileReader(cacheFile);
+			BufferedReader cacheIn = new BufferedReader(reader);) {
+			while((line = cacheIn.readLine()) != null ) {
+				cacheLines.add(line);
+			}
 		}
-		cacheIn.close();
 		
 		cacheLines = (List<String>)this.patch.applyTo(cacheLines);
-
-		BufferedWriter cacheOut = new BufferedWriter(new FileWriter(cacheFile));
-		for(String toWrite : cacheLines) {
-			cacheOut.write(toWrite);
-			cacheOut.newLine();
+		try (FileWriter writer = new FileWriter(cacheFile);
+				BufferedWriter cacheOut = new BufferedWriter(writer);) {
+			for(String toWrite : cacheLines) {
+				cacheOut.write(toWrite);
+				cacheOut.newLine();
+			}
 		}
-		cacheOut.close();	
 	}
 	
 	/**
