@@ -29,15 +29,19 @@ public class QueryFilters {
 	 * @throws Exception if connection or execution fails
 	 */
 	public List<Integer> getIDs() throws Exception {
+		ResultSet result = null;
 		try {
 			wrapped.query();
 			ArrayList<Integer> ret = new ArrayList<Integer>();
-			ResultSet result= wrapped.getResult();
+			result = wrapped.getResult();
 			while(result.next()) {
 				ret.add(result.getInt(1));
 			}
 			return ret;	
 		} finally {
+			if(result!=null) {
+				result.close();
+			}
 			wrapped.close();
 		}
 	}

@@ -41,6 +41,7 @@ public class QueryFilterWords {
 	 * @throws Exception if connection or execution fails
 	 */
 	public void query() throws Exception {
+		ResultSet result = null;
 		try {
 			this.titleWords.clear();
 			this.descrWords.clear();
@@ -49,7 +50,7 @@ public class QueryFilterWords {
 			this.invDescrWords.clear();
 			this.invTextWords.clear();
 			this.wrapped.query();
-			ResultSet result= this.wrapped.getResult();
+			result = this.wrapped.getResult();
 			while(result.next())
 			{
 				int searchIndex = result.getInt(2);
@@ -77,6 +78,9 @@ public class QueryFilterWords {
 				}
 			}
 		} finally {
+			if(result!=null) {
+				result.close();
+			}
 			wrapped.close();
 		}
 	}
