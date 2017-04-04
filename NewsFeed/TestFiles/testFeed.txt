@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/resources/xsl/rdf_xsl.jsp" type="text/xsl"?>
+<rss version="2.0">
+<!--
+* XML-format for teasering tagesschau.de-headlines. Version: 2.0
+* Release-Date:2002/02/04, last updated 2006/06/28
+*
+* Die Nutzung dieser Inhalte ist ausschliesslich nicht-kommerziellen Internet-
+* Angeboten erlaubt, die Nutzung kann jederzeit von tagesschau.de untersagt
+* werden. tagesschau.de übernimmt keinen Support, zudem wird keine Verfügbarkeit
+* dieser XML-Datei gewährleistet. Die Inhalte dürfen nicht archiviert werden.
+//-->
+<channel>
+<title>tagesschau.de - Die Nachrichten der ARD</title>
+<link>http://www.tagesschau.de</link>
+<description>tagesschau.de</description>
+<language>de</language>
+<copyright>tagesschau.de, Norddeutscher Rundfunk</copyright>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<ttl>2</ttl>
+<item>
+<title>Attentäter von  St. Petersburg soll aus Kirgistan stammen</title>
+<link>http://www.tagesschau.de/ausland/anschlag-petersburg-101.html</link>
+<description>Der Anschlag auf die U-Bahn in St. Petersburg ist nach Angaben der Behörden in Kirgistan von einem Selbstmordattentäter aus dem zentralasiatischen Land verübt worden. Es handle sich um einen in Kirgistan geborenen russischen Bürger, so der Geheimdienst.</description>
+<guid>http://www.tagesschau.de/ausland/anschlag-petersburg-101.html</guid>
+<category>Ausland</category>
+</item>
+</channel>
+</rss>

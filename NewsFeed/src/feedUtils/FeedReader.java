@@ -22,6 +22,8 @@ import program.Configuration;
 public class FeedReader {
     
 	/**
+	 * cannot throw FeedException or IllegalArgumentException because they are catched intern
+	 * 
 	 * parses a RSS- or Atomfeed to a list of SourceFeedEntry-Containers
 	 * @param url	URL to the feed adress
 	 * @return 	a list of SourceFeedEntry-Containers
@@ -39,6 +41,7 @@ public class FeedReader {
         try {
         	feed = input.build(new XmlReader(feedCon.getInputStream()));
         } catch(Exception e) {
+        	System.out.println(e);
         	feed = new SyndFeedImpl();
         }
         @SuppressWarnings("unchecked")

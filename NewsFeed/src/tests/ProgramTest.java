@@ -16,15 +16,22 @@ public class ProgramTest {
 		testMainUnknownArg();
 		testMainHelp();
 		testMainWrongConfigFile();
+		testMainConfigFile();
 	}
 	
 	/*
-	 * Test: Calls main() without any arguments
+	 * Test: Calls main() without arguments
 	 */
 	private void testMainNoArgs()
 	{
 		String[] args = null;
 		Program.main(args);
+		
+		String[] args2 = {""};
+		Program.main(args2);
+		
+		String[] args3 = {};
+		Program.main(args3);
 	}
 	
 	/*
@@ -58,6 +65,15 @@ public class ProgramTest {
 		Program.main(args2);
 		args2[0] = "--config";
 		Program.main(args2);
+	}
+	
+	private void testMainConfigFile()
+	{
+		/*Test invalid config file path */
+		String[] args = {"-c", "./TestFiles/testWrongLoginConfig.txt"};
+		Program.main(args);
+		args[0] = "--config";
+		Program.main(args);
 	}
 	
 	@Test(expected=Exception.class)

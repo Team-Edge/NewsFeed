@@ -89,14 +89,19 @@ public class SourceFeedEntry {
 			this.text = this.description;
 		}
 		
-		 Pattern p = Pattern.compile("<img src=\"(\\S+)\"(\\p{ASCII})*/>");
-		 Matcher m = p.matcher(this.text);
-		 if (m.find()) {
-			 this.imgURL = m.group(1);
-		 }
-		 else {
-			 this.imgURL = "";
-		 }
+		try{
+			 Pattern p = Pattern.compile("<img src=\"(\\S+)\"(\\p{ASCII})*/>");
+			 Matcher m = p.matcher(this.text);
+			 if (m.find()) {
+				 this.imgURL = m.group(1);
+			 }
+			 else {
+			 	this.imgURL = "";
+		 	}
+		} catch (NullPointerException e)
+		{
+			System.out.println(e);
+		}
 	}
 
 	/**
