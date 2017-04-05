@@ -12,6 +12,7 @@ import feedUtils.FeedEnlarger;
  * data container for a entry of a feed 
  */
 public class SourceFeedEntry {
+	private int ID;
 	private String title;
 	private String description;
 	private Date pubDate;
@@ -20,7 +21,7 @@ public class SourceFeedEntry {
 	private String imgURL;
 	
 	/**
-	 * manual constructor
+	 * manual constructor for new SourceFeedEntries that are not in DB yet
 	 * 
 	 * @param title			String containing the entry's title
 	 * @param description	String containing the entry's description
@@ -30,6 +31,22 @@ public class SourceFeedEntry {
 	 * @param imgURL		URL pointing to an image belonging to the entry
 	 */
 	public SourceFeedEntry(String title, String description, Date pubDate, String text, String URL, String imgURL) {
+		this(0, title, description, pubDate, text, URL, imgURL);
+	}
+	
+	/**
+	 * manual constructor for SourceFeedEntries
+	 * 
+	 * @param id			ID number. Use 0 for entries that are not in database yet
+	 * @param title			String containing the entry's title
+	 * @param description	String containing the entry's description
+	 * @param pubDate		Date of publication or last update
+	 * @param text			String containing the full text of the entry
+	 * @param URL			URL pointing to the original entry
+	 * @param imgURL		URL pointing to an image belonging to the entry
+	 */
+	public SourceFeedEntry(int id, String title, String description, Date pubDate, String text, String URL, String imgURL) {
+		this.ID = id;
 		this.title = title;
 		this.description = description;
 		if(pubDate != null) {
@@ -48,6 +65,7 @@ public class SourceFeedEntry {
 	 * @param entry			SyndEntry containing data with which this entry will be created
 	 */
 	public SourceFeedEntry(SyndEntry entry) {
+		this.ID = 0;
 		try {
 			this.title = entry.getTitle().trim();
 		} catch (Exception e) {
@@ -104,6 +122,14 @@ public class SourceFeedEntry {
 		}
 	}
 
+	/**
+	 * returns the ID of this SourceFeedEntry
+	 * @return the ID of this SourceFeedEntry or 0 if not set
+	 */
+	public int getID() {
+		return ID;
+	}
+	
 	/**
 	 * returns the full text of this SourceFeedEntry
 	 * @return the full text of this SourceFeedEntry

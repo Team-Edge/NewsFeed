@@ -37,7 +37,6 @@ public class QueryFilterURLs {
 			while(result.next()) {
 				ret.add(result.getInt(1));
 			}
-			wrapped.close();
 			return ret;	
 		} finally {
 			if(result!=null) {

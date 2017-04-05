@@ -99,7 +99,20 @@ public class Program {
 			case "Archiver":
 				ret.add(new Archiver());
 				break;
-				
+			case "FilterUpdate":	//filterupdate
+			case "Filterupdate":
+			case "filterupdate":
+				i++;
+				if(i >= args.length) {
+					throw new Exception("Missing filter ID for argument FilterUpdate");
+				}
+				try {
+					int id = Integer.parseUnsignedInt(args[i]);
+					ret.add(new FilterUpdate(id));
+				} catch (NumberFormatException e) {
+					throw new Exception("Filter ID has to be a positive Integer: " + args[i]);
+				}
+				break;
 			default: throw new Exception("Invalid Argument: " + args[i]);
 			}		
 		}
