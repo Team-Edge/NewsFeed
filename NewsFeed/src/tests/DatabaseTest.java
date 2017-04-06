@@ -81,6 +81,17 @@ public class DatabaseTest {
 	}
 	
 	@Test
+	public void testOrderClearFilterMatches()
+	{
+		try{
+			new OrderClearFilterMatches(null,-1);
+			fail("No Exception thrown where expected");
+		}catch(Exception e){
+			System.out.println(e);
+		}
+	}
+	
+	@Test
 	public void testOrderInsertCustomFeedEntry()
 	{
 		try{
@@ -107,6 +118,17 @@ public class DatabaseTest {
 	{
 		try{
 			new OrderRemoveSourceFeedEntry(null,null);
+			fail("No Exception thrown where expected");
+		}catch(Exception e){
+			System.out.println(e);
+		}
+	}
+	
+	@Test
+	public void testQueryEntriesToSource()
+	{
+		try{
+			new QueryEntriesToSource(null,-1);
 			fail("No Exception thrown where expected");
 		}catch(Exception e){
 			System.out.println(e);
@@ -228,19 +250,8 @@ public class DatabaseTest {
 			}catch(SQLException e){
 				System.out.println(e);
 			}
-			try{
-				s.getResult();
-				fail("No Exception thrown where expected");
-			}catch(Exception e){
-				System.out.println(e);
-			}
-			try{
-				s.close();
-				fail("No Exception thrown where expected");
-			}catch(Exception e){
-				System.out.println(e);
-			}
-			
+			assertNull(s.getResult());
+			s.close();
 			database.close();
 		}catch(Exception e)
 		{
