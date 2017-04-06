@@ -120,7 +120,7 @@ public class SourceFeedEntry {
 				 if(this.imgURL == "") {
 					 this.imgURL = m.group(1);
 				 }
-				 this.description = m.replaceAll(this.description);
+				 this.description = m.replaceAll("");
 			 }
 
 		} catch (NullPointerException e)
