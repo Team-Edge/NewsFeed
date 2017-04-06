@@ -7,6 +7,7 @@ import java.util.Calendar;
 import java.util.List;
 
 import database.DBconnection;
+import database.OrderClearFilterMatches;
 import database.OrderInsertCustomFeedEntry;
 import database.QueryEntriesToSource;
 import database.QueryFilterURLs;
@@ -17,7 +18,7 @@ import program.Configuration;
 import program.IApplicationJob;
 
 /**
- *
+ * Job that looks for matching SourceFeedEntries on a new filter
  */
 public class FilterUpdate implements IApplicationJob {
 	private int filterID;
@@ -30,7 +31,7 @@ public class FilterUpdate implements IApplicationJob {
 	}
 
 	/**
-	 * 
+	 * looks for matching SourceFeedEntries on a new filter
 	 * @see java.lang.Runnable#run()
 	 */
 	@Override
@@ -48,6 +49,7 @@ public class FilterUpdate implements IApplicationJob {
 				
 				List<Integer> feedIDs = new QueryFilterURLs(database, filterID).getSourceFeedIDs();
 				QueryFilterWords qry = new QueryFilterWords(database, filterID);
+				new OrderClearFilterMatches(database, filterID).execute();
 				qry.query();
 				for(int currentFeed : feedIDs) {
 					List<SourceFeedEntry> entries = new QueryEntriesToSource(database, currentFeed).getEntries();
@@ -119,4 +121,10 @@ public class FilterUpdate implements IApplicationJob {
 		return true;
 	}
 
+	
+	@Override
+	public String toString() {
+		return "FilterUpdate [filterID=" + filterID + "]";
+	}
+	
 }
