@@ -11,8 +11,6 @@ import java.sql.SQLException;
 
 /**
  * Class for wrapping and simplifying a jdbc database connection
- * 
- * @author Florian
  */
 public class DBconnection implements Closeable {
 	private String connectionString;

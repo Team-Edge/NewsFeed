@@ -25,6 +25,7 @@ public class FilterUpdate implements IApplicationJob {
 
 	/**
 	 * standard constructor
+	 * @param id ID of the filter that was created or updated
 	 */
 	public FilterUpdate(int id) {
 		this.filterID = id;

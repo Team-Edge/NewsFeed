@@ -1,6 +1,10 @@
+archiver
+configload
 database
 datatypes
 feedUtils
+filterUpdate
+helptextoutput
 newsCrawler
 program
 tests
