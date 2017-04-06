@@ -1,4 +1,4 @@
-package program;
+package filterUpdate;
 
 import java.io.IOException;
 import java.sql.SQLException;
@@ -13,6 +13,8 @@ import database.QueryFilterURLs;
 import database.QueryFilterWords;
 import datatypes.SourceFeedEntry;
 import feedUtils.TextSearch;
+import program.Configuration;
+import program.IApplicationJob;
 
 /**
  *
@@ -77,9 +79,14 @@ public class FilterUpdate implements IApplicationJob {
 					}
 				}
 					
+			} catch (SQLException e) {
+				cal = Calendar.getInstance();
+				System.err.println(sdf.format(cal.getTime()) + " : Executing query for filter data failed");
+				System.err.println(e.getMessage());
+				System.err.println();
 			} catch (Exception e) {
 				cal = Calendar.getInstance();
-				System.err.println(sdf.format(cal.getTime()) + " : Executing query failed");
+				System.err.println(sdf.format(cal.getTime()) + " : Unexpected error during FilterUpdate");
 				System.err.println(e.getMessage());
 				System.err.println();
 			}

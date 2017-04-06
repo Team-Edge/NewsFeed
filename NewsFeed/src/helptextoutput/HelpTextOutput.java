@@ -1,4 +1,6 @@
-package program;
+package helptextoutput;
+
+import program.IApplicationJob;
 
 /**
  * job for printing an application description to stdout

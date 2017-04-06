@@ -2,6 +2,11 @@ package tests;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
+
+import archiver.Archiver;
+import configload.ConfigLoad;
+import helptextoutput.HelpTextOutput;
+import newsCrawler.NewsCrawler;
 import program.*;
 
 public class ProgramTest {

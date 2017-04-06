@@ -112,10 +112,17 @@ public class SourceFeedEntry {
 			 Matcher m = p.matcher(this.text);
 			 if (m.find()) {
 				 this.imgURL = m.group(1);
+			 } else {
+				 this.imgURL = "";
 			 }
-			 else {
-			 	this.imgURL = "";
-		 	}
+			 m = p.matcher(this.description);
+			 if (m.find()) {
+				 if(this.imgURL == "") {
+					 this.imgURL = m.group(1);
+				 }
+				 this.description = m.replaceAll(this.description);
+			 }
+
 		} catch (NullPointerException e)
 		{
 			System.out.println(e);

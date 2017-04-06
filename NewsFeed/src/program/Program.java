@@ -6,6 +6,12 @@ import java.util.Calendar;
 import java.util.LinkedList;
 import java.util.List;
 
+import archiver.Archiver;
+import configload.ConfigLoad;
+import filterUpdate.FilterUpdate;
+import helptextoutput.HelpTextOutput;
+import newsCrawler.NewsCrawler;
+
 
 /**
  * static Program class containing the main() method
