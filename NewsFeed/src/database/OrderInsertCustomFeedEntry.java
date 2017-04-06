@@ -16,6 +16,7 @@ public class OrderInsertCustomFeedEntry {
 	 * @param sourceFeedEntryID	ID of the SourceFeedEntry that meets the filter's condition
 	 * @param FilterID			ID of the filter thats condition is met
 	 * @throws SQLException		if the connection to the database fails
+	 * @throws IllegalArgumentException	if database is null
 	 * @see SourceFeedEntry
 	 * @see DBconnection
 	 */

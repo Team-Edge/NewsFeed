@@ -2,7 +2,6 @@ package database;
 
 
 import java.io.Closeable;
-import java.io.IOException;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -21,8 +20,12 @@ public class SqlQuery implements Closeable {
 	 * @param database		DBconnection to the server
 	 * @param sql			SQL instruction string. May contain '?' characters that can be replaced later
 	 * @throws SQLException if the SQL String is malformed or the connection fails
+	 * @throws IllegalArgumentException	if database is null
 	 */
 	public SqlQuery(DBconnection database,  String sql) throws SQLException {
+		if(database == null) {
+			throw new IllegalArgumentException("Expected a DBconnection instead of null");
+		}
 		this.database = database;
 		this.stat = this.database.createStatement(sql);
 		this.queryResult = null;
@@ -73,7 +76,7 @@ public class SqlQuery implements Closeable {
 	 * Closes the ResultSet
 	 */
 	@Override
-	public void close() throws IOException {
+	public void close() {
 		try {
 			synchronized(database) {
 				this.queryResult.close();

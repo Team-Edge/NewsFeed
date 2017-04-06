@@ -23,6 +23,7 @@ public class QueryFilterWords {
 	 * @param database		DBconnection for the server to which the query will be sent
 	 * @param filterID		ID of the filter for that URLs are filtered
 	 * @throws SQLException	if the connection fails or parameters are malformed
+	 * @throws IllegalArgumentException	if database is null
 	 * @see DBconnection
 	 */
 	public QueryFilterWords(DBconnection database, int filterID) throws SQLException {

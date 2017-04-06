@@ -19,6 +19,7 @@ public class OrderInsertSourceFeedEntry {
 	 * @param entry			the SourceFeedEntry that will be added
 	 * @param sourceFeedID	the ID of the SourceFeed to which the entry belongs 
 	 * @throws SQLException	if the connection fails or parameters are malformed
+	 * @throws IllegalArgumentException	if database is null
 	 * @see SourceFeedEntry
 	 * @see DBconnection
 	 */

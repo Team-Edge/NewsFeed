@@ -40,7 +40,7 @@ public class DatabaseTest {
 			{
 				System.out.println(e);
 			}
-			database.close();
+			//database.close();
 			p = database.createStatement("SELECT * FROM nodb");
 			try{
 				database.request(p);
@@ -61,11 +61,26 @@ public class DatabaseTest {
 			
 			database.close();
 			
+			try {
+				new QuerySourceFeeds(database);
+				fail("No Exception on closed DBconnection");
+			} catch(SQLException e)
+			{
+				System.out.println(e);
+			}
+			try {
+				new QuerySourceFeeds(null);
+				fail("No Exception on argument database=null");
+			} catch(IllegalArgumentException e)
+			{
+				System.out.println(e);
+			}
+			
 		}
 		catch(Exception e)
 		{
 			System.out.println(e);
-			fail("Exception was thrown");
+			fail("Exception was thrown: " + e.toString());
 		}
 	}
 	

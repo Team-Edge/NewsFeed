@@ -17,6 +17,7 @@ public class QueryFilterURLs {
 	 * @param database		DBconnection for the server to which the query will be sent
 	 * @param filterID		ID of the filter for that URLs are filtered
 	 * @throws SQLException	if the connection fails or parameters are malformed
+	 * @throws IllegalArgumentException	if database is null
 	 */
 	public QueryFilterURLs(DBconnection database, int filterID) throws SQLException {
 		this.wrapped = new SqlQuery(database, "SELECT SourceFeed_ID FROM Newsfeed.FilterURL WHERE Filter_ID = "+filterID+";");

@@ -16,6 +16,7 @@ public class QueryFilters {
 	 * 
 	 * @param database		DBconnection for the server to which the query will be sent
 	 * @throws SQLException	if the connection fails or parameters are malformed
+	 * @throws IllegalArgumentException	if database is null
 	 * @see DBconnection
 	 */
 	public QueryFilters(DBconnection database) throws SQLException {

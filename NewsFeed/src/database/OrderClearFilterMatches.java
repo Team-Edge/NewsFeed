@@ -15,6 +15,7 @@ public class OrderClearFilterMatches {
 	 * @param database			DBconnection for the server to which the instruction will be sent
 	 * @param FilterID			ID of the filter thats condition is met
 	 * @throws SQLException		if the connection to the database fails
+	 * @throws IllegalArgumentException	if database is null
 	 * @see SourceFeedEntry
 	 * @see DBconnection
 	 */

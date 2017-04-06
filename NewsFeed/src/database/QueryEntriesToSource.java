@@ -19,6 +19,7 @@ public class QueryEntriesToSource {
 	 * @param database		DBconnection for the server to which the query will be sent
 	 * @param filterID		ID of the filter for that URLs are filtered
 	 * @throws SQLException	if the connection fails or parameters are malformed
+	 * @throws IllegalArgumentException	if database is null
 	 */
 	public QueryEntriesToSource(DBconnection database, int sourceID) throws SQLException {
 		String sql = "SELECT ID, Title, Description, Img_URL, PubDate, URL, Text FROM Newsfeed.SourceFeedEntry "

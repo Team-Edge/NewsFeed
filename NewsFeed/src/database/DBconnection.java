@@ -19,6 +19,7 @@ public class DBconnection implements Closeable {
 	private String username;
 	private String password;	
 	private Connection con;
+	private boolean closed;
 	
 	/**
 	 * standard constructor, tries establish a connection to the server automatically
@@ -32,6 +33,7 @@ public class DBconnection implements Closeable {
 		this.connectionString = connectionString;
 		this.username = username;
 		this.password = password;
+		this.closed = false;
 		try {
 			this.con = DriverManager.getConnection(connectionString, username, password);
 		} catch (SQLException e) {
@@ -46,8 +48,11 @@ public class DBconnection implements Closeable {
 	 * @throws SQLException	if the refresh failed
 	 */
 	private void refreshConnection() throws SQLException {
+		if(this.closed == true) {
+			throw new SQLException("Connection has already been closed manually");
+		}
 		try {
-			con.close();
+			this.con.close();
 		} catch (SQLException e) {}
 		try {
 			this.con = DriverManager.getConnection(connectionString, username, password);
@@ -129,6 +134,7 @@ public class DBconnection implements Closeable {
 	 */
 	@Override
 	public void close() throws IOException {
+		this.closed = true;
 		try {
 			this.con.close();
 		} catch (SQLException e) {

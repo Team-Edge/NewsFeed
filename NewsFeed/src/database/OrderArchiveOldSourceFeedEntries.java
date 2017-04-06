@@ -14,6 +14,7 @@ public class OrderArchiveOldSourceFeedEntries {
 	 * 
 	 * @param database		DBconnection for the server to which the instruction will be sent
 	 * @throws SQLException	if the connection fails or parameters are malformed
+	 * @throws IllegalArgumentException	if database is null
 	 * @see SourceFeedEntry
 	 * @see DBconnection
 	 */
