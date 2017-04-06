@@ -6,6 +6,12 @@ import java.util.Calendar;
 import java.util.LinkedList;
 import java.util.List;
 
+import archiver.Archiver;
+import configload.ConfigLoad;
+import filterUpdate.FilterUpdate;
+import helptextoutput.HelpTextOutput;
+import newsCrawler.NewsCrawler;
+
 
 /**
  * static Program class containing the main() method
@@ -99,7 +105,20 @@ public class Program {
 			case "Archiver":
 				ret.add(new Archiver());
 				break;
-				
+			case "FilterUpdate":	//filterupdate
+			case "Filterupdate":
+			case "filterupdate":
+				i++;
+				if(i >= args.length) {
+					throw new Exception("Missing filter ID for argument FilterUpdate");
+				}
+				try {
+					int id = Integer.parseUnsignedInt(args[i]);
+					ret.add(new FilterUpdate(id));
+				} catch (NumberFormatException e) {
+					throw new Exception("Filter ID has to be a positive Integer: " + args[i]);
+				}
+				break;
 			default: throw new Exception("Invalid Argument: " + args[i]);
 			}		
 		}

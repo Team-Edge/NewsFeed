@@ -3,7 +3,7 @@ package program;
 /**
  * interface for jobs that the program has to perform
  */
-interface IApplicationJob extends Runnable {
+public interface IApplicationJob extends Runnable {
 
 	/**
 	 * indicates if the job needs a connection to the database while running

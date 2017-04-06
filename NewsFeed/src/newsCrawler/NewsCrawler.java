@@ -1,4 +1,4 @@
-package program;
+package newsCrawler;
 
 import java.io.IOException;
 import java.sql.SQLException;
@@ -9,7 +9,8 @@ import java.util.List;
 import database.DBconnection;
 import database.QuerySourceFeeds;
 import datatypes.SourceFeed;
-import newsCrawler.NewsCrawlerUpdate;
+import program.Configuration;
+import program.IApplicationJob;
 
 /**
  * job for finding new entries to extern feeds and adding them to the database

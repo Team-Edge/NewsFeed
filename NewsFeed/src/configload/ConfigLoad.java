@@ -1,4 +1,7 @@
-package program;
+package configload;
+
+import program.Configuration;
+import program.IApplicationJob;
 
 /**
  * job for loading configuration from a file

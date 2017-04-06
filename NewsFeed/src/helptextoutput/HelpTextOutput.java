@@ -1,4 +1,6 @@
-package program;
+package helptextoutput;
+
+import program.IApplicationJob;
 
 /**
  * job for printing an application description to stdout
@@ -30,7 +32,16 @@ public class HelpTextOutput implements IApplicationJob {
 		System.out.println("newscrawler");
 		System.out.println("Newscrawler");
 		System.out.println("NewsCrawler");
-		System.out.println("Run newscrawler");
+		System.out.println("Run newscrawler service and search for new entries");
+		System.out.println();
+		System.out.println("archiver");
+		System.out.println("Archiver");
+		System.out.println("Move old SourceFeedEntries to archive (for performance reasons)");
+		System.out.println();
+		System.out.println("filterupdate [filterID]");
+		System.out.println("Filterupdate [filterID]");
+		System.out.println("FilterUpdate [filterID]");
+		System.out.println("Call this after creating or updating a profile filter. Detects matches again for existing entries. ");
 		System.out.println();
 	}
 

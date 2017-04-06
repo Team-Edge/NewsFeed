@@ -1,4 +1,4 @@
-package program;
+package archiver;
 
 import java.io.IOException;
 import java.sql.SQLException;
@@ -6,6 +6,8 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import database.DBconnection;
 import database.OrderArchiveOldSourceFeedEntries;
+import program.Configuration;
+import program.IApplicationJob;
 
 /**
  * job for archiving obsolete SourceFeedEntries
