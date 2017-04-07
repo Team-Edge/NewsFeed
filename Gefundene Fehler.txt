@@ -1,3 +1,0 @@
-Datenbankconnection mit close() geschlossen: Ausführung von SQLStatements immer noch möglich, wegen refreshConnection()-Methode
-Order- und Query-Methoden: unhandled NullPointerException
-SQLQuery: close()-Methode kann keine Exception werfen
