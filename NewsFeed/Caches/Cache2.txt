@@ -21,16 +21,16 @@
 		
 		<atom:link href="http://rss.focus.de/" rel="self" type="application/rss+xml" />
 		<item>
-						<title>FC Bayern München gegen FC Augsburg live - Aktueller Spielstand 0:0</title>
-						<link>http://www.focus.de/sport/fussball/bundesliga1/fc-bayern-muenchen-gegen-fc-augsburg-live-aktueller-spielstand-0-0_id_6871170.html</link>
+						<title>VfL Wolfsburg gegen FC Bayern München live - Aktueller Spielstand 0:3</title>
+						<link>http://www.focus.de/sport/fussball/bundesliga1/vfl-wolfsburg-gegen-fc-bayern-muenchen-live-aktueller-spielstand-0-0_id_7052074.html</link>
 						<description>
 							
 
 </description>
 						<category domain="">Bundesliga</category>
 						<pubDate>
-							Sat, 01 Apr 2017 15:47:19 +0200</pubDate>
-						<guid isPermaLink="false">aid_6871170</guid>
+							Sat, 29 Apr 2017 19:25:05 +0200</pubDate>
+						<guid isPermaLink="false">aid_7052074</guid>
 						<author>FOCUS Ticker/DPA</author>
 						<content:encoded>
 							<![CDATA[
@@ -43,20 +43,41 @@
 							
 
 </media:description>
-						<media:title>FC Bayern München gegen FC Augsburg live - Aktueller Spielstand 0:0</media:title>
-						<media:player url="http://www.focus.de/sport/fussball/bundesliga1/fc-bayern-muenchen-gegen-fc-augsburg-live-aktueller-spielstand-0-0_id_6871170.html" width="990" height="600" />
+						<media:title>VfL Wolfsburg gegen FC Bayern München live - Aktueller Spielstand 0:3</media:title>
+						<media:player url="http://www.focus.de/sport/fussball/bundesliga1/vfl-wolfsburg-gegen-fc-bayern-muenchen-live-aktueller-spielstand-0-0_id_7052074.html" width="990" height="600" />
 						</item>
 			<item>
-						<title>Hamburger SV gegen 1. FC Köln live - Aktueller Spielstand 1:0</title>
-						<link>http://www.focus.de/sport/fussball/bundesliga1/hamburger-sv-gegen-1-fc-koeln-live-aktueller-spielstand-0-0_id_6871174.html</link>
+						<title>Klitschko gegen Joshua im Live-Ticker - Klitschko will den Thron zurück - Joshua setzt auf Wembley</title>
+						<link>http://www.focus.de/sport/boxen/klitschko-gegen-joshua-im-live-ticker-klitschko-will-mit-41-zurueck-auf-den-thron-joshua-setzt-auf-heimsieg_id_7052206.html</link>
+						<description>
+							Die Schwergewichts-WM um die IBF- und WBA-Titel zwischen Weltmeister Anthony Joshua und Wladimir Klitschko ist ein Fight der Superlative. Im mit 90.000 Zuschauern ausverkauften Londoner Wembley-Stadion purzeln die Rekorde. Der Kampf im Live-Ticker von FOCUS Online. </description>
+						<category domain="">Boxen</category>
+						<pubDate>
+							Sat, 29 Apr 2017 19:25:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_7052206</guid>
+						<author>mit dpa</author>
+						<content:encoded>
+							<![CDATA[<img src="" />
+								Die Schwergewichts-WM um die IBF- und WBA-Titel zwischen Weltmeister Anthony Joshua und Wladimir Klitschko ist ein Fight der Superlative. Im mit 90.000 Zuschauern ausverkauften Londoner Wembley-Stadion purzeln die Rekorde. Der Kampf im Live-Ticker von FOCUS Online. ]]></content:encoded>
+						<media:category>news</media:category>
+						
+						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
+						<media:description type="plain">
+							Die Schwergewichts-WM um die IBF- und WBA-Titel zwischen Weltmeister Anthony Joshua und Wladimir Klitschko ist ein Fight der Superlative. Im mit 90.000 Zuschauern ausverkauften Londoner Wembley-Stadion purzeln die Rekorde. Der Kampf im Live-Ticker von FOCUS Online. </media:description>
+						<media:title>Klitschko gegen Joshua im Live-Ticker - Klitschko will den Thron zurück - Joshua setzt auf Wembley</media:title>
+						<media:player url="http://www.focus.de/sport/boxen/klitschko-gegen-joshua-im-live-ticker-klitschko-will-mit-41-zurueck-auf-den-thron-joshua-setzt-auf-heimsieg_id_7052206.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Premiere League - Crystal Palace gegen Burnley live - 0:1</title>
+						<link>http://www.focus.de/sport/fussball/premierleague/premiere-league-crystal-palace-gegen-burnley-live-0-0_id_7052075.html</link>
 						<description>
 							
 
 </description>
-						<category domain="">Bundesliga</category>
+						<category domain="">Premier League</category>
 						<pubDate>
-							Sat, 01 Apr 2017 15:47:18 +0200</pubDate>
-						<guid isPermaLink="false">aid_6871174</guid>
+							Sat, 29 Apr 2017 19:24:57 +0200</pubDate>
+						<guid isPermaLink="false">aid_7052075</guid>
 						<author>FOCUS Ticker/DPA</author>
 						<content:encoded>
 							<![CDATA[
@@ -69,20 +90,62 @@
 							
 
 </media:description>
-						<media:title>Hamburger SV gegen 1. FC Köln live - Aktueller Spielstand 1:0</media:title>
-						<media:player url="http://www.focus.de/sport/fussball/bundesliga1/hamburger-sv-gegen-1-fc-koeln-live-aktueller-spielstand-0-0_id_6871174.html" width="990" height="600" />
+						<media:title>Premiere League - Crystal Palace gegen Burnley live - 0:1</media:title>
+						<media:player url="http://www.focus.de/sport/fussball/premierleague/premiere-league-crystal-palace-gegen-burnley-live-0-0_id_7052075.html" width="990" height="600" />
 						</item>
 			<item>
-						<title>Primera Division - FC Villarreal gegen SD Eibar live - 2:3</title>
-						<link>http://www.focus.de/sport/fussball/primeradivision/primera-division-fc-villarreal-gegen-sd-eibar-live-0-0_id_6870577.html</link>
+						<title>Klitschko gegen Joshua  - Schulz: Warum Wladimir mein Favorit ist</title>
+						<link>http://www.focus.de/sport/boxen/klitschko-vs-joshua-axel-schulz-warum-wladimir-mein-favorit-ist_id_7051545.html</link>
+						<description>
+							Wladimir Klitschko oder Anthony Joshua? Die Buchmacher setzen vor dem Mega-Fight auf den Weltmeister. Nicht so Axel Schulz: Einst selbst von Klitschko besiegt, erklärt Schulz im Gespräch mit FOCUS Online, warum für ihn der Herausforderer Favorit ist und wie der Ukrainer Joshua schlagen kann.Von FOCUS-Online-Redakteur Albert Linner</description>
+						<category domain="">Boxen</category>
+						<pubDate>
+							Sat, 29 Apr 2017 19:24:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_7051545</guid>
+						<author>Von FOCUS-Online-Redakteur Albert Linner</author>
+						<content:encoded>
+							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop7051568/2892618797-cv3_2-w120-q72-p4/schzlz.jpg" />
+								Wladimir Klitschko oder Anthony Joshua? Die Buchmacher setzen vor dem Mega-Fight auf den Weltmeister. Nicht so Axel Schulz: Einst selbst von Klitschko besiegt, erklärt Schulz im Gespräch mit FOCUS Online, warum für ihn der Herausforderer Favorit ist und wie der Ukrainer Joshua schlagen kann.Von FOCUS-Online-Redakteur Albert Linner]]></content:encoded>
+						<media:category>news</media:category>
+						
+						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
+						<media:description type="plain">
+							Wladimir Klitschko oder Anthony Joshua? Die Buchmacher setzen vor dem Mega-Fight auf den Weltmeister. Nicht so Axel Schulz: Einst selbst von Klitschko besiegt, erklärt Schulz im Gespräch mit FOCUS Online, warum für ihn der Herausforderer Favorit ist und wie der Ukrainer Joshua schlagen kann.Von FOCUS-Online-Redakteur Albert Linner</media:description>
+						<media:title>Klitschko gegen Joshua  - Schulz: Warum Wladimir mein Favorit ist</media:title>
+						<media:player url="http://www.focus.de/sport/boxen/klitschko-vs-joshua-axel-schulz-warum-wladimir-mein-favorit-ist_id_7051545.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Neues Dekret in der Türkei - Erdogan entlässt fast 4000 weitere Staatsbedienstete </title>
+						<link>http://www.focus.de/politik/ausland/neues-dekret-in-der-tuerkei-erdogan-entlaesst-fast-4000-weitere-staatsbedienstete_id_7052315.html</link>
+						<description>
+							Die türkische Regierung entlässt weitere fast 4000 Beamte. Das geht aus einem am Samstag veröffentlichten Dekret hervor.</description>
+						<category domain="">Ausland</category>
+						<pubDate>
+							Sat, 29 Apr 2017 19:21:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_7052315</guid>
+						<author>AFP/dpa</author>
+						<content:encoded>
+							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6988715/7532616194-cv3_2-w120-q72-p4/urn-newsml-dpa-com-20090101-170418-99-108171-large-4-3.jpg" />
+								Die türkische Regierung entlässt weitere fast 4000 Beamte. Das geht aus einem am Samstag veröffentlichten Dekret hervor.]]></content:encoded>
+						<media:category>news</media:category>
+						
+						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
+						<media:description type="plain">
+							Die türkische Regierung entlässt weitere fast 4000 Beamte. Das geht aus einem am Samstag veröffentlichten Dekret hervor.</media:description>
+						<media:title>Neues Dekret in der Türkei - Erdogan entlässt fast 4000 weitere Staatsbedienstete </media:title>
+						<media:player url="http://www.focus.de/politik/ausland/neues-dekret-in-der-tuerkei-erdogan-entlaesst-fast-4000-weitere-staatsbedienstete_id_7052315.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Primera Division - UD Las Palmas gegen Atletico Madrid live - 0:3</title>
+						<link>http://www.focus.de/sport/fussball/primeradivision/primera-division-ud-las-palmas-gegen-atletico-madrid-live-0-0_id_7052111.html</link>
 						<description>
 							
 
 </description>
 						<category domain="">Primera Division</category>
 						<pubDate>
-							Sat, 01 Apr 2017 15:47:11 +0200</pubDate>
-						<guid isPermaLink="false">aid_6870577</guid>
+							Sat, 29 Apr 2017 19:20:15 +0200</pubDate>
+						<guid isPermaLink="false">aid_7052111</guid>
 						<author>FOCUS Ticker/DPA</author>
 						<content:encoded>
 							<![CDATA[
@@ -95,172 +158,99 @@
 							
 
 </media:description>
-						<media:title>Primera Division - FC Villarreal gegen SD Eibar live - 2:3</media:title>
-						<media:player url="http://www.focus.de/sport/fussball/primeradivision/primera-division-fc-villarreal-gegen-sd-eibar-live-0-0_id_6870577.html" width="990" height="600" />
+						<media:title>Primera Division - UD Las Palmas gegen Atletico Madrid live - 0:3</media:title>
+						<media:player url="http://www.focus.de/sport/fussball/primeradivision/primera-division-ud-las-palmas-gegen-atletico-madrid-live-0-0_id_7052111.html" width="990" height="600" />
 						</item>
 			<item>
-						<title>SC Freiburg gegen Werder Bremen live - Aktueller Spielstand 0:0</title>
-						<link>http://www.focus.de/sport/fussball/bundesliga1/sc-freiburg-gegen-werder-bremen-live-aktueller-spielstand-0-0_id_6871172.html</link>
+						<title>VfL Wolfsburg - FC Bayern im Live-Ticker  - 0:3 - Lewandowski zum Zweiten, Bayern zieht davon</title>
+						<link>http://www.focus.de/sport/fussball/bundesliga1/vfl-wolfsburg-fc-bayern-live-bayern-kann-mit-leipziger-hilfe-schon-meister-werden_id_7051759.html</link>
 						<description>
-							
-
-</description>
+							RB Leipzig gewinnt nicht gegen Ingolstadt, deshalb kann der FC Bayern mit einem Sieg beim VfL Wolfsburg bereits Meister werden. Allerdings kommen die Münchner aus einer Negativserie - und Wolfsburg braucht jeden Punkt im Abstiegskampf. Das Spiel im Live-Ticker.</description>
 						<category domain="">Bundesliga</category>
 						<pubDate>
-							Sat, 01 Apr 2017 15:46:27 +0200</pubDate>
-						<guid isPermaLink="false">aid_6871172</guid>
-						<author>FOCUS Ticker/DPA</author>
-						<content:encoded>
-							<![CDATA[
-
-]]></content:encoded>
-						<media:category>news</media:category>
-						
-						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
-						<media:description type="plain">
-							
-
-</media:description>
-						<media:title>SC Freiburg gegen Werder Bremen live - Aktueller Spielstand 0:0</media:title>
-						<media:player url="http://www.focus.de/sport/fussball/bundesliga1/sc-freiburg-gegen-werder-bremen-live-aktueller-spielstand-0-0_id_6871172.html" width="990" height="600" />
-						</item>
-			<item>
-						<title>FC Schalke 04 gegen Borussia Dortmund live - Aktueller Spielstand 0:0</title>
-						<link>http://www.focus.de/sport/fussball/bundesliga1/fc-schalke-04-gegen-borussia-dortmund-live-aktueller-spielstand-0-0_id_6871171.html</link>
-						<description>
-							
-
-</description>
-						<category domain="">Bundesliga</category>
-						<pubDate>
-							Sat, 01 Apr 2017 15:46:27 +0200</pubDate>
-						<guid isPermaLink="false">aid_6871171</guid>
-						<author>FOCUS Ticker/DPA</author>
-						<content:encoded>
-							<![CDATA[
-
-]]></content:encoded>
-						<media:category>news</media:category>
-						
-						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
-						<media:description type="plain">
-							
-
-</media:description>
-						<media:title>FC Schalke 04 gegen Borussia Dortmund live - Aktueller Spielstand 0:0</media:title>
-						<media:player url="http://www.focus.de/sport/fussball/bundesliga1/fc-schalke-04-gegen-borussia-dortmund-live-aktueller-spielstand-0-0_id_6871171.html" width="990" height="600" />
-						</item>
-			<item>
-						<title>+++ VIP-News +++ - &#034;Let&#039;s Dance&#034;: Zuschauer schmeißen Bastiaan Ragas raus</title>
-						<link>http://www.focus.de/kultur/vermischtes/vip-news-lets-dance-zuschauer-schmeissen-bastiaan-ragas-raus_id_6871553.html</link>
-						<description>
-							Die Welt der Promis hautnah erleben: Von Schauspieler bis royaler Adel, von Sänger bis Profi-Sportler. FOCUS Online präsentiert die aktuellen Nachrichten und exklusive Storys aus der Welt der Stars im Ticker.</description>
-						<category domain="">Star-News</category>
-						<pubDate>
-							Sat, 01 Apr 2017 15:46:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6871553</guid>
-						<author>SpotOn</author>
-						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6870810/535261883-cv3_2-w120-q72-p4/urn-newsml-dpa-com-20090101-170401-99-901463-large-4-3.jpg" />
-								Die Welt der Promis hautnah erleben: Von Schauspieler bis royaler Adel, von Sänger bis Profi-Sportler. FOCUS Online präsentiert die aktuellen Nachrichten und exklusive Storys aus der Welt der Stars im Ticker.]]></content:encoded>
-						<media:category>news</media:category>
-						
-						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
-						<media:description type="plain">
-							Die Welt der Promis hautnah erleben: Von Schauspieler bis royaler Adel, von Sänger bis Profi-Sportler. FOCUS Online präsentiert die aktuellen Nachrichten und exklusive Storys aus der Welt der Stars im Ticker.</media:description>
-						<media:title>+++ VIP-News +++ - &#034;Let&#039;s Dance&#034;: Zuschauer schmeißen Bastiaan Ragas raus</media:title>
-						<media:player url="http://www.focus.de/kultur/vermischtes/vip-news-lets-dance-zuschauer-schmeissen-bastiaan-ragas-raus_id_6871553.html" width="990" height="600" />
-						</item>
-			<item>
-						<title>RasenBallsport Leipzig gegen SV Darmstadt 98 live - Aktueller Spielstand 1:0</title>
-						<link>http://www.focus.de/sport/fussball/bundesliga1/rasenballsport-leipzig-gegen-sv-darmstadt-98-live-aktueller-spielstand-0-0_id_6871173.html</link>
-						<description>
-							
-
-</description>
-						<category domain="">Bundesliga</category>
-						<pubDate>
-							Sat, 01 Apr 2017 15:45:08 +0200</pubDate>
-						<guid isPermaLink="false">aid_6871173</guid>
-						<author>FOCUS Ticker/DPA</author>
-						<content:encoded>
-							<![CDATA[
-
-]]></content:encoded>
-						<media:category>news</media:category>
-						
-						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
-						<media:description type="plain">
-							
-
-</media:description>
-						<media:title>RasenBallsport Leipzig gegen SV Darmstadt 98 live - Aktueller Spielstand 1:0</media:title>
-						<media:player url="http://www.focus.de/sport/fussball/bundesliga1/rasenballsport-leipzig-gegen-sv-darmstadt-98-live-aktueller-spielstand-0-0_id_6871173.html" width="990" height="600" />
-						</item>
-			<item>
-						<title>+++ Bundestagswahl im News-Ticker +++ - Gerhard Schröder glaubt nicht an Koalition mit den Linken </title>
-						<link>http://www.focus.de/politik/deutschland/bundestagswahl_2017/bundestagswahl-im-news-ticker-gerhard-schroeder-glaubt-nicht-an-koalition-mit-den-linken_id_6871587.html</link>
-						<description>
-							Am 24. September wird in Deutschland der Bundestag gewählt. Der Wahlkampf ist bereits in vollem Gange: Die SPD geht mit Martin Schulz in die Offensive gegen die Union, die erneut Angela Merkel als Kanzlerkandidatin stellt. Die Grünen wollen mit einem Realo-Duo punkten, die FDP hofft auf einen Wiedereinzug ins Parlament. Alle Informationen zur Bundestagswahl 2017 im News-Ticker von FOCUS Online.</description>
-						<category domain="">Bundestagswahl 2017</category>
-						<pubDate>
-							Sat, 01 Apr 2017 15:44:38 +0200</pubDate>
-						<guid isPermaLink="false">aid_6871587</guid>
-						<author>dpa</author>
-						<content:encoded>
-							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6869935/8422616882-cv3_2-w120-q72-p4/urn-newsml-dpa-com-20090101-170401-99-900141-large-4-3.jpg" />
-								Am 24. September wird in Deutschland der Bundestag gewählt. Der Wahlkampf ist bereits in vollem Gange: Die SPD geht mit Martin Schulz in die Offensive gegen die Union, die erneut Angela Merkel als Kanzlerkandidatin stellt. Die Grünen wollen mit einem Realo-Duo punkten, die FDP hofft auf einen Wiedereinzug ins Parlament. Alle Informationen zur Bundestagswahl 2017 im News-Ticker von FOCUS Online.]]></content:encoded>
-						<media:category>news</media:category>
-						
-						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
-						<media:description type="plain">
-							Am 24. September wird in Deutschland der Bundestag gewählt. Der Wahlkampf ist bereits in vollem Gange: Die SPD geht mit Martin Schulz in die Offensive gegen die Union, die erneut Angela Merkel als Kanzlerkandidatin stellt. Die Grünen wollen mit einem Realo-Duo punkten, die FDP hofft auf einen Wiedereinzug ins Parlament. Alle Informationen zur Bundestagswahl 2017 im News-Ticker von FOCUS Online.</media:description>
-						<media:title>+++ Bundestagswahl im News-Ticker +++ - Gerhard Schröder glaubt nicht an Koalition mit den Linken </media:title>
-						<media:player url="http://www.focus.de/politik/deutschland/bundestagswahl_2017/bundestagswahl-im-news-ticker-gerhard-schroeder-glaubt-nicht-an-koalition-mit-den-linken_id_6871587.html" width="990" height="600" />
-						</item>
-			<item>
-						<title>Bundesliga-Konferenz im Live-Ticker - 0:0 - Bayern startet gegen abstiegsbedrohte Augsburger</title>
-						<link>http://www.focus.de/sport/fussball/bundesliga1/bundesliga-konferenz-im-live-ticker-fc-bayern-gegen-augsburg-hamburg-gegen-koeln-leipzig-gegen-darmstadt_id_6871215.html</link>
-						<description>
-							Derbyzeit in Bayern. Die Münchner empfangen abstiegsgefährdete Augsburger - bei bestem Biergarten-Wetter. Hamburg muss gegen Köln liefern, um den Relegationsplatz zu verlassen und Leipzig bekommt es mit unangenehmen Darmstädtern zu tun. Alle Infos im Live-Ticker.</description>
-						<category domain="">Bundesliga</category>
-						<pubDate>
-							Sat, 01 Apr 2017 15:44:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6871215</guid>
+							Sat, 29 Apr 2017 19:17:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_7051759</guid>
 						<author>mit dpa</author>
 						<content:encoded>
 							<![CDATA[<img src="" />
-								Derbyzeit in Bayern. Die Münchner empfangen abstiegsgefährdete Augsburger - bei bestem Biergarten-Wetter. Hamburg muss gegen Köln liefern, um den Relegationsplatz zu verlassen und Leipzig bekommt es mit unangenehmen Darmstädtern zu tun. Alle Infos im Live-Ticker.]]></content:encoded>
+								RB Leipzig gewinnt nicht gegen Ingolstadt, deshalb kann der FC Bayern mit einem Sieg beim VfL Wolfsburg bereits Meister werden. Allerdings kommen die Münchner aus einer Negativserie - und Wolfsburg braucht jeden Punkt im Abstiegskampf. Das Spiel im Live-Ticker.]]></content:encoded>
 						<media:category>news</media:category>
 						
 						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
 						<media:description type="plain">
-							Derbyzeit in Bayern. Die Münchner empfangen abstiegsgefährdete Augsburger - bei bestem Biergarten-Wetter. Hamburg muss gegen Köln liefern, um den Relegationsplatz zu verlassen und Leipzig bekommt es mit unangenehmen Darmstädtern zu tun. Alle Infos im Live-Ticker.</media:description>
-						<media:title>Bundesliga-Konferenz im Live-Ticker - 0:0 - Bayern startet gegen abstiegsbedrohte Augsburger</media:title>
-						<media:player url="http://www.focus.de/sport/fussball/bundesliga1/bundesliga-konferenz-im-live-ticker-fc-bayern-gegen-augsburg-hamburg-gegen-koeln-leipzig-gegen-darmstadt_id_6871215.html" width="990" height="600" />
+							RB Leipzig gewinnt nicht gegen Ingolstadt, deshalb kann der FC Bayern mit einem Sieg beim VfL Wolfsburg bereits Meister werden. Allerdings kommen die Münchner aus einer Negativserie - und Wolfsburg braucht jeden Punkt im Abstiegskampf. Das Spiel im Live-Ticker.</media:description>
+						<media:title>VfL Wolfsburg - FC Bayern im Live-Ticker  - 0:3 - Lewandowski zum Zweiten, Bayern zieht davon</media:title>
+						<media:player url="http://www.focus.de/sport/fussball/bundesliga1/vfl-wolfsburg-fc-bayern-live-bayern-kann-mit-leipziger-hilfe-schon-meister-werden_id_7051759.html" width="990" height="600" />
 						</item>
 			<item>
-						<title>Schalke 04 gegen BVB im Live-Ticker - 0:0 - Dortmund startet stürmisch ins Revier-Derby</title>
-						<link>http://www.focus.de/sport/fussball/bundesliga1/bundesliga-fc-schalke-04-gegen-bvb-im-live-ticker_id_6870838.html</link>
+						<title>Primera Division - Real Madrid gegen FC Valencia live - 2:1</title>
+						<link>http://www.focus.de/sport/fussball/primeradivision/primera-division-real-madrid-gegen-fc-valencia-live-0-0_id_7051797.html</link>
 						<description>
-							Sowohl Schalke 04 als auch Borussia Dortmund haben in der Bundesliga in dieser Saison noch etwas gutzumachen. Vor allem die Gastgeber stehen beim 150. Pflichtspielderby unter Druck. Wenn sich diese beiden treffen, knallt es aber ohnehin immer im Kessel.</description>
-						<category domain="">Bundesliga</category>
+							
+
+</description>
+						<category domain="">Primera Division</category>
 						<pubDate>
-							Sat, 01 Apr 2017 15:42:00 +0200</pubDate>
-						<guid isPermaLink="false">aid_6870838</guid>
-						<author>mit dpa</author>
+							Sat, 29 Apr 2017 19:12:01 +0200</pubDate>
+						<guid isPermaLink="false">aid_7051797</guid>
+						<author>FOCUS Ticker/DPA</author>
 						<content:encoded>
-							<![CDATA[<img src="" />
-								Sowohl Schalke 04 als auch Borussia Dortmund haben in der Bundesliga in dieser Saison noch etwas gutzumachen. Vor allem die Gastgeber stehen beim 150. Pflichtspielderby unter Druck. Wenn sich diese beiden treffen, knallt es aber ohnehin immer im Kessel.]]></content:encoded>
+							<![CDATA[
+
+]]></content:encoded>
 						<media:category>news</media:category>
 						
 						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
 						<media:description type="plain">
-							Sowohl Schalke 04 als auch Borussia Dortmund haben in der Bundesliga in dieser Saison noch etwas gutzumachen. Vor allem die Gastgeber stehen beim 150. Pflichtspielderby unter Druck. Wenn sich diese beiden treffen, knallt es aber ohnehin immer im Kessel.</media:description>
-						<media:title>Schalke 04 gegen BVB im Live-Ticker - 0:0 - Dortmund startet stürmisch ins Revier-Derby</media:title>
-						<media:player url="http://www.focus.de/sport/fussball/bundesliga1/bundesliga-fc-schalke-04-gegen-bvb-im-live-ticker_id_6870838.html" width="990" height="600" />
+							
+
+</media:description>
+						<media:title>Primera Division - Real Madrid gegen FC Valencia live - 2:1</media:title>
+						<media:player url="http://www.focus.de/sport/fussball/primeradivision/primera-division-real-madrid-gegen-fc-valencia-live-0-0_id_7051797.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Anschlag auf BVB-Bus - Wie ein Informationsleck den GSG-9-Einsatz gegen Sergej W. in Gefahr brachte</title>
+						<link>http://www.focus.de/politik/deutschland/anschlag-auf-bvb-bus-wie-das-bka-den-gsg-9-einsatz-gegen-sergej-w-in-gefahr-brachte_id_7051313.html</link>
+						<description>
+							Holger Münch, 55, Präsident des Bundeskriminalamts (BKA), war stolz auf seine Leute. In der Telefonschaltkonferenz, angeschlossen waren alle Landeskriminalämter, lobte er die schnelle Festnahme des 28-jährigen Sergej. W., der am 11. April den Sprengstoffanschlag auf den Mannschaftsbus von Borussia Dortmund verübt haben soll.Von Focus Magazin-Redakteur Axel Spilcker, Focus Magazin-Josef Hufelschulte</description>
+						<category domain="">Deutschland</category>
+						<pubDate>
+							Sat, 29 Apr 2017 19:02:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_7051313</guid>
+						<author>Von Focus Magazin-Redakteur Axel Spilcker, Focus Magazin-Josef Hufelschulte</author>
+						<content:encoded>
+							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop6999071/9592613099-cv3_2-w120-q72-p4/die-dortmund-profis-nach-dem-anschlag-auf-den-teambus.jpg" />
+								Holger Münch, 55, Präsident des Bundeskriminalamts (BKA), war stolz auf seine Leute. In der Telefonschaltkonferenz, angeschlossen waren alle Landeskriminalämter, lobte er die schnelle Festnahme des 28-jährigen Sergej. W., der am 11. April den Sprengstoffanschlag auf den Mannschaftsbus von Borussia Dortmund verübt haben soll.Von Focus Magazin-Redakteur Axel Spilcker, Focus Magazin-Josef Hufelschulte]]></content:encoded>
+						<media:category>news</media:category>
+						
+						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
+						<media:description type="plain">
+							Holger Münch, 55, Präsident des Bundeskriminalamts (BKA), war stolz auf seine Leute. In der Telefonschaltkonferenz, angeschlossen waren alle Landeskriminalämter, lobte er die schnelle Festnahme des 28-jährigen Sergej. W., der am 11. April den Sprengstoffanschlag auf den Mannschaftsbus von Borussia Dortmund verübt haben soll.Von Focus Magazin-Redakteur Axel Spilcker, Focus Magazin-Josef Hufelschulte</media:description>
+						<media:title>Anschlag auf BVB-Bus - Wie ein Informationsleck den GSG-9-Einsatz gegen Sergej W. in Gefahr brachte</media:title>
+						<media:player url="http://www.focus.de/politik/deutschland/anschlag-auf-bvb-bus-wie-das-bka-den-gsg-9-einsatz-gegen-sergej-w-in-gefahr-brachte_id_7051313.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Lust durch Atemreduktion - Einer ihrer Kunden starb bei SM-Unfall: „Todes-Domina&#034; erzählt, wie es dazu kam</title>
+						<link>http://www.focus.de/gesundheit/ratgeber/sexualitaet/erotik/lust-durch-atemreduktion-todesdomina-erzaehlt-ich-hatte-ein-ungutes-gefuehl-im-magen-aber-der-kunde-ist-koenig_id_7049265.html</link>
+						<description>
+							Pamela Fuchs ist ehemalige Sexarbeiterin aus Wien. Sie unterstützte einen Freier bei einem Spiel mit tödlichem Ausgang. Für FOCUS Online schreibt die „Todesdomina“ über ihren schwierigen Lebensweg.Von FOCUS-Online-Gastautorin Pamela  Fuchs</description>
+						<category domain="">Liebe &amp; Erotik</category>
+						<pubDate>
+							Sat, 29 Apr 2017 18:48:14 +0200</pubDate>
+						<guid isPermaLink="false">aid_7049265</guid>
+						<author>Von FOCUS-Online-Gastautorin Pamela  Fuchs</author>
+						<content:encoded>
+							<![CDATA[<img src="http://p5.focus.de/img/fotos/crop7049292/302261156-cv3_2-w120-q72-p4/a-gha-3315-pamela-domina-studio-couch.jpg" />
+								Pamela Fuchs ist ehemalige Sexarbeiterin aus Wien. Sie unterstützte einen Freier bei einem Spiel mit tödlichem Ausgang. Für FOCUS Online schreibt die „Todesdomina“ über ihren schwierigen Lebensweg.Von FOCUS-Online-Gastautorin Pamela  Fuchs]]></content:encoded>
+						<media:category>news</media:category>
+						
+						<media:copyright>(C) FOCUS Online 1996-2017</media:copyright>						
+						<media:description type="plain">
+							Pamela Fuchs ist ehemalige Sexarbeiterin aus Wien. Sie unterstützte einen Freier bei einem Spiel mit tödlichem Ausgang. Für FOCUS Online schreibt die „Todesdomina“ über ihren schwierigen Lebensweg.Von FOCUS-Online-Gastautorin Pamela  Fuchs</media:description>
+						<media:title>Lust durch Atemreduktion - Einer ihrer Kunden starb bei SM-Unfall: „Todes-Domina&#034; erzählt, wie es dazu kam</media:title>
+						<media:player url="http://www.focus.de/gesundheit/ratgeber/sexualitaet/erotik/lust-durch-atemreduktion-todesdomina-erzaehlt-ich-hatte-ein-ungutes-gefuehl-im-magen-aber-der-kunde-ist-koenig_id_7049265.html" width="990" height="600" />
 						</item>
 			<lastBuildDate>
-			Sat, 01 Apr 2017 15:47:19 +0200</lastBuildDate>
+			Sat, 29 Apr 2017 19:25:05 +0200</lastBuildDate>
 	</channel>
 </rss>

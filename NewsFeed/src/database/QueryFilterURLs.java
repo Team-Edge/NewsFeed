@@ -5,6 +5,9 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
+import datatypes.SourceFeed;
+import datatypes.SourceFeedFactory;
+
 /**
  * SQL query to get all URLs to a given filter ID
  */
@@ -20,9 +23,35 @@ public class QueryFilterURLs {
 	 * @throws IllegalArgumentException	if database is null
 	 */
 	public QueryFilterURLs(DBconnection database, int filterID) throws SQLException {
-		this.wrapped = new SqlQuery(database, "SELECT SourceFeed_ID FROM Newsfeed.FilterURL WHERE Filter_ID = "+filterID+";");
+		this.wrapped = new SqlQuery(database, "SELECT s.ID, s.URL, s.CacheFile FROM Newsfeed.SourceFeed s "
+											+"INNER JOIN Newsfeed.FilterURL u ON s.ID = u.SourceFeed_ID "
+											+"WHERE u.Filter_ID = "+filterID+";");
 	}
 
+	/**
+	 * sends the query to the server for execution
+	 * 
+	 * @return a list of all SourceFeedIDs that are allowed by the filter
+	 * @throws Exception if connection or execution fails
+	 */
+	public List<SourceFeed> getSourceFeeds() throws Exception {
+		ResultSet result = null;
+		try {
+			wrapped.query();
+			ArrayList<SourceFeed> ret = new ArrayList<SourceFeed>();
+			result= wrapped.getResult();
+			while(result.next()) {
+				ret.add(SourceFeedFactory.createSourceFeed(result.getInt(1), result.getString(2), result.getString(3)));
+			}
+			return ret;	
+		} finally {
+			if(result!=null) {
+				result.close();
+			}
+			wrapped.close();
+		}
+	}
+	
 	/**
 	 * sends the query to the server for execution
 	 * 

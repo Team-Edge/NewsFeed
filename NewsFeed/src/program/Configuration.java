@@ -18,6 +18,10 @@ public class Configuration {
 	private static String dbServerPassword;
 	private static String dbSqlDateFormat;
 	
+	private static String fbAppID;
+	private static String fbAppSecret;
+	private static String fbCacheDateFormat;
+
 	private static int networkConnectionTimeout;
 	private static int networkReadTimeout;
 	
@@ -51,6 +55,10 @@ public class Configuration {
 		dbServerUserName = prop.getProperty("dbServerUserName", "root");
 		dbServerPassword = prop.getProperty("dbServerPassword", "");
 		dbSqlDateFormat = prop.getProperty("dbSqlDateFormat", "yyyy-MM-dd HH:mm:ss");
+		
+		fbAppID = prop.getProperty("FBAppID", "");
+		fbAppSecret = prop.getProperty("FBAppSecret", "");
+		fbCacheDateFormat = prop.getProperty("FBCacheDateFormat", "");
 		
 		networkConnectionTimeout = Integer.parseUnsignedInt(prop.getProperty("networkConnectionTimeout", "10000"));
 		networkReadTimeout = Integer.parseUnsignedInt(prop.getProperty("networkReadTimeout", "10000"));
@@ -158,4 +166,18 @@ public class Configuration {
 		return generalOutputDateFormat;
 	}
 	
+	
+	public static String getFbAppID() {
+		return fbAppID;
+	}
+
+	
+	public static String getFbAppSecret() {
+		return fbAppSecret;
+	}
+	
+	public static String getFbCacheDateFormat() {
+		return fbCacheDateFormat;
+	}
+
 }

@@ -124,7 +124,7 @@ public class UpdateService extends Thread {
 	private void processEntry(SourceFeedEntry newEntry) throws SQLException, Exception {
 		//insert the entry to the database and get its ID
 		int currentSourceFeedID = new OrderInsertSourceFeedEntry(this.database, newEntry, this.sourceFeedID).execute();
-		//for each CustomFeed: check if the new entry matches the filters 
+		//for each CustomFeedFilter: check if the new entry matches the filters 
 		try (TextSearch searcher = new TextSearch(newEntry)) {				
 			List<Integer> filterIDs = new QueryFilters(this.database).getIDs();
 			for(int currentFilter : filterIDs) {

@@ -7,958 +7,980 @@
 <description>tagesschau.de</description>
 <language>de</language>
 <copyright>ARD-aktuell / tagesschau.de</copyright>
-<lastBuildDate>Sat, 01 Apr 2017 15:47:34 +0200</lastBuildDate>
+<lastBuildDate>Sat, 29 Apr 2017 19:25:06 +0200</lastBuildDate>
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 <ttl>10</ttl>
 <item>
-<title>Live: Schalke gegen Dortmund</title>
-<link>http://www1.sportschau.de/ticker/html/5780</link>
-<pubDate>Sat, 01 Apr 2017 15:26:04 +0200</pubDate>
+<title>Soldat unter Terrorverdacht: Franco A. als rechtsextrem bekannt?</title>
+<link>http://www.tagesschau.de/inland/terror-bundeswehr-105.html</link>
+<pubDate>Sat, 29 Apr 2017 18:52:50 +0200</pubDate>
 <content:encoded>
 <![CDATA[
 <p>
-<a href="http://www1.sportschau.de/ticker/html/5780"><img src="http://www.tagesschau.de/multimedia/bilder/schalke-arena-101~_v-mittel16x9.jpg" alt="Blick auf eine Tribüne der Veltins-Arena in Gelsenkirchen. | Bildquelle: dpa"/></a>
+<a href="http://www.tagesschau.de/inland/terror-bundeswehr-105.html"><img src="http://www.tagesschau.de/multimedia/bilder/bundeswehr-emblem-105~_v-mittel16x9.jpg" alt="Emblem der deutschen Flagge auf Soldaten-Uniform | Bildquelle: picture alliance / dpa"/></a>
 <br/><br/>
-Mit Blick auf das Saisonfinale ist das Derby zwischen Schalke und Dortmund noch brisanter als sonst. Während der BVB auf Platz zwei schielt, träumen die Schalker vom internationalen Wettbewerb. Und auch in München steht ein Derby an. [<a href="http://www1.sportschau.de/ticker/html/5780">live-ticker</a>]
+Die Bundeswehr soll schon länger Hinweise auf fremdenfeindliche Einstellungen des festgenommenen Oberleutnants Franco A. gehabt haben. Laut "Spiegel" ist er bereits 2014 während seines Studiums an der französischen Militäruniversität mit rechtem Gedankengut aufgefallen. [<a href="http://www.tagesschau.de/inland/terror-bundeswehr-105.html">mehr</a>]
 </p>
 <p>
 <ul>
 <li>
-<a href="http://www.sportschau.de/fussball/bundesliga/spielbericht-hertha-bsc-tsg-hoffenheim-100.html">Hoffenheim weiter auf Champions-League-Kurs, 31.03.2017</a>
+<a href="http://www.tagesschau.de/inland/bundeswehrsoldat-anschlag-103.html">Anschlagspläne aus Fremdenhass?, 27.04.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/multimedia/politikimradio/audio-42119.html">Audio: Soldat unter Terrorverdacht: Viele Fragen sind noch offen</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/inland/terror-bundeswehr-105.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Die Bundeswehr soll schon länger Hinweise auf fremdenfeindliche Einstellungen des festgenommenen Oberleutnants Franco A. gehabt haben. Laut "Spiegel" ist er bereits 2014 während seines Studiums an der französischen Militäruniversität mit rechtem Gedankengut aufgefallen.</description>
+<guid>http://www.tagesschau.de/inland/terror-bundeswehr-105.html</guid>
+</item>
+<item>
+<title>Wolfsburg gegen München - Frustrierte unter sich</title>
+<link>http://www.tagesschau.de/ardimport/sport/sportschau-story-2679.html</link>
+<pubDate>Sat, 29 Apr 2017 19:23:10 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ardimport/sport/sportschau-story-2679.html"><img src="http://www.tagesschau.de/multimedia/bilder/bayern-wolfsburg-105~_v-mittel16x9.jpg" alt="Wolfsburg gegen Bayern | Bildquelle: dpa"/></a>
+<br/><br/>
+Frust in unterschiedlichen Ausprägungen: Beim Rekordmeister aus München grämt man sich über das Aus in Champions League und DFB-Pokal - beim taumelnden VfL Wolfsburg herrscht die nackte Abstiegsangst. Das Spiel jetzt im Liveticker. [<a href="http://www.tagesschau.de/ardimport/sport/sportschau-story-2679.html">mehr</a>]
+</p>
+<p><a href="http://www.tagesschau.de/ardimport/sport/sportschau-story-2679.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Frust in unterschiedlichen Ausprägungen: Beim Rekordmeister aus München grämt man sich über das Aus in Champions League und DFB-Pokal - beim taumelnden VfL Wolfsburg herrscht die nackte Abstiegsangst. Das Spiel jetzt im Liveticker.</description>
+<guid>http://www.tagesschau.de/ardimport/sport/sportschau-story-2679.html</guid>
+</item>
+<item>
+<title>Werder Bremen hält nach 2:0 gegen Hertha weiter Kurs auf Europa</title>
+<link>http://www.sportschau.de/fussball/bundesliga/spielbericht-werder-bremen-hertha-100.html</link>
+<pubDate>Sat, 29 Apr 2017 17:34:39 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.sportschau.de/fussball/bundesliga/spielbericht-werder-bremen-hertha-100.html"><img src="http://www.tagesschau.de/multimedia/bilder/bremen-herthacut-101~_v-mittel16x9.jpg" alt="Bundesliga-Spiel Bremen - Hertha | Bildquelle: dpa"/></a>
+<br/><br/>
+Werder Bremen ist im Kampf um die Europa-League-Plätze dank eines erneut starken Max Kruse dicht an Hertha BSC herangerückt. Die Hanseaten besiegten bei ihrem fünften Heimsieg in Folge die Berliner souverän mit 2:0. [<a href="http://www.sportschau.de/fussball/bundesliga/spielbericht-werder-bremen-hertha-100.html">mehr</a>]
+</p>
+]]>
+</content:encoded>
+<description>Werder Bremen ist im Kampf um die Europa-League-Plätze dank eines erneut starken Max Kruse dicht an Hertha BSC herangerückt. Die Hanseaten besiegten bei ihrem fünften Heimsieg in Folge die Berliner souverän mit 2:0.</description>
+<guid>http://www.sportschau.de/fussball/bundesliga/spielbericht-werder-bremen-hertha-100.html</guid>
+</item>
+<item>
+<title>Uli Adrian on Tour: Jäger der versteckten Schatzkiste</title>
+<link>http://www.tagesschau.de/videoblog/uli_adrian_on_tour/schatzsuche-101.html</link>
+<pubDate>Sat, 29 Apr 2017 17:17:10 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+Die größte arrangierte Schatzsuche Österreichs - und Uli Adrian macht mit. Der USA-Korrespondent nutzt dafür seinen Urlaub im Wintersportort Obertauern in der Nähe von Salzburg. Er ist einer von 1000 Teilnehmern, die sich durch den Neuschnee buddeln. [<a href="http://www.tagesschau.de/videoblog/uli_adrian_on_tour/schatzsuche-101.html">mehr</a>]
+</p>
+<p><a href="http://www.tagesschau.de/videoblog/uli_adrian_on_tour/schatzsuche-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Die größte arrangierte Schatzsuche Österreichs - und Uli Adrian macht mit. Der USA-Korrespondent nutzt dafür seinen Urlaub im Wintersportort Obertauern in der Nähe von Salzburg. Er ist einer von 1000 Teilnehmern, die sich durch den Neuschnee buddeln.</description>
+<guid>http://www.tagesschau.de/videoblog/uli_adrian_on_tour/schatzsuche-101.html</guid>
+</item>
+<item>
+<title>Parteitag: FDP setzt auf neue Topthemen</title>
+<link>http://www.tagesschau.de/inland/fdp-parteitag-131.html</link>
+<pubDate>Sat, 29 Apr 2017 16:09:34 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/inland/fdp-parteitag-131.html"><img src="http://www.tagesschau.de/multimedia/bilder/fdp-parteitag-133~_v-mittel16x9.jpg" alt="Nicola Beer mit Christian Lindner und Michael Theurer | Bildquelle: dpa"/></a>
+<br/><br/>
+Auf ihrem Parteitag rüttelt die FDP in einigen Punkten an jahrzehntelangen Grundüberzeugungen. Die liberalen Themen bleiben, doch die Prioritäten haben sich verschoben. Vor allem junge Liberale äußerten sich zufrieden. Von Ulla Fiebig. [<a href="http://www.tagesschau.de/inland/fdp-parteitag-131.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/inland/fdp-parteitag-127.html">Mit 91 Prozent in den Wahlkampf, 28.04.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/inland/fdp-lindner-101.html">Lindner: "Der Staat macht das Wohnen teuer", 28.04.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/multimedia/audio/audio-42153.html">Audio: Beer wirbt für Wahlprogramm</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/inland/fdp-parteitag-131.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Auf ihrem Parteitag rüttelt die FDP in einigen Punkten an jahrzehntelangen Grundüberzeugungen. Die liberalen Themen bleiben, doch die Prioritäten haben sich verschoben. Vor allem junge Liberale äußerten sich zufrieden. Von Ulla Fiebig.</description>
+<guid>http://www.tagesschau.de/inland/fdp-parteitag-131.html</guid>
+</item>
+<item>
+<title>EU-Brexit-Gipfel: Einigung in 15 Minuten</title>
+<link>http://www.tagesschau.de/ausland/eu-brexit-verhandlungen-103.html</link>
+<pubDate>Sat, 29 Apr 2017 15:40:57 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/eu-brexit-verhandlungen-103.html"><img src="http://www.tagesschau.de/multimedia/bilder/tusk-eugipfel-101~_v-mittel16x9.jpg" alt="EU-Ratspräsident Donald Tusk | Bildquelle: dpa"/></a>
+<br/><br/>
+So schnell einig war sich die Europäische Union selten. Die 27 EU-Länder ohne Großbritannien haben in Rekordzeit eine Einigung darüber erzielt, wie sie mit dem Brexit umgehen wollen. EU-Ratspräsident Tusk sprach von einem "fairen politischen Mandat". [<a href="http://www.tagesschau.de/ausland/eu-brexit-verhandlungen-103.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/verhofstadt-brexit-101.html">Brexit-Verhandlungen: "Keine Vorteile ohne Verpflichtungen"</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/inland/merkel-1673.html">Merkel kündigt harte Brexit-Linie an, 27.04.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/brexit-verhandlungen-107.html">Brüssel will den Brexit teuer machen, 21.04.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/multimedia/audio/audio-42149.html">Audio: EU-27 legen Brexit-Leitlinien fest</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/eu-brexit-verhandlungen-103.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>So schnell einig war sich die Europäische Union selten. Die 27 EU-Länder ohne Großbritannien haben in Rekordzeit eine Einigung darüber erzielt, wie sie mit dem Brexit umgehen wollen. EU-Ratspräsident Tusk sprach von einem "fairen politischen Mandat".</description>
+<guid>http://www.tagesschau.de/ausland/eu-brexit-verhandlungen-103.html</guid>
+</item>
+<item>
+<title>Soldat unter Terrorverdacht: Von der Leyen will "rigoros aufklären"</title>
+<link>http://www.tagesschau.de/inland/terror-bundeswehr-103.html</link>
+<pubDate>Sat, 29 Apr 2017 13:51:29 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/inland/terror-bundeswehr-103.html"><img src="http://www.tagesschau.de/multimedia/bilder/bundeswehr-emblem-105~_v-mittel16x9.jpg" alt="Emblem der deutschen Flagge auf Soldaten-Uniform | Bildquelle: picture alliance / dpa"/></a>
+<br/><br/>
+Ermittler sollen nun das Umfeld des Soldaten ausleuchten, der als Asylbewerber getarnt einen Anschlag geplant haben soll. Das Verteidigungs- und das Innenministerium wollen gemeinsam aufklären, was bei den Behörden schief gelaufen ist. [<a href="http://www.tagesschau.de/inland/terror-bundeswehr-103.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/inland/bundeswehrsoldat-anschlag-103.html">Anschlagspläne aus Fremdenhass?, 27.04.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/multimedia/politikimradio/audio-42119.html">Audio: Soldat unter Terrorverdacht: Viele Fragen sind noch offen</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/inland/terror-bundeswehr-103.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Ermittler sollen nun das Umfeld des Soldaten ausleuchten, der als Asylbewerber getarnt einen Anschlag geplant haben soll. Das Verteidigungs- und das Innenministerium wollen gemeinsam aufklären, was bei den Behörden schief gelaufen ist.</description>
+<guid>http://www.tagesschau.de/inland/terror-bundeswehr-103.html</guid>
+</item>
+<item>
+<title>Weiterer Verdächtigter in Salafismus-Fall festgenommen</title>
+<link>http://www.tagesschau.de/inland/unterstuetzer-northeim-anschlag-101.html</link>
+<pubDate>Sat, 29 Apr 2017 16:18:00 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/inland/unterstuetzer-northeim-anschlag-101.html"><img src="http://www.tagesschau.de/ardimport/regional/niedersachsen/ndr-niedersachsen-image-9459~_v-mittel16x9.jpg" alt="Beamte des Spezialeinsatzkommandos (SEK) der Polizei verlassen ein Wohnhaus. | Bildquelle: picture alliance / dpa"/></a>
+<br/><br/>
+Im Fall eines in Northeim festgenommenen mutmaßlichen Salafisten hat die Polizei einen weiteren Verdächtigen gefasst. Er soll an der Planung eines  Sprengstoffanschlags beteiligt gewesen sein. [<a href="http://www.tagesschau.de/inland/unterstuetzer-northeim-anschlag-101.html">ndr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.ndr.de/nachrichten/niedersachsen/braunschweig_harz_goettingen/Drei-Festnahmen-nach-Razzia-in-Salafisten-Milieu,festnahme194.html">Drei Festnahmen nach Razzien in Salafisten-Milieu</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/inland/unterstuetzer-northeim-anschlag-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Im Fall eines in Northeim festgenommenen mutmaßlichen Salafisten hat die Polizei einen weiteren Verdächtigen gefasst. Er soll an der Planung eines  Sprengstoffanschlags beteiligt gewesen sein.</description>
+<guid>http://www.tagesschau.de/inland/unterstuetzer-northeim-anschlag-101.html</guid>
+</item>
+<item>
+<title>100 Tage Trump: Beten für den Präsidenten</title>
+<link>http://www.tagesschau.de/ausland/hunderttagetrump-youngstown-101.html</link>
+<pubDate>Sat, 29 Apr 2017 13:38:04 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/hunderttagetrump-youngstown-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/greco-101~_v-mittel16x9.jpg" alt="Kenny Greco | Bildquelle: Mareike Aden"/></a>
+<br/><br/>
+Einst war Youngstown Hochburg der Stahlindustrie - und der Demokraten. Dann bestimmten verfallene Häuser, hohe Arbeitslosigkeit und Kriminalität das Stadtbild. Trump gewann hier viele Anhänger. Die meisten sind zufrieden mit ihm. Von Mareike Aden. [<a href="http://www.tagesschau.de/ausland/hunderttagetrump-youngstown-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/multimedia/video/video-220213.html">Video: Ohio und die Stahlarbeiter</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/uswahl/ohio-101.html">Warum Youngstown diesmal Trump wählt, 12.10.2016</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/hunderttagetrump-youngstown-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Einst war Youngstown Hochburg der Stahlindustrie - und der Demokraten. Dann bestimmten verfallene Häuser, hohe Arbeitslosigkeit und Kriminalität das Stadtbild. Trump gewann hier viele Anhänger. Die meisten sind zufrieden mit ihm. Von Mareike Aden.</description>
+<guid>http://www.tagesschau.de/ausland/hunderttagetrump-youngstown-101.html</guid>
+</item>
+<item>
+<title>Ungarisches Hochschul-Gesetz: Orban will EU-Auflagen erfüllen</title>
+<link>http://www.tagesschau.de/ausland/orban-unis-101.html</link>
+<pubDate>Sat, 29 Apr 2017 12:58:03 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/orban-unis-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/orban-177~_v-mittel16x9.jpg" alt="Viktor Orban | Bildquelle: AFP"/></a>
+<br/><br/>
+Ungarns Ministerpräsident Orban lenkt ein: Er will sich an die EU-Auflagen zur Wissenschaftsfreiheit halten. Die Kommission hatte ein Verfahren gegen ein Hochschulgesetz eingeleitet, das eine internationale Uni in Budapest zur Schließung gezwungen hätte. [<a href="http://www.tagesschau.de/ausland/orban-unis-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/ungarn-307.html">Orban verteidigt in Brüssel ungarisches Hochschulgesetz</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/ungarn-uni-ceu-101.html">Universitäten in Ungarn - "Ein Schritt gegen freie Bildung"</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/multimedia/audio/audio-42159.html">Audio: Orban lenkt im Hochschulstreit ein</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/orban-unis-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Ungarns Ministerpräsident Orban lenkt ein: Er will sich an die EU-Auflagen zur Wissenschaftsfreiheit halten. Die Kommission hatte ein Verfahren gegen ein Hochschulgesetz eingeleitet, das eine internationale Uni in Budapest zur Schließung gezwungen hätte.</description>
+<guid>http://www.tagesschau.de/ausland/orban-unis-101.html</guid>
+</item>
+<item>
+<title>Papst feiert katholische Messe in Kairo</title>
+<link>http://www.tagesschau.de/ausland/papst-aegypten-117.html</link>
+<pubDate>Sat, 29 Apr 2017 12:55:44 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/papst-aegypten-117.html"><img src="http://www.tagesschau.de/multimedia/bilder/papst-kairo-105~_v-mittel16x9.jpg" alt="Papst Franziskus winkend in offenem Wagen | Bildquelle: AFP"/></a>
+<br/><br/>
+Am zweiten Tag seines Besuchs in Ägypten hat Papst Franziskus eine katholische Messe vor etwa 20.000 Gläubigen gefeiert. Seine Botschaft: Es gebe nur eine legitime Form des Extremismus - die der Barmherzigkeit. [<a href="http://www.tagesschau.de/ausland/papst-aegypten-117.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/papst-aegypten-101.html">Der Papst in Ägypten: Der Brückenbauer, 28.04.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/multimedia/video/video-283771.html">Video: Papst Franziskus feiert Messe in Kairo</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/multimedia/audio/audio-42105.html">Audio: Papst Franziskus zu Besuch in Ägypten</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/papst-aegypten-117.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Am zweiten Tag seines Besuchs in Ägypten hat Papst Franziskus eine katholische Messe vor etwa 20.000 Gläubigen gefeiert. Seine Botschaft: Es gebe nur eine legitime Form des Extremismus - die der Barmherzigkeit.</description>
+<guid>http://www.tagesschau.de/ausland/papst-aegypten-117.html</guid>
+</item>
+<item>
+<title>Dortmund gegen Köln - Heimserie gegen Auswärtsfluch</title>
+<link>http://www.sportschau.de/fussball/bundesliga/borussia-dortmund-fc-koeln-102.html</link>
+<pubDate>Sat, 29 Apr 2017 12:24:00 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.sportschau.de/fussball/bundesliga/borussia-dortmund-fc-koeln-102.html"><img src="http://www.tagesschau.de/multimedia/bilder/aubameyang-107~_v-mittel16x9.jpg" alt="Pierre-Emerick Aubameyang | Bildquelle: dpa"/></a>
+<br/><br/>
+Borussia Dortmund geht nach dem Einzug ins DFB-Pokalfinale mit einer Menge Selbstvertrauen in den Liga-Endspurt und will sich den wichtigen Rang drei sichern. Auch die Kölner hoffen noch auf den Europapokal. Aber die Auswärtsbilanz ist miserabel. [<a href="http://www.sportschau.de/fussball/bundesliga/borussia-dortmund-fc-koeln-102.html">mehr</a>]
+</p>
+]]>
+</content:encoded>
+<description>Borussia Dortmund geht nach dem Einzug ins DFB-Pokalfinale mit einer Menge Selbstvertrauen in den Liga-Endspurt und will sich den wichtigen Rang drei sichern. Auch die Kölner hoffen noch auf den Europapokal. Aber die Auswärtsbilanz ist miserabel.</description>
+<guid>http://www.sportschau.de/fussball/bundesliga/borussia-dortmund-fc-koeln-102.html</guid>
+</item>
+<item>
+<title>Dortmund gegen Köln live: Heimserie gegen Auswärtsfluch</title>
+<link>http://www1.sportschau.de/ticker/html/5887</link>
+<pubDate>Sat, 29 Apr 2017 14:43:05 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www1.sportschau.de/ticker/html/5887"><img src="http://www.tagesschau.de/multimedia/bilder/bvb-203~_v-mittel16x9.jpg" alt="Fussball-Bundesliga: Erik Durm, BVB | Bildquelle: dpa"/></a>
+<br/><br/>
+Borussia Dortmund geht nach dem Einzug ins DFB-Pokalfinale mit einer Menge Selbstvertrauen in den Liga-Endspurt und will sich den wichtigen Rang drei sichern. Auch die Kölner hoffen noch auf den Europapokal. Aber die Auswärtsbilanz ist miserabel. [<a href="http://www1.sportschau.de/ticker/html/5887">liveticker</a>]
+</p>
+]]>
+</content:encoded>
+<description>Borussia Dortmund geht nach dem Einzug ins DFB-Pokalfinale mit einer Menge Selbstvertrauen in den Liga-Endspurt und will sich den wichtigen Rang drei sichern. Auch die Kölner hoffen noch auf den Europapokal. Aber die Auswärtsbilanz ist miserabel.</description>
+<guid>http://www1.sportschau.de/ticker/html/5887</guid>
+</item>
+<item>
+<title>Brexit-Verhandlungen: "Keine Vorteile ohne Verpflichtungen"</title>
+<link>http://www.tagesschau.de/ausland/verhofstadt-brexit-101.html</link>
+<pubDate>Sat, 29 Apr 2017 12:04:59 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/verhofstadt-brexit-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/verhofstadt-103~_v-mittel16x9.jpg" alt="Guy Verhofstadt | Bildquelle: AFP"/></a>
+<br/><br/>
+Finanzen, Bürgerrechte und die neue EU-Außengrenze für Irland: Das sind größten Baustellen auf dem Weg zum Brexit, sagt EU-Chefunterhändler Verhofstadt im Interview mit tagesschau.de. Großbritannien werde auf jeden Fall Vorteile aufgeben müssen. [<a href="http://www.tagesschau.de/ausland/verhofstadt-brexit-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/ausland/eu-brexit-verhandlungen-101.html">EU-Brexit-Gipfel: Europas Kampfgeist ist geweckt</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/brexit-verhandlungen-knackpunkte-101.html">Brexit: Was kommt auf den Verhandlungstisch?</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/ausland/verhofstadt-brexit-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Finanzen, Bürgerrechte und die neue EU-Außengrenze für Irland: Das sind größten Baustellen auf dem Weg zum Brexit, sagt EU-Chefunterhändler Verhofstadt im Interview mit tagesschau.de. Großbritannien werde auf jeden Fall Vorteile aufgeben müssen.</description>
+<guid>http://www.tagesschau.de/ausland/verhofstadt-brexit-101.html</guid>
+</item>
+<item>
+<title>Menschen mit Behinderung: Wählen gehen trotz Handicap?</title>
+<link>http://www.tagesschau.de/inland/wahlrecht-behinderte-101.html</link>
+<pubDate>Sat, 29 Apr 2017 11:55:55 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/inland/wahlrecht-behinderte-101.html"><img src="http://www.tagesschau.de/wahlurne-bundestagswahl-101~_v-mittel16x9.jpg" alt="Ein Wähler steckt seinen Stimmzettel in eine Wahlurne. | Bildquelle: dpa"/></a>
+<br/><br/>
+Etwa 80.000 Bundesbürger mit Behinderungen sind von der Bundestagswahl ausgeschlossen. Denn für sie wurde eine Betreuung in allen Angelegenheiten verfügt. Viele von ihnen würden dennoch gerne wählen. Sie bekommen immer mehr Unterstützung. Von Mathias Zahn. [<a href="http://www.tagesschau.de/inland/wahlrecht-behinderte-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://www.tagesschau.de/multimedia/politikimradio/audio-42123.html">Audio: Lebenshilfe fordert Wahlrecht für 80.000 Behinderte</a>
+</li>
+</ul>
+</p>
+<p><a href="http://www.tagesschau.de/inland/wahlrecht-behinderte-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Etwa 80.000 Bundesbürger mit Behinderungen sind von der Bundestagswahl ausgeschlossen. Denn für sie wurde eine Betreuung in allen Angelegenheiten verfügt. Viele von ihnen würden dennoch gerne wählen. Sie bekommen immer mehr Unterstützung. Von Mathias Zahn.</description>
+<guid>http://www.tagesschau.de/inland/wahlrecht-behinderte-101.html</guid>
+</item>
+<item>
+<title>AfD verzichtet auf Meinungsroboter - oder nicht?</title>
+<link>http://faktenfinder.tagesschau.de/social-bots-bundestag-wahl-101.html</link>
+<pubDate>Sat, 29 Apr 2017 11:49:22 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://faktenfinder.tagesschau.de/social-bots-bundestag-wahl-101.html"><img src="http://www.tagesschau.de/social-bots-105~_v-mittel16x9.jpg" alt="Ein humanoider Roboter (&quot;NAO&quot;) und ein Mensch machen einen &quot;fist bump&quot; auf dem Stand der Stadtbibliothek Köln bei der IT-Messe CeBIT in Hannover. | Bildquelle: dpa"/></a>
+<br/><br/>
+Die AfD hat sich gegen den Einsatz von Social Bots im Wahlkampf ausgesprochen. In ihrem Umfeld finden sich dennoch Netzwerke, die automatisiert Inhalte verbreiten. Wie sie wirken, ist unter Experten umstritten. Von Jenny Stern. [<a href="http://faktenfinder.tagesschau.de/social-bots-bundestag-wahl-101.html">mehr</a>]
+</p>
+<p>
+<ul>
+<li>
+<a href="http://faktenfinder.tagesschau.de/social-bots-erkennen-101.html">Tutorial: Social Bots erkennen</a>
+</li>
+<li>
+<a href="http://faktenfinder.tagesschau.de/social-bots-101.html">Bots im Wahlkampf: Interaktiv, aber nicht intelligent</a>
 </li>
 </ul>
 </p>
 ]]>
 </content:encoded>
-<description>Mit Blick auf das Saisonfinale ist das Derby zwischen Schalke und Dortmund noch brisanter als sonst. Während der BVB auf Platz zwei schielt, träumen die Schalker vom internationalen Wettbewerb. Und auch in München steht ein Derby an.</description>
-<guid>http://www1.sportschau.de/ticker/html/5780</guid>
+<description>Die AfD hat sich gegen den Einsatz von Social Bots im Wahlkampf ausgesprochen. In ihrem Umfeld finden sich dennoch Netzwerke, die automatisiert Inhalte verbreiten. Wie sie wirken, ist unter Experten umstritten. Von Jenny Stern.</description>
+<guid>http://faktenfinder.tagesschau.de/social-bots-bundestag-wahl-101.html</guid>
 </item>
 <item>
-<title>Syrien: Weitere Rebellen verlassen offenbar Homs</title>
-<link>http://www.tagesschau.de/ausland/homs-syrien-103.html</link>
-<pubDate>Sat, 01 Apr 2017 15:04:13 +0200</pubDate>
+<title>Türkei blockiert Wikipedia</title>
+<link>http://www.tagesschau.de/ausland/tuerkei-wikipedia-101.html</link>
+<pubDate>Sat, 29 Apr 2017 17:22:27 +0200</pubDate>
 <content:encoded>
 <![CDATA[
 <p>
-<a href="http://www.tagesschau.de/ausland/homs-syrien-103.html"><img src="http://www.tagesschau.de/multimedia/bilder/homs-141~_v-mittel16x9.jpg" alt="Dieses Foto der staatlichen Agentur SANA soll Rebellen aus Homs und ihre Angehörigen zeigen, die auf ihre Abreise aus der Stadt warten. | Bildquelle: AP"/></a>
+<a href="http://www.tagesschau.de/ausland/tuerkei-wikipedia-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/flaggetuerkei-101~_v-mittel16x9.jpg" alt="Die Flagge der Türkei | Bildquelle: picture-alliance / Helga Lade Fo"/></a>
 <br/><br/>
-Der syrische Machthaber al-Assad steht offenbar kurz davor, die vollständige Kontrolle über die syrische Stadt Homs zurückzuerobern. Laut Staatsfernsehen verließen erneut Hunderte Rebellen das Gebiet. Eine Bestätigung von unabhängiger Seite gibt es aber noch nicht. [<a href="http://www.tagesschau.de/ausland/homs-syrien-103.html">mehr</a>]
+Wer in der Türkei etwas bei Wikipedia nachlesen will, trifft seit dem frühen Morgen nur noch auf eine Fehlermeldung: Die Behörden haben den Zugang blockiert. Das zuständige Ministerium nannte als Grund, dass Wikipedia Hetze gegen die Türkei betreibe. [<a href="http://www.tagesschau.de/ausland/tuerkei-wikipedia-101.html">mehr</a>]
 </p>
 <p>
 <ul>
 <li>
-<a href="http://www.tagesschau.de/ausland/syrische-rebellen-verlassen-homs-101.html">Abzug der Rebellen aus Homs hat begonnen, 18.03.2017</a>
+<a href="http://www.tagesschau.de/ausland/wikileaks-akp-107.html">WikiLeaks in der Türkei geblockt, 20.07.2016</a>
 </li>
 <li>
-<a href="http://www.tagesschau.de/ausland/syrien-963.html">Anschläge in Syrien überschatten Friedensgespräche, 25.02.2017</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/ausland/syrien-959.html">Syrien: Viele Tote bei Anschlägen in Homs, 25.02.2017</a>
+<a href="http://www.tagesschau.de/ausland/tuerkei-163.html">Türkei sperrt zeitweise Zugang zu Twitter und YouTube, 06.04.2015</a>
 </li>
 </ul>
 </p>
-<p><a href="http://www.tagesschau.de/ausland/homs-syrien-103.html">Meldung bei www.tagesschau.de lesen</a></p>
+<p><a href="http://www.tagesschau.de/ausland/tuerkei-wikipedia-101.html">Meldung bei www.tagesschau.de lesen</a></p>
 ]]>
 </content:encoded>
-<description>Der syrische Machthaber al-Assad steht offenbar kurz davor, die vollständige Kontrolle über die syrische Stadt Homs zurückzuerobern. Laut Staatsfernsehen verließen erneut Hunderte Rebellen das Gebiet. Eine Bestätigung von unabhängiger Seite gibt es aber noch nicht.</description>
-<guid>http://www.tagesschau.de/ausland/homs-syrien-103.html</guid>
+<description>Wer in der Türkei etwas bei Wikipedia nachlesen will, trifft seit dem frühen Morgen nur noch auf eine Fehlermeldung: Die Behörden haben den Zugang blockiert. Das zuständige Ministerium nannte als Grund, dass Wikipedia Hetze gegen die Türkei betreibe.</description>
+<guid>http://www.tagesschau.de/ausland/tuerkei-wikipedia-101.html</guid>
 </item>
 <item>
-<title>Lobby-Büro in Shanghai: FC Bayern strebt nach China</title>
-<link>http://www.tagesschau.de/ausland/fc-bayern-china-101.html</link>
-<pubDate>Sat, 01 Apr 2017 14:25:28 +0200</pubDate>
+<title>US-Präsident Trump und sein gespanntes Verhältnis zu den Medien</title>
+<link>http://www.tagesschau.de/ausland/trump-journalisten-medien-101.html</link>
+<pubDate>Sat, 29 Apr 2017 10:34:46 +0200</pubDate>
 <content:encoded>
 <![CDATA[
 <p>
-<a href="http://www.tagesschau.de/ausland/fc-bayern-china-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/bayern-shanghai-jungs-103~_v-mittel16x9.jpg" alt="Chinesische Jungs in Bayern-München-Trikots während des Trainings | Bildquelle: AFP"/></a>
+<a href="http://www.tagesschau.de/ausland/trump-journalisten-medien-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/trump-1045~_v-mittel16x9.jpg" alt="Donald Trump | Bildquelle: AFP"/></a>
 <br/><br/>
-Der FC Bayern will künftig auch im chinesischen Fußball-Geschäft mitmischen. Deshalb wurde in Shanghai nun ein Lobby-Büro eröffnet. Schon jetzt gebe es in China 136 Millionen Fans, prahlen die Bayern. Unabhängige Beobachter klingen da deutlich nüchterner. Von Steffen Wurzel. [<a href="http://www.tagesschau.de/ausland/fc-bayern-china-101.html">mehr</a>]
+Wer ihm widerspricht, wird beleidigt, unliebsame Berichte sind für ihn Fake News - seit Nixon gab es keinen US-Präsidenten, der den Medien so feindlich gegenüber stand wie Trump. Von Martin Ganslmeier. [<a href="http://www.tagesschau.de/ausland/trump-journalisten-medien-101.html">mehr</a>]
 </p>
 <p>
 <ul>
 <li>
-<a href="http://www.br.de/themen/sport/inhalt/fussball/bundesliga/fc-bayern-muenchen/uli-hoeness-herz-des-vereins-kehrt-zurueck-100.html">Hoeneß zum Bayern-Präsidenten gewählt, 25.11.2016</a>
+<a href="http://www.tagesschau.de/ausland/trump-hundert-tage-103.html">Trump - 100 Tage Achterbahnfahrt</a>
 </li>
 <li>
-<a href="http://www.tagesschau.de/inland/hoeness-139.html">Vorzeitige Haftentlassung: Uli Hoeneß wieder frei, 29.02.2016</a>
+<a href="http://www.tagesschau.de/ausland/trump-us-medien-101.html">Trumps Krieg gegen die Medien, 10.02.2017</a>
 </li>
 </ul>
 </p>
-<p><a href="http://www.tagesschau.de/ausland/fc-bayern-china-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+<p><a href="http://www.tagesschau.de/ausland/trump-journalisten-medien-101.html">Meldung bei www.tagesschau.de lesen</a></p>
 ]]>
 </content:encoded>
-<description>Der FC Bayern will künftig auch im chinesischen Fußball-Geschäft mitmischen. Deshalb wurde in Shanghai nun ein Lobby-Büro eröffnet. Schon jetzt gebe es in China 136 Millionen Fans, prahlen die Bayern. Unabhängige Beobachter klingen da deutlich nüchterner. Von Steffen Wurzel.</description>
-<guid>http://www.tagesschau.de/ausland/fc-bayern-china-101.html</guid>
+<description>Wer ihm widerspricht, wird beleidigt, unliebsame Berichte sind für ihn Fake News - seit Nixon gab es keinen US-Präsidenten, der den Medien so feindlich gegenüber stand wie Trump. Von Martin Ganslmeier.</description>
+<guid>http://www.tagesschau.de/ausland/trump-journalisten-medien-101.html</guid>
 </item>
 <item>
-<title>Reportage aus Kabul: "Noch bin ich nicht tot"</title>
-<link>http://www.tagesschau.de/ausland/afghanistan-545.html</link>
-<pubDate>Sat, 01 Apr 2017 14:18:29 +0200</pubDate>
+<title>Merkel verteidigt den Doppelpass</title>
+<link>http://www.tagesschau.de/inland/merkel-doppelpass-101.html</link>
+<pubDate>Sat, 29 Apr 2017 09:09:12 +0200</pubDate>
 <content:encoded>
 <![CDATA[
 <p>
-<a href="http://www.tagesschau.de/ausland/afghanistan-545.html"><img src="http://www.tagesschau.de/multimedia/bilder/afghanistan-reportage-111~_v-mittel16x9.jpg" alt="Mohammad Ahmad und einige seiner Familienangehörigen vor der notdürftig zusammen gemauerten Unterkunft."/></a>
+<a href="http://www.tagesschau.de/inland/merkel-doppelpass-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/merkel-1669~_v-mittel16x9.jpg" alt="Angela Merkel im Bundestag | Bildquelle: dpa"/></a>
 <br/><br/>
-Immer mehr Menschen fliehen von Pakistan nach Afghanistan - mindestens 600.000 waren es allein im vergangenen Sommer. Die meisten wollen nach Kabul. Inzwischen sei die Stadt "überstrapaziert", so die UN. Jürgen Webermann sprach mit Flüchtlingen vor Ort. [<a href="http://www.tagesschau.de/ausland/afghanistan-545.html">mehr</a>]
-</p>
-<p><a href="http://www.tagesschau.de/ausland/afghanistan-545.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Immer mehr Menschen fliehen von Pakistan nach Afghanistan - mindestens 600.000 waren es allein im vergangenen Sommer. Die meisten wollen nach Kabul. Inzwischen sei die Stadt "überstrapaziert", so die UN. Jürgen Webermann sprach mit Flüchtlingen vor Ort.</description>
-<guid>http://www.tagesschau.de/ausland/afghanistan-545.html</guid>
-</item>
-<item>
-<title>Vor Referendum in der Türkei: Die Nein-Partei</title>
-<link>http://www.tagesschau.de/ausland/tuerkei-referendum-109.html</link>
-<pubDate>Sat, 01 Apr 2017 13:25:26 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/ausland/tuerkei-referendum-109.html"><img src="http://www.tagesschau.de/multimedia/bilder/hayir-101~_v-mittel16x9.jpg" alt="Plakate in der Türkei | Bildquelle: AP"/></a>
-<br/><br/>
-Die Nein-Partei des Ex-AKP-Mitglieds Beklevic will die Verfassungsreform in der Türkei verhindern. Das ist ihr einziger Zweck - und dafür reist Beklevic durch das ganze Land. Doch der Kampf um Stimmen gegen Erdogan ist mühsam. Von Christian Buttkereit.  [<a href="http://www.tagesschau.de/ausland/tuerkei-referendum-109.html">mehr</a>]
+Trotz heftiger Kritik aus den eigenen Reihen: Bundeskanzlerin Merkel hat die doppelte Staatsbürgerschaft verteidigt. Weil so viele Deutsch-Türken für Erdogans Verfassungsreform gestimmt hatten, war die Diskussion um den Doppelpass erneut ausgebrochen. [<a href="http://www.tagesschau.de/inland/merkel-doppelpass-101.html">mehr</a>]
 </p>
 <p>
 <ul>
 <li>
-<a href="http://www.tagesschau.de/multimedia/audio/audio-41245.html">Audio: Nein-Partei in der Türkei</a>
+<a href="http://www.tagesschau.de/inland/doppelpass-tuerkei-101.html">Nach Türkei-Referendum: Doppelpass wird Wahlkampfthema</a>
 </li>
 </ul>
 </p>
-<p><a href="http://www.tagesschau.de/ausland/tuerkei-referendum-109.html">Meldung bei www.tagesschau.de lesen</a></p>
+<p><a href="http://www.tagesschau.de/inland/merkel-doppelpass-101.html">Meldung bei www.tagesschau.de lesen</a></p>
 ]]>
 </content:encoded>
-<description>Die Nein-Partei des Ex-AKP-Mitglieds Beklevic will die Verfassungsreform in der Türkei verhindern. Das ist ihr einziger Zweck - und dafür reist Beklevic durch das ganze Land. Doch der Kampf um Stimmen gegen Erdogan ist mühsam. Von Christian Buttkereit. </description>
-<guid>http://www.tagesschau.de/ausland/tuerkei-referendum-109.html</guid>
+<description>Trotz heftiger Kritik aus den eigenen Reihen: Bundeskanzlerin Merkel hat die doppelte Staatsbürgerschaft verteidigt. Weil so viele Deutsch-Türken für Erdogans Verfassungsreform gestimmt hatten, war die Diskussion um den Doppelpass erneut ausgebrochen.</description>
+<guid>http://www.tagesschau.de/inland/merkel-doppelpass-101.html</guid>
 </item>
 <item>
-<title>Weltspiegel zu Philippinen: Monas Hoffnung</title>
-<link>http://www.tagesschau.de/ausland/weltspiegel-3543.html</link>
-<pubDate>Sat, 01 Apr 2017 12:45:57 +0200</pubDate>
+<title>Generalstreik in Brasilien: Die große Wut</title>
+<link>http://www.tagesschau.de/ausland/brasilien-341.html</link>
+<pubDate>Sat, 29 Apr 2017 08:21:43 +0200</pubDate>
 <content:encoded>
 <![CDATA[
 <p>
-<a href="http://www.tagesschau.de/ausland/weltspiegel-3543.html"><img src="http://www.tagesschau.de/multimedia/bilder/sendungsbild-252805~_v-mittel16x9.jpg" alt="Sendungsbild"/></a>
+<a href="http://www.tagesschau.de/ausland/brasilien-341.html"><img src="http://www.tagesschau.de/multimedia/bilder/rio-streiks-101~_v-mittel16x9.jpg" alt="Ein Demonstrant springt auf ein Polizeiauto | Bildquelle: AP"/></a>
 <br/><br/>
-Volkssport Misswahlen: Auf den Philippinen ist die Begeisterung für Schönheitswettbewerbe ähnlich groß wie hierzulande für Fußball-Weltmeisterschaften. Jede der rund 40.000 Gemeinden hat ihren eigenen Wettkampf. Schon die Jüngsten treten an. Von Uwe Schwering. [<a href="http://www.tagesschau.de/ausland/weltspiegel-3543.html">video</a>]
-</p>
-<p><a href="http://www.tagesschau.de/ausland/weltspiegel-3543.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Volkssport Misswahlen: Auf den Philippinen ist die Begeisterung für Schönheitswettbewerbe ähnlich groß wie hierzulande für Fußball-Weltmeisterschaften. Jede der rund 40.000 Gemeinden hat ihren eigenen Wettkampf. Schon die Jüngsten treten an. Von Uwe Schwering.</description>
-<guid>http://www.tagesschau.de/ausland/weltspiegel-3543.html</guid>
-</item>
-<item>
-<title>Schalke gegen Dortmund - Derby-Zeit in Gelsenkirchen</title>
-<link>http://www1.sportschau.de/ticker/html/5780</link>
-<pubDate>Sat, 01 Apr 2017 15:24:54 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www1.sportschau.de/ticker/html/5780"><img src="http://www.tagesschau.de/multimedia/bilder/schalke-arena-101~_v-mittel16x9.jpg" alt="Blick auf eine Tribüne der Veltins-Arena in Gelsenkirchen. | Bildquelle: dpa"/></a>
-<br/><br/>
-Mit Blick auf das Saisonfinale ist das Derby zwischen Schalke und Dortmund noch brisanter als sonst. Während der BVB auf Platz zwei schielt, träumen die Schalker vom internationalen Wettbewerb. Und auch in München steht ein Derby an. [<a href="http://www1.sportschau.de/ticker/html/5780">live-ticker</a>]
+Es begann als Generalstreik und schlug vielerorts in Gewalt um: In Rio de Janeiro steckten Demonstranten Busse an, in Sao Paulo setzte die Polizei Tränengas ein. Warum die Bürger in Brasilien so wütend auf ihre Regierung sind, berichtet Anne Herrberg. [<a href="http://www.tagesschau.de/ausland/brasilien-341.html">mehr</a>]
 </p>
 <p>
 <ul>
 <li>
-<a href="http://www.sportschau.de/fussball/bundesliga/spielbericht-hertha-bsc-tsg-hoffenheim-100.html">Hoffenheim weiter auf Champions-League-Kurs, 31.03.2017</a>
+<a href="http://www.tagesschau.de/ausland/brasilien-korruption-101.html">Korruptionsermittlungen gegen Top-Politiker in Brasilien</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/brasilien-proteste-113.html">Zehntausende Brasilianer demonstrieren gegen Rentenreform</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/brasilien-jarue-101.html">Brasilien 2016: Keine Feierstimmung im Krisenland</a>
 </li>
 </ul>
 </p>
+<p><a href="http://www.tagesschau.de/ausland/brasilien-341.html">Meldung bei www.tagesschau.de lesen</a></p>
 ]]>
 </content:encoded>
-<description>Mit Blick auf das Saisonfinale ist das Derby zwischen Schalke und Dortmund noch brisanter als sonst. Während der BVB auf Platz zwei schielt, träumen die Schalker vom internationalen Wettbewerb. Und auch in München steht ein Derby an.</description>
-<guid>http://www1.sportschau.de/ticker/html/5780</guid>
+<description>Es begann als Generalstreik und schlug vielerorts in Gewalt um: In Rio de Janeiro steckten Demonstranten Busse an, in Sao Paulo setzte die Polizei Tränengas ein. Warum die Bürger in Brasilien so wütend auf ihre Regierung sind, berichtet Anne Herrberg.</description>
+<guid>http://www.tagesschau.de/ausland/brasilien-341.html</guid>
 </item>
 <item>
-<title>BA-Chef Scheele: Deutschlands oberster Arbeitsvermittler</title>
-<link>http://www.tagesschau.de/wirtschaft/scheele-ba-101.html</link>
-<pubDate>Sat, 01 Apr 2017 11:31:20 +0200</pubDate>
+<title>Ausgabengesetz: Trump verhindert Regierungsstillstand</title>
+<link>http://www.tagesschau.de/ausland/trump-ausgabengesetz-101.html</link>
+<pubDate>Sat, 29 Apr 2017 04:36:02 +0200</pubDate>
 <content:encoded>
 <![CDATA[
 <p>
-<a href="http://www.tagesschau.de/wirtschaft/scheele-ba-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/scheele-117~_v-mittel16x9.jpg" alt="Detlef Scheele | Bildquelle: dpa"/></a>
+<a href="http://www.tagesschau.de/ausland/trump-ausgabengesetz-101.html"><img src="http://www.tagesschau.de/ausland/trump-1043~_v-mittel16x9.jpg" alt="Eine Ampel vor dem US-Kapitol in Washington, DC. | Bildquelle: AFP"/></a>
 <br/><br/>
-Gestern durfte er bereits die Arbeitslosenzahlen präsentieren, seit heute ist er offiziell Chef der Bundesagentur für Arbeit: Detlef Scheele. Der Nachfolger von Frank-Jürgen Weise bringt viel Erfahrung mit - und setzt auf den Kampf gegen Langzeitarbeitslosigkeit. [<a href="http://www.tagesschau.de/wirtschaft/scheele-ba-101.html">mehr</a>]
+Um einen Stillstand der Regierung zu verhindern, hat US-Präsident Trump ein temporäres Ausgabengesetz unterzeichnet. Ohne die Maßnahme hätten Einrichtungen der Bundesverwaltung schließen müssen. Das Gesetz hat aber nur einen kurzzeitigen Effekt. [<a href="http://www.tagesschau.de/ausland/trump-ausgabengesetz-101.html">mehr</a>]
 </p>
 <p>
 <ul>
 <li>
-<a href="http://www.tagesschau.de/wirtschaft/arbeitslosenzahl-maerz-101.html">Erwerbslosenzahl stark gesunken, 31.03.2017</a>
+<a href="http://www.tagesschau.de/ausland/interview-aussenpolitik-101.html">Interview zu Trump: "Zwei Etagen im Außenministerium sind leer"</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/wirtschaft/trump-usa-wirtschaft-101.html">US-Wirtschaft wächst unter Trump langsamer</a>
 </li>
 </ul>
 </p>
-<p><a href="http://www.tagesschau.de/wirtschaft/scheele-ba-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+<p><a href="http://www.tagesschau.de/ausland/trump-ausgabengesetz-101.html">Meldung bei www.tagesschau.de lesen</a></p>
 ]]>
 </content:encoded>
-<description>Gestern durfte er bereits die Arbeitslosenzahlen präsentieren, seit heute ist er offiziell Chef der Bundesagentur für Arbeit: Detlef Scheele. Der Nachfolger von Frank-Jürgen Weise bringt viel Erfahrung mit - und setzt auf den Kampf gegen Langzeitarbeitslosigkeit.</description>
-<guid>http://www.tagesschau.de/wirtschaft/scheele-ba-101.html</guid>
+<description>Um einen Stillstand der Regierung zu verhindern, hat US-Präsident Trump ein temporäres Ausgabengesetz unterzeichnet. Ohne die Maßnahme hätten Einrichtungen der Bundesverwaltung schließen müssen. Das Gesetz hat aber nur einen kurzzeitigen Effekt.</description>
+<guid>http://www.tagesschau.de/ausland/trump-ausgabengesetz-101.html</guid>
 </item>
 <item>
-<title>Ein bisschen Besserung für Leiharbeiter</title>
-<link>http://www.tagesschau.de/inland/leiharbeit-115.html</link>
-<pubDate>Sat, 01 Apr 2017 11:19:54 +0200</pubDate>
+<title>Generalstreik in Brasilien: Tränengas unterm Zuckerhut</title>
+<link>http://www.tagesschau.de/ausland/brasilien-337.html</link>
+<pubDate>Sat, 29 Apr 2017 03:35:15 +0200</pubDate>
 <content:encoded>
 <![CDATA[
 <p>
-<a href="http://www.tagesschau.de/inland/leiharbeit-115.html"><img src="http://www.tagesschau.de/multimedia/bilder/metallindustrie-leiharbeit-101~_v-mittel16x9.jpg" alt="Ein Mechaniker arbeitet an den Schaufeln einer Turbine | Bildquelle: dpa"/></a>
+<a href="http://www.tagesschau.de/ausland/brasilien-337.html"><img src="http://www.tagesschau.de/ausland/brasilien-339~_v-mittel16x9.jpg" alt="Demonstranten werfen in Sao Paulo (Brasilien) während eines Protestes Steine auf Polizisten.  | Bildquelle: dpa"/></a>
 <br/><br/>
-Übernahme nach 18 Monaten, gleicher Lohn nach neun Monaten: Mit dem heutigen Tag tritt das neue Gesetz zur Leiharbeit in Kraft. Das klingt für die betroffenen Arbeiter zunächst nach einer soliden Absicherung. Doch es gibt ein paar Schlupflöcher. [<a href="http://www.tagesschau.de/inland/leiharbeit-115.html">mehr</a>]
+Ein Generalstreik im öffentlichen Nahverkehr hat weite Teile Brasiliens lahmgelegt, darunter auch die Metropolen Sao Paulo und Rio de Janeiro. In beiden Städten kam es zu gewaltsamen Zusammenstößen mit der Polizei. [<a href="http://www.tagesschau.de/ausland/brasilien-337.html">mehr</a>]
 </p>
 <p>
 <ul>
 <li>
-<a href="http://www.tagesschau.de/inland/leiharbeit-reform-101.html">Reform: Starke Rechte oder Etikettenschwindel?, 21.10.2016</a>
+<a href="http://www.tagesschau.de/ausland/brasilien-korruption-101.html">Korruptionsermittlungen gegen Top-Politiker in Brasilien</a>
 </li>
 <li>
-<a href="http://www.tagesschau.de/wirtschaft/hintergrund-leiharbeit-101.html">Hintergrund: Die Neuregelungen für Leiharbeiter, 11.05.2016</a>
+<a href="http://www.tagesschau.de/ausland/brasilien-proteste-113.html">Zehntausende Brasilianer demonstrieren gegen Rentenreform</a>
 </li>
 <li>
-<a href="http://www.tagesschau.de/wirtschaft/leiharbeit-nahles-101.html">Leiharbeit-Gesetz: Nahles wirft Union Blockade vor, 24.02.2016</a>
+<a href="http://www.tagesschau.de/ausland/brasilien-jarue-101.html">Brasilien 2016: Keine Feierstimmung im Krisenland</a>
 </li>
 </ul>
 </p>
-<p><a href="http://www.tagesschau.de/inland/leiharbeit-115.html">Meldung bei www.tagesschau.de lesen</a></p>
+<p><a href="http://www.tagesschau.de/ausland/brasilien-337.html">Meldung bei www.tagesschau.de lesen</a></p>
 ]]>
 </content:encoded>
-<description>Übernahme nach 18 Monaten, gleicher Lohn nach neun Monaten: Mit dem heutigen Tag tritt das neue Gesetz zur Leiharbeit in Kraft. Das klingt für die betroffenen Arbeiter zunächst nach einer soliden Absicherung. Doch es gibt ein paar Schlupflöcher.</description>
-<guid>http://www.tagesschau.de/inland/leiharbeit-115.html</guid>
+<description>Ein Generalstreik im öffentlichen Nahverkehr hat weite Teile Brasiliens lahmgelegt, darunter auch die Metropolen Sao Paulo und Rio de Janeiro. In beiden Städten kam es zu gewaltsamen Zusammenstößen mit der Polizei.</description>
+<guid>http://www.tagesschau.de/ausland/brasilien-337.html</guid>
 </item>
 <item>
-<title>Venezuela: Maduro lässt Gerichtsentscheidung überprüfen</title>
-<link>http://www.tagesschau.de/ausland/venezuela-287.html</link>
-<pubDate>Sat, 01 Apr 2017 10:06:42 +0200</pubDate>
+<title>Festakt in Dresden: Kulturpalast nach Umbau wiedereröffnet</title>
+<link>http://www.tagesschau.de/kultur/dresden-kulturpalast-101.html</link>
+<pubDate>Sat, 29 Apr 2017 02:43:00 +0200</pubDate>
 <content:encoded>
 <![CDATA[
 <p>
-<a href="http://www.tagesschau.de/ausland/venezuela-287.html"><img src="http://www.tagesschau.de/multimedia/bilder/maduro-133~_v-mittel16x9.jpg" alt="Maduro | Bildquelle: REUTERS"/></a>
+<a href="http://www.tagesschau.de/kultur/dresden-kulturpalast-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/sendungsbild-260503~_v-mittel16x9.jpg" alt="Sendungsbild"/></a>
 <br/><br/>
-Im Streit um die Entmachtung des Parlaments in Venezuela zeigt sich Präsident Maduro kompromissbereit - er will die Entscheidung des Obersten Gerichts überprüfen lassen. Die Opposition hat dennoch weitere Proteste angekündigt. [<a href="http://www.tagesschau.de/ausland/venezuela-287.html">mehr</a>]
+Mit einem Festakt ist der Dresdner Kulturpalast nach fünfjähriger Umbauzeit wiedereröffnet worden. Glanzstück des Hauses: der neue Konzertsaal der Dresdner Philharmonie. Er hat weniger Plätze als zuvor, dafür aber einen völlig neuen Klang. [<a href="http://www.tagesschau.de/kultur/dresden-kulturpalast-101.html">video</a>]
+</p>
+<p><a href="http://www.tagesschau.de/kultur/dresden-kulturpalast-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Mit einem Festakt ist der Dresdner Kulturpalast nach fünfjähriger Umbauzeit wiedereröffnet worden. Glanzstück des Hauses: der neue Konzertsaal der Dresdner Philharmonie. Er hat weniger Plätze als zuvor, dafür aber einen völlig neuen Klang.</description>
+<guid>http://www.tagesschau.de/kultur/dresden-kulturpalast-101.html</guid>
+</item>
+<item>
+<title>EU-Brexit-Gipfel: Europas Kampfgeist ist geweckt</title>
+<link>http://www.tagesschau.de/ausland/eu-brexit-verhandlungen-101.html</link>
+<pubDate>Sat, 29 Apr 2017 12:43:26 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/eu-brexit-verhandlungen-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/brexit-261~_v-mittel16x9.jpg" alt="Wecker mit der Flagge Großbrittaniens | Bildquelle: dpa"/></a>
+<br/><br/>
+Die EU stimmt bei einem Gipfeltreffen in Brüssel ihre Strategie für die Verhandlungen über den Austritt Großbritanniens ab. Bei dem Thema zeigt die Gemeinschaft eine zuletzt eher selten gewordene Einigkeit. Von Sabine Hackländer. [<a href="http://www.tagesschau.de/ausland/eu-brexit-verhandlungen-101.html">mehr</a>]
 </p>
 <p>
 <ul>
 <li>
-<a href="http://www.tagesschau.de/ausland/venezuela-medikamente-101.html">Medikamentenmangel in Venezuela, 25.03.2017</a>
+<a href="http://www.tagesschau.de/inland/merkel-1673.html">Merkel kündigt harte Brexit-Linie an, 27.04.2017</a>
 </li>
 <li>
-<a href="http://www.tagesschau.de/ausland/venezuela-269.html">CNN in Venezuela abgeschaltet, 16.02.2017</a>
+<a href="http://www.tagesschau.de/ausland/brexit-verhandlungen-107.html">Brüssel will den Brexit teuer machen, 21.04.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/europaparlament-brexit-103.html">EU-Parlament für harten Brexit-Kurs, 05.04.2017</a>
 </li>
 </ul>
 </p>
-<p><a href="http://www.tagesschau.de/ausland/venezuela-287.html">Meldung bei www.tagesschau.de lesen</a></p>
+<p><a href="http://www.tagesschau.de/ausland/eu-brexit-verhandlungen-101.html">Meldung bei www.tagesschau.de lesen</a></p>
 ]]>
 </content:encoded>
-<description>Im Streit um die Entmachtung des Parlaments in Venezuela zeigt sich Präsident Maduro kompromissbereit - er will die Entscheidung des Obersten Gerichts überprüfen lassen. Die Opposition hat dennoch weitere Proteste angekündigt.</description>
-<guid>http://www.tagesschau.de/ausland/venezuela-287.html</guid>
+<description>Die EU stimmt bei einem Gipfeltreffen in Brüssel ihre Strategie für die Verhandlungen über den Austritt Großbritanniens ab. Bei dem Thema zeigt die Gemeinschaft eine zuletzt eher selten gewordene Einigkeit. Von Sabine Hackländer.</description>
+<guid>http://www.tagesschau.de/ausland/eu-brexit-verhandlungen-101.html</guid>
 </item>
 <item>
-<title>Präsidentenwahl Serbien: EU-Fan mit autoritärem Stil</title>
-<link>http://www.tagesschau.de/ausland/serbien-wahl-107.html</link>
-<pubDate>Sat, 01 Apr 2017 10:53:32 +0200</pubDate>
+<title>Nordkorea scheitert erneut mit Raketentest</title>
+<link>http://www.tagesschau.de/ausland/raketentest-nordkorea-105.html</link>
+<pubDate>Sat, 29 Apr 2017 16:47:38 +0200</pubDate>
 <content:encoded>
 <![CDATA[
 <p>
-<a href="http://www.tagesschau.de/ausland/serbien-wahl-107.html"><img src="http://www.tagesschau.de/multimedia/bilder/sendungsbild-252755~_v-mittel16x9.jpg" alt="Sendungsbild"/></a>
+<a href="http://www.tagesschau.de/ausland/raketentest-nordkorea-105.html"><img src="http://www.tagesschau.de/multimedia/bilder/nordkorea-475~_v-mittel16x9.jpg" alt="Start einer Nordkoreanischen Raktet im TV | Bildquelle: AP"/></a>
 <br/><br/>
-Am Sonntag wird Serbiens Präsident gewählt. Ein Kandidat ist Ministerpräsident Vucic. Er gilt als EU-Befürworter, ist aber wegen seines autoritären Führungsstils und seiner Verbindungen zu Oligarchen berüchtigt. Von Darko Jakovljevic. [<a href="http://www.tagesschau.de/ausland/serbien-wahl-107.html">video</a>]
+Nordkorea hat Militärangaben zufolge erneut eine ballistische Rakete abgefeuert. Demnach explodierte das Geschoss jedoch nach dem Start. Die USA hatten vor neuen Provokationen gewarnt. US-Präsident Trump reagierte prompt. [<a href="http://www.tagesschau.de/ausland/raketentest-nordkorea-105.html">mehr</a>]
 </p>
 <p>
 <ul>
 <li>
-<a href="http://www.tagesschau.de/ausland/serbien-wahlkampf-101.html">Präsidentenwahl in Serbien: Alle lieben Vucic</a>
+<a href="http://www.tagesschau.de/ausland/usa-nordkorea-103.html">Atomstreit: Mehr Druck auf Pjöngjang? China winkt ab</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/nordkorea-china-usa-101.html">China zu Nordkorea-Krise: Mit Peking gegen Pjöngjang</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/nordkorea-469.html">USA: China warnt Nordkorea vor neuem Atomtest</a>
 </li>
 </ul>
 </p>
-<p><a href="http://www.tagesschau.de/ausland/serbien-wahl-107.html">Meldung bei www.tagesschau.de lesen</a></p>
+<p><a href="http://www.tagesschau.de/ausland/raketentest-nordkorea-105.html">Meldung bei www.tagesschau.de lesen</a></p>
 ]]>
 </content:encoded>
-<description>Am Sonntag wird Serbiens Präsident gewählt. Ein Kandidat ist Ministerpräsident Vucic. Er gilt als EU-Befürworter, ist aber wegen seines autoritären Führungsstils und seiner Verbindungen zu Oligarchen berüchtigt. Von Darko Jakovljevic.</description>
-<guid>http://www.tagesschau.de/ausland/serbien-wahl-107.html</guid>
+<description>Nordkorea hat Militärangaben zufolge erneut eine ballistische Rakete abgefeuert. Demnach explodierte das Geschoss jedoch nach dem Start. Die USA hatten vor neuen Provokationen gewarnt. US-Präsident Trump reagierte prompt.</description>
+<guid>http://www.tagesschau.de/ausland/raketentest-nordkorea-105.html</guid>
 </item>
 <item>
-<title>Paraguay: Demonstranten stürmen Kongress</title>
-<link>http://www.tagesschau.de/ausland/paraguay-111.html</link>
-<pubDate>Sat, 01 Apr 2017 14:45:37 +0200</pubDate>
+<title>Bundesliga: Leverkusen nach 1:4 gegen Schalke im Abschiedskampf</title>
+<link>http://www.sportschau.de/fussball/bundesliga/spielbericht-bayer-leverkusen-fc-schalke-100.html</link>
+<pubDate>Fri, 28 Apr 2017 22:30:10 +0200</pubDate>
 <content:encoded>
 <![CDATA[
 <p>
-<a href="http://www.tagesschau.de/ausland/paraguay-111.html"><img src="http://www.tagesschau.de/multimedia/bilder/paraguay-demo-101~_v-mittel16x9.jpg" alt="Demonstranten setzen Objekte in Flammen vor der Zentrale der Nationalen Polizei in Asuncion; Paraguay. | Bildquelle: dpa"/></a>
+<a href="http://www.sportschau.de/fussball/bundesliga/spielbericht-bayer-leverkusen-fc-schalke-100.html"><img src="http://www.tagesschau.de/bundesliga-917~_v-mittel16x9.jpg" alt="Bundesliga-Spiel FC Schalke - 04 Bayer Leverkusen | Bildquelle: dpa"/></a>
 <br/><br/>
-In Paraguay hat sich der Senat dafür ausgesprochen, die verfassungsmäßig verbotene Wiederwahl von Präsident Cartes durchzusetzen. Gegner stürmten daraufhin den Kongress in der Hauptstadt und legten Feuer. Nach Medienberichten wurde ein Mann von der Polizei erschossen. [<a href="http://www.tagesschau.de/ausland/paraguay-111.html">mehr</a>]
+Bayer Leverkusen steckt nach einer Heimpleite mitten im Abstiegskampf: Die Mannschaft ging im Westderby gegen Schalke 04 mit 1:4 unter und steht damit nur noch vier Punkte vor dem Relegationsplatz. [<a href="http://www.sportschau.de/fussball/bundesliga/spielbericht-bayer-leverkusen-fc-schalke-100.html">mehr</a>]
+</p>
+]]>
+</content:encoded>
+<description>Bayer Leverkusen steckt nach einer Heimpleite mitten im Abstiegskampf: Die Mannschaft ging im Westderby gegen Schalke 04 mit 1:4 unter und steht damit nur noch vier Punkte vor dem Relegationsplatz.</description>
+<guid>http://www.sportschau.de/fussball/bundesliga/spielbericht-bayer-leverkusen-fc-schalke-100.html</guid>
+</item>
+<item>
+<title>FDP-Parteichef Lindner: "Der Staat macht das Wohnen teuer"</title>
+<link>http://www.tagesschau.de/inland/fdp-lindner-101.html</link>
+<pubDate>Fri, 28 Apr 2017 22:16:33 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/inland/fdp-lindner-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/sendungsbild-260523~_v-mittel16x9.jpg" alt="Sendungsbild"/></a>
+<br/><br/>
+Maßlosen "Bürokratismus" macht FDP-Chef Lindner im nachtmagazin für Altersarmut und teuren Wohnraum in Deutschland verantwortlich. Zudem fordert er, die EU-Beitrittsgespräche mit der Türkei zu beenden. Das Land entspreche nicht mehr europäischen Werten. [<a href="http://www.tagesschau.de/inland/fdp-lindner-101.html">video</a>]
 </p>
 <p>
 <ul>
 <li>
-<a href="http://www.tagesschau.de/ausland/paraguay-wahl100.html">Cartes gewinnt Präsidentenwahl in Paraguay</a>
+<a href="http://www.tagesschau.de/inland/fdp-lindner-101.html">FDP-Parteichef Lindner: "Der Staat macht das Wohnen teuer"</a>
 </li>
 </ul>
 </p>
-<p><a href="http://www.tagesschau.de/ausland/paraguay-111.html">Meldung bei www.tagesschau.de lesen</a></p>
+<p><a href="http://www.tagesschau.de/inland/fdp-lindner-101.html">Meldung bei www.tagesschau.de lesen</a></p>
 ]]>
 </content:encoded>
-<description>In Paraguay hat sich der Senat dafür ausgesprochen, die verfassungsmäßig verbotene Wiederwahl von Präsident Cartes durchzusetzen. Gegner stürmten daraufhin den Kongress in der Hauptstadt und legten Feuer. Nach Medienberichten wurde ein Mann von der Polizei erschossen.</description>
-<guid>http://www.tagesschau.de/ausland/paraguay-111.html</guid>
+<description>Maßlosen "Bürokratismus" macht FDP-Chef Lindner im nachtmagazin für Altersarmut und teuren Wohnraum in Deutschland verantwortlich. Zudem fordert er, die EU-Beitrittsgespräche mit der Türkei zu beenden. Das Land entspreche nicht mehr europäischen Werten.</description>
+<guid>http://www.tagesschau.de/inland/fdp-lindner-101.html</guid>
 </item>
 <item>
-<title>Werden die TV-Rechte der Bundestagswahl vermarktet?</title>
-<link>http://www.tagesschau.de/inland/vermarktung-bundestagswahl-101.html</link>
-<pubDate>Sat, 01 Apr 2017 00:27:29 +0200</pubDate>
+<title>Deutscher Filmpreis: "Toni Erdmann" räumt  Lolas ab</title>
+<link>http://www.rbb-online.de/kultur/beitrag/2017/04/deutscher-filmpreis-2017.html</link>
+<pubDate>Fri, 28 Apr 2017 22:05:43 +0200</pubDate>
 <content:encoded>
 <![CDATA[
 <p>
-<a href="http://www.tagesschau.de/inland/vermarktung-bundestagswahl-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/stimmzettel106~_v-mittel16x9.jpg" alt="Stimmzettel für die Bundestagswahl | Bildquelle: picture-alliance/ dpa"/></a>
+<a href="http://www.rbb-online.de/kultur/beitrag/2017/04/deutscher-filmpreis-2017.html"><img src="http://www.tagesschau.de/multimedia/bilder/lola-103~_v-mittel16x9.jpg" alt="bei der Verleihung des Deutschen Filmpreises 2017 | Bildquelle: dpa"/></a>
 <br/><br/>
-Die Milliardenumsätze bei den Sportrechten haben offenbar Begehrlichkeiten geweckt: In einer Machbarkeitsstudie für den Bundeswahlleiter spielt eine Agentur die Möglichkeit durch, die Übertragungsrechte für die Bundestagswahl zu vermarkten. Von Wulf Rohwedder. [<a href="http://www.tagesschau.de/inland/vermarktung-bundestagswahl-101.html">mehr</a>]
+Die  Tragikomödie "Toni Erdmann" ist die große Gewinnerin beim Deutschen Filmpreis. Der Film bekam sechs Lolas: neben dem Hauptpreis auch die Trophäen für Regie, Drehbuch und Schnitt. Die Silber-Lola erhielt das Abtreibungsdrama "24 Wochen", Bronze holte "Wild". [<a href="http://www.rbb-online.de/kultur/beitrag/2017/04/deutscher-filmpreis-2017.html">rbb</a>]
+</p>
+]]>
+</content:encoded>
+<description>Die  Tragikomödie "Toni Erdmann" ist die große Gewinnerin beim Deutschen Filmpreis. Der Film bekam sechs Lolas: neben dem Hauptpreis auch die Trophäen für Regie, Drehbuch und Schnitt. Die Silber-Lola erhielt das Abtreibungsdrama "24 Wochen", Bronze holte "Wild".</description>
+<guid>http://www.rbb-online.de/kultur/beitrag/2017/04/deutscher-filmpreis-2017.html</guid>
+</item>
+<item>
+<title>Interview zu Trump: "Zwei Etagen im Außenministerium sind leer"</title>
+<link>http://www.tagesschau.de/ausland/interview-aussenpolitik-101.html</link>
+<pubDate>Fri, 28 Apr 2017 21:46:41 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/interview-aussenpolitik-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/trump-1041~_v-mittel16x9.jpg" alt="Donald Trump | Bildquelle: AP"/></a>
+<br/><br/>
+Die deutsch-amerikanischen Beziehungen unter Trump sind besser als erwartet, meint USA-Expertin Clüver im Interview mit tagesschau.de. Auf Behördenebene herrsche allerdings Chaos. Viele Stellen seien noch unbesetzt. [<a href="http://www.tagesschau.de/ausland/interview-aussenpolitik-101.html">mehr</a>]
 </p>
 <p>
 <ul>
 <li>
-<a href="http://www.tagesschau.de/inland/selfies-wahlkabine-101.html">Fotos aus der Wahlkabine werden verboten, 25.02.2017</a>
+<a href="http://www.tagesschau.de/ausland/trump-hundert-tage-103.html">Trump - 100 Tage Achterbahnfahrt</a>
 </li>
 <li>
-<a href="http://www.tagesschau.de/inland/bundestagswahl-103.html">Bundestag soll am 24. September gewählt werden, 18.01.2017</a>
+<a href="http://www.tagesschau.de/multimedia/audio/audio-42139.html">Audio: 100-Tage Bilanz</a>
 </li>
 </ul>
 </p>
-<p><a href="http://www.tagesschau.de/inland/vermarktung-bundestagswahl-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+<p><a href="http://www.tagesschau.de/ausland/interview-aussenpolitik-101.html">Meldung bei www.tagesschau.de lesen</a></p>
 ]]>
 </content:encoded>
-<description>Die Milliardenumsätze bei den Sportrechten haben offenbar Begehrlichkeiten geweckt: In einer Machbarkeitsstudie für den Bundeswahlleiter spielt eine Agentur die Möglichkeit durch, die Übertragungsrechte für die Bundestagswahl zu vermarkten. Von Wulf Rohwedder.</description>
-<guid>http://www.tagesschau.de/inland/vermarktung-bundestagswahl-101.html</guid>
+<description>Die deutsch-amerikanischen Beziehungen unter Trump sind besser als erwartet, meint USA-Expertin Clüver im Interview mit tagesschau.de. Auf Behördenebene herrsche allerdings Chaos. Viele Stellen seien noch unbesetzt.</description>
+<guid>http://www.tagesschau.de/ausland/interview-aussenpolitik-101.html</guid>
 </item>
 <item>
-<title>Trump nimmt Handelsbeziehungen unter die Lupe</title>
-<link>http://www.tagesschau.de/ausland/trump-handel-103.html</link>
-<pubDate>Fri, 31 Mar 2017 23:33:18 +0200</pubDate>
+<title>Kommentar zur FDP: Zurück zu den Wurzeln</title>
+<link>http://www.tagesschau.de/inland/fdp-lindner-kommentar-101.html</link>
+<pubDate>Fri, 28 Apr 2017 21:27:21 +0200</pubDate>
 <content:encoded>
 <![CDATA[
 <p>
-<a href="http://www.tagesschau.de/ausland/trump-handel-103.html"><img src="http://www.tagesschau.de/multimedia/bilder/donald-trump-189~_v-mittel16x9.jpg" alt="Donald Trump bei der Unterzeichnung des Dekrets zur Überprüfung der US-Handelsbeziehungen | Bildquelle: AFP"/></a>
+<a href="http://www.tagesschau.de/inland/fdp-lindner-kommentar-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/hassel-kommentar-101~_v-mittel16x9.jpg" alt="Kommentar von Tina Hassel"/></a>
 <br/><br/>
-Woher kommt das hohe Handelsdefizit der USA? Für Präsident Trump ist die Antwort klar: Unfaire Praktiken der Handelspartner sind schuld. Jetzt lässt er die Beziehungen zu anderen Ländern untersuchen und unterzeichnete dafür ein Dekret. Auch Deutschland bleibt nicht verschont. [<a href="http://www.tagesschau.de/ausland/trump-handel-103.html">mehr</a>]
+Die FDP will wieder zurück auf die politische Bühne. Doch: Wofür braucht man sie heute noch? Für einen echten Liberalismus à la Gerhard Baum und Burkhard Hirsch, meint Tina Hassel. Doch dafür braucht es eine Führung mit Stehvermögen. [<a href="http://www.tagesschau.de/inland/fdp-lindner-kommentar-101.html">mehr</a>]
 </p>
 <p>
 <ul>
 <li>
-<a href="http://www.tagesschau.de/wirtschaft/finanzminister-freihandel-101.html">Kein Bekenntnis zu Freihandel, 18.03.2017</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/multimedia/video/video-274601.html">Video: Trump lässt Freihandel überprüfen</a>
+<a href="http://www.tagesschau.de/multimedia/video/video-283645.html">Video: Tina Hassel, ARD Berlin, zum FDP Parteitag</a>
 </li>
 </ul>
 </p>
-<p><a href="http://www.tagesschau.de/ausland/trump-handel-103.html">Meldung bei www.tagesschau.de lesen</a></p>
+<p><a href="http://www.tagesschau.de/inland/fdp-lindner-kommentar-101.html">Meldung bei www.tagesschau.de lesen</a></p>
 ]]>
 </content:encoded>
-<description>Woher kommt das hohe Handelsdefizit der USA? Für Präsident Trump ist die Antwort klar: Unfaire Praktiken der Handelspartner sind schuld. Jetzt lässt er die Beziehungen zu anderen Ländern untersuchen und unterzeichnete dafür ein Dekret. Auch Deutschland bleibt nicht verschont.</description>
-<guid>http://www.tagesschau.de/ausland/trump-handel-103.html</guid>
+<description>Die FDP will wieder zurück auf die politische Bühne. Doch: Wofür braucht man sie heute noch? Für einen echten Liberalismus à la Gerhard Baum und Burkhard Hirsch, meint Tina Hassel. Doch dafür braucht es eine Führung mit Stehvermögen.</description>
+<guid>http://www.tagesschau.de/inland/fdp-lindner-kommentar-101.html</guid>
 </item>
 <item>
-<title>Hoffenheim weiter auf Champions-League-Kurs</title>
-<link>http://www.tagesschau.de/sport/hoffenheim-hertha-101.html</link>
-<pubDate>Fri, 31 Mar 2017 22:36:04 +0200</pubDate>
+<title>Atomstreit: Mehr Druck auf Pjöngjang? China winkt ab</title>
+<link>http://www.tagesschau.de/ausland/usa-nordkorea-103.html</link>
+<pubDate>Fri, 28 Apr 2017 21:03:36 +0200</pubDate>
 <content:encoded>
 <![CDATA[
 <p>
-<a href="http://www.tagesschau.de/sport/hoffenheim-hertha-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/hoffenheim-111~_v-mittel16x9.jpg" alt="Hoffenheimer jubeln nach einem geglückten Elfmeter gegen Herthe | Bildquelle: AP"/></a>
+<a href="http://www.tagesschau.de/ausland/usa-nordkorea-103.html"><img src="http://www.tagesschau.de/multimedia/bilder/unsicherheitsrat-tillerson-101~_v-mittel16x9.jpg" alt="US-Außenminister Rex Tillerson, rechts, neben UN-Generalsekretär António Guterres im UN-Sicherheitsrat | Bildquelle: AFP"/></a>
 <br/><br/>
-1899 Hoffenheim hat seine Erfolgsserie auch bei der heimstarken Hertha fortgesetzt und ist zumindest vorübergehend auf Rang drei geklettert. Die Kraichgauer siegten im Berliner Olympiastadion mit 3:1. [<a href="http://www.tagesschau.de/sport/hoffenheim-hertha-101.html">mehr</a>]
-</p>
-<p><a href="http://www.tagesschau.de/sport/hoffenheim-hertha-101.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>1899 Hoffenheim hat seine Erfolgsserie auch bei der heimstarken Hertha fortgesetzt und ist zumindest vorübergehend auf Rang drei geklettert. Die Kraichgauer siegten im Berliner Olympiastadion mit 3:1.</description>
-<guid>http://www.tagesschau.de/sport/hoffenheim-hertha-101.html</guid>
-</item>
-<item>
-<title>Explosion in Dortmund womöglich vorsätzlich herbeigeführt</title>
-<link>http://www.tagesschau.de/inland/dortmund-181.html</link>
-<pubDate>Sat, 01 Apr 2017 10:24:35 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/inland/dortmund-181.html"><img src="http://www.tagesschau.de/ardimport/regional/nordrheinwestfalen/wdr-image-5153~_v-mittel16x9.jpg" alt="Zerstörtes Haus | Bildquelle: imago"/></a>
-<br/><br/>
-Die Explosion eines Mehrfamilienhauses in Dortmund ist laut Polizei womöglich vorsätzlich herbeigeführt worden. Zwei Menschen wurden verletzt. Einer von ihnen steht unter Verdacht, er ist aber nicht vernehmungsfähig. In den Trümmern des Hauses wurde eine Leiche gefunden. [<a href="http://www.tagesschau.de/inland/dortmund-181.html">wdr</a>]
-</p>
-<p><a href="http://www.tagesschau.de/inland/dortmund-181.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Die Explosion eines Mehrfamilienhauses in Dortmund ist laut Polizei womöglich vorsätzlich herbeigeführt worden. Zwei Menschen wurden verletzt. Einer von ihnen steht unter Verdacht, er ist aber nicht vernehmungsfähig. In den Trümmern des Hauses wurde eine Leiche gefunden.</description>
-<guid>http://www.tagesschau.de/inland/dortmund-181.html</guid>
-</item>
-<item>
-<title>Kommentar zu Venezuela: Ende der Demokratie ist besiegelt</title>
-<link>http://www.tagesschau.de/ausland/venezuela-281.html</link>
-<pubDate>Fri, 31 Mar 2017 21:40:22 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/ausland/venezuela-281.html"><img src="http://www.tagesschau.de/multimedia/bilder/venezuela-285~_v-mittel16x9.jpg" alt="Demonstranten in Caracas  | Bildquelle: REUTERS"/></a>
-<br/><br/>
-So wie nun in Venezuela funktioniert Diktatur im 21. Jahrhundert, meint Anne-Katrin Mellmann. Die Opposition wird nicht verboten, sondern kalt gestellt. Das sozialistische Projekt ist gescheitert. Die Leidtragenden sind die Armen. [<a href="http://www.tagesschau.de/ausland/venezuela-281.html">mehr</a>]
-</p>
-<p><a href="http://www.tagesschau.de/ausland/venezuela-281.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>So wie nun in Venezuela funktioniert Diktatur im 21. Jahrhundert, meint Anne-Katrin Mellmann. Die Opposition wird nicht verboten, sondern kalt gestellt. Das sozialistische Projekt ist gescheitert. Die Leidtragenden sind die Armen.</description>
-<guid>http://www.tagesschau.de/ausland/venezuela-281.html</guid>
-</item>
-<item>
-<title>Venezuela: Maduros überraschende Gegnerin</title>
-<link>http://www.tagesschau.de/ausland/venezuela-275.html</link>
-<pubDate>Sat, 01 Apr 2017 04:03:45 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/ausland/venezuela-275.html"><img src="http://www.tagesschau.de/multimedia/bilder/ortega-105~_v-mittel16x9.jpg" alt="Generalstaatsanwältin Luisa Ortega Díaz | Bildquelle: AFP"/></a>
-<br/><br/>
-"Verfassungsbruch" - die Aussage von Venezuelas Generalstaatsanwältin Ortega zur Entmachtung des Parlaments war deutlich. Und kam überraschend - denn eigentlich steht sie loyal zu Staatschef Maduro. Dieser wies die Vorwürfe zurück und rief zum Dialog mit der Opposition auf. [<a href="http://www.tagesschau.de/ausland/venezuela-275.html">mehr</a>]
+Mehr Druck auf Nordkorea - dafür suchen die USA Verbündete. Doch im UN-Sicherheitsrat winkten die Chinesen jetzt ab. Dialog- und Kompromissbereitschaft müssten auch aus den USA kommen, so Chinas Außenminister. [<a href="http://www.tagesschau.de/ausland/usa-nordkorea-103.html">mehr</a>]
 </p>
 <p>
 <ul>
 <li>
-<a href="http://www.tagesschau.de/ausland/venezuela-medikamente-101.html">Medikamentenmangel in Venezuela, 25.03.2017</a>
+<a href="http://www.tagesschau.de/ausland/nordkorea-china-usa-101.html">China zu Nordkorea-Krise: Mit Peking gegen Pjöngjang</a>
 </li>
 <li>
-<a href="http://www.tagesschau.de/ausland/venezuela-269.html">CNN in Venezuela abgeschaltet, 16.02.2017</a>
+<a href="http://www.tagesschau.de/ausland/nordkorea-469.html">USA: China warnt Nordkorea vor neuem Atomtest</a>
 </li>
 </ul>
 </p>
-<p><a href="http://www.tagesschau.de/ausland/venezuela-275.html">Meldung bei www.tagesschau.de lesen</a></p>
+<p><a href="http://www.tagesschau.de/ausland/usa-nordkorea-103.html">Meldung bei www.tagesschau.de lesen</a></p>
 ]]>
 </content:encoded>
-<description>"Verfassungsbruch" - die Aussage von Venezuelas Generalstaatsanwältin Ortega zur Entmachtung des Parlaments war deutlich. Und kam überraschend - denn eigentlich steht sie loyal zu Staatschef Maduro. Dieser wies die Vorwürfe zurück und rief zum Dialog mit der Opposition auf.</description>
-<guid>http://www.tagesschau.de/ausland/venezuela-275.html</guid>
+<description>Mehr Druck auf Nordkorea - dafür suchen die USA Verbündete. Doch im UN-Sicherheitsrat winkten die Chinesen jetzt ab. Dialog- und Kompromissbereitschaft müssten auch aus den USA kommen, so Chinas Außenminister.</description>
+<guid>http://www.tagesschau.de/ausland/usa-nordkorea-103.html</guid>
 </item>
 <item>
-<title>Venezuela: Maduro sieht keinen Verfassungsbruch</title>
-<link>http://www.tagesschau.de/ausland/venezuela-283.html</link>
-<pubDate>Sat, 01 Apr 2017 07:13:32 +0200</pubDate>
+<title>Kommentar: Ehrliche Aufklärung statt Parolen</title>
+<link>http://www.tagesschau.de/kommentar/terrorverdacht-offizier-101.html</link>
+<pubDate>Fri, 28 Apr 2017 20:47:30 +0200</pubDate>
 <content:encoded>
 <![CDATA[
 <p>
-<a href="http://www.tagesschau.de/ausland/venezuela-283.html"><img src="http://www.tagesschau.de/multimedia/bilder/maduro-133~_v-mittel16x9.jpg" alt="Maduro | Bildquelle: REUTERS"/></a>
+<a href="http://www.tagesschau.de/kommentar/terrorverdacht-offizier-101.html"><img src="http://www.tagesschau.de/bamf-147~_v-mittel16x9.jpg" alt="Bamf"/></a>
 <br/><br/>
-Venezuelas Staatschef Maduro hat Vorwürfe zurückgewiesen, die Entmachtung des Parlaments durch das Oberste Gericht des Landes komme einem Verfassungsbruch gleich. Dennoch will er die Entscheidung des Gerichts offenbar überprüfen lassen. [<a href="http://www.tagesschau.de/ausland/venezuela-283.html">mehr</a>]
+Der Fall des mutmaßlichen Terror-Soldaten mit Doppelleben lässt viele staatliche Einrichtungen ziemlich schlecht dastehen. Einfache Rezepte für die Zukunft gibt es aber nicht, meint Christoph Prössl. Entscheidend sei nun Aufklärung ohne Wahlkampfgetöse. [<a href="http://www.tagesschau.de/kommentar/terrorverdacht-offizier-101.html">mehr</a>]
+</p>
+<p><a href="http://www.tagesschau.de/kommentar/terrorverdacht-offizier-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Der Fall des mutmaßlichen Terror-Soldaten mit Doppelleben lässt viele staatliche Einrichtungen ziemlich schlecht dastehen. Einfache Rezepte für die Zukunft gibt es aber nicht, meint Christoph Prössl. Entscheidend sei nun Aufklärung ohne Wahlkampfgetöse.</description>
+<guid>http://www.tagesschau.de/kommentar/terrorverdacht-offizier-101.html</guid>
+</item>
+<item>
+<title>Der Papst in Ägypten: Ein Dialog mit Symbolcharakter</title>
+<link>http://www.tagesschau.de/ausland/papst-aegypten-105.html</link>
+<pubDate>Fri, 28 Apr 2017 20:41:07 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/papst-aegypten-105.html"><img src="http://www.tagesschau.de/multimedia/bilder/papst-aegypten-113~_v-mittel16x9.jpg" alt="Papst Franziskus in der Al-Azhar-Universität mit Scheich Ahmed al-Tajjib | Bildquelle: AFP"/></a>
+<br/><br/>
+Der Papst hat bei seinem Besuch in Ägypten den zuletzt gestörten Dialog mit islamischen Institutionen wieder aufgenommen. Er rief alle Religionen auf, Extremismus mit Friedfertigkeit und Toleranz zu überwinden. [<a href="http://www.tagesschau.de/ausland/papst-aegypten-105.html">mehr</a>]
 </p>
 <p>
 <ul>
 <li>
-<a href="http://www.tagesschau.de/ausland/venezuela-medikamente-101.html">Medikamentenmangel in Venezuela, 25.03.2017</a>
+<a href="http://www.tagesschau.de/ausland/papst-aegypten-101.html">Der Papst in Ägypten: Der Brückenbauer, 28.04.2017</a>
 </li>
 <li>
-<a href="http://www.tagesschau.de/ausland/venezuela-269.html">CNN in Venezuela abgeschaltet, 16.02.2017</a>
+<a href="http://www.tagesschau.de/multimedia/video/video-283451.html">Video: V. Schwenck, ARD Kairo, zum Besuch des Papstes</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/multimedia/audio/audio-42105.html">Audio: Papst Franziskus zu Besuch in Ägypten</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/papst-aegypten-interview-101.html">Islam-Gelehrter: "Religion darf nicht ausgenutzt werden"</a>
 </li>
 </ul>
 </p>
-<p><a href="http://www.tagesschau.de/ausland/venezuela-283.html">Meldung bei www.tagesschau.de lesen</a></p>
+<p><a href="http://www.tagesschau.de/ausland/papst-aegypten-105.html">Meldung bei www.tagesschau.de lesen</a></p>
 ]]>
 </content:encoded>
-<description>Venezuelas Staatschef Maduro hat Vorwürfe zurückgewiesen, die Entmachtung des Parlaments durch das Oberste Gericht des Landes komme einem Verfassungsbruch gleich. Dennoch will er die Entscheidung des Gerichts offenbar überprüfen lassen.</description>
-<guid>http://www.tagesschau.de/ausland/venezuela-283.html</guid>
+<description>Der Papst hat bei seinem Besuch in Ägypten den zuletzt gestörten Dialog mit islamischen Institutionen wieder aufgenommen. Er rief alle Religionen auf, Extremismus mit Friedfertigkeit und Toleranz zu überwinden.</description>
+<guid>http://www.tagesschau.de/ausland/papst-aegypten-105.html</guid>
 </item>
 <item>
-<title>Brexit-Verhandlungen: Erpressung mit der Sicherheit?</title>
-<link>http://www.tagesschau.de/ausland/brexit-481.html</link>
-<pubDate>Fri, 31 Mar 2017 21:12:23 +0200</pubDate>
+<title>Stuttgart: Stadtrat der AfD mit Holzlatte attackiert</title>
+<link>http://www.tagesschau.de/ardimport/regional/badenwuerttemberg/afd-stadtrat-angegriffen-101.html</link>
+<pubDate>Fri, 28 Apr 2017 14:10:59 +0200</pubDate>
 <content:encoded>
 <![CDATA[
 <p>
-<a href="http://www.tagesschau.de/ausland/brexit-481.html"><img src="http://www.tagesschau.de/multimedia/bilder/brexit-429~_v-mittel16x9.jpg" alt="Eine Europafahne weht vor dem Elizabeth Tower in London. | Bildquelle: dpa"/></a>
+<a href="http://www.tagesschau.de/ardimport/regional/badenwuerttemberg/afd-stadtrat-angegriffen-101.html"><img src="http://www.tagesschau.de/ardimport/regional/badenwuerttemberg/swr-bw-image-4215~_v-mittel16x9.jpg" alt="Quelle: Picture alliance/dpa | Bildquelle: picture alliance / dpa"/></a>
 <br/><br/>
-Es ist nur ein Satz in Mays Brexit-Brief, aber er hat es in sich - denn er könnte als Drohung verstanden werden, dass Großbritannien sich aus der gemeinsamen Sicherheitsverantwortung zurückziehen könnte. Was ist dran? Von Sebastian Schöbel. [<a href="http://www.tagesschau.de/ausland/brexit-481.html">mehr</a>]
+Der Stuttgarter AfD-Stadtrat Brett und eine Begleiterin sind auf dem Weg zu einer Wahlveranstaltung angegriffen und verletzt worden. Der mutmaßliche Angreifer wurde vorläufig festgenommen, laut Polizei ist er vermutlich dem linken Spektrum zuzurechnen. [<a href="http://www.tagesschau.de/ardimport/regional/badenwuerttemberg/afd-stadtrat-angegriffen-101.html">swr</a>]
+</p>
+<p><a href="http://www.tagesschau.de/ardimport/regional/badenwuerttemberg/afd-stadtrat-angegriffen-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Der Stuttgarter AfD-Stadtrat Brett und eine Begleiterin sind auf dem Weg zu einer Wahlveranstaltung angegriffen und verletzt worden. Der mutmaßliche Angreifer wurde vorläufig festgenommen, laut Polizei ist er vermutlich dem linken Spektrum zuzurechnen.</description>
+<guid>http://www.tagesschau.de/ardimport/regional/badenwuerttemberg/afd-stadtrat-angegriffen-101.html</guid>
+</item>
+<item>
+<title>Neue Mitgliedschaft: Montenegro stimmt für NATO-Beitritt</title>
+<link>http://www.tagesschau.de/ausland/montenegro-nato-109.html</link>
+<pubDate>Fri, 28 Apr 2017 18:54:43 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/ausland/montenegro-nato-109.html"><img src="http://www.tagesschau.de/multimedia/bilder/montenegro-nato-107~_v-mittel16x9.jpg" alt="Demonstranten protestieren in Montenegros ehemaliger Hauptstadt Cetinje gegen den Beitritt zur NATO. | Bildquelle: AFP"/></a>
+<br/><br/>
+Das Parlament in Montenegro hat dem Beitritt der früheren jugoslawischen Republik zur NATO zugestimmt. Es ratifizierte den Mitgliedschaftsvertrag mit der westlichen Allianz. Die Beziehungen zu Russland werden damit einmal mehr belastet. [<a href="http://www.tagesschau.de/ausland/montenegro-nato-109.html">mehr</a>]
+</p>
+<p><a href="http://www.tagesschau.de/ausland/montenegro-nato-109.html">Meldung bei www.tagesschau.de lesen</a></p>
+]]>
+</content:encoded>
+<description>Das Parlament in Montenegro hat dem Beitritt der früheren jugoslawischen Republik zur NATO zugestimmt. Es ratifizierte den Mitgliedschaftsvertrag mit der westlichen Allianz. Die Beziehungen zu Russland werden damit einmal mehr belastet.</description>
+<guid>http://www.tagesschau.de/ausland/montenegro-nato-109.html</guid>
+</item>
+<item>
+<title>Jetzt live - Leverkusen gegen Schalke</title>
+<link>http://www1.sportschau.de/ticker/html/5887</link>
+<pubDate>Fri, 28 Apr 2017 20:27:21 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www1.sportschau.de/ticker/html/5887"><img src="http://www.tagesschau.de/bundesliga-915~_v-mittel16x9.jpg" alt="Bundesliga-Spiel FC Schalke - 04 Bayer Leverkusen | Bildquelle: dpa"/></a>
+<br/><br/>
+Das Duell Leverkusen gegen Schalke klingt nach einem Spitzenspiel in der Fußball-Bundesliga. Eigentlich. In dieser Saison ist das aber das Treffen zweier Problem-Clubs. [<a href="http://www1.sportschau.de/ticker/html/5887">liveticker</a>]
+</p>
+]]>
+</content:encoded>
+<description>Das Duell Leverkusen gegen Schalke klingt nach einem Spitzenspiel in der Fußball-Bundesliga. Eigentlich. In dieser Saison ist das aber das Treffen zweier Problem-Clubs.</description>
+<guid>http://www1.sportschau.de/ticker/html/5887</guid>
+</item>
+<item>
+<title>US-Wirtschaft wächst unter Trump langsamer</title>
+<link>http://www.tagesschau.de/wirtschaft/trump-usa-wirtschaft-101.html</link>
+<pubDate>Fri, 28 Apr 2017 18:24:52 +0200</pubDate>
+<content:encoded>
+<![CDATA[
+<p>
+<a href="http://www.tagesschau.de/wirtschaft/trump-usa-wirtschaft-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/usa546~_v-mittel16x9.jpg" alt="Dollarnoten vor einer US-Fahne | Bildquelle: dpa"/></a>
+<br/><br/>
+Als Präsident werde er die US-Wirtschaft ankurbeln, versprach Donald Trump im Wahlkampf. Doch die Zahlen sprechen gegen ihn: Seit Trumps Amtsantritt wuchs die Wirtschaft so schwach wie zuletzt vor drei Jahren. [<a href="http://www.tagesschau.de/wirtschaft/trump-usa-wirtschaft-101.html">mehr</a>]
 </p>
 <p>
 <ul>
 <li>
-<a href="http://www.tagesschau.de/ausland/brexit-eu-111.html">Brexit-Strategie der EU: Kein Krieg, aber harte Verhandlungen</a>
+<a href="http://www.tagesschau.de/ausland/trumps-steuerplaene-105.html">Trumps Steuerpläne: Große Versprechen, viele Fragen, 25.04.2017</a>
 </li>
 <li>
-<a href="http://www.tagesschau.de/multimedia/audio/audio-41243.html">Audio: Britische Hilfe bei Sicherheit als Hebel für Brexit-Verhandlungen?</a>
+<a href="http://www.tagesschau.de/ausland/trumps-steuerplaene-103.html">Trumps verspricht Steuersenkungen satt, 25.04.2017</a>
 </li>
 </ul>
 </p>
-<p><a href="http://www.tagesschau.de/ausland/brexit-481.html">Meldung bei www.tagesschau.de lesen</a></p>
+<p><a href="http://www.tagesschau.de/wirtschaft/trump-usa-wirtschaft-101.html">Meldung bei www.tagesschau.de lesen</a></p>
 ]]>
 </content:encoded>
-<description>Es ist nur ein Satz in Mays Brexit-Brief, aber er hat es in sich - denn er könnte als Drohung verstanden werden, dass Großbritannien sich aus der gemeinsamen Sicherheitsverantwortung zurückziehen könnte. Was ist dran? Von Sebastian Schöbel.</description>
-<guid>http://www.tagesschau.de/ausland/brexit-481.html</guid>
+<description>Als Präsident werde er die US-Wirtschaft ankurbeln, versprach Donald Trump im Wahlkampf. Doch die Zahlen sprechen gegen ihn: Seit Trumps Amtsantritt wuchs die Wirtschaft so schwach wie zuletzt vor drei Jahren.</description>
+<guid>http://www.tagesschau.de/wirtschaft/trump-usa-wirtschaft-101.html</guid>
 </item>
 <item>
-<title>"Trump University": Studenten bekommen Millionen zurück</title>
-<link>http://www.tagesschau.de/ausland/trump-universitaet-vergleich-103.html</link>
-<pubDate>Fri, 31 Mar 2017 20:00:22 +0200</pubDate>
+<title>FDP-Bundesparteitag: Mit 91 Prozent in den Wahlkampf</title>
+<link>http://www.tagesschau.de/inland/fdp-parteitag-127.html</link>
+<pubDate>Sat, 29 Apr 2017 12:42:58 +0200</pubDate>
 <content:encoded>
 <![CDATA[
 <p>
-<a href="http://www.tagesschau.de/ausland/trump-universitaet-vergleich-103.html"><img src="http://www.tagesschau.de/multimedia/bilder/trump-university-101~_v-mittel16x9.jpg" alt="Donald Trump neben dem Schriftzug und Logo der &quot;Trump University&quot; | Bildquelle: AP"/></a>
+<a href="http://www.tagesschau.de/inland/fdp-parteitag-127.html"><img src="http://www.tagesschau.de/multimedia/bilder/lindner-143~_v-mittel16x9.jpg" alt="Lindner | Bildquelle: dpa"/></a>
 <br/><br/>
-Trump habe 6000 Studenten um insgesamt 40 Millionen Dollar betrogen und daran fünf Millionen Dollar verdient - so lautete die Anklage. Nun segnete ein Richter einen Millionenvergleich ab. Der US-Präsident zahlt 25 Millionen Dollar an die Betroffenen zurück. [<a href="http://www.tagesschau.de/ausland/trump-universitaet-vergleich-103.html">mehr</a>]
-</p>
-<p><a href="http://www.tagesschau.de/ausland/trump-universitaet-vergleich-103.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Trump habe 6000 Studenten um insgesamt 40 Millionen Dollar betrogen und daran fünf Millionen Dollar verdient - so lautete die Anklage. Nun segnete ein Richter einen Millionenvergleich ab. Der US-Präsident zahlt 25 Millionen Dollar an die Betroffenen zurück.</description>
-<guid>http://www.tagesschau.de/ausland/trump-universitaet-vergleich-103.html</guid>
-</item>
-<item>
-<title>Europäische Großrazzien gegen Steuerbetrüger</title>
-<link>http://www.tagesschau.de/wirtschaft/ermittlungen-credit-suisse-101.html</link>
-<pubDate>Fri, 31 Mar 2017 19:24:38 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/wirtschaft/ermittlungen-credit-suisse-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/credit-suisse-103~_v-mittel16x9.jpg" alt="Schriftzug der Schweizer Bank Credit Suisse | Bildquelle: AFP"/></a>
-<br/><br/>
-Es ist eine großangelegte Jagd auf Steuerbetrüger: In den Niederlanden, Deutschland und anderen europäischen Staaten haben Behörden koordinierte Razzien durchgeführt und Verdächtige festgenommen. Hintergrund sind verdächtige Konten bei einer Schweizer Bank. [<a href="http://www.tagesschau.de/wirtschaft/ermittlungen-credit-suisse-101.html">mehr</a>]
-</p>
-<p><a href="http://www.tagesschau.de/wirtschaft/ermittlungen-credit-suisse-101.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Es ist eine großangelegte Jagd auf Steuerbetrüger: In den Niederlanden, Deutschland und anderen europäischen Staaten haben Behörden koordinierte Razzien durchgeführt und Verdächtige festgenommen. Hintergrund sind verdächtige Konten bei einer Schweizer Bank.</description>
-<guid>http://www.tagesschau.de/wirtschaft/ermittlungen-credit-suisse-101.html</guid>
-</item>
-<item>
-<title>Kommentar zur Maut: Seehofer hat schnörkellos erpresst</title>
-<link>http://www.tagesschau.de/inland/maut-289.html</link>
-<pubDate>Fri, 31 Mar 2017 18:22:59 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/inland/maut-289.html"><img src="http://www.tagesschau.de/multimedia/bilder/julia-barth-101~_v-mittel16x9.jpg" alt="Julia Barth"/></a>
-<br/><br/>
-In Sachen Maut ist CSU-Chef Seehofer politisch bereit, über Leichen zu gehen, meint Julia Barth. Er hat seine Länderkollegen schnörkellos erpresst, das zeugt von entsetzlich schlechtem Stil.  Und es ist mehr als zweifelhaft, dass die Maut mehr einbringt, als sie kostet. [<a href="http://www.tagesschau.de/inland/maut-289.html">mehr</a>]
-</p>
-<p><a href="http://www.tagesschau.de/inland/maut-289.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>In Sachen Maut ist CSU-Chef Seehofer politisch bereit, über Leichen zu gehen, meint Julia Barth. Er hat seine Länderkollegen schnörkellos erpresst, das zeugt von entsetzlich schlechtem Stil.  Und es ist mehr als zweifelhaft, dass die Maut mehr einbringt, als sie kostet.</description>
-<guid>http://www.tagesschau.de/inland/maut-289.html</guid>
-</item>
-<item>
-<title>Koalition legt Streit über BKA-Gesetz bei</title>
-<link>http://www.tagesschau.de/inland/bka-gesetz-121.html</link>
-<pubDate>Fri, 31 Mar 2017 18:00:36 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/inland/bka-gesetz-121.html"><img src="http://www.tagesschau.de/multimedia/bilder/bka-149~_v-mittel16x9.jpg" alt="Computertastatur mit Bundesadler | Bildquelle: picture-alliance"/></a>
-<br/><br/>
-Das neue BKA-Gesetz soll eine große Datenbank schaffen, auf die alle Polizeibehörden zugreifen können. Das stieß auf vielfältige Kritik - von Datenschützern und Praktikern. Nach einer Überarbeitung ist die SPD nun einverstanden. Doch Fragen bleiben. [<a href="http://www.tagesschau.de/inland/bka-gesetz-121.html">mehr</a>]
+Die FDP berät über ihr Wahlprogramm. Mit breiter Brust kann Parteichef Lindner die Liberalen in den Bundestagswahlkampf führen. Mit 91 Prozent wurde er wiedergewählt. Doch das Projekt "Rückkehr in den Bundestag" wird nicht leicht. Marie-Kristin Boese über eine Partei, die sich Mut macht. [<a href="http://www.tagesschau.de/inland/fdp-parteitag-127.html">mehr</a>]
 </p>
 <p>
 <ul>
 <li>
-<a href="http://www.tagesschau.de/inland/bka-gesetz-119.html">Schon wieder Ärger mit dem BKA-Gesetz, 31.3.2017</a>
+<a href="http://www.tagesschau.de/inland/fdp-lindner-kommentar-101.html">Kommentar zur FDP: Zurück zu den Wurzeln</a>
 </li>
 <li>
-<a href="http://www.tagesschau.de/inland/bka-gesetz-117.html">BKA-Gesetz: Abhören in engen Grenzen, 01.02.2017</a>
+<a href="http://blog.ard-hauptstadtstudio.de/comeback-mit-lindner-unser-liveblog-vom-fdp-parteitag/">Liveblog: Comeback mit Lindner?</a>
 </li>
 <li>
-<a href="http://www.tagesschau.de/inland/bka-gesetz-de-maiziere-verfassungsgericht-101.html">De Maizière legt nach, 22.04.2016</a>
+<a href="http://www.tagesschau.de/inland/fdp-183.html">FDP-Programmentwurf: Endlich wieder Kanzler machen, 31.03.2017</a>
 </li>
 </ul>
 </p>
-<p><a href="http://www.tagesschau.de/inland/bka-gesetz-121.html">Meldung bei www.tagesschau.de lesen</a></p>
+<p><a href="http://www.tagesschau.de/inland/fdp-parteitag-127.html">Meldung bei www.tagesschau.de lesen</a></p>
 ]]>
 </content:encoded>
-<description>Das neue BKA-Gesetz soll eine große Datenbank schaffen, auf die alle Polizeibehörden zugreifen können. Das stieß auf vielfältige Kritik - von Datenschützern und Praktikern. Nach einer Überarbeitung ist die SPD nun einverstanden. Doch Fragen bleiben.</description>
-<guid>http://www.tagesschau.de/inland/bka-gesetz-121.html</guid>
+<description>Die FDP berät über ihr Wahlprogramm. Mit breiter Brust kann Parteichef Lindner die Liberalen in den Bundestagswahlkampf führen. Mit 91 Prozent wurde er wiedergewählt. Doch das Projekt "Rückkehr in den Bundestag" wird nicht leicht. Marie-Kristin Boese über eine Partei, die sich Mut macht.</description>
+<guid>http://www.tagesschau.de/inland/fdp-parteitag-127.html</guid>
 </item>
 <item>
-<title>Spionage-Ermittlungen gegen türkischen Top-Beamten</title>
-<link>http://www.tagesschau.de/inland/tuerkei-spionage-101.html</link>
-<pubDate>Fri, 31 Mar 2017 20:33:17 +0200</pubDate>
+<title>Wahlkampf in Frankreich: Das Schweigen des Monsieur Mélenchon</title>
+<link>http://www.tagesschau.de/ausland/frankreich-439.html</link>
+<pubDate>Fri, 28 Apr 2017 17:18:13 +0200</pubDate>
 <content:encoded>
 <![CDATA[
 <p>
-<a href="http://www.tagesschau.de/inland/tuerkei-spionage-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/deutschland-tuerkei-115~_v-mittel16x9.jpg" alt="Flaggen von Deutschland und der Türkei wehen im Wind | Bildquelle: dpa"/></a>
+<a href="http://www.tagesschau.de/ausland/frankreich-439.html"><img src="http://www.tagesschau.de/multimedia/bilder/melenchon-119~_v-mittel16x9.jpg" alt="Mélenchon steht vor Kameras in Paris und hält sich den Zeigefinger zum Schweigen vor den Mund. | Bildquelle: AP"/></a>
 <br/><br/>
-Der Vorwurf wiegt schwer: In Deutschland lebende Türken sollen von der Türkei ausspioniert worden sein. Nun hat die deutsche Justiz einen ranghohen Beamten der Religionsbehörde im Visier und leitete nach Informationen von NDR, WDR und SZ Ermittlungen gegen ihn ein. [<a href="http://www.tagesschau.de/inland/tuerkei-spionage-101.html">mehr</a>]
+In Frankreich tobt der Wahlkampf zwischen Le Pen und Macron. Ihnen geht es um die Wähler, die im ersten Wahlgang nicht für sie gestimmt haben. Besonders intensiv werben sie um die Anhänger des Linken Mélenchon. Von Barbara Kostolnik. [<a href="http://www.tagesschau.de/ausland/frankreich-439.html">mehr</a>]
 </p>
 <p>
 <ul>
 <li>
-<a href="http://www.tagesschau.de/inland/guelen-spionage-deutschland-103.html">Ermittlungen wegen Berichts über türkische Spionage, 27.03.2017</a>
+<a href="http://www.tagesschau.de/ausland/frankreich-439.html">Wahlkampf in Frankreich: Wer ist der bessere Franzose?, 27.04.2017</a>
 </li>
 <li>
-<a href="http://www.tagesschau.de/inland/guelen-spionage-deutschland-101.html">Türkischer Geheimdienst bespitzelt Gülen-Anhänger in Deutschland, 27.03.2017</a>
+<a href="http://www.tagesschau.de/ausland/frankreich-afrika-101.html">Was Afrika für Frankreichs Wahlkampf bedeutet, 27.04.2017</a>
+</li>
+<li>
+<a href="http://www.tagesschau.de/ausland/frankreich_wahl/index.html">Blog: Frankreich hat die Wahl</a>
 </li>
 </ul>
 </p>
-<p><a href="http://www.tagesschau.de/inland/tuerkei-spionage-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+<p><a href="http://www.tagesschau.de/ausland/frankreich-439.html">Meldung bei www.tagesschau.de lesen</a></p>
 ]]>
 </content:encoded>
-<description>Der Vorwurf wiegt schwer: In Deutschland lebende Türken sollen von der Türkei ausspioniert worden sein. Nun hat die deutsche Justiz einen ranghohen Beamten der Religionsbehörde im Visier und leitete nach Informationen von NDR, WDR und SZ Ermittlungen gegen ihn ein.</description>
-<guid>http://www.tagesschau.de/inland/tuerkei-spionage-101.html</guid>
+<description>In Frankreich tobt der Wahlkampf zwischen Le Pen und Macron. Ihnen geht es um die Wähler, die im ersten Wahlgang nicht für sie gestimmt haben. Besonders intensiv werben sie um die Anhänger des Linken Mélenchon. Von Barbara Kostolnik.</description>
+<guid>http://www.tagesschau.de/ausland/frankreich-439.html</guid>
 </item>
 <item>
-<title>Kabinettsumbildung in Südafrika: "Mitternachtsmassaker an Ministern"</title>
-<link>http://www.tagesschau.de/ausland/suedafrika-kabinett-101.html</link>
-<pubDate>Fri, 31 Mar 2017 17:07:34 +0200</pubDate>
+<title>91 Prozent für FDP-Chef Lindner</title>
+<link>http://www.tagesschau.de/inland/fdp-wahl-lindner-101.html</link>
+<pubDate>Fri, 28 Apr 2017 17:10:44 +0200</pubDate>
 <content:encoded>
 <![CDATA[
 <p>
-<a href="http://www.tagesschau.de/ausland/suedafrika-kabinett-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/zuma-111~_v-mittel16x9.jpg" alt="Jacob Zuma | Bildquelle: REUTERS"/></a>
+<a href="http://www.tagesschau.de/inland/fdp-wahl-lindner-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/lindner-135~_v-mittel16x9.jpg" alt="Lindner | Bildquelle: dpa"/></a>
 <br/><br/>
-Südafrikas Präsident Zuma hat auf einen Schlag ein Drittel seines Kabinetts gefeuert - auch den international angesehenen Finanzminister Gordhan. Dieser hatte den unter Korruptionsverdacht stehenden Zuma immer wieder scharf kritisiert. Von Linda Staude. [<a href="http://www.tagesschau.de/ausland/suedafrika-kabinett-101.html">mehr</a>]
+FDP-Chef Christian Lindner zieht mit breiter Rückendeckung seiner Partei in den Bundestagswahlkampf. Er wurde beim Bundesparteitag in Berlin mit 91 Prozent im Amt bestätigt - vor zwei Jahren hatte er 92,4 Prozent erhalten. [<a href="http://www.tagesschau.de/inland/fdp-wahl-lindner-101.html">mehr</a>]
 </p>
 <p>
 <ul>
 <li>
-<a href="http://www.tagesschau.de/ausland/suedafrika-145.html">Zuma-Rede: Tumulte in Südafrikas Parlament, 10.02.2017</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/ausland/suedafrika-proteste-zuma-101.html">"Es reicht!": Südafrikaner protestieren gegen Zuma, 02.11.2016</a>
+<a href="http://www.tagesschau.de/inland/fdp-parteitag-125.html">FDP-Bundesparteitag:  "Selbstbewusst, aber demütig"</a>
 </li>
 </ul>
 </p>
-<p><a href="http://www.tagesschau.de/ausland/suedafrika-kabinett-101.html">Meldung bei www.tagesschau.de lesen</a></p>
+<p><a href="http://www.tagesschau.de/inland/fdp-wahl-lindner-101.html">Meldung bei www.tagesschau.de lesen</a></p>
 ]]>
 </content:encoded>
-<description>Südafrikas Präsident Zuma hat auf einen Schlag ein Drittel seines Kabinetts gefeuert - auch den international angesehenen Finanzminister Gordhan. Dieser hatte den unter Korruptionsverdacht stehenden Zuma immer wieder scharf kritisiert. Von Linda Staude.</description>
-<guid>http://www.tagesschau.de/ausland/suedafrika-kabinett-101.html</guid>
-</item>
-<item>
-<title>Streit um Rüstungsausgaben: Gabriel gibt Tillerson Kontra</title>
-<link>http://www.tagesschau.de/ausland/tillerson-russland-nato-103.html</link>
-<pubDate>Sat, 01 Apr 2017 04:52:16 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/ausland/tillerson-russland-nato-103.html"><img src="http://www.tagesschau.de/multimedia/bilder/gabriel-663~_v-mittel16x9.jpg" alt="Gabriel | Bildquelle: AFP"/></a>
-<br/><br/>
-Bislang hatte die Bundesregierung wohlwollend bis ausweichend auf die Forderungen der USA nach einer massiven Erhöhung der Rüstungsausgaben reagiert. Ganz anders Außenminister Gabriel: Das Zwei-Prozent-Ziel der NATO sei unrealistisch. Damit droht neuer Streit. [<a href="http://www.tagesschau.de/ausland/tillerson-russland-nato-103.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/ausland/trump-verteidigungsausgaben-101.html">Trump: "Deutschland schuldet NATO riesige Summen", 18.03.2017</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/ausland/tillerson-russland-nato-101.html">NATO: Tillerson wettert gegen "russische Aggression"</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/multimedia/audio/audio-41227.html">Audio: NATO-Streit ums Geld</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/ausland/tillerson-russland-nato-103.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Bislang hatte die Bundesregierung wohlwollend bis ausweichend auf die Forderungen der USA nach einer massiven Erhöhung der Rüstungsausgaben reagiert. Ganz anders Außenminister Gabriel: Das Zwei-Prozent-Ziel der NATO sei unrealistisch. Damit droht neuer Streit.</description>
-<guid>http://www.tagesschau.de/ausland/tillerson-russland-nato-103.html</guid>
-</item>
-<item>
-<title>Schlusslicht: "Und ein rotes Cap hatte er auch auf!"</title>
-<link>http://www.tagesschau.de/schlusslicht/bushido-101.html</link>
-<pubDate>Fri, 31 Mar 2017 16:50:52 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/schlusslicht/bushido-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/bushido-103~_v-mittel16x9.jpg" alt="Bushido | Bildquelle: dpa"/></a>
-<br/><br/>
-Die Geschichte ist kompliziert, deshalb der Reihe nach: In Buxtehude geschieht ein Raubüberfall. Die Polizei gibt ein Fahndungsfoto heraus. Darauf zu sehen: Bushido. Der Rapper. Also beinahe. Dabei hat er gar niemanden überfallen. Klingt nach einer peinlichen Geschichte? Findet das LKA auch. [<a href="http://www.tagesschau.de/schlusslicht/bushido-101.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/archiv/schlusslichter/index.html">Die schönsten Schlusslichter</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/schlusslicht/bushido-101.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Die Geschichte ist kompliziert, deshalb der Reihe nach: In Buxtehude geschieht ein Raubüberfall. Die Polizei gibt ein Fahndungsfoto heraus. Darauf zu sehen: Bushido. Der Rapper. Also beinahe. Dabei hat er gar niemanden überfallen. Klingt nach einer peinlichen Geschichte? Findet das LKA auch.</description>
-<guid>http://www.tagesschau.de/schlusslicht/bushido-101.html</guid>
-</item>
-<item>
-<title>Bundesliga: Hertha will zu Hoffenheim aufschließen</title>
-<link>http://www1.sportschau.de/ticker/html/5780</link>
-<pubDate>Fri, 31 Mar 2017 16:30:23 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www1.sportschau.de/ticker/html/5780"><img src="http://www.tagesschau.de/multimedia/bilder/hertha-119~_v-mittel16x9.jpg" alt="Spiele von Hertha BSC lassen sich von Fans feiern. | Bildquelle: AP"/></a>
-<br/><br/>
-Hoffenheim hat, was Hertha auch gerne hätte: Tabellenplatz vier, der zur Teilnahme an der Champions-League-Qualifikation berechtigt. Hertha will zu 1899 aufschließen und vertraut auf seine Heimstärke. Doch Hoffenheim kommt mit Selbstbewusstsein. [<a href="http://www1.sportschau.de/ticker/html/5780">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.sportschau.de/fussball/bundesliga/spieltag/index.html">Der Bundesliga-Spieltag im Überblick</a>
-</li>
-</ul>
-</p>
-]]>
-</content:encoded>
-<description>Hoffenheim hat, was Hertha auch gerne hätte: Tabellenplatz vier, der zur Teilnahme an der Champions-League-Qualifikation berechtigt. Hertha will zu 1899 aufschließen und vertraut auf seine Heimstärke. Doch Hoffenheim kommt mit Selbstbewusstsein.</description>
-<guid>http://www1.sportschau.de/ticker/html/5780</guid>
-</item>
-<item>
-<title>Flynn erwägt Aussage gegen Immunität</title>
-<link>http://www.tagesschau.de/ausland/flynn-aussage-101.html</link>
-<pubDate>Fri, 31 Mar 2017 16:28:56 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/ausland/flynn-aussage-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/michael-flynn-101~_v-mittel16x9.jpg" alt="Michael Flynn | Bildquelle: AP"/></a>
-<br/><br/>
-Hat Russland sich in die US-Präsidentenwahl eingemischt? Wer wusste wann was? Trumps ehemaliger Sicherheitsberater, Flynn, will Antworten liefern, doch er stellt Bedingungen. Der Präsident ermuntert ihn via Twitter. Von Andreas Horchler. [<a href="http://www.tagesschau.de/ausland/flynn-aussage-101.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/ausland/trump-russland-103.html">Trumps Team: Heißer Draht nach Moskau?, 15.02.2017</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/multimedia/audio/audio-41217.html">Audio: Ex-Sicherheitsberater Flynn: Aussage gegen Immunität</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/ausland/flynn-aussage-101.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Hat Russland sich in die US-Präsidentenwahl eingemischt? Wer wusste wann was? Trumps ehemaliger Sicherheitsberater, Flynn, will Antworten liefern, doch er stellt Bedingungen. Der Präsident ermuntert ihn via Twitter. Von Andreas Horchler.</description>
-<guid>http://www.tagesschau.de/ausland/flynn-aussage-101.html</guid>
-</item>
-<item>
-<title>Schotten wollen erneut über Unabhängigkeit abstimmen</title>
-<link>http://www.tagesschau.de/ausland/schottland-referendum-121.html</link>
-<pubDate>Fri, 31 Mar 2017 15:12:22 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/ausland/schottland-referendum-121.html"><img src="http://www.tagesschau.de/multimedia/bilder/schottland-317~_v-mittel16x9.jpg" alt="Fan mit Schottland-Schal | Bildquelle: dpa"/></a>
-<br/><br/>
-In einem Schreiben an die britische Premierministerin May hat die schottische Regierung London über den Wunsch nach einem Unabhängigkeitsreferendum informiert. Schottland möchte seine Bürger nach 2014 erneut befragen. Doch dabei müsste May mitspielen. [<a href="http://www.tagesschau.de/ausland/schottland-referendum-121.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/ausland/schottland-parlament-referendum-101.html">Schottisches Parlament will neues Unabhängigkeitsreferendum</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/ausland/schottland-referendum-108.html">Das Votum über Schottlands Zukunft</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/ausland/schottland-referendum-121.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>In einem Schreiben an die britische Premierministerin May hat die schottische Regierung London über den Wunsch nach einem Unabhängigkeitsreferendum informiert. Schottland möchte seine Bürger nach 2014 erneut befragen. Doch dabei müsste May mitspielen.</description>
-<guid>http://www.tagesschau.de/ausland/schottland-referendum-121.html</guid>
-</item>
-<item>
-<title>Programmentwurf der FDP: Endlich wieder Kanzler machen</title>
-<link>http://www.tagesschau.de/inland/fdp-183.html</link>
-<pubDate>Fri, 31 Mar 2017 14:54:44 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/inland/fdp-183.html"><img src="http://www.tagesschau.de/multimedia/bilder/fdp-185~_v-mittel16x9.jpg" alt="FDP-Chef Christian Lindner | Bildquelle: dpa"/></a>
-<br/><br/>
-Was will eigentlich die FDP? Eines auf jeden Fall: endlich wieder mehr als fünf Prozent. Er fühle sich wie "ein Rennpferd in der Box", so Parteichef Lindner.  Doch wie genau sehen die Ideen aus? Und würde die FDP auch mit der SPD koalieren? Von Charlie Grüneberg. [<a href="http://www.tagesschau.de/inland/fdp-183.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/inland/hartz-reformen-101.html">Hintergrund: Wer will was bei der Agenda 2010?</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/inland/fdp-183.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Was will eigentlich die FDP? Eines auf jeden Fall: endlich wieder mehr als fünf Prozent. Er fühle sich wie "ein Rennpferd in der Box", so Parteichef Lindner.  Doch wie genau sehen die Ideen aus? Und würde die FDP auch mit der SPD koalieren? Von Charlie Grüneberg.</description>
-<guid>http://www.tagesschau.de/inland/fdp-183.html</guid>
-</item>
-<item>
-<title>Brexit-Strategie der EU: Kein Krieg, aber harte Verhandlungen</title>
-<link>http://www.tagesschau.de/ausland/brexit-eu-111.html</link>
-<pubDate>Fri, 31 Mar 2017 14:42:30 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/ausland/brexit-eu-111.html"><img src="http://www.tagesschau.de/multimedia/bilder/tusk-muscat-101~_v-mittel16x9.jpg" alt="EU-Ratspräsident Tusk und der amtierende EU-Ratsvorsitzende Muscat. | Bildquelle: AFP"/></a>
-<br/><br/>
-Die EU stellt sich auf schwierige Brexit-Verhandlungen ein. Ratspräsident Tusk will erst Großbritanniens Ausscheiden und dann die künftigen Beziehungen regeln. Doch Premierministerin May hat andere Vorstellungen. Von Karin Bensch. [<a href="http://www.tagesschau.de/ausland/brexit-eu-111.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/ausland/tusk-brexit-leitlinien-103.html">Brexit: Tusk stellt sich gegen May</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/ausland/brexit-453.html">Britische EU-Austrittsverhandlungen: Der Brexit läuft, 29.03.2017</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/ausland/startschuss-brexit-101.html">Brexit wird beantragt: Startschuss zur Scheidung, 29.03.2017</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/ausland/brexit-eu-111.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Die EU stellt sich auf schwierige Brexit-Verhandlungen ein. Ratspräsident Tusk will erst Großbritanniens Ausscheiden und dann die künftigen Beziehungen regeln. Doch Premierministerin May hat andere Vorstellungen. Von Karin Bensch.</description>
-<guid>http://www.tagesschau.de/ausland/brexit-eu-111.html</guid>
-</item>
-<item>
-<title>Hintergründe zur Pkw-Maut: Kosten, Strafen, Kontrollen</title>
-<link>http://www.tagesschau.de/wirtschaft/maut-hintergrund-101.html</link>
-<pubDate>Fri, 31 Mar 2017 14:28:59 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/wirtschaft/maut-hintergrund-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/maut-205~_v-mittel16x9.jpg" alt="Ein Maut-Hinweisschild an der Stadtautobahn in Rostock. | Bildquelle: dpa"/></a>
-<br/><br/>
-Seit 2013 hat die CSU für die Pkw-Maut gekämpft - nun wird sie wohl umgesetzt, der Bundesrat stimmte heute zu. Ab 2019 sollen Autofahrer auf deutschen Autobahnen zahlen - bis zu 130 Euro pro Jahr. tagesschau.de beantwortet die wichtigsten Fragen. [<a href="http://www.tagesschau.de/wirtschaft/maut-hintergrund-101.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/inland/pkw-maut-bundesrat-107.html">Bundesrat gibt Weg für Pkw-Maut frei</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/multimedia/video/video-274465.html">Video: #kurzerklärt: Pkw-Maut in Deutschland</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/wirtschaft/maut-hintergrund-101.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Seit 2013 hat die CSU für die Pkw-Maut gekämpft - nun wird sie wohl umgesetzt, der Bundesrat stimmte heute zu. Ab 2019 sollen Autofahrer auf deutschen Autobahnen zahlen - bis zu 130 Euro pro Jahr. tagesschau.de beantwortet die wichtigsten Fragen.</description>
-<guid>http://www.tagesschau.de/wirtschaft/maut-hintergrund-101.html</guid>
-</item>
-<item>
-<title>Bundesrat: Kfz-Kennzeichen dürfen automatisch erfasst werden</title>
-<link>http://www.tagesschau.de/inland/bundespolizei-autokennzeichen-automatische-erfassung-101.html</link>
-<pubDate>Fri, 31 Mar 2017 13:15:43 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/inland/bundespolizei-autokennzeichen-automatische-erfassung-101.html"><img src="http://www.tagesschau.de/ardimport/regional/nordrheinwestfalen/wdr-image-2941~_v-mittel16x9.jpg" alt="Symbolbild: Ein Polizist beobachtet an einer Grenze den Verkehr | Bildquelle: picture alliance"/></a>
-<br/><br/>
-Die Bundespolizei darf künftig automatisch alle Kfz-Kennzeichen an deutschen Grenzen erfassen - auch ohne Wissen der Betroffenen. Der Bundesrat billigte ein entsprechendes Gesetz. Außerdem segnete die Länderkammer das Gesetz zur Suche nach einem Atommüll-Endlager ab. [<a href="http://www.tagesschau.de/inland/bundespolizei-autokennzeichen-automatische-erfassung-101.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/inland/pkw-maut-bundesrat-107.html">Bundesrat gibt Weg für Pkw-Maut frei</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/inland/bundespolizei-autokennzeichen-automatische-erfassung-101.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Die Bundespolizei darf künftig automatisch alle Kfz-Kennzeichen an deutschen Grenzen erfassen - auch ohne Wissen der Betroffenen. Der Bundesrat billigte ein entsprechendes Gesetz. Außerdem segnete die Länderkammer das Gesetz zur Suche nach einem Atommüll-Endlager ab.</description>
-<guid>http://www.tagesschau.de/inland/bundespolizei-autokennzeichen-automatische-erfassung-101.html</guid>
-</item>
-<item>
-<title>#kurzerklärt: Was bedeutet die Maut für Autofahrer?</title>
-<link>http://www.tagesschau.de/multimedia/kurzerklaert/maut-287.html</link>
-<pubDate>Fri, 31 Mar 2017 13:03:42 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/multimedia/kurzerklaert/maut-287.html"><img src="http://www.tagesschau.de/multimedia/bilder/sendungsbild-252557~_v-mittel16x9.jpg" alt="Sendungsbild"/></a>
-<br/><br/>
-Die Maut kommt. Doch was bedeutet das für die deutschen Autofahrer? Und wie viel müssen die ausländischen Nutzer deutscher Autobahnen zahlen? Was soll mit den Einnahmen geschehen? #kurzerklärt von Stephan Ebmeyer. [<a href="http://www.tagesschau.de/multimedia/kurzerklaert/maut-287.html">video</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/inland/pkw-maut-bundesrat-107.html">Bundesrat gibt Weg für Pkw-Maut frei</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/inland/maut-bundesrat-101.html">Bundesrat: Pkw-Maut auf der Kippe?</a>
-</li>
-<li>
-<a href="http://www.tagesschau.de/multimedia/video/video-274367.html">Video: #kurzerklärt: Pkw-Maut in Deutschland</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/multimedia/kurzerklaert/maut-287.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Die Maut kommt. Doch was bedeutet das für die deutschen Autofahrer? Und wie viel müssen die ausländischen Nutzer deutscher Autobahnen zahlen? Was soll mit den Einnahmen geschehen? #kurzerklärt von Stephan Ebmeyer.</description>
-<guid>http://www.tagesschau.de/multimedia/kurzerklaert/maut-287.html</guid>
-</item>
-<item>
-<title>NATO: Tillerson wettert gegen "russische Aggression"</title>
-<link>http://www.tagesschau.de/ausland/tillerson-russland-nato-101.html</link>
-<pubDate>Fri, 31 Mar 2017 13:55:18 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/ausland/tillerson-russland-nato-101.html"><img src="http://www.tagesschau.de/nato-279~_v-mittel16x9.jpg" alt="Tillerson | Bildquelle: AFP"/></a>
-<br/><br/>
-Beim NATO-Treffen in Brüssel hat US-Außenminister Tillerson "Russlands Aggressionen" im Ausland kritisiert - vor allem mit Blick auf Osteuropa. Zudem schwelt der Streit um das Zwei-Prozent-Ziel bei den Rüstungsausgaben weiter: im Mittelpunkt Deutschland. [<a href="http://www.tagesschau.de/ausland/tillerson-russland-nato-101.html">mehr</a>]
-</p>
-<p>
-<ul>
-<li>
-<a href="http://www.tagesschau.de/ausland/trump-verteidigungsausgaben-101.html">Trump: "Deutschland schuldet NATO riesige Summen", 18.03.2017</a>
-</li>
-</ul>
-</p>
-<p><a href="http://www.tagesschau.de/ausland/tillerson-russland-nato-101.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Beim NATO-Treffen in Brüssel hat US-Außenminister Tillerson "Russlands Aggressionen" im Ausland kritisiert - vor allem mit Blick auf Osteuropa. Zudem schwelt der Streit um das Zwei-Prozent-Ziel bei den Rüstungsausgaben weiter: im Mittelpunkt Deutschland.</description>
-<guid>http://www.tagesschau.de/ausland/tillerson-russland-nato-101.html</guid>
-</item>
-<item>
-<title>Kölner Silvesternacht: Bericht offenbart Fehler und Fehleinschätzungen</title>
-<link>http://www.tagesschau.de/inland/silvesternacht-abschlussbericht-101.html</link>
-<pubDate>Fri, 31 Mar 2017 11:46:46 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.tagesschau.de/inland/silvesternacht-abschlussbericht-101.html"><img src="http://www.tagesschau.de/multimedia/bilder/silvester-koeln-119~_v-mittel16x9.jpg" alt="Übergriffe zu Silvester in Köln 2015 | Bildquelle: dpa"/></a>
-<br/><br/>
-Der Untersuchungsausschuss des Düsseldorfer Landtags zu den Übergriffen in der Kölner Silvesternacht hat seinen Abschlussbericht veröffentlicht. Auf 1400 Seiten werden viele Fehler und Fehleinschätzungen der Behörden dokumentiert. [<a href="http://www.tagesschau.de/inland/silvesternacht-abschlussbericht-101.html">wdr</a>]
-</p>
-<p><a href="http://www.tagesschau.de/inland/silvesternacht-abschlussbericht-101.html">Meldung bei www.tagesschau.de lesen</a></p>
-]]>
-</content:encoded>
-<description>Der Untersuchungsausschuss des Düsseldorfer Landtags zu den Übergriffen in der Kölner Silvesternacht hat seinen Abschlussbericht veröffentlicht. Auf 1400 Seiten werden viele Fehler und Fehleinschätzungen der Behörden dokumentiert.</description>
-<guid>http://www.tagesschau.de/inland/silvesternacht-abschlussbericht-101.html</guid>
-</item>
-<item>
-<title>Ex-Werder-Profi Klasnic bekommt Schmerzensgeld</title>
-<link>http://www.radiobremen.de/sport/fussball/werder/klasnic-urteil-aktuell100.html</link>
-<pubDate>Fri, 31 Mar 2017 11:20:53 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://www.radiobremen.de/sport/fussball/werder/klasnic-urteil-aktuell100.html"><img src="http://www.tagesschau.de/multimedia/bilder/klasnic-103~_v-mittel16x9.jpg" alt="Klasnic, Archivbild | Bildquelle: dpa"/></a>
-<br/><br/>
-Wegen grober Behandlungsfehler müssen zwei Ärzte Ex-Werder-Profi Klasnic 100.000 Euro Schmerzensgeld zahlen. Das entschied das Landgericht Bremen. Ein Ex-Mannschaftsarzt und eine Internistin haften zudem für bisherige und künftige Behandlungskosten.  [<a href="http://www.radiobremen.de/sport/fussball/werder/klasnic-urteil-aktuell100.html">rb</a>]
-</p>
-]]>
-</content:encoded>
-<description>Wegen grober Behandlungsfehler müssen zwei Ärzte Ex-Werder-Profi Klasnic 100.000 Euro Schmerzensgeld zahlen. Das entschied das Landgericht Bremen. Ein Ex-Mannschaftsarzt und eine Internistin haften zudem für bisherige und künftige Behandlungskosten. </description>
-<guid>http://www.radiobremen.de/sport/fussball/werder/klasnic-urteil-aktuell100.html</guid>
-</item>
-<item>
-<title>Terrorverdacht: Ex-Student in Untersuchungshaft</title>
-<link>http://hessenschau.de/gesellschaft/ex-student-der-tu-darmstadt-unter-terrorverdacht,malik-f-102.html</link>
-<pubDate>Fri, 31 Mar 2017 11:09:30 +0200</pubDate>
-<content:encoded>
-<![CDATA[
-<p>
-<a href="http://hessenschau.de/gesellschaft/ex-student-der-tu-darmstadt-unter-terrorverdacht,malik-f-102.html"><img src="http://www.tagesschau.de/malik-101~_v-mittel16x9.jpg" alt="Der Terrorverdächtige Malik F."/></a>
-<br/><br/>
-Die Staatsanwaltschaft Frankfurt verdächtigt einen Syrer, einen Terroranschlag geplant zu haben. Der Ex-Student der TU Darmstadt sitzt in Untersuchungshaft. Er war bereits vor einem Jahr ins Visier der Ermittler geraten. [<a href="http://hessenschau.de/gesellschaft/ex-student-der-tu-darmstadt-unter-terrorverdacht,malik-f-102.html">hr</a>]
-</p>
-]]>
-</content:encoded>
-<description>Die Staatsanwaltschaft Frankfurt verdächtigt einen Syrer, einen Terroranschlag geplant zu haben. Der Ex-Student der TU Darmstadt sitzt in Untersuchungshaft. Er war bereits vor einem Jahr ins Visier der Ermittler geraten.</description>
-<guid>http://hessenschau.de/gesellschaft/ex-student-der-tu-darmstadt-unter-terrorverdacht,malik-f-102.html</guid>
+<description>FDP-Chef Christian Lindner zieht mit breiter Rückendeckung seiner Partei in den Bundestagswahlkampf. Er wurde beim Bundesparteitag in Berlin mit 91 Prozent im Amt bestätigt - vor zwei Jahren hatte er 92,4 Prozent erhalten.</description>
+<guid>http://www.tagesschau.de/inland/fdp-wahl-lindner-101.html</guid>
 </item>
 </channel>
 </rss>

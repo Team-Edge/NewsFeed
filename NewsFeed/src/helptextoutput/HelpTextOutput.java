@@ -43,6 +43,14 @@ public class HelpTextOutput implements IApplicationJob {
 		System.out.println("FilterUpdate [filterID]");
 		System.out.println("Call this after creating or updating a profile filter. Detects matches again for existing entries. ");
 		System.out.println();
+		System.out.println("checksourcefeed [url]");
+		System.out.println("Checksourcefeed [url]");
+		System.out.println("CheckSourcefeed [url]");
+		System.out.println("SheckSourceFeed [url]");
+		System.out.println("checks if the url is a valid feed url. ");
+		System.out.println("program exits after executing this with code 0 if url is valid. ");
+		System.out.println("program exits after executing this with code 1 otherwise. ");
+		System.out.println();
 	}
 
 	@Override

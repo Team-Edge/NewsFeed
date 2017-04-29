@@ -14,6 +14,7 @@ import com.sun.syndication.io.SyndFeedInput;
 import com.sun.syndication.io.XmlReader;
 
 import datatypes.SourceFeedEntry;
+import datatypes.SourceFeedEntryRSSImpl;
 import program.Configuration;
 
 /**
@@ -48,7 +49,7 @@ public class FeedReader {
 		List<SyndEntry> entries = feed.getEntries();
         List<SourceFeedEntry> ret = new LinkedList<SourceFeedEntry>();
         for(SyndEntry entry : entries) {
-        	ret.add(new SourceFeedEntry(entry));
+        	ret.add(new SourceFeedEntryRSSImpl(entry));
         }
         return ret;
     }

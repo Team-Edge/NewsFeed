@@ -8,6 +8,7 @@ import database.DBconnection;
 import java.io.File;
 import java.sql.SQLException;
 import datatypes.SourceFeed;
+import datatypes.SourceFeedRSSImpl;
 import newsCrawler.*;
 import program.Configuration;
 
@@ -40,7 +41,7 @@ public class NewsCrawlerTest {
 		}
 		File f = new File("./TestFiles/tmpCache.txt");
 		f.deleteOnExit();
-		SourceFeed s = new SourceFeed(0,"file:./TestFiles/testEmptyConfig.txt","./TestFiles/tmpCache.txt");
+		SourceFeed s = new SourceFeedRSSImpl(0,"file:./TestFiles/testEmptyConfig.txt","./TestFiles/tmpCache.txt");
 		
 		NewsCrawlerUpdate n = new NewsCrawlerUpdate(s,null);
 		assertNotNull(n);
@@ -50,7 +51,7 @@ public class NewsCrawlerTest {
 		n.run();
 		assertEquals(f.length(),0);
 		
-		s = new SourceFeed(0,"file:./TestFiles/testFeed.txt","./TestFiles/tmpCache.txt");
+		s = new SourceFeedRSSImpl(0,"file:./TestFiles/testFeed.txt","./TestFiles/tmpCache.txt");
 		n = new NewsCrawlerUpdate(s,database);
 		n.run();
 		assertNotEquals(f.length(),0);

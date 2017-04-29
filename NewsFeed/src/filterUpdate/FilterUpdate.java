@@ -12,6 +12,7 @@ import database.OrderInsertCustomFeedEntry;
 import database.QueryEntriesToSource;
 import database.QueryFilterURLs;
 import database.QueryFilterWords;
+import datatypes.SourceFeed;
 import datatypes.SourceFeedEntry;
 import feedUtils.TextSearch;
 import program.Configuration;
@@ -48,11 +49,11 @@ public class FilterUpdate implements IApplicationJob {
 										Configuration.getDbServerPassword());
 			try {
 				
-				List<Integer> feedIDs = new QueryFilterURLs(database, filterID).getSourceFeedIDs();
+				List<SourceFeed> feeds = new QueryFilterURLs(database, filterID).getSourceFeeds();
 				QueryFilterWords qry = new QueryFilterWords(database, filterID);
 				new OrderClearFilterMatches(database, filterID).execute();
 				qry.query();
-				for(int currentFeed : feedIDs) {
+				for(SourceFeed currentFeed : feeds) {
 					List<SourceFeedEntry> entries = new QueryEntriesToSource(database, currentFeed).getEntries();
 					for(SourceFeedEntry currentEntry : entries) {
 						boolean hit = false;

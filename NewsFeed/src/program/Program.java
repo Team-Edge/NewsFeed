@@ -11,6 +11,7 @@ import configload.ConfigLoad;
 import filterUpdate.FilterUpdate;
 import helptextoutput.HelpTextOutput;
 import newsCrawler.NewsCrawler;
+import sourceFeedChecker.SourceFeedChecker;
 
 
 /**
@@ -119,6 +120,16 @@ public class Program {
 					throw new Exception("Filter ID has to be a positive Integer: " + args[i]);
 				}
 				break;
+			case "checksourcefeed":
+			case "Checksourcefeed":
+			case "CheckSourcefeed":
+			case "CheckSourceFeed":
+				i++;
+				if(i >= args.length) {
+					throw new Exception("Missing url for argument CheckSourceFeed");
+				}
+				ret.add(new SourceFeedChecker(args[i]));
+				break;	
 			default: throw new Exception("Invalid Argument: " + args[i]);
 			}		
 		}

@@ -9,7 +9,7 @@ public class DatatypesTest {
 
 	@Test
 	public void testSourceFeed() {
-		SourceFeed s = new SourceFeed(100,"urlFilePath","cacheFilePath");
+		SourceFeed s = new SourceFeedRSSImpl(100,"urlFilePath","cacheFilePath");
 		assertEquals(s.getID(),100);
 		assertEquals(s.getUrl(),"urlFilePath");
 		assertEquals(s.getCache(),"cacheFilePath");
@@ -18,7 +18,7 @@ public class DatatypesTest {
 	@Test
 	public void testSourceFeedEntry()
 	{
-		SourceFeedEntry s = new SourceFeedEntry("Titel", "Beschreibung", null, "Text", "URL", "BildURL");
+		SourceFeedEntry s = new SourceFeedEntryRSSImpl("Titel", "Beschreibung", null, "Text", "URL", "BildURL");
 		assertEquals(s.getTitle(),"Titel");
 		assertEquals(s.getDescription(),"Beschreibung");
 		assertEquals(s.getPubDate(),new java.util.Date());
@@ -28,7 +28,7 @@ public class DatatypesTest {
 		assertEquals(s.toString(),"Feed [URL=URL]");
 		
 		java.util.Date d = new java.util.Date();
-		s = new SourceFeedEntry("Title", "Description", d, "text", "URL2", "ImageURL");
+		s = new SourceFeedEntryRSSImpl("Title", "Description", d, "text", "URL2", "ImageURL");
 		assertEquals(s.getTitle(),"Title");
 		assertEquals(s.getDescription(),"Description");
 		assertEquals(s.getPubDate(),d);
@@ -42,7 +42,7 @@ public class DatatypesTest {
 		assertEquals(s.getText(),"Description");
 		assertEquals(s.getImgURL(),"");
 		
-		s = new SourceFeedEntry(null,null,null,null,"file:./TestFiles/testFeed.txt",null);
+		s = new SourceFeedEntryRSSImpl(null,null,null,null,"file:./TestFiles/testFeed.txt",null);
 		s.enlarge();
 	}
 

@@ -4,134 +4,46 @@
   <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commits/master"/>
   <link type="application/atom+xml" rel="self" href="https://github.com/Team-Edge/NewsFeed/commits/master.atom"/>
   <title>Recent Commits to NewsFeed:master</title>
-  <updated>2017-03-28T20:33:54Z</updated>
+  <updated>2017-04-27T15:31:10Z</updated>
   <entry>
-    <id>tag:github.com,2008:Grit::Commit/4dbe6b7aca0a34a1d8991c725275873a5b92a7f6</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/4dbe6b7aca0a34a1d8991c725275873a5b92a7f6"/>
+    <id>tag:github.com,2008:Grit::Commit/6406189cd6e7a96757c50d43bfe39d4bce2011d4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/6406189cd6e7a96757c50d43bfe39d4bce2011d4"/>
     <title>
-        added some debugging output that is only done if GeneralBeVerbose is set
+        added library for usage of facebook api
     </title>
-    <updated>2017-03-28T20:33:54Z</updated>
+    <updated>2017-04-27T15:31:10Z</updated>
     <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/25927991?v=3&amp;s=30"/>
     <author>
       <name>0xDEADBE01plus0xEE</name>
       <uri>https://github.com/0xDEADBE01plus0xEE</uri>
     </author>
     <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;added some debugging output that is only done if GeneralBeVerbose is set
-to true&lt;/pre&gt;
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;added library for usage of facebook api&lt;/pre&gt;
     </content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:Grit::Commit/4a72e9af81bb9eead9ec24c6b97eaf8720f744f2</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/4a72e9af81bb9eead9ec24c6b97eaf8720f744f2"/>
+    <id>tag:github.com,2008:Grit::Commit/e6f7a21a0bc484df6babd7acf2285b78e8074773</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/e6f7a21a0bc484df6babd7acf2285b78e8074773"/>
     <title>
-        exported to an executable jar file
+        Abschlusspräsentation
     </title>
-    <updated>2017-03-28T14:23:35Z</updated>
-    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/25927991?v=3&amp;s=30"/>
-    <author>
-      <name>0xDEADBE01plus0xEE</name>
-      <uri>https://github.com/0xDEADBE01plus0xEE</uri>
-    </author>
-    <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;exported to an executable jar file&lt;/pre&gt;
-    </content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:Grit::Commit/694833e7abeefcf09b5d58dea3e21cee1d5466c4</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/694833e7abeefcf09b5d58dea3e21cee1d5466c4"/>
-    <title>
-        improvements in database organization and connections
-    </title>
-    <updated>2017-03-28T14:19:07Z</updated>
-    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/25927991?v=3&amp;s=30"/>
-    <author>
-      <name>0xDEADBE01plus0xEE</name>
-      <uri>https://github.com/0xDEADBE01plus0xEE</uri>
-    </author>
-    <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;improvements in database organization and connections&lt;/pre&gt;
-    </content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:Grit::Commit/5b30a69bab810236b1e3bf29e3c9c09c93b92864</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/5b30a69bab810236b1e3bf29e3c9c09c93b92864"/>
-    <title>
-        Add files via upload
-    </title>
-    <updated>2017-03-27T20:18:50Z</updated>
+    <updated>2017-04-25T08:33:19Z</updated>
     <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/26217793?v=3&amp;s=30"/>
     <author>
       <name>Tessa-h97</name>
       <uri>https://github.com/Tessa-h97</uri>
     </author>
     <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add files via upload&lt;/pre&gt;
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Abschlusspräsentation&lt;/pre&gt;
     </content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:Grit::Commit/c25372f45cfc5e7f6d1d7c5c0ab8aa00059c9343</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/c25372f45cfc5e7f6d1d7c5c0ab8aa00059c9343"/>
-    <title>
-        Tested program with github commit Feed successfully.
-    </title>
-    <updated>2017-03-27T12:04:10Z</updated>
-    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/25927991?v=3&amp;s=30"/>
-    <author>
-      <name>0xDEADBE01plus0xEE</name>
-      <uri>https://github.com/0xDEADBE01plus0xEE</uri>
-    </author>
-    <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Tested program with github commit Feed successfully. 
-
-Added some more error handling in constructor of SourceFeedEntry. 
-Furthermore, leading and trailing whitespaces are now removed from
-parsed fields.&lt;/pre&gt;
-    </content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:Grit::Commit/0035548e443849d74625bb487f94ad6b17821a14</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/0035548e443849d74625bb487f94ad6b17821a14"/>
-    <title>
-        Merge branch &#39;master&#39; of https://github.com/Team-Edge/NewsFeed
-    </title>
-    <updated>2017-03-27T11:20:06Z</updated>
-    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/25927991?v=3&amp;s=30"/>
-    <author>
-      <name>0xDEADBE01plus0xEE</name>
-      <uri>https://github.com/0xDEADBE01plus0xEE</uri>
-    </author>
-    <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; of https://github.com/Team-Edge/NewsFeed&lt;/pre&gt;
-    </content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:Grit::Commit/b71245b3ba716a5a7a672757efd5ac3093e32221</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/b71245b3ba716a5a7a672757efd5ac3093e32221"/>
-    <title>
-        added some error handling in SourceFeedEntry Constructor
-    </title>
-    <updated>2017-03-27T11:19:54Z</updated>
-    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/25927991?v=3&amp;s=30"/>
-    <author>
-      <name>0xDEADBE01plus0xEE</name>
-      <uri>https://github.com/0xDEADBE01plus0xEE</uri>
-    </author>
-    <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;added some error handling in SourceFeedEntry Constructor
-
-Parsing the github feed should work with this, but i have to switch
-branches before testing.&lt;/pre&gt;
-    </content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:Grit::Commit/a4b15390c50e1237fb7c80ba119dd6ff13ad359c</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/a4b15390c50e1237fb7c80ba119dd6ff13ad359c"/>
+    <id>tag:github.com,2008:Grit::Commit/a05644f6db4f6a2889d35ff46ec4b437377bec51</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/a05644f6db4f6a2889d35ff46ec4b437377bec51"/>
     <title>
         Add files via upload
     </title>
-    <updated>2017-03-27T07:34:53Z</updated>
+    <updated>2017-04-23T08:25:51Z</updated>
     <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/25401210?v=3&amp;s=30"/>
     <author>
       <name>RoQuoTriX</name>
@@ -142,209 +54,277 @@ branches before testing.&lt;/pre&gt;
     </content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:Grit::Commit/a73a5d40dd26fb890dded4489e55fbfbb9956f9b</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/a73a5d40dd26fb890dded4489e55fbfbb9956f9b"/>
+    <id>tag:github.com,2008:Grit::Commit/e459aa206d14d213fe1d8fc2199d81908716d167</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/e459aa206d14d213fe1d8fc2199d81908716d167"/>
     <title>
-        Aufwandserfassung
+        Präsentation für Webengineering
     </title>
-    <updated>2017-03-26T21:42:50Z</updated>
-    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/25927991?v=3&amp;s=30"/>
+    <updated>2017-04-18T08:34:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/26217793?v=3&amp;s=30"/>
     <author>
-      <name>0xDEADBE01plus0xEE</name>
-      <uri>https://github.com/0xDEADBE01plus0xEE</uri>
+      <name>Tessa-h97</name>
+      <uri>https://github.com/Tessa-h97</uri>
     </author>
     <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Aufwandserfassung&lt;/pre&gt;
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Präsentation für Webengineering&lt;/pre&gt;
     </content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:Grit::Commit/62021ce9d64e41fb16010e060ad21b19924fe258</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/62021ce9d64e41fb16010e060ad21b19924fe258"/>
+    <id>tag:github.com,2008:Grit::Commit/a35562217ad9ed5429f2ea7687600b1237390d83</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/a35562217ad9ed5429f2ea7687600b1237390d83"/>
     <title>
-        Anpassung
+        Add files via upload
     </title>
-    <updated>2017-03-26T15:44:42Z</updated>
+    <updated>2017-04-17T16:02:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/26217793?v=3&amp;s=30"/>
+    <author>
+      <name>Tessa-h97</name>
+      <uri>https://github.com/Tessa-h97</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add files via upload&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0fd566e1871f80d583ff2a799b2968b784a56cf6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/0fd566e1871f80d583ff2a799b2968b784a56cf6"/>
+    <title>
+        Add files via upload
+    </title>
+    <updated>2017-04-13T09:19:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/26218019?v=3&amp;s=30"/>
+    <author>
+      <name>NicholasDickel</name>
+      <uri>https://github.com/NicholasDickel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add files via upload
+
+Protokoll vom Review 10.04&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/aed12b1c198cf8bff0bd6dbbe689bd4841a2d63f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/aed12b1c198cf8bff0bd6dbbe689bd4841a2d63f"/>
+    <title>
+        Ergänzungen
+    </title>
+    <updated>2017-04-11T08:24:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/26217793?v=3&amp;s=30"/>
+    <author>
+      <name>Tessa-h97</name>
+      <uri>https://github.com/Tessa-h97</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Ergänzungen&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c670412edd9d01f502c5b294d03c4fd98acad1e0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/c670412edd9d01f502c5b294d03c4fd98acad1e0"/>
+    <title>
+        Bezüglich Webengineering
+    </title>
+    <updated>2017-04-11T07:17:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/26217793?v=3&amp;s=30"/>
+    <author>
+      <name>Tessa-h97</name>
+      <uri>https://github.com/Tessa-h97</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bezüglich Webengineering&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ee0d9abf52790260e9a8fccaad3393fd09be162e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/ee0d9abf52790260e9a8fccaad3393fd09be162e"/>
+    <title>
+        Formatierung, Titelblatt
+    </title>
+    <updated>2017-04-10T08:51:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/26217793?v=3&amp;s=30"/>
+    <author>
+      <name>Tessa-h97</name>
+      <uri>https://github.com/Tessa-h97</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Formatierung, Titelblatt&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/03a537c949a91a40da6ea13b94ed96fb344b4d97</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/03a537c949a91a40da6ea13b94ed96fb344b4d97"/>
+    <title>
+        Logo und Verantwortlichkeiten hinzugefügt
+    </title>
+    <updated>2017-04-10T08:45:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/26217793?v=3&amp;s=30"/>
+    <author>
+      <name>Tessa-h97</name>
+      <uri>https://github.com/Tessa-h97</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Logo und Verantwortlichkeiten hinzugefügt&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/833f3603f57dc0cd3731faffd5560d1b6e7c7d1d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/833f3603f57dc0cd3731faffd5560d1b6e7c7d1d"/>
+    <title>
+        Von 16:9 zu 4:3
+    </title>
+    <updated>2017-04-10T08:36:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/26217793?v=3&amp;s=30"/>
+    <author>
+      <name>Tessa-h97</name>
+      <uri>https://github.com/Tessa-h97</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Von 16:9 zu 4:3&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/42f80c6317e66befd4300c70dae474506d32be4c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/42f80c6317e66befd4300c70dae474506d32be4c"/>
+    <title>
+        Für Review; in 4:3 Format für Beamer
+    </title>
+    <updated>2017-04-10T08:36:37Z</updated>
     <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/26217649?v=3&amp;s=30"/>
     <author>
       <name>Severin9er</name>
       <uri>https://github.com/Severin9er</uri>
     </author>
     <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Anpassung
-
-Designbeschreibung und Anleitung aktualisiert, damit sie die Funktionen Profil/Filter anlegen enthalten&lt;/pre&gt;
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Für Review; in 4:3 Format für Beamer&lt;/pre&gt;
     </content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:Grit::Commit/c52c22359be61406ff66f4c94a64264c752ce5ee</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/c52c22359be61406ff66f4c94a64264c752ce5ee"/>
+    <id>tag:github.com,2008:Grit::Commit/060c451311d337d479eb1c88e1cff3ff9e92f774</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/060c451311d337d479eb1c88e1cff3ff9e92f774"/>
     <title>
-        Aufwandserfassung
+        Für Review am 10.4.
     </title>
-    <updated>2017-03-26T15:09:28Z</updated>
+    <updated>2017-04-10T04:49:38Z</updated>
     <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/26217649?v=3&amp;s=30"/>
     <author>
       <name>Severin9er</name>
       <uri>https://github.com/Severin9er</uri>
     </author>
     <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Aufwandserfassung&lt;/pre&gt;
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Für Review am 10.4.&lt;/pre&gt;
     </content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:Grit::Commit/9b4103e3586606f0699bc9df0dec7609dceb4721</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/9b4103e3586606f0699bc9df0dec7609dceb4721"/>
+    <id>tag:github.com,2008:Grit::Commit/1d76ee2be48e67301b377c00bb14aa2a6526de4f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/1d76ee2be48e67301b377c00bb14aa2a6526de4f"/>
     <title>
-        added technical preview for presentation
+        Add files via upload
     </title>
-    <updated>2017-03-26T13:19:36Z</updated>
-    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/25927991?v=3&amp;s=30"/>
+    <updated>2017-04-09T11:59:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/26217793?v=3&amp;s=30"/>
     <author>
-      <name>0xDEADBE01plus0xEE</name>
-      <uri>https://github.com/0xDEADBE01plus0xEE</uri>
+      <name>Tessa-h97</name>
+      <uri>https://github.com/Tessa-h97</uri>
     </author>
     <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;added technical preview for presentation&lt;/pre&gt;
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add files via upload&lt;/pre&gt;
     </content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:Grit::Commit/d30aafbbc66f036f26103bd89b2c48c0554c7565</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/d30aafbbc66f036f26103bd89b2c48c0554c7565"/>
+    <id>tag:github.com,2008:Grit::Commit/19eac46fd573e8ebdd6008fdbe0c93e28361b452</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/19eac46fd573e8ebdd6008fdbe0c93e28361b452"/>
     <title>
-        Exported latest state to executable .jar file
+        Für das Review am 10.04
     </title>
-    <updated>2017-03-25T16:42:55Z</updated>
-    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/25927991?v=3&amp;s=30"/>
+    <updated>2017-04-09T11:17:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/26217793?v=3&amp;s=30"/>
     <author>
-      <name>0xDEADBE01plus0xEE</name>
-      <uri>https://github.com/0xDEADBE01plus0xEE</uri>
+      <name>Tessa-h97</name>
+      <uri>https://github.com/Tessa-h97</uri>
     </author>
     <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Exported latest state to executable .jar file&lt;/pre&gt;
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Für das Review am 10.04&lt;/pre&gt;
     </content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:Grit::Commit/a7ecdb7ccb7ae1a3e2f883e64f6a99d173ebdb1f</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/a7ecdb7ccb7ae1a3e2f883e64f6a99d173ebdb1f"/>
+    <id>tag:github.com,2008:Grit::Commit/55ddf53b2ffb6812d6446222af47d4b6a89b4060</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/55ddf53b2ffb6812d6446222af47d4b6a89b4060"/>
     <title>
-        Merge branch &#39;addingConfig&#39; into almost_master
+        Formatierung wiederhergestellt
     </title>
-    <updated>2017-03-25T16:25:22Z</updated>
-    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/25927991?v=3&amp;s=30"/>
+    <updated>2017-04-09T10:54:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/26217793?v=3&amp;s=30"/>
     <author>
-      <name>0xDEADBE01plus0xEE</name>
-      <uri>https://github.com/0xDEADBE01plus0xEE</uri>
+      <name>Tessa-h97</name>
+      <uri>https://github.com/Tessa-h97</uri>
     </author>
     <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;addingConfig&amp;#39; into almost_master&lt;/pre&gt;
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Formatierung wiederhergestellt&lt;/pre&gt;
     </content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:Grit::Commit/f1172f796640dba36ce2ed929ea859a908ace57e</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/f1172f796640dba36ce2ed929ea859a908ace57e"/>
+    <id>tag:github.com,2008:Grit::Commit/e44b7dd771c245d4ec40cf5c29377149b77f8703</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/e44b7dd771c245d4ec40cf5c29377149b77f8703"/>
     <title>
-        added an editable configuration file
+        Add files via upload
     </title>
-    <updated>2017-03-25T16:21:48Z</updated>
-    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/25927991?v=3&amp;s=30"/>
+    <updated>2017-04-09T10:11:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/25401210?v=3&amp;s=30"/>
     <author>
-      <name>0xDEADBE01plus0xEE</name>
-      <uri>https://github.com/0xDEADBE01plus0xEE</uri>
+      <name>RoQuoTriX</name>
+      <uri>https://github.com/RoQuoTriX</uri>
     </author>
     <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;added an editable configuration file&lt;/pre&gt;
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add files via upload&lt;/pre&gt;
     </content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:Grit::Commit/0a272b87597e2de9027fe509d10936ce51fbc8d0</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/0a272b87597e2de9027fe509d10936ce51fbc8d0"/>
+    <id>tag:github.com,2008:Grit::Commit/c8171024529b91dc0ac82f6f88aef62ef1af07e3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/c8171024529b91dc0ac82f6f88aef62ef1af07e3"/>
     <title>
-        added a class that stores some configuration parameters
+        Add files via upload
     </title>
-    <updated>2017-03-24T23:59:38Z</updated>
-    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/25927991?v=3&amp;s=30"/>
+    <updated>2017-04-08T10:25:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/25401210?v=3&amp;s=30"/>
     <author>
-      <name>0xDEADBE01plus0xEE</name>
-      <uri>https://github.com/0xDEADBE01plus0xEE</uri>
+      <name>RoQuoTriX</name>
+      <uri>https://github.com/RoQuoTriX</uri>
     </author>
     <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;added a class that stores some configuration parameters
-
-these parameters are read from ./config.txt (hardcoded)
-This allows users to change the programs behavior without recompiling. 
-
-improved output of error messages in exception handlers. These outputs
-are meant to be logged and viewed later.&lt;/pre&gt;
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add files via upload&lt;/pre&gt;
     </content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:Grit::Commit/0d5d97b1eeac5f638045f85a98ca4052769c6b37</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/0d5d97b1eeac5f638045f85a98ca4052769c6b37"/>
+    <id>tag:github.com,2008:Grit::Commit/251d9b035bbfe243a3eedb2eff770ff7225221d2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/251d9b035bbfe243a3eedb2eff770ff7225221d2"/>
     <title>
-        Anleitung für den Protypen
+        changed Aufwandserfassung
     </title>
-    <updated>2017-03-24T17:06:10Z</updated>
+    <updated>2017-04-07T07:50:54Z</updated>
     <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/26217649?v=3&amp;s=30"/>
     <author>
       <name>Severin9er</name>
       <uri>https://github.com/Severin9er</uri>
     </author>
     <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Anleitung für den Protypen
-
-Ausführliche Anleitung mit allen derzeitigen Funktionen des Prototypen. Jede Seite ist als Bild enthalten.&lt;/pre&gt;
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;changed Aufwandserfassung&lt;/pre&gt;
     </content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:Grit::Commit/2d55fa7377dfcc2feecc7032d810e348232123bf</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/2d55fa7377dfcc2feecc7032d810e348232123bf"/>
+    <id>tag:github.com,2008:Grit::Commit/ed00eb4689cfa027325e3f245be918cb3c971567</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/ed00eb4689cfa027325e3f245be918cb3c971567"/>
     <title>
-        Designbeschreibung
+        Delete Gefundene Fehler.txt
     </title>
-    <updated>2017-03-24T16:53:59Z</updated>
+    <updated>2017-04-07T07:21:17Z</updated>
     <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/26217649?v=3&amp;s=30"/>
     <author>
       <name>Severin9er</name>
       <uri>https://github.com/Severin9er</uri>
     </author>
     <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Designbeschreibung&lt;/pre&gt;
-    </content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:Grit::Commit/995913b0de79cc28b8f5bc5b2f060fae00a42fc1</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/995913b0de79cc28b8f5bc5b2f060fae00a42fc1"/>
-    <title>
-        Merge branch &#39;localTesting&#39; into almost_master
-    </title>
-    <updated>2017-03-24T16:01:08Z</updated>
-    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/25927991?v=3&amp;s=30"/>
-    <author>
-      <name>0xDEADBE01plus0xEE</name>
-      <uri>https://github.com/0xDEADBE01plus0xEE</uri>
-    </author>
-    <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;localTesting&amp;#39; into almost_master&lt;/pre&gt;
-    </content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:Grit::Commit/365d9fffce5753512f05aa845f4db33d21af88c8</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/365d9fffce5753512f05aa845f4db33d21af88c8"/>
-    <title>
-        Added: image URLs are now extracted from the article contents and added
-    </title>
-    <updated>2017-03-24T15:59:36Z</updated>
-    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/25927991?v=3&amp;s=30"/>
-    <author>
-      <name>0xDEADBE01plus0xEE</name>
-      <uri>https://github.com/0xDEADBE01plus0xEE</uri>
-    </author>
-    <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added: image URLs are now extracted from the article contents and added
-to the database
-Updated comparison of old and new feeds: the new implementation is a bit
-smaller now, but FeedEntries cannot drop or appear twice any more, if
-they are provided in an unexpected order by their publishers.&lt;/pre&gt;
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Delete Gefundene Fehler.txt&lt;/pre&gt;
     </content>
   </entry>
 </feed>

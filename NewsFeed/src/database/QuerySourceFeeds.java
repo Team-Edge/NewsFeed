@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import datatypes.SourceFeed;
+import datatypes.SourceFeedFactory;
 
 /**
  * SQL query to get all SourceFeed IDs
@@ -38,7 +39,7 @@ public class QuerySourceFeeds {
 			ArrayList<SourceFeed> ret = new ArrayList<SourceFeed>();
 			result= wrapped.getResult();
 			while(result.next()) {
-				ret.add(new SourceFeed(result.getInt(1), result.getString(2), result.getString(3)));
+				ret.add(SourceFeedFactory.createSourceFeed(result.getInt(1), result.getString(2), result.getString(3)));
 			}
 			return ret;	
 		} finally {

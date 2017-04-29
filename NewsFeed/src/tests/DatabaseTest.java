@@ -143,7 +143,7 @@ public class DatabaseTest {
 	public void testQueryEntriesToSource()
 	{
 		try{
-			new QueryEntriesToSource(null,-1);
+			new QueryEntriesToSource(null,null);
 			fail("No Exception thrown where expected");
 		}catch(Exception e){
 			System.out.println(e);

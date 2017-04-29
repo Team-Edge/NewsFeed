@@ -20,7 +20,7 @@ public class FeedUtilsTest {
 
 	@Test
 	public void testTextSearch() {
-		SourceFeedEntry s = new SourceFeedEntry("Title Titel","Description Beschreibung",new Date(),"Text Text","URL URL","imgURL BildURL");
+		SourceFeedEntry s = new SourceFeedEntryRSSImpl("Title Titel","Description Beschreibung",new Date(),"Text Text","URL URL","imgURL BildURL");
 		List<String> titleWords = new ArrayList<String>();
 		List<String> descrWords = new ArrayList<String>();
 		List<String> textWords = new ArrayList<String>();

@@ -5,6 +5,7 @@ import java.sql.SQLException;
 import java.util.LinkedList;
 import java.util.List;
 
+import datatypes.SourceFeed;
 import datatypes.SourceFeedEntry;
 
 /**
@@ -12,6 +13,7 @@ import datatypes.SourceFeedEntry;
  */
 public class QueryEntriesToSource {
 	private SqlQuery wrapped;
+	private SourceFeed sourcefeed;
 	
 	/**
 	 * standard constructor
@@ -21,9 +23,9 @@ public class QueryEntriesToSource {
 	 * @throws SQLException	if the connection fails or parameters are malformed
 	 * @throws IllegalArgumentException	if database is null
 	 */
-	public QueryEntriesToSource(DBconnection database, int sourceID) throws SQLException {
+	public QueryEntriesToSource(DBconnection database, SourceFeed sourcefeed) throws SQLException {
 		String sql = "SELECT ID, Title, Description, Img_URL, PubDate, URL, Text FROM Newsfeed.SourceFeedEntry "
-					+ "WHERE toRemove = 0 AND SourceFeed_ID = " + sourceID + ";";
+					+ "WHERE toRemove = 0 AND SourceFeed_ID = " + sourcefeed.getID() + ";";
 		this.wrapped = new SqlQuery(database, sql);
 	}
 
@@ -41,7 +43,7 @@ public class QueryEntriesToSource {
 			List<SourceFeedEntry> ret = new LinkedList<SourceFeedEntry>();
 			result= wrapped.getResult();
 			while(result.next()) {
-				ret.add(new SourceFeedEntry(result.getInt(1),			//ID
+				ret.add(this.sourcefeed.createEntry(result.getInt(1),	//ID
 											result.getString(2),		//Title
 											result.getString(3), 		//Description
 											result.getDate(5), 			//PubDate

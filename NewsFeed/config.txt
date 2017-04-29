@@ -32,3 +32,9 @@ generalBeVerbose=True
 
 	# This DateFormat is used for the Output of TimeStamps to stdout or stderr
 generalOutputDateFormat=dd.MM.yyyy HH:mm:ss
+
+	# Facebook login data
+FBAppID=
+FBAppSecret=
+	# Facebook cachefile DateFormat
+FBCacheDateFormat=dd.MM.yyyy HH:mm:ss
