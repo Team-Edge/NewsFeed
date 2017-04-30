@@ -2,6 +2,9 @@ package datatypes;
 
 import java.util.Date;
 
+/**
+ * data container interface for a entry of a feed 
+ */
 public interface SourceFeedEntry {
 
 	/**

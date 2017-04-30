@@ -3,8 +3,14 @@ package datatypes;
 import java.util.Calendar;
 import java.util.Date;
 
+import org.jsoup.Jsoup;
+import org.jsoup.examples.HtmlToPlainText;
+
 import facebook4j.Post;
 
+/**
+ * data container for a entry of a Facebook feed 
+ */
 public class SourceFeedEntryFBImpl implements SourceFeedEntry {
 	private int ID;
 	private String title;
@@ -13,7 +19,6 @@ public class SourceFeedEntryFBImpl implements SourceFeedEntry {
 	private String text;
 	private String URL;
 	private String imgURL;
-	
 	private String fbID;
 
 	
@@ -56,17 +61,25 @@ public class SourceFeedEntryFBImpl implements SourceFeedEntry {
 		this.imgURL = imgURL;
 	}
 	
-	
+	/**
+	 * automatic constructor 
+	 * 
+	 * @param article		facebook Post from that the entry will be generated
+	 */
 	public SourceFeedEntryFBImpl(Post article) {
 		this(article, "");
 	}
 	
 	/**
+	 * automatic constructor with standard picture
 	 * 
+	 * @param article		facebook Post from that the entry will be generated
+	 * @param stdpic		standard picture that is used if no picture is present in article
 	 */
 	public SourceFeedEntryFBImpl(Post article, String stdpic) {
 		this.ID=0;		
 		this.fbID = article.getId();
+		//title
 		if(article.getStory()!=null) {
 			this.title = article.getStory();
 		} else if(article.getFrom()!=null) {
@@ -76,22 +89,25 @@ public class SourceFeedEntryFBImpl implements SourceFeedEntry {
 			if(article.getName()!=null) {
 				this.title += ": "+article.getName();
 			}
-		}		
+		}
+		//description
 		if(article.getMessage()!=null) {
 			this.description = article.getMessage();
 		} else if(article.getDescription()!=null) {
 			this.description = article.getDescription();
 		} else {
 			this.description = this.title;
-		}		
+		}	
 		this.text=this.description;
-		if(article.getLink() != null) {
-			this.URL = article.getLink().toString();
-		} else if(article.getPermalinkUrl() != null) {
+		//URL
+		if(article.getPermalinkUrl() != null) {
 			this.URL = article.getPermalinkUrl().toString();
+		} else if(article.getLink() != null) {
+			this.URL = article.getLink().toString();
 		} else {
 			this.URL = "www.facebook.com";
 		}
+		//pubDate
 		if(article.getCreatedTime()!=null) {
 			this.pubDate = article.getCreatedTime();
 		} else if(article.getUpdatedTime()!=null) {
@@ -99,6 +115,7 @@ public class SourceFeedEntryFBImpl implements SourceFeedEntry {
 		} else {
 			this.pubDate = Calendar.getInstance().getTime();
 		}
+		//ImgURL
 		if(article.getFullPicture()!=null) {
 			this.imgURL = article.getFullPicture().toString();
 		} else {
@@ -106,16 +123,23 @@ public class SourceFeedEntryFBImpl implements SourceFeedEntry {
 		}
 	}
 
+	/**
+	 * enlarges this SourceFeedEntry
+	 * which means that a full text and an image will be added
+	 * @see feedUtils.FeedEnlarger
+	 */
 	@Override
 	public void enlarge() {
-		//do nothing
-		//this file is not from a rss-feed, so it can not be enlarged
-		//TODO: find a proper way to avoid race conditions
-		try {
-			Thread.sleep(1000);
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-		}
+		this.cleanHtmlTags();
+	}
+	
+	/**
+	 * removes all html tags from the SourceFeedEntry
+	 */
+	private void cleanHtmlTags() {
+		this.title = new HtmlToPlainText().getPlainText(Jsoup.parse(this.title));
+		this.description = new HtmlToPlainText().getPlainText(Jsoup.parse(this.description));
+		this.text = new HtmlToPlainText().getPlainText(Jsoup.parse(this.text));
 	}
 	
 
@@ -175,7 +199,10 @@ public class SourceFeedEntryFBImpl implements SourceFeedEntry {
 		return imgURL;
 	}
 	
-	
+	/**
+	 * returns the Facebook API ID of the corresponding Post of this SourceFeedEntry
+	 * @return the Facebook API ID of the corresponding Post of this SourceFeedEntry
+	 */
 	public String getFbID() {
 		return fbID;
 	}

@@ -4,7 +4,51 @@
   <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commits/master"/>
   <link type="application/atom+xml" rel="self" href="https://github.com/Team-Edge/NewsFeed/commits/master.atom"/>
   <title>Recent Commits to NewsFeed:master</title>
-  <updated>2017-04-27T15:31:10Z</updated>
+  <updated>2017-04-30T07:51:55Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1325df84c471312483b0fe81216464c5aa193358</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/1325df84c471312483b0fe81216464c5aa193358"/>
+    <title>
+        Add files via upload
+    </title>
+    <updated>2017-04-30T07:51:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/25401210?v=3&amp;s=30"/>
+    <author>
+      <name>RoQuoTriX</name>
+      <uri>https://github.com/RoQuoTriX</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add files via upload&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e115cb7b06732468a7127aa607e4197e875f53c7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/e115cb7b06732468a7127aa607e4197e875f53c7"/>
+    <title>
+        first actually working preview of the facebook implementation
+    </title>
+    <updated>2017-04-29T17:42:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/25927991?v=3&amp;s=30"/>
+    <author>
+      <name>0xDEADBE01plus0xEE</name>
+      <uri>https://github.com/0xDEADBE01plus0xEE</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;first actually working preview of the facebook implementation
+
+major changes to design structure: 
+*SourceFeed and SourceFeedEntry are interfaces with two implementations
+now
+*SourceFeed is Factory for SourceFeedEntry, SourceFeedFactory is factory
+for SourceFeed
+*new IApplicationJob SourceFeedChecker: checks a given url if it is a
+valid SourceFeed
+
+still much to do, but the structural design will probably stay like this
+I will add javadoc comments later, because there is too much blood in my
+alcohol at the moment :D&lt;/pre&gt;
+    </content>
+  </entry>
   <entry>
     <id>tag:github.com,2008:Grit::Commit/6406189cd6e7a96757c50d43bfe39d4bce2011d4</id>
     <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/6406189cd6e7a96757c50d43bfe39d4bce2011d4"/>
@@ -293,38 +337,6 @@ Protokoll vom Review 10.04&lt;/pre&gt;
     </author>
     <content type="html">
       &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add files via upload&lt;/pre&gt;
-    </content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:Grit::Commit/251d9b035bbfe243a3eedb2eff770ff7225221d2</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/251d9b035bbfe243a3eedb2eff770ff7225221d2"/>
-    <title>
-        changed Aufwandserfassung
-    </title>
-    <updated>2017-04-07T07:50:54Z</updated>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/26217649?v=3&amp;s=30"/>
-    <author>
-      <name>Severin9er</name>
-      <uri>https://github.com/Severin9er</uri>
-    </author>
-    <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;changed Aufwandserfassung&lt;/pre&gt;
-    </content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:Grit::Commit/ed00eb4689cfa027325e3f245be918cb3c971567</id>
-    <link type="text/html" rel="alternate" href="https://github.com/Team-Edge/NewsFeed/commit/ed00eb4689cfa027325e3f245be918cb3c971567"/>
-    <title>
-        Delete Gefundene Fehler.txt
-    </title>
-    <updated>2017-04-07T07:21:17Z</updated>
-    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/26217649?v=3&amp;s=30"/>
-    <author>
-      <name>Severin9er</name>
-      <uri>https://github.com/Severin9er</uri>
-    </author>
-    <content type="html">
-      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Delete Gefundene Fehler.txt&lt;/pre&gt;
     </content>
   </entry>
 </feed>

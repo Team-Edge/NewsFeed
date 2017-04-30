@@ -14,16 +14,19 @@ import database.QueryFilterWords;
 import database.QueryFilters;
 import datatypes.SourceFeedEntry;
 import feedUtils.TextSearch;
+import genericObserver.Observable;
+import genericObserver.Observable.Observer;
 import program.Configuration;
 
 /**
  * Thread to process SourceFeedEntries
  * @see SourceFeedEntry
  */
-public class UpdateService extends Thread {
+public class UpdateService implements Runnable, Observer<SourceFeedEntry> {
 	private DBconnection database;
 	private int sourceFeedID;
 	private List<SourceFeedEntry> newEntries;
+	private boolean finished;
 
 	/**
 	 * standard constructor
@@ -35,6 +38,7 @@ public class UpdateService extends Thread {
 		this.sourceFeedID = sourceFeedID;
 		this.database = database;
 		this.newEntries = new LinkedList<SourceFeedEntry>();
+		this.finished = false;
 	}
 	
 	/**
@@ -64,7 +68,7 @@ public class UpdateService extends Thread {
 	}
 
 	/**
-	 * loop for fetching, processing and notifying SourceFeedEntries from the queue
+	 * loop for fetching and processing SourceFeedEntries from the queue
 	 */
 	@Override
 	public void run() {
@@ -77,20 +81,27 @@ public class UpdateService extends Thread {
 					current = this.getEntry();
 				}
 				if(current==null) {
+					//thread ends when nothing is left to do and no more work will be added
+					if(this.finished) {
+						return;
+					}
 					try {
 						//thread waits until new entries are added to the queue
 						//notify will automatically be called on adding a new entry
 						synchronized(newEntries) {
-							this.newEntries.wait();
+							this.newEntries.wait(Configuration.getNetworkReadTimeout());
 						}
 					} catch (InterruptedException e) {
 						//thread ends on interrupt
-						//interrupt is expected to indicate that there will be no more entries
 						return;
 					}
 				}
 			} while(current == null);
-			
+			if (Configuration.getGeneralBeVerbose()) {
+				SimpleDateFormat sdf = new SimpleDateFormat(Configuration.getGeneralOutputDateFormat());
+				Calendar cal = Calendar.getInstance();
+				System.out.println(sdf.format(cal.getTime()) + " : Processing " + current.getURL());
+			}
 			//process the current entry
 			try {
 				processEntry(current);
@@ -106,12 +117,7 @@ public class UpdateService extends Thread {
 		        System.err.println(sdf.format(cal.getTime()) + " : Unknown error during FeedUpdateService");
 				System.err.println(e.getMessage());
 				System.err.println();
-			} finally {
-				synchronized(current) {
-					current.notifyAll();
-				}
 			}
-			
 		} while(true);	//no abort condition here; this can only be aborted by interrupt
 	}
 	
@@ -144,6 +150,22 @@ public class UpdateService extends Thread {
 				}
 			}		
 		}	
+	}
+
+	/**
+	 * called from another thread every time a new SourceFeedEntry is ready for processing
+	 * 
+	 * @param observed		Observable that is observed by this Observer
+	 * @param arg			SourceFeedEntry that is ready for being processed
+	 */
+	@Override
+	public void update(Observable<? extends SourceFeedEntry> observed, SourceFeedEntry arg) {
+		if(arg==null) {
+			//update with null is expected to indicate that there will be no more updates
+			this.finished = true;
+		} else {
+			this.addEntry(arg);
+		}
 	}
 
 }

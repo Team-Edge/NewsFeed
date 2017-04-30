@@ -19,6 +19,9 @@ import facebook4j.Reading;
 import facebook4j.ResponseList;
 import program.Configuration;
 
+/**
+ * Data Container for a facebook SourceFeed
+ */
 class SourceFeedFBImpl implements SourceFeed {
 	private int id;
 	private String url;
@@ -37,21 +40,41 @@ class SourceFeedFBImpl implements SourceFeed {
 		this.cache = cache;
 	}
 
+	/**
+	 * returns the SourceFeed_ID of this feed
+	 * SourceFeed_ID is used as primary key for the database
+	 * @return the SourceFeed_ID of this feed
+	 */
 	@Override
 	public int getID() {
 		return id;
 	}
 
+	/**
+	 * returns the URL of this SourceFeed
+	 * @return the URL of this SourceFeed
+	 */
 	@Override
 	public String getUrl() {
 		return url;
 	}
 
+	/**
+	 * returns the path of the local cachefile
+	 * @return the path of the local cachefile
+	 */
 	@Override
 	public String getCache() {
 		return cache;
 	}
 
+	/**
+	 * fetches new SourceFeedEntries from source and identify obsolete ones from cachefile
+	 * 
+	 * @param newEntries	list where new SourceFeedEntries will be added
+	 * @param oldEntries	list where old SourceFeedEntries will be added
+	 * @throws Exception	if connection to source fails or data in source is malformed
+	 */
 	@Override
 	public void fetchEntries(List<SourceFeedEntry> newEntries, List<SourceFeedEntry> oldEntries) throws Exception {
 		Facebook facebook = new FacebookFactory().getInstance();
@@ -130,17 +153,45 @@ class SourceFeedFBImpl implements SourceFeed {
 		}
 	}
 
+	/**
+	 * manual factory method for new SourceFeedEntries that are not in DB yet
+	 * 
+	 * @param title			String containing the entry's title
+	 * @param description	String containing the entry's description
+	 * @param pubDate		Date of publication or last update
+	 * @param text			String containing the full text of the entry
+	 * @param URL			URL pointing to the original entry
+	 * @param imgURL		URL pointing to an image belonging to the entry
+	 * @return 				the newly generated SourceFeedEntry
+	 */
 	@Override
 	public SourceFeedEntry createEntry(String title, String description, Date pubDate, String text, String URL, String imgURL) {
 		return this.createEntry(0, title, description, pubDate, text, URL, imgURL);
 	}
 
+	/**
+	 * manual factory method for SourceFeedEntries
+	 * 
+	 * @param id			ID number. Use 0 for entries that are not in database yet
+	 * @param title			String containing the entry's title
+	 * @param description	String containing the entry's description
+	 * @param pubDate		Date of publication or last update
+	 * @param text			String containing the full text of the entry
+	 * @param URL			URL pointing to the original entry
+	 * @param imgURL		URL pointing to an image belonging to the entry
+	 * @return 				the newly generated SourceFeedEntry
+	 */
 	@Override
 	public SourceFeedEntry createEntry(int id, String title, String description, Date pubDate, String text, String URL, String imgURL) {
 		return new SourceFeedEntryFBImpl(id, title, description, pubDate, text, URL, imgURL);
 	}
 
-
+	/**
+	 * checks if the given URL points to a valid SourceFeedSource
+	 * 
+	 * @param url			URL that has to be checked
+	 * @return				true if and only if this application is able to retrieve SourceFeedEntries from url
+	 */
 	public static boolean testURL(String url) {
 		Facebook facebook = new FacebookFactory().getInstance();
 		facebook.setOAuthAppId(Configuration.getFbAppID(), Configuration.getFbAppSecret());

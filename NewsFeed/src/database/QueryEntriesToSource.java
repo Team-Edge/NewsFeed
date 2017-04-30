@@ -19,7 +19,7 @@ public class QueryEntriesToSource {
 	 * standard constructor
 	 * 
 	 * @param database		DBconnection for the server to which the query will be sent
-	 * @param sourceID		ID of the filter for that URLs are filtered
+	 * @param sourcefeed	SourceFeed whose entries are queried
 	 * @throws SQLException	if the connection fails or parameters are malformed
 	 * @throws IllegalArgumentException	if database is null
 	 */
@@ -32,7 +32,7 @@ public class QueryEntriesToSource {
 	/**
 	 * sends the query to the server for execution
 	 * 
-	 * @return a list of all SourceFeedEntries that are allowed by the filter
+	 * @return a list of all SourceFeedEntries that are child of the query SourceFeed
 	 * @throws Exception if connection or execution fails
 	 * @see SourceFeedEntry
 	 */

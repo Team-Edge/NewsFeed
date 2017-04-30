@@ -29,7 +29,7 @@ public class QuerySourceFeeds {
 	/**
 	 * sends the query to the server for execution
 	 * 
-	 * @return a list of all SourceFeedIDs
+	 * @return a list of all SourceFeeds
 	 * @throws Exception if connection or execution fails
 	 */
 	public List<SourceFeed> getSources() throws Exception {

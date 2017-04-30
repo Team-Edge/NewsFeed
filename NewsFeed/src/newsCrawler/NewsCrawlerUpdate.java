@@ -1,6 +1,7 @@
 package newsCrawler;
 
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.LinkedList;
 import java.util.List;
@@ -9,6 +10,7 @@ import database.DBconnection;
 import database.OrderRemoveSourceFeedEntry;
 import datatypes.SourceFeed;
 import datatypes.SourceFeedEntry;
+import genericObserver.Observable.Observer;
 import program.Configuration;
 
 /**
@@ -59,43 +61,27 @@ public class NewsCrawlerUpdate implements Runnable{
 			//enlarge and process FeedEntries in a pipe
 			//while srvEnlarger waits for an external service to enlarge a FeedEntry, 
 			//srvUpdater updates the already enlarged FeedEntries
-			EnlargingService srvEnlarger = new EnlargingService(newEntries);
-			UpdateService srvUpdater = new UpdateService(this.database, this.toUpdate.getID());
+			//enlarged SourceFeedEntries are passed with the Observer pattern
+			UpdateService updater = new UpdateService(this.database, this.toUpdate.getID());
+			ArrayList<Observer<? super SourceFeedEntry>> observers = new ArrayList<Observer<? super SourceFeedEntry>>();
+			observers.add(updater);
+			EnlargingService enlarger = new EnlargingService(newEntries, observers);
+			Thread srvEnlarger = new Thread(enlarger);
+			Thread srvUpdater = new Thread(updater);
 			srvEnlarger.start();
 			srvUpdater.start();
-			for (SourceFeedEntry current : newEntries) {
-				try {
-					synchronized (current) {
-						do {
-							current.wait();
-						} while (current.getText() == null);
-					}
-				} catch (InterruptedException e) {
-					// interrupts not expected here
-					return;
-				}
-				if (Configuration.getGeneralBeVerbose()) {
-					cal = Calendar.getInstance();
-					System.out.println(sdf.format(cal.getTime()) + " : Processing " + current.getURL());
-				}
-				synchronized (srvUpdater) {
-					srvUpdater.addEntry(current);
-				}
+			try {
+				//wait for other threads to end
+				srvUpdater.join();
+			} catch (InterruptedException e) {
+				cal = Calendar.getInstance();
+		        System.err.println(sdf.format(cal.getTime()) + " : Unexpected interrupt while processing new entries");
+				System.err.println(e.getMessage());
+				System.err.println();
+				srvEnlarger.interrupt();
+				srvUpdater.interrupt();
+				return;
 			}
-			SourceFeedEntry last = newEntries.get(newEntries.size() - 1);
-			synchronized (last) {
-				try {
-					last.wait();
-				} catch (InterruptedException e) {
-					cal = Calendar.getInstance();
-			        System.err.println(sdf.format(cal.getTime()) + " : NewsCrawlerUpdate was interrupted. ");
-					System.err.println(e.getMessage());
-					System.err.println();
-					return;
-				} finally {
-					srvUpdater.interrupt();
-				}
-			} 
 		}
 		//remove old entries from database
 		//actually: mark them as free to be removed
