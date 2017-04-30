@@ -58,7 +58,7 @@ public class Configuration {
 		
 		fbAppID = prop.getProperty("FBAppID", "");
 		fbAppSecret = prop.getProperty("FBAppSecret", "");
-		fbCacheDateFormat = prop.getProperty("FBCacheDateFormat", "");
+		fbCacheDateFormat = prop.getProperty("FBCacheDateFormat", "dd.MM.yyyy HH:mm:ss");
 		
 		networkConnectionTimeout = Integer.parseUnsignedInt(prop.getProperty("networkConnectionTimeout", "10000"));
 		networkReadTimeout = Integer.parseUnsignedInt(prop.getProperty("networkReadTimeout", "10000"));
@@ -166,16 +166,26 @@ public class Configuration {
 		return generalOutputDateFormat;
 	}
 	
-	
+	/**
+	 * returns the App ID needed for communication to the facebook API
+	 * @return the App ID needed for communication to the facebook API
+	 */
 	public static String getFbAppID() {
 		return fbAppID;
 	}
 
-	
+	/**
+	 * returns the App Secret needed for communication to the facebook API
+	 * @return the App Secret needed for communication to the facebook API
+	 */
 	public static String getFbAppSecret() {
 		return fbAppSecret;
 	}
 	
+	/**
+	 * returns the Date Format String used in facebook cache files
+	 * @return the Date Format String used in facebook cache files
+	 */
 	public static String getFbCacheDateFormat() {
 		return fbCacheDateFormat;
 	}

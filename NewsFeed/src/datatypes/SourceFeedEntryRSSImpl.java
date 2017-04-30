@@ -1,15 +1,21 @@
 package datatypes;
 
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.Date;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import org.jsoup.Jsoup;
+import org.jsoup.examples.HtmlToPlainText;
+
 import com.sun.syndication.feed.synd.SyndEntry;
 
 import feedUtils.FeedEnlarger;
+import program.Configuration;
 
 /**
- * data container for a entry of a feed 
+ * data container for a entry of a RSS feed 
  */
 public class SourceFeedEntryRSSImpl implements SourceFeedEntry {
 	private int ID;
@@ -66,22 +72,32 @@ public class SourceFeedEntryRSSImpl implements SourceFeedEntry {
 	 */
 	public SourceFeedEntryRSSImpl(SyndEntry entry) {
 		this.ID = 0;
+		
+		//by convention, RSS-Feeds have to provide an URL
+		//and at least a title OR description
 		try {
 			this.title = entry.getTitle().trim();
 		} catch (Exception e) {
 			this.title = null;
 		}
-		
 		try {
 			this.description = entry.getDescription().getValue().trim();
 		} catch (Exception e) {
 			this.description = null;
 		}
+		//make sure title and description are not empty
+		//in worst case they are set equal
 		if(this.description == null) {
 			this.description = this.title;
 		}
 		else if(this.description.trim().isEmpty()) {
 			this.description = this.title;
+		}
+		if(this.title == null) {
+			this.title = this.description;
+		}
+		else if(this.title.trim().isEmpty()) {
+			this.title = this.description;
 		}
 		
 		if(entry.getUpdatedDate() != null) {
@@ -125,8 +141,23 @@ public class SourceFeedEntryRSSImpl implements SourceFeedEntry {
 
 		} catch (NullPointerException e)
 		{
-			System.out.println(e);
+			SimpleDateFormat sdf = new SimpleDateFormat(Configuration.getGeneralOutputDateFormat());
+        	Calendar cal = Calendar.getInstance();
+        	System.err.println(sdf.format(cal.getTime()) + " : Error while extracting pictures from enlarged RSS feed");
+			System.err.println(e.getMessage());
+			System.err.println();
 		}
+		
+		this.cleanHtmlTags();
+	}
+	
+	/**
+	 * removes all html tags from the SourceFeedEntry
+	 */
+	private void cleanHtmlTags() {
+		this.title = new HtmlToPlainText().getPlainText(Jsoup.parse(this.title));
+		this.description = new HtmlToPlainText().getPlainText(Jsoup.parse(this.description));
+		this.text = new HtmlToPlainText().getPlainText(Jsoup.parse(this.text));
 	}
 
 	/**

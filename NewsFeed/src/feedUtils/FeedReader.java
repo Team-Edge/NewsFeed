@@ -1,8 +1,11 @@
+
 package feedUtils;
 
 import java.io.IOException;
 import java.net.URL;
 import java.net.URLConnection;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -42,7 +45,11 @@ public class FeedReader {
         try {
         	feed = input.build(new XmlReader(feedCon.getInputStream()));
         } catch(Exception e) {
-        	System.out.println(e);
+        	SimpleDateFormat sdf = new SimpleDateFormat(Configuration.getGeneralOutputDateFormat());
+        	Calendar cal = Calendar.getInstance();
+        	System.err.println(sdf.format(cal.getTime()) + " : Error while fetching RSS feed");
+			System.err.println(e.getMessage());
+			System.err.println();
         	feed = new SyndFeedImpl();
         }
         @SuppressWarnings("unchecked")

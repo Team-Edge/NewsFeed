@@ -11,13 +11,16 @@ public class SourceFeedChecker implements IApplicationJob {
 
 	/**
 	 * standard constructor
+	 * @param url 	the url that has to be checked
 	 */
 	public SourceFeedChecker(String url) {
 		this.url = url;
 	}
 
 	/**
-	 * moves old SourceFeedEntries to archive table
+	 * checks validity of the URL given as program argument
+	 * program exits with 0 if SourceFeedEntries can be retrieved from the URL
+	 * program exits with 1 otherwise
 	 */
 	@Override
 	public void run() {

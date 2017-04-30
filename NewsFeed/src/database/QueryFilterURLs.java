@@ -31,7 +31,7 @@ public class QueryFilterURLs {
 	/**
 	 * sends the query to the server for execution
 	 * 
-	 * @return a list of all SourceFeedIDs that are allowed by the filter
+	 * @return a list of all SourceFeeds that are allowed by the filter
 	 * @throws Exception if connection or execution fails
 	 */
 	public List<SourceFeed> getSourceFeeds() throws Exception {

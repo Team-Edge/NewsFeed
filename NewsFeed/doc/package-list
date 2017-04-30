@@ -4,7 +4,9 @@ database
 datatypes
 feedUtils
 filterUpdate
+genericObserver
 helptextoutput
 newsCrawler
 program
+sourceFeedChecker
 tests
