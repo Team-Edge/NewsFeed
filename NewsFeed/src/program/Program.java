@@ -120,7 +120,7 @@ public class Program {
 					throw new Exception("Filter ID has to be a positive Integer: " + args[i]);
 				}
 				break;
-			case "checksourcefeed":
+			case "checksourcefeed":	//checksourcefeed
 			case "Checksourcefeed":
 			case "CheckSourcefeed":
 			case "CheckSourceFeed":
