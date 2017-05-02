@@ -27,6 +27,7 @@ public class QueryEntriesToSource {
 		String sql = "SELECT ID, Title, Description, Img_URL, PubDate, URL, Text FROM Newsfeed.SourceFeedEntry "
 					+ "WHERE toRemove = 0 AND SourceFeed_ID = " + sourcefeed.getID() + ";";
 		this.wrapped = new SqlQuery(database, sql);
+		this.sourcefeed = sourcefeed;
 	}
 
 	/**
