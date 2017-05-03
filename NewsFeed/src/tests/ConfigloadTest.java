@@ -11,6 +11,7 @@ public class ConfigloadTest {
 	@Test
 	public void testConfigLoad()
 	{
+		//Test for right loading
 		ConfigLoad cl = new ConfigLoad("./TestFiles/TestErrorConfig.txt");
 		assertEquals(cl.toString(),"ConfigLoad");
 		assertFalse(cl.needsDB());
@@ -27,6 +28,22 @@ public class ConfigloadTest {
 		assertEquals(Configuration.getServiceCyclicDelay(),10);
 		assertTrue(Configuration.getGeneralBeVerbose());
 		assertEquals(Configuration.getGeneralOutputDateFormat(),"aa.MM.yyyy HH:mm:bb");
+		
+		//Test for null
+		cl = new ConfigLoad(null);
+		cl.run();
+		assertEquals(Configuration.getDbServerHostName(), "127.0.0.1");
+		assertEquals(Configuration.getDbServerPort(), "3306");
+		assertEquals(Configuration.getDbServerSchemaName(),"Newsfeed");
+		assertEquals(Configuration.getDbServerUserName(), "root");
+		assertEquals(Configuration.getDbServerPassword(), "");
+		assertEquals(Configuration.getDbSqlDateFormat(),"yyyy-MM-dd HH:mm:ss");
+		assertEquals(Configuration.getNetworkConnectionTimeout(),10000);
+		assertEquals(Configuration.getNetworkReadTimeout(),10000);
+		assertFalse(Configuration.getServiceInfiniteLoop());
+		assertEquals(Configuration.getServiceCyclicDelay(),1000);
+		assertFalse(Configuration.getGeneralBeVerbose());
+		assertEquals(Configuration.getGeneralOutputDateFormat(),"dd.MM.yyyy HH:mm:ss");
 	}
 
 }
