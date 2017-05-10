@@ -54,11 +54,23 @@ public class FeedReader {
         }
         @SuppressWarnings("unchecked")
 		List<SyndEntry> entries = feed.getEntries();
-        List<SourceFeedEntry> ret = new LinkedList<SourceFeedEntry>();
+        List<SourceFeedEntryRSSImpl> ret = new LinkedList<SourceFeedEntryRSSImpl>();
         for(SyndEntry entry : entries) {
-        	ret.add(new SourceFeedEntryRSSImpl(entry));
+        	SourceFeedEntryRSSImpl nextone = new SourceFeedEntryRSSImpl(entry);
+        	//filter out duplicate entries
+        	//greetings to FOCUS ONLINE %@&§#!!!
+        	boolean toadd = true;
+        	for(SourceFeedEntryRSSImpl current : ret) {
+        		if(current.getURL().equalsIgnoreCase(nextone.getURL())) {
+        			toadd=false;
+        			break;
+        		}
+        	}
+        	if(toadd) {
+        		ret.add(nextone);
+        	}
         }
-        return ret;
+        return new LinkedList<SourceFeedEntry>(ret);
     }
 
 }
