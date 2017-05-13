@@ -9,6 +9,7 @@ import java.util.List;
 import database.DBconnection;
 import database.OrderInsertCustomFeedEntry;
 import database.OrderInsertSourceFeedEntry;
+import database.OrderUpdateDuplicateSFE;
 import database.QueryFilterURLs;
 import database.QueryFilterWords;
 import database.QueryFilters;
@@ -129,7 +130,12 @@ public class UpdateService implements Runnable, Observer<SourceFeedEntry> {
 	 */
 	private void processEntry(SourceFeedEntry newEntry) throws SQLException, Exception {
 		//insert the entry to the database and get its ID
-		int currentSourceFeedID = new OrderInsertSourceFeedEntry(this.database, newEntry, this.sourceFeedID).execute();
+		int currentSourceFeedID;
+		try {
+			currentSourceFeedID = new OrderInsertSourceFeedEntry(this.database, newEntry, this.sourceFeedID).execute();
+		} catch(Exception e) {
+			currentSourceFeedID = new OrderUpdateDuplicateSFE(this.database, newEntry, this.sourceFeedID).execute();
+		}
 		//for each CustomFeedFilter: check if the new entry matches the filters 
 		try (TextSearch searcher = new TextSearch(newEntry)) {				
 			List<Integer> filterIDs = new QueryFilters(this.database).getIDs();
