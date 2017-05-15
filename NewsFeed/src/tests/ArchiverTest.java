@@ -14,13 +14,12 @@ public class ArchiverTest {
 		Configuration.loadFromFile("./TestFiles/testWrongLoginConfig.txt");
 	}
 	
-	@Test(expected=Exception.class)
+	@Test
 	public void testArchiver()
 	{
 		Archiver a = new Archiver();
 		assertTrue(a.needsDB());
 		assertEquals(a.toString(),"Archiver");
-		a.run();
 	}
 	
 	@After

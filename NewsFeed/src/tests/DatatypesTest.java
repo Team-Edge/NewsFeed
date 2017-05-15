@@ -3,7 +3,6 @@ package tests;
 import static org.junit.Assert.*;
 import org.junit.Test;
 import datatypes.*;
-import com.sun.syndication.feed.synd.*;
 
 public class DatatypesTest {
 
@@ -41,9 +40,6 @@ public class DatatypesTest {
 		assertEquals(s.getDescription(),"Description");
 		assertEquals(s.getText(),"Description");
 		assertEquals(s.getImgURL(),"");
-		
-		s = new SourceFeedEntryRSSImpl(null,null,null,null,"file:./TestFiles/testFeed.txt",null);
-		s.enlarge();
 	}
 
 }
